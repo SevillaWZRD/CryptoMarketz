@@ -1,5 +1,18 @@
 [
   {
+    "id": 1778160440779,
+    "coin": "BNB/USD",
+    "type": "BUY",
+    "entry": "650.00",
+    "tp": "670.00",
+    "sl": "642.00",
+    "result": "loss",
+    "pnl": "-1.23%",
+    "resolved_price": 634.51,
+    "signal_date": "2026-05-07T13:27:16.880Z",
+    "resolved_at": "2026-05-07T22:51:33.286Z"
+  },
+  {
     "id": 1778074118802,
     "coin": "ETH/USD",
     "type": "SELL",
