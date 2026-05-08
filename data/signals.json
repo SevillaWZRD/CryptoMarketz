@@ -1,5 +1,17 @@
 [
   {
+    "id": 1778224534055,
+    "coin": "BTC/USD",
+    "type": "SELL",
+    "entry": "79343",
+    "tp": "76800",
+    "sl": "80244",
+    "note": "4H sideways with bearish bias, price below EMA20 on both timeframes, RSI 23.8 extremely oversold but 1H bearish trend dominates. Entry near current price with resistance at 24h high. Use 1/3 position size.",
+    "timestamp": "2026-05-08T07:15:32.294Z",
+    "generated_at": "Fri, 08 May 2026 07:15:32 GMT",
+    "source": "claude-bot"
+  },
+  {
     "id": 1778181928347,
     "coin": "ETH/USD",
     "type": "BUY",
