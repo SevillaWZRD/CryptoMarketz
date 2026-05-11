@@ -1,42 +1,42 @@
 {
-  "date": "Sunday May 10, 2026",
-  "generated": "2026-05-10T08:47:41.319655Z",
-  "brief": "# ZIMR POLYMARKET BRIEFING | Sunday, May 10, 2026\n\n## Market Says: Trump's China Visit Is Locked In, But Peace Deals Remain Pipe Dreams\n\n**The Signal**\nMarkets are pricing Trump's China visit by May 15 at 91%\u2014a 2.5% pullback today, but the conviction remains iron-clad. Meanwhile, Iran peace deal odds are fractured: 28% by May 31 vs. only 15% by May 15, suggesting traders see *any* breakthrough as months away, not days. The Hormuz normalcy markets tell the real story\u201421% by May, 50% by June\u2014indicating persistent geopolitical friction that won't resolve quickly.\n\n**Smart Money Moves**\nThe $1.1M volume flooding into \"Iran peace by May 15\" (+1.3% today) looks like contrarian accumulation at basement prices, possibly front-running backroom negotiations. Meanwhile, the Bitcoin $150K bet ($5.8M volume, 1% odds) remains the market's longest long shot\u2014institutional capital is *not* rotating into crypto moonshots despite BTC's recent strength. The esports markets (T1/Counter-Strike both 99%+) are stable consensus plays; retail money is chasing certainty here, not alpha.\n\n**The Mispricing**\nHantavirus pandemic odds (7%, $1.1M volume) feel sticky-high for May 2026. This isn't 2020; pandemic insurance is overpriced. More interesting: the Epstein note market is still trading at 2% despite being post-deadline (May 8)\u2014dead weight that should collapse further. Exit those longs.\n\n---\n\n## WATCH LIST\n\n1. **US x Iran peace deal by May 15** | Currently 15% | Why: Watch for any Camp David-style announcements or backchannel leaks. If Trump visits China (91% odds), expect spillover volatility in Iran positioning.\n\n2. **Strait of Hormuz normalcy by May** | Currently 21% | Why: The May deadline is tight. Any shipping news or IRGC posturing moves this hard. The May/June spread (21%/50%) is a profitable arbitrage if conflict escalates.\n\n3. **Bitcoin $150K by June 30** | Currently 1% | Vol $5.8M | Why: Track macro catalysts (Fed decisions, spot ETF flows). If BTC breaks $120K, this doubles. Asymmetric risk for patient holders.\n\n---\n\n*ZIMR Capital | Sharp takes, no bias.*",
+  "date": "Monday May 11, 2026",
+  "generated": "2026-05-11T10:26:41.107148Z",
+  "brief": "# POLYMARKET BRIEF | May 11, 2026\n\n## Market's Iran Deadline Panic Is Overdone\u2014But Watch Trump's China Move\n\n**The Signal:** Traders are aggressively de-risking Iran peace deal odds across *every* near-term deadline. The May 15 market (4%) saw $2.1M in volume\u2014the biggest Iran-related trade\u2014while the May 13 market printed at just 2%. This is capitulation pricing, not information. The volume cascade down shorter timelines suggests smart money is rotating *out* of \"imminent deal\" bets, not adding conviction shorts.\n\n**What's Moving Money:** The Trump China visit market (99%, +8.6%) is the real story\u2014this is now effectively a certainty bet with material volume ($2.3M). Traders are treating this as a fait accompli, likely reflecting direct signals or diplomatic schedule leaks. Meanwhile, Hormuz normalization (42% by June 30) is holding steadier than the deal markets, suggesting the market sees *de-escalation* as more probable than a *signed agreement* in the next 35 days. The divergence is rational: you can have shipping normalizing without a formal peace deal.\n\n**The Mispricing:** Iran airspace closure (6%) and May 31 deal odds (20%) feel disconnected. If tensions were genuinely high enough to trigger airspace shutdowns, 20% on a May 31 deal is too fat. Either traders don't believe in an imminent escalation, or the deal odds are underpriced as a hedge. The $1.6M volume on May 31 suggests real money is positioned here.\n\n---\n\n## WATCH LIST\n\n**1. Will Trump visit China by May 15? (99% | $2.3M vol)**  \nPriced as inevitable. Any reporting that dates slip or trip is cancelled = sharp reversal. Monitor financial press for State Dept/Beijing commentary today.\n\n**2. US x Iran permanent peace deal by May 31, 2026 (20% | $1.6M vol)**  \nThe volume-to-odds ratio suggests this is a key decision market. Watch for any UN/Swiss mediation announcements or Iranian official statements. This is where the real volatility will hide.\n\n**3. Strait of Hormuz traffic returns to normal by end of May (14% | $989K vol)**  \nMost pessimistic relative to longer-dated June market (42%). Track shipping indices and port congestion data\u2014this is the most objective resolution criterion and often leads sentiment shifts.",
   "top_movers": [
     {
-      "question": "LoL: T1 vs Dplus KIA - Game 1 Winner",
+      "question": "Internazionali BNL d'Italia: Andrey Rublev vs Alejandro Davidovich Fokina",
       "prob": 99,
-      "change": 41.9,
-      "vol24": "$499K",
-      "slug": "lol-t1-dk-2026-05-10-game1"
+      "change": 41.7,
+      "vol24": "$447K",
+      "slug": "atp-rublev-fokina-2026-05-11"
     },
     {
-      "question": "LoL: T1 vs Dplus KIA (BO3) - LCK Rounds 1-2",
-      "prob": 86,
-      "change": 23.0,
-      "vol24": "$578K",
-      "slug": "lol-t1-dk-2026-05-10"
+      "question": "US x Iran permanent peace deal by June 30, 2026?",
+      "prob": 40,
+      "change": -11.0,
+      "vol24": "$843K",
+      "slug": "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877"
     },
     {
-      "question": "Tampa Bay Rays vs. Boston Red Sox",
-      "prob": 48,
-      "change": 5.0,
-      "vol24": "$484K",
-      "slug": "mlb-tb-bos-2026-05-09"
+      "question": "US x Iran permanent peace deal by December 31, 2026?",
+      "prob": 68,
+      "change": -10.0,
+      "vol24": "$372K",
+      "slug": "us-x-iran-permanent-peace-deal-by-december-31-2026-961-587"
     },
     {
-      "question": "Strait of Hormuz traffic returns to normal by end of May?",
-      "prob": 21,
-      "change": -4.5,
-      "vol24": "$719K",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-may"
+      "question": "US x Iran permanent peace deal by May 15, 2026?",
+      "prob": 4,
+      "change": -9.6,
+      "vol24": "$2.1M",
+      "slug": "us-x-iran-permanent-peace-deal-by-may-15-2026-144-885-839"
     },
     {
-      "question": "Strait of Hormuz traffic returns to normal by end of June?",
-      "prob": 50,
-      "change": -4.0,
-      "vol24": "$265K",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june"
+      "question": "Will Trump visit China by May 15?",
+      "prob": 99,
+      "change": 8.6,
+      "vol24": "$2.3M",
+      "slug": "will-trump-visit-china-by-may-15-835-774-595"
     }
   ],
   "top_vol": [
@@ -48,18 +48,18 @@
       "slug": "will-bitcoin-hit-150k-by-june-30-2026"
     },
     {
-      "question": "Will Austria win the 2026 FIFA World Cup?",
+      "question": "US x Iran permanent peace deal by May 11, 2026?",
       "prob": 1,
-      "change": -0.1,
-      "vol24": "$1.2M",
-      "slug": "will-austria-win-the-2026-fifa-world-cup"
+      "change": -3.0,
+      "vol24": "$2.6M",
+      "slug": "us-x-iran-permanent-peace-deal-by-may-11-2026"
     },
     {
-      "question": "US x Iran permanent peace deal by May 15, 2026?",
-      "prob": 15,
-      "change": 1.3,
-      "vol24": "$1.1M",
-      "slug": "us-x-iran-permanent-peace-deal-by-may-15-2026-144-885-839"
+      "question": "Will Trump visit China by May 15?",
+      "prob": 99,
+      "change": 8.6,
+      "vol24": "$2.3M",
+      "slug": "will-trump-visit-china-by-may-15-835-774-595"
     }
   ]
 }
