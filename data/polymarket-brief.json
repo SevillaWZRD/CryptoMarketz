@@ -1,45 +1,52 @@
 {
-  "date": "Monday May 11, 2026",
-  "generated": "2026-05-11T10:26:41.107148Z",
-  "brief": "# POLYMARKET BRIEF | May 11, 2026\n\n## Market's Iran Deadline Panic Is Overdone\u2014But Watch Trump's China Move\n\n**The Signal:** Traders are aggressively de-risking Iran peace deal odds across *every* near-term deadline. The May 15 market (4%) saw $2.1M in volume\u2014the biggest Iran-related trade\u2014while the May 13 market printed at just 2%. This is capitulation pricing, not information. The volume cascade down shorter timelines suggests smart money is rotating *out* of \"imminent deal\" bets, not adding conviction shorts.\n\n**What's Moving Money:** The Trump China visit market (99%, +8.6%) is the real story\u2014this is now effectively a certainty bet with material volume ($2.3M). Traders are treating this as a fait accompli, likely reflecting direct signals or diplomatic schedule leaks. Meanwhile, Hormuz normalization (42% by June 30) is holding steadier than the deal markets, suggesting the market sees *de-escalation* as more probable than a *signed agreement* in the next 35 days. The divergence is rational: you can have shipping normalizing without a formal peace deal.\n\n**The Mispricing:** Iran airspace closure (6%) and May 31 deal odds (20%) feel disconnected. If tensions were genuinely high enough to trigger airspace shutdowns, 20% on a May 31 deal is too fat. Either traders don't believe in an imminent escalation, or the deal odds are underpriced as a hedge. The $1.6M volume on May 31 suggests real money is positioned here.\n\n---\n\n## WATCH LIST\n\n**1. Will Trump visit China by May 15? (99% | $2.3M vol)**  \nPriced as inevitable. Any reporting that dates slip or trip is cancelled = sharp reversal. Monitor financial press for State Dept/Beijing commentary today.\n\n**2. US x Iran permanent peace deal by May 31, 2026 (20% | $1.6M vol)**  \nThe volume-to-odds ratio suggests this is a key decision market. Watch for any UN/Swiss mediation announcements or Iranian official statements. This is where the real volatility will hide.\n\n**3. Strait of Hormuz traffic returns to normal by end of May (14% | $989K vol)**  \nMost pessimistic relative to longer-dated June market (42%). Track shipping indices and port congestion data\u2014this is the most objective resolution criterion and often leads sentiment shifts.",
+  "date": "Tuesday May 12, 2026",
+  "generated": "2026-05-12T09:28:25.130843Z",
+  "brief": "# ZIMR DAILY BRIEF | May 12, 2026\n\n## \"Iran Deal Dreams Fading Fast\u2014But Watch the Airspace Play\"\n\nThe market is pricing out near-term Iran resolution. Both permanent peace deal contracts collapsed today (May 31 down 4%, May 15 down 3%), suggesting traders are abandoning the \"quick diplomatic win\" narrative. Meanwhile, uranium enrichment (24%) and regime collapse (6%) are holding steadier, indicating the market now expects **prolonged tension rather than breakthrough.**\n\nSmart money is rotating away from imminent peace and into tail-risk hedges\u2014notice the +1% pop in \"Iran closes airspace by May 15\" despite minimal volume. This smells like institutional positioning for escalation, not de-escalation. The Epstein suicide note dumping $9.8M in volume at 1% is noise (deadline was May 8\u2014it's priced as dead), but the real signal is the Iran complex fragmenting: traders no longer believe in the May 15 near-term window *at all*.\n\n**Mispricing alert:** Uranium enrichment at 24% looks soft given the permanent deal collapse below 2%. If May 15/31 peace deals are truly dead, why is June 30 uranium capitulation holding near quarter-level? Either the market is pricing a slow-burn negotiation after mid-May, or this contract is overweighting optimistic June scenarios. Watch for capitulation below 20%.\n\n---\n\n## WATCH LIST\n\n1. **Iran closes airspace by May 15 (6%, +1.0%)** \u2014 Smallest volume but cleanest escalation signal. This is your kinetic risk indicator. If it ticks above 10% intraday, institutions are pricing hard border conflict.\n\n2. **Uranium enrichment by June 30 (24%, -2.0%)** \u2014 Barometer for whether markets see *any* negotiation success this quarter. Another -2% leg breaks the contract psychologically. Below 20% = full regime hardline.\n\n3. **Starmer out by May 15 (12%, +3.6%)** \u2014 Not Iran-linked, but the +3.6% jump on $1.3M volume deserves scrutiny. UK political crisis could affect NATO posture on Iran containment. Watch for correlation with airspace closure.",
   "top_movers": [
     {
-      "question": "Internazionali BNL d'Italia: Andrey Rublev vs Alejandro Davidovich Fokina",
-      "prob": 99,
-      "change": 41.7,
-      "vol24": "$447K",
-      "slug": "atp-rublev-fokina-2026-05-11"
+      "question": "US x Iran permanent peace deal by May 31, 2026?",
+      "prob": 18,
+      "change": -4.0,
+      "vol24": "$954K",
+      "slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192"
     },
     {
-      "question": "US x Iran permanent peace deal by June 30, 2026?",
-      "prob": 40,
-      "change": -11.0,
-      "vol24": "$843K",
-      "slug": "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877"
-    },
-    {
-      "question": "US x Iran permanent peace deal by December 31, 2026?",
-      "prob": 68,
-      "change": -10.0,
-      "vol24": "$372K",
-      "slug": "us-x-iran-permanent-peace-deal-by-december-31-2026-961-587"
+      "question": "Starmer out by May 15, 2026?",
+      "prob": 12,
+      "change": 3.6,
+      "vol24": "$1.3M",
+      "slug": "starmer-out-by-may-15-2026"
     },
     {
       "question": "US x Iran permanent peace deal by May 15, 2026?",
-      "prob": 4,
-      "change": -9.6,
-      "vol24": "$2.1M",
+      "prob": 1,
+      "change": -3.0,
+      "vol24": "$1.4M",
       "slug": "us-x-iran-permanent-peace-deal-by-may-15-2026-144-885-839"
     },
     {
-      "question": "Will Trump visit China by May 15?",
-      "prob": 99,
-      "change": 8.6,
-      "vol24": "$2.3M",
-      "slug": "will-trump-visit-china-by-may-15-835-774-595"
+      "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 15, 2026?",
+      "prob": 2,
+      "change": -2.1,
+      "vol24": "$508K",
+      "slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-15-2026-154"
+    },
+    {
+      "question": " Iran agrees to end enrichment of uranium by June 30?",
+      "prob": 24,
+      "change": -2.0,
+      "vol24": "$460K",
+      "slug": "iran-agrees-to-end-enrichment-of-uranium-by-june-30"
     }
   ],
   "top_vol": [
+    {
+      "question": "Epstein suicide note released by May 8?",
+      "prob": 1,
+      "change": -0.7,
+      "vol24": "$9.8M",
+      "slug": "epstein-suicide-note-released-by-may-8"
+    },
     {
       "question": "Will Bitcoin hit $150k by June 30, 2026?",
       "prob": 1,
@@ -48,17 +55,10 @@
       "slug": "will-bitcoin-hit-150k-by-june-30-2026"
     },
     {
-      "question": "US x Iran permanent peace deal by May 11, 2026?",
-      "prob": 1,
-      "change": -3.0,
-      "vol24": "$2.6M",
-      "slug": "us-x-iran-permanent-peace-deal-by-may-11-2026"
-    },
-    {
       "question": "Will Trump visit China by May 15?",
       "prob": 99,
-      "change": 8.6,
-      "vol24": "$2.3M",
+      "change": 0.1,
+      "vol24": "$3.9M",
       "slug": "will-trump-visit-china-by-may-15-835-774-595"
     }
   ]
