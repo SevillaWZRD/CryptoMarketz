@@ -1,26 +1,26 @@
 [
   {
-    "id": 1778834323225,
+    "id": 1778872581830,
     "coin": "BTC/USD",
-    "type": "BUY",
-    "entry": "80600",
-    "tp": "82800",
-    "sl": "79500",
-    "note": "4H sideways trend with price above EMA20, 1H RSI 36.4 oversold providing bounce opportunity. Entry near current price with support at 24h low $80325. Target resistance at 24h high area. Use 1/3 position size.",
-    "timestamp": "2026-05-15T08:38:41.492Z",
-    "generated_at": "Fri, 15 May 2026 08:38:41 GMT",
+    "type": "SELL",
+    "entry": "79055",
+    "tp": "75500",
+    "sl": "80500",
+    "note": "Strong 4H bearish trend with price below both EMAs, 1H RSI 26.2 oversold but 4H RSI 40.1 allows continuation. Entry near current price, TP at key support zone, SL above 24h resistance. Use 1/3 position size.",
+    "timestamp": "2026-05-15T19:16:19.850Z",
+    "generated_at": "Fri, 15 May 2026 19:16:19 GMT",
     "source": "claude-bot"
   },
   {
-    "id": 1778181928347,
+    "id": 1778872589018,
     "coin": "ETH/USD",
-    "type": "BUY",
-    "entry": "2292",
-    "tp": "2420",
-    "sl": "2241",
-    "note": "4H sideways trend with RSI at extreme oversold 32.5, price testing 24h low support at 2289. Clear bounce setup with TP at 24h high resistance. Risk/reward 2.5:1. Use 1/3 position size.",
-    "timestamp": "2026-05-07T19:25:21.089Z",
-    "generated_at": "Thu, 07 May 2026 19:25:21 GMT",
+    "type": "SELL",
+    "entry": "2223",
+    "tp": "2050",
+    "sl": "2290",
+    "note": "4H bearish trend confirmed, price below both EMAs on all timeframes, 1H RSI 27.6 oversold but 4H RSI 35.1 supports further downside. TP near psychological support, SL above 4H EMA50. Use 1/3 position size.",
+    "timestamp": "2026-05-15T19:16:19.850Z",
+    "generated_at": "Fri, 15 May 2026 19:16:19 GMT",
     "source": "claude-bot"
   }
 ]

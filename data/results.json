@@ -1,5 +1,31 @@
 [
   {
+    "id": 1778834323225,
+    "coin": "BTC/USD",
+    "type": "BUY",
+    "entry": "80600",
+    "tp": "82800",
+    "sl": "79500",
+    "result": "loss",
+    "pnl": "-1.36%",
+    "resolved_price": 79055,
+    "signal_date": "2026-05-15T08:38:41.492Z",
+    "resolved_at": "2026-05-15T19:15:59.710Z"
+  },
+  {
+    "id": 1778181928347,
+    "coin": "ETH/USD",
+    "type": "BUY",
+    "entry": "2292",
+    "tp": "2420",
+    "sl": "2241",
+    "result": "loss",
+    "pnl": "-2.23%",
+    "resolved_price": 2222.84,
+    "signal_date": "2026-05-07T19:25:21.089Z",
+    "resolved_at": "2026-05-15T19:15:59.710Z"
+  },
+  {
     "id": 1778786818293,
     "coin": "XRP/USD",
     "type": "BUY",
