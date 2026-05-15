@@ -1,42 +1,42 @@
 {
-  "date": "Thursday May 14, 2026",
-  "generated": "2026-05-14T09:24:53.711865Z",
-  "brief": "# POLYMARKET DAILY BRIEF | May 14, 2026\n\n## \"Bitcoin Bulls Capitulate, Brazil's Left Surges, Peace Deals Collapse\"\n\nThe market is pricing capitulation across risk assets. Bitcoin's failure to hold above $84K (now 1% implied) represents a hard rejection of the $150K bull case\u2014$5.8M in volume suggests smart money is front-running a broader crypto pullback. Meanwhile, the Elon tweet count market (1%, $1.2M vol) is in freefall despite being down to single digits; this looks oversold relative to his historical posting velocity\u2014the real tell is that volume is *staying* here despite the price action, suggesting informed traders see mean reversion opportunity.\n\nThe political markets are sending mixed signals. Brazil's left-wing candidates (Bolsonaro's wife at 3%, Zema at 6%) are quietly gaining ground despite tiny aggregate odds\u2014these are illiquid long-shots attracting missionary capital. More significant: Iran peace deal momentum has *stabilized* at 12% after earlier collapse, suggesting deal-flow rumors may have circulated to insiders. The Starmer-out market (4%, $834K) remains stubbornly elevated given 48 hours to resolution\u2014institutional holders aren't panicking, which usually means no surprise incoming.\n\n**The mispricing:** The LoL esports market (BNK FEARX -17.4% in one day to 1%) looks panic-sold. $533K volume on a game that hasn't happened yet suggests retail capitulation into a technicals breakdown. Smart money will be watching live odds before game start\u2014this volatility typically precedes sharp reversions once play begins.\n\n---\n\n## WATCH LIST\n\n**1. Bitcoin $150K by June 30 (1%, $5.8M vol)** \u2014 Highest volume on the board. This is the macro anchor. Break below $80K closes the bull case entirely; any bounce toward $90K should see capitulation sellers exhaust. Track the 4-hour.\n\n**2. Elon Tweet Count 80-99 (May 8-15) (1%, $1.2M vol)** \u2014 Resolves in 24 hours. Current odds imply <30 tweets remaining; historically absurd for Musk. If he posts 5+ today, this snaps back to 15%+ fast. Set alerts on his feed.\n\n**3. Brazil Presidential: Tarcisio de Freitas (1%, $917K vol)** \u2014 The sleeper. Right-wing consolidation play hasn't priced in late-stage polling shifts. Watch for movement post-debate or any endorsement announcements from incumbent allies.",
+  "date": "Friday May 15, 2026",
+  "generated": "2026-05-15T09:36:38.667635Z",
+  "brief": "# ZIMR CAPITAL MARKET INTELLIGENCE\n## Friday, May 15, 2026\n\n---\n\n## HEADLINE\n**Geopolitical Powder Keg Reprices as Trump-Xi Summit Looms; Esports Markets Shrug at Logic**\n\n---\n\n## MARKET SIGNALS\n\nThe market is aggressively recalibrating geopolitical risk ahead of Trump-Xi talks. The \"Iran mention\" contract spiked 37.3% overnight to 82%\u2014a clear signal smart money expects inflammatory rhetoric, not d\u00e9tente. Simultaneously, the permanent US-Iran peace deal cratered to 10%, pricing in exactly zero chance of a breakthrough. This isn't hope; it's resignation. The Strait of Hormuz recovery contract at 28% suggests traders see prolonged tension as the base case, with maritime traffic remaining disrupted into June.\n\nMeanwhile, esports markets are flashing absurd confidence levels (MOUZ at 99%, HLE at 99%, Spirit at 87% across major playoffs). These aren't probabilities\u2014they're backing odds from money that's already decided the outcome. Either there's structural information advantage in esports betting (unlikely), or these are liquidity-driven extremes. The 99% markets have absorbed $951K and $518K respectively, suggesting retail capitulation rather than informed consensus.\n\nThe Elon tweet oscillation is noise masking a real signal: the 140-159 range jumped 33% to 39%, while 100-119 cratered 54% to just 1%. Smart money has repositioned from expecting low volume to anticipating moderate-high activity\u2014possibly tied to the geopolitical moves or market volatility. MicroStrategy's Bitcoin sale contract at 51% (+6.5%) hints at growing conviction that MSTR will liquidate some holdings before May 31, likely as a risk-off hedge.\n\n---\n\n## WATCH LIST\n\n**1. Trump-Iran mention (82%) \u2014 TODAY'S CRITICAL INFLECTION**\nThis is the real trade. If Xi summit footage drops today without Iran references, expect a sharp reversal to 65-70%. If Trump delivers incendiary comments on Iran or proxies, it holds 85+. The $769K volume is legitimate smart money. Watch for CNBC/Bloomberg clips in real-time.\n\n**2. Strait of Hormuz recovery (28%) \u2014 MACRO TELL**\nAt $654K volume, this is underpriced if you believe geopolitical de-escalation is possible. If Trump-Xi talks show genuine progress, this could spike 15-20 points quickly. Conversely, any Iranian escalation (drone activity, sanctions talk) and it compresses further. This is your macro hedge.\n\n**3. Bitcoin $150K by June 30 (1%, $5.8M volume) \u2014 ABSURD MISPRICING**\n$5.8M in volume on a 1% contract is dead-weight capital. BTC at $150K requires 50%+ move in 46 days. That's not impossible (crypto history says otherwise), but the 1% odds are insultingly low for such massive volume. Either this is pure degenerate leverage, or there's a structural limit order book issue. Worth watching for sudden repositioning.\n\n---\n\n**ALPHA NOTE:** Geopolitical contracts are frontrunning actual news. Currency markets and oil futures will move *before* these Polymarket reversals. Watch crude WTI futures for the real signal\u2014if it breaks $85, the Hormuz and Iran contracts are cooked.",
   "top_movers": [
     {
-      "question": "LoL: BNK FEARX vs Gen.G - Game 1 Winner",
+      "question": "Will Elon Musk post 100-119 tweets from May 8 to May 15, 2026?",
       "prob": 1,
-      "change": -17.4,
-      "vol24": "$533K",
-      "slug": "lol-fox1-gen-2026-05-14-game1"
+      "change": -53.8,
+      "vol24": "$544K",
+      "slug": "elon-musk-of-tweets-may-8-may-15-100-119"
     },
     {
-      "question": "Will Elon Musk post 80-99 tweets from May 8 to May 15, 2026?",
-      "prob": 1,
-      "change": -6.0,
-      "vol24": "$1.2M",
-      "slug": "elon-musk-of-tweets-may-8-may-15-80-99"
+      "question": "Counter-Strike: MOUZ vs Aurora Gaming (BO3) - PGL Astana Playoffs",
+      "prob": 99,
+      "change": 44.5,
+      "vol24": "$518K",
+      "slug": "cs2-mouz-aur1-2026-05-15"
     },
     {
-      "question": "Will the price of Bitcoin be above $84,000 on May 14?",
-      "prob": 1,
-      "change": -3.9,
-      "vol24": "$366K",
-      "slug": "bitcoin-above-84k-on-may-14"
+      "question": "Will Trump say \"Iran\" during events with Xi Jinping?",
+      "prob": 82,
+      "change": 37.3,
+      "vol24": "$769K",
+      "slug": "will-trump-say-iran-during-events-with-xi-jinping"
     },
     {
-      "question": "US x Iran permanent peace deal by May 31, 2026?",
-      "prob": 12,
-      "change": -3.0,
-      "vol24": "$844K",
-      "slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192"
+      "question": "LoL: Hanwha Life Esports vs Dplus KIA - Game 1 Winner",
+      "prob": 99,
+      "change": 35.9,
+      "vol24": "$951K",
+      "slug": "lol-hle1-dk-2026-05-15-game1"
     },
     {
-      "question": "Will Girona FC win on 2026-05-14?",
-      "prob": 52,
-      "change": 3.0,
-      "vol24": "$366K",
-      "slug": "lal-gir-rso-2026-05-14-gir"
+      "question": "Will Elon Musk post 140-159 tweets from May 8 to May 15, 2026?",
+      "prob": 39,
+      "change": 33.1,
+      "vol24": "$399K",
+      "slug": "elon-musk-of-tweets-may-8-may-15-140-159"
     }
   ],
   "top_vol": [
@@ -48,18 +48,18 @@
       "slug": "will-bitcoin-hit-150k-by-june-30-2026"
     },
     {
-      "question": "Will Trump and Xi kiss at their summit?",
+      "question": "Will Eduardo Leite win the 2026 Brazilian presidential election?",
       "prob": 1,
-      "change": -0.4,
-      "vol24": "$1.6M",
-      "slug": "will-trump-and-xi-kiss-at-their-summit"
+      "change": 0.1,
+      "vol24": "$1.5M",
+      "slug": "will-eduardo-leite-win-the-2026-brazilian-presidential-election"
     },
     {
-      "question": "Will Elon Musk post 80-99 tweets from May 8 to May 15, 2026?",
+      "question": "Strait of Hormuz traffic returns to normal by May 15?",
       "prob": 1,
-      "change": -6.0,
+      "change": -0.1,
       "vol24": "$1.2M",
-      "slug": "elon-musk-of-tweets-may-8-may-15-80-99"
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-may-15"
     }
   ]
 }
