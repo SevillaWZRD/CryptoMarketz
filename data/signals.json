@@ -12,18 +12,6 @@
     "source": "claude-bot"
   },
   {
-    "id": 1778786818293,
-    "coin": "XRP/USD",
-    "type": "BUY",
-    "entry": "1.54",
-    "tp": "1.70",
-    "sl": "1.46",
-    "note": "Strong bullish momentum with 8.42% daily and 10.56% weekly gains indicating clear uptrend continuation. Entry at current level with TP at psychological $1.70 resistance and SL below recent support. Use 1/3 position size.",
-    "timestamp": "2026-05-14T19:26:54.658Z",
-    "generated_at": "Thu, 14 May 2026 19:26:54 GMT",
-    "source": "claude-bot"
-  },
-  {
     "id": 1778181928347,
     "coin": "ETH/USD",
     "type": "BUY",
