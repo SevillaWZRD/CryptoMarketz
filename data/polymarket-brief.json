@@ -1,42 +1,42 @@
 {
-  "date": "Friday May 15, 2026",
-  "generated": "2026-05-15T09:36:38.667635Z",
-  "brief": "# ZIMR CAPITAL MARKET INTELLIGENCE\n## Friday, May 15, 2026\n\n---\n\n## HEADLINE\n**Geopolitical Powder Keg Reprices as Trump-Xi Summit Looms; Esports Markets Shrug at Logic**\n\n---\n\n## MARKET SIGNALS\n\nThe market is aggressively recalibrating geopolitical risk ahead of Trump-Xi talks. The \"Iran mention\" contract spiked 37.3% overnight to 82%\u2014a clear signal smart money expects inflammatory rhetoric, not d\u00e9tente. Simultaneously, the permanent US-Iran peace deal cratered to 10%, pricing in exactly zero chance of a breakthrough. This isn't hope; it's resignation. The Strait of Hormuz recovery contract at 28% suggests traders see prolonged tension as the base case, with maritime traffic remaining disrupted into June.\n\nMeanwhile, esports markets are flashing absurd confidence levels (MOUZ at 99%, HLE at 99%, Spirit at 87% across major playoffs). These aren't probabilities\u2014they're backing odds from money that's already decided the outcome. Either there's structural information advantage in esports betting (unlikely), or these are liquidity-driven extremes. The 99% markets have absorbed $951K and $518K respectively, suggesting retail capitulation rather than informed consensus.\n\nThe Elon tweet oscillation is noise masking a real signal: the 140-159 range jumped 33% to 39%, while 100-119 cratered 54% to just 1%. Smart money has repositioned from expecting low volume to anticipating moderate-high activity\u2014possibly tied to the geopolitical moves or market volatility. MicroStrategy's Bitcoin sale contract at 51% (+6.5%) hints at growing conviction that MSTR will liquidate some holdings before May 31, likely as a risk-off hedge.\n\n---\n\n## WATCH LIST\n\n**1. Trump-Iran mention (82%) \u2014 TODAY'S CRITICAL INFLECTION**\nThis is the real trade. If Xi summit footage drops today without Iran references, expect a sharp reversal to 65-70%. If Trump delivers incendiary comments on Iran or proxies, it holds 85+. The $769K volume is legitimate smart money. Watch for CNBC/Bloomberg clips in real-time.\n\n**2. Strait of Hormuz recovery (28%) \u2014 MACRO TELL**\nAt $654K volume, this is underpriced if you believe geopolitical de-escalation is possible. If Trump-Xi talks show genuine progress, this could spike 15-20 points quickly. Conversely, any Iranian escalation (drone activity, sanctions talk) and it compresses further. This is your macro hedge.\n\n**3. Bitcoin $150K by June 30 (1%, $5.8M volume) \u2014 ABSURD MISPRICING**\n$5.8M in volume on a 1% contract is dead-weight capital. BTC at $150K requires 50%+ move in 46 days. That's not impossible (crypto history says otherwise), but the 1% odds are insultingly low for such massive volume. Either this is pure degenerate leverage, or there's a structural limit order book issue. Worth watching for sudden repositioning.\n\n---\n\n**ALPHA NOTE:** Geopolitical contracts are frontrunning actual news. Currency markets and oil futures will move *before* these Polymarket reversals. Watch crude WTI futures for the real signal\u2014if it breaks $85, the Hormuz and Iran contracts are cooked.",
+  "date": "Saturday May 16, 2026",
+  "generated": "2026-05-16T08:29:40.402602Z",
+  "brief": "# ZIMR DAILY POLYMARKET BRIEF | Saturday, May 16, 2026\n\n## Headline\n**Trump-Xi Summit Fears Crater; Markets Pricing Zero Geopolitical Rhetoric**\n\n---\n\n## The Signal\n\nThe Trump-Xi meeting is shaping up to be the most diplomatically scripted encounter in recent memory. Three geopolitical speech markers\u2014\"Nuclear,\" \"Strait/Hormuz,\" and \"Iran\"\u2014all collapsed 77-79% in 24 hours, now trading at basement-level 4% odds. This isn't normal volatility; this is **coordinated de-risking**. Either a gag order is in place, or markets are pricing in a carefully managed bromance narrative that excludes inflammatory language.\n\nSmart money is rotating INTO the \"nothing happens\" thesis. The Iran invasion market (+4%, 30% odds) and Trump Nobel Prize (+3%, 10% odds) both ticked up as investors recalibrate expectations downward. Translation: geopolitical stability is being *bought*, not sold. That's a tell.\n\nThe real mispricing sits in Bitcoin's $150k trajectory (1% odds, $5.8M vol)\u2014utterly disconnected from the Iran/nuclear de-escalation premium that *should* be lifting risk assets. Watch for arbitrage traders bridging this disconnect as summit rhetoric confirms the dovish read.\n\n---\n\n## Watch List\n\n1. **Will Trump say \"Iran\" during Xi events** (4% | $3.8M vol)  \n   *Why:* Highest conviction short position in the market. Any uptick signals renewed tension; flatness confirms the script. Critical real-time barometer.\n\n2. **Israel x Syria security agreement by June 30** (7% | $1.5M vol)  \n   *Why:* Regional stability play that should correlate with Trump-Xi dovishness. If this creeps toward 15%+ today, the peace premium is real and underpriced elsewhere.\n\n3. **Gen.G vs T1 Game 1** (78% | +20% today)  \n   *Why:* Liquidity escape hatch. $388K volume in esports is flight-to-yield behavior\u2014watch if geopolitical anxiety spikes, this becomes a hedge unwind zone.",
   "top_movers": [
     {
-      "question": "Will Elon Musk post 100-119 tweets from May 8 to May 15, 2026?",
-      "prob": 1,
-      "change": -53.8,
-      "vol24": "$544K",
-      "slug": "elon-musk-of-tweets-may-8-may-15-100-119"
+      "question": "Will Trump say \"Nuclear\" during events with Xi Jinping?",
+      "prob": 4,
+      "change": -79.3,
+      "vol24": "$1.1M",
+      "slug": "will-trump-say-nuclear-during-events-with-xi-jinping"
     },
     {
-      "question": "Counter-Strike: MOUZ vs Aurora Gaming (BO3) - PGL Astana Playoffs",
-      "prob": 99,
-      "change": 44.5,
-      "vol24": "$518K",
-      "slug": "cs2-mouz-aur1-2026-05-15"
+      "question": "Will Trump say \"Strait\" or \"Hormuz\" during events with Xi Jinping?",
+      "prob": 4,
+      "change": -77.8,
+      "vol24": "$1.7M",
+      "slug": "will-trump-say-strait-or-hormuz-during-events-with-xi-jinping"
     },
     {
       "question": "Will Trump say \"Iran\" during events with Xi Jinping?",
-      "prob": 82,
-      "change": 37.3,
-      "vol24": "$769K",
+      "prob": 4,
+      "change": -77.6,
+      "vol24": "$3.8M",
       "slug": "will-trump-say-iran-during-events-with-xi-jinping"
     },
     {
-      "question": "LoL: Hanwha Life Esports vs Dplus KIA - Game 1 Winner",
-      "prob": 99,
-      "change": 35.9,
-      "vol24": "$951K",
-      "slug": "lol-hle1-dk-2026-05-15-game1"
+      "question": "LoL: Gen.G vs T1 - Game 1 Winner",
+      "prob": 78,
+      "change": 20.0,
+      "vol24": "$388K",
+      "slug": "lol-gen-t1-2026-05-16-game1"
     },
     {
-      "question": "Will Elon Musk post 140-159 tweets from May 8 to May 15, 2026?",
-      "prob": 39,
-      "change": 33.1,
-      "vol24": "$399K",
-      "slug": "elon-musk-of-tweets-may-8-may-15-140-159"
+      "question": "Will Australia win Eurovision 2026?",
+      "prob": 25,
+      "change": 10.1,
+      "vol24": "$378K",
+      "slug": "will-australia-win-eurovision-2026"
     }
   ],
   "top_vol": [
@@ -48,18 +48,18 @@
       "slug": "will-bitcoin-hit-150k-by-june-30-2026"
     },
     {
-      "question": "Will Eduardo Leite win the 2026 Brazilian presidential election?",
-      "prob": 1,
-      "change": 0.1,
-      "vol24": "$1.5M",
-      "slug": "will-eduardo-leite-win-the-2026-brazilian-presidential-election"
+      "question": "Will Trump say \"Iran\" during events with Xi Jinping?",
+      "prob": 4,
+      "change": -77.6,
+      "vol24": "$3.8M",
+      "slug": "will-trump-say-iran-during-events-with-xi-jinping"
     },
     {
-      "question": "Strait of Hormuz traffic returns to normal by May 15?",
-      "prob": 1,
-      "change": -0.1,
-      "vol24": "$1.2M",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-may-15"
+      "question": "Internazionali BNL d'Italia: Jannik Sinner vs Daniil Medvedev",
+      "prob": 92,
+      "change": -0.8,
+      "vol24": "$2.9M",
+      "slug": "atp-sinner-medvede-2026-05-15"
     }
   ]
 }
