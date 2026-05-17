@@ -1,42 +1,42 @@
 {
-  "date": "Saturday May 16, 2026",
-  "generated": "2026-05-16T08:29:40.402602Z",
-  "brief": "# ZIMR DAILY POLYMARKET BRIEF | Saturday, May 16, 2026\n\n## Headline\n**Trump-Xi Summit Fears Crater; Markets Pricing Zero Geopolitical Rhetoric**\n\n---\n\n## The Signal\n\nThe Trump-Xi meeting is shaping up to be the most diplomatically scripted encounter in recent memory. Three geopolitical speech markers\u2014\"Nuclear,\" \"Strait/Hormuz,\" and \"Iran\"\u2014all collapsed 77-79% in 24 hours, now trading at basement-level 4% odds. This isn't normal volatility; this is **coordinated de-risking**. Either a gag order is in place, or markets are pricing in a carefully managed bromance narrative that excludes inflammatory language.\n\nSmart money is rotating INTO the \"nothing happens\" thesis. The Iran invasion market (+4%, 30% odds) and Trump Nobel Prize (+3%, 10% odds) both ticked up as investors recalibrate expectations downward. Translation: geopolitical stability is being *bought*, not sold. That's a tell.\n\nThe real mispricing sits in Bitcoin's $150k trajectory (1% odds, $5.8M vol)\u2014utterly disconnected from the Iran/nuclear de-escalation premium that *should* be lifting risk assets. Watch for arbitrage traders bridging this disconnect as summit rhetoric confirms the dovish read.\n\n---\n\n## Watch List\n\n1. **Will Trump say \"Iran\" during Xi events** (4% | $3.8M vol)  \n   *Why:* Highest conviction short position in the market. Any uptick signals renewed tension; flatness confirms the script. Critical real-time barometer.\n\n2. **Israel x Syria security agreement by June 30** (7% | $1.5M vol)  \n   *Why:* Regional stability play that should correlate with Trump-Xi dovishness. If this creeps toward 15%+ today, the peace premium is real and underpriced elsewhere.\n\n3. **Gen.G vs T1 Game 1** (78% | +20% today)  \n   *Why:* Liquidity escape hatch. $388K volume in esports is flight-to-yield behavior\u2014watch if geopolitical anxiety spikes, this becomes a hedge unwind zone.",
+  "date": "Sunday May 17, 2026",
+  "generated": "2026-05-17T08:56:27.033596Z",
+  "brief": "# STARMER DEATH WATCH HEATS UP\u2014MARKET SMELLS BLOOD IN WESTMINSTER\n\nThe UK political market is screaming. After +37% action on \"Starmer out by June 30,\" traders are pricing in real dysfunction at No. 10. The May 31 deadline jumped +26.8%, signaling smart money sees a resignation or collapse *this month*, not next. That's the key tell: the shorter-dated contract gaining harder suggests conviction about imminent catalysts\u2014likely the NI Protocol blow-up, Rwanda court battles, or internal Labour hemorrhaging. This isn't noise; it's positioning for a three-week event window.\n\nMeanwhile, Trump's Bret Baier interview is basically priced as *certainty* to include \"Dumbocrat\"\u2014sitting at 99% with $1.3M volume and +30% today. That's not a prediction; that's a political bet on Trump's linguistic habits. Smart money has apparently concluded the phrase's probability is binary. The UFO file declassification market (also 99%, $1.5M volume) tells the same story: traders treating Trump's executive actions as predetermined theater rather than uncertain events. Both signal a market that's become too confident in *Trump consistency* rather than actual probability.\n\nThe real mispricing? Bitcoin hitting $150K by June 30 is priced at just 1% despite commanding $5.8M volume\u2014the highest on the board. That's either capitulation from bulls or serious professionals laying 100:1 odds they genuinely believe are wrong. MicroStrategy's Bitcoin sale odds dropped -24% to 34%, suggesting institutional hodlers are confident MSTR stays committed. Watch this spread widen if macro deteriorates.\n\n---\n\n## WATCH LIST\n\n**Starmer out by May 19** (8%, +6.2%) \u2014 The three-contract Starmer ladder is now a real-money political calendar. May 19 is *this week*. If it doesn't move 5-10x from here by Thursday, the June 30 rally was retail euphoria. If it does, you're watching a constitutional crisis in real time.\n\n**Bitcoin $150K by June 30** (1%, $5.8M) \u2014 Lowest-odds, highest-volume paradox on the board. Either this is zombie volume from May's price action, or professionals are quietly selling lottery tickets. Watch for catalyst clustering (Fed pivot, institutional inflows, geopolitical risk-off) that could compress this to 3-5% in hours.\n\n**Trump/Bret Baier \"Dumbocrat\"** (99%) \u2014 Pure meme market at this price. Real alpha lives in the *qualifier* markets if they exist (how many times? which segment?). This one's dead unless Trump somehow *doesn't* say it, which would be the trade of the year.",
   "top_movers": [
     {
-      "question": "Will Trump say \"Nuclear\" during events with Xi Jinping?",
-      "prob": 4,
-      "change": -79.3,
-      "vol24": "$1.1M",
-      "slug": "will-trump-say-nuclear-during-events-with-xi-jinping"
+      "question": "LoL: Hanwha Life Esports vs KT Rolster - Game 1 Winner",
+      "prob": 1,
+      "change": -67.0,
+      "vol24": "$618K",
+      "slug": "lol-hle1-kt-2026-05-17-game1"
     },
     {
-      "question": "Will Trump say \"Strait\" or \"Hormuz\" during events with Xi Jinping?",
-      "prob": 4,
-      "change": -77.8,
-      "vol24": "$1.7M",
-      "slug": "will-trump-say-strait-or-hormuz-during-events-with-xi-jinping"
+      "question": "Starmer out by June 30, 2026?",
+      "prob": 64,
+      "change": 37.0,
+      "vol24": "$252K",
+      "slug": "starmer-out-by-june-30-2026-862-594-548-219"
     },
     {
-      "question": "Will Trump say \"Iran\" during events with Xi Jinping?",
-      "prob": 4,
-      "change": -77.6,
-      "vol24": "$3.8M",
-      "slug": "will-trump-say-iran-during-events-with-xi-jinping"
+      "question": "Will Trump say \"Dumbocrat\" during Bret Baier interview?",
+      "prob": 99,
+      "change": 30.0,
+      "vol24": "$1.3M",
+      "slug": "will-trump-say-dumbocrat-during-bret-baier-interview"
     },
     {
-      "question": "LoL: Gen.G vs T1 - Game 1 Winner",
-      "prob": 78,
-      "change": 20.0,
-      "vol24": "$388K",
-      "slug": "lol-gen-t1-2026-05-16-game1"
+      "question": "Starmer out by May 31, 2026?",
+      "prob": 33,
+      "change": 26.8,
+      "vol24": "$299K",
+      "slug": "starmer-out-by-may-31-2026"
     },
     {
-      "question": "Will Australia win Eurovision 2026?",
-      "prob": 25,
-      "change": 10.1,
-      "vol24": "$378K",
-      "slug": "will-australia-win-eurovision-2026"
+      "question": "MicroStrategy sells any Bitcoin by May 31, 2026?",
+      "prob": 34,
+      "change": -24.0,
+      "vol24": "$604K",
+      "slug": "microstrategy-sells-any-bitcoin-by-may-31-2026"
     }
   ],
   "top_vol": [
@@ -48,18 +48,18 @@
       "slug": "will-bitcoin-hit-150k-by-june-30-2026"
     },
     {
-      "question": "Will Trump say \"Iran\" during events with Xi Jinping?",
-      "prob": 4,
-      "change": -77.6,
-      "vol24": "$3.8M",
-      "slug": "will-trump-say-iran-during-events-with-xi-jinping"
+      "question": "Trump declassifies new UFO files by May 15?",
+      "prob": 99,
+      "change": 16.3,
+      "vol24": "$1.5M",
+      "slug": "trump-declassifies-new-ufo-files-by-may-15"
     },
     {
-      "question": "Internazionali BNL d'Italia: Jannik Sinner vs Daniil Medvedev",
-      "prob": 92,
-      "change": -0.8,
-      "vol24": "$2.9M",
-      "slug": "atp-sinner-medvede-2026-05-15"
+      "question": "Will Trump say \"Dumbocrat\" during Bret Baier interview?",
+      "prob": 99,
+      "change": 30.0,
+      "vol24": "$1.3M",
+      "slug": "will-trump-say-dumbocrat-during-bret-baier-interview"
     }
   ]
 }
