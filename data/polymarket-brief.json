@@ -1,42 +1,42 @@
 {
-  "date": "Sunday May 17, 2026",
-  "generated": "2026-05-17T08:56:27.033596Z",
-  "brief": "# STARMER DEATH WATCH HEATS UP\u2014MARKET SMELLS BLOOD IN WESTMINSTER\n\nThe UK political market is screaming. After +37% action on \"Starmer out by June 30,\" traders are pricing in real dysfunction at No. 10. The May 31 deadline jumped +26.8%, signaling smart money sees a resignation or collapse *this month*, not next. That's the key tell: the shorter-dated contract gaining harder suggests conviction about imminent catalysts\u2014likely the NI Protocol blow-up, Rwanda court battles, or internal Labour hemorrhaging. This isn't noise; it's positioning for a three-week event window.\n\nMeanwhile, Trump's Bret Baier interview is basically priced as *certainty* to include \"Dumbocrat\"\u2014sitting at 99% with $1.3M volume and +30% today. That's not a prediction; that's a political bet on Trump's linguistic habits. Smart money has apparently concluded the phrase's probability is binary. The UFO file declassification market (also 99%, $1.5M volume) tells the same story: traders treating Trump's executive actions as predetermined theater rather than uncertain events. Both signal a market that's become too confident in *Trump consistency* rather than actual probability.\n\nThe real mispricing? Bitcoin hitting $150K by June 30 is priced at just 1% despite commanding $5.8M volume\u2014the highest on the board. That's either capitulation from bulls or serious professionals laying 100:1 odds they genuinely believe are wrong. MicroStrategy's Bitcoin sale odds dropped -24% to 34%, suggesting institutional hodlers are confident MSTR stays committed. Watch this spread widen if macro deteriorates.\n\n---\n\n## WATCH LIST\n\n**Starmer out by May 19** (8%, +6.2%) \u2014 The three-contract Starmer ladder is now a real-money political calendar. May 19 is *this week*. If it doesn't move 5-10x from here by Thursday, the June 30 rally was retail euphoria. If it does, you're watching a constitutional crisis in real time.\n\n**Bitcoin $150K by June 30** (1%, $5.8M) \u2014 Lowest-odds, highest-volume paradox on the board. Either this is zombie volume from May's price action, or professionals are quietly selling lottery tickets. Watch for catalyst clustering (Fed pivot, institutional inflows, geopolitical risk-off) that could compress this to 3-5% in hours.\n\n**Trump/Bret Baier \"Dumbocrat\"** (99%) \u2014 Pure meme market at this price. Real alpha lives in the *qualifier* markets if they exist (how many times? which segment?). This one's dead unless Trump somehow *doesn't* say it, which would be the trade of the year.",
+  "date": "Monday May 18, 2026",
+  "generated": "2026-05-18T10:53:58.635996Z",
+  "brief": "# ZIMR CAPITAL MARKET INTELLIGENCE | Monday, May 18, 2026\n\n## HEADLINE\n**Korean Esports Implodes While Geopolitical Uncertainty Creeps Higher\u2014Bitcoin Traders Nowhere to Be Found**\n\n---\n\n## MARKET SIGNAL\n\nThe KT Rolster collapse is the story. A 69.5% crash in 24 hours on the BO3 match signals either new information (roster changes, injury, leaked scrim results) or panic liquidation ahead of tipoff. The Game 1 and Game 2 winner props following suit suggests this isn't noise\u2014smart money is moving out. Watch whether this recovers 12 hours pre-match or continues bleeding. Korean esports betting historically sees sharp late-hour reversals.\n\nToulouse FC's +46% move (+82% implied) is the confusing outlier. A post-match pump on a historical favorite screams late action or line correction after the match concluded. If this is genuinely recent price action, someone knows something about a controversy or replay.\n\nThe Iran uranium markets are creeping higher despite Trump's historical posturing\u2014vol is building on both sides. The 4% Bitcoin enrichment prob and 7% \"US obtains\" mark suggests asymmetric bets forming on Xi-Trump diplomacy this week. Smart money isn't panicking yet, but they're hedging.\n\n## WHAT WE'RE WATCHING\n\n1. **KT Rolster BO3 Match** | Down 69.5% | Critical: Does this recover or confirm the fade? If it stabilizes above 5-8%, reversal incoming. Below 0.5% = model capitulation, likely misprice.\n\n2. **Trump-Xi \"Iran\" Rhetoric Cluster** | $2.3M+ combined volume | The $5.8M Bitcoin rally is disconnected from geopolitics\u2014but Iran markets are tightening. Watch if any bilateral statements drop; these props move on single word usage.\n\n3. **Bitcoin $150K by June 30** | $5.8M vol at 1% | The highest-volume market on Poly right now is priced like a lottery ticket. If we see this move to 3-5% on any Fed news this week, it signals retail capitulation is ending.\n\n---\n\n**ZIMR TAKE:** Korean esports volatility is too sharp to be random. Monitor the match thread. Iran geopolitics are pricing in tail risk that Bitcoin traders are ignoring\u2014keep powder dry.",
   "top_movers": [
     {
-      "question": "LoL: Hanwha Life Esports vs KT Rolster - Game 1 Winner",
+      "question": "LoL: KT Rolster vs HANJIN BRION (BO3) - Esports World Cup Korea Qualifier Playoffs",
       "prob": 1,
-      "change": -67.0,
-      "vol24": "$618K",
-      "slug": "lol-hle1-kt-2026-05-17-game1"
+      "change": -69.5,
+      "vol24": "$699K",
+      "slug": "lol-kt-bro2-2026-05-18"
     },
     {
-      "question": "Starmer out by June 30, 2026?",
-      "prob": 64,
-      "change": 37.0,
-      "vol24": "$252K",
-      "slug": "starmer-out-by-june-30-2026-862-594-548-219"
+      "question": "LoL: KT Rolster vs HANJIN BRION - Game 1 Winner",
+      "prob": 1,
+      "change": -62.5,
+      "vol24": "$577K",
+      "slug": "lol-kt-bro2-2026-05-18-game1"
     },
     {
-      "question": "Will Trump say \"Dumbocrat\" during Bret Baier interview?",
-      "prob": 99,
-      "change": 30.0,
-      "vol24": "$1.3M",
-      "slug": "will-trump-say-dumbocrat-during-bret-baier-interview"
+      "question": "LoL: KT Rolster vs HANJIN BRION - Game 2 Winner",
+      "prob": 1,
+      "change": -62.5,
+      "vol24": "$400K",
+      "slug": "lol-kt-bro2-2026-05-18-game2"
     },
     {
-      "question": "Starmer out by May 31, 2026?",
-      "prob": 33,
-      "change": 26.8,
-      "vol24": "$299K",
-      "slug": "starmer-out-by-may-31-2026"
-    },
-    {
-      "question": "MicroStrategy sells any Bitcoin by May 31, 2026?",
-      "prob": 34,
-      "change": -24.0,
+      "question": "Will Toulouse FC win on 2026-05-17?",
+      "prob": 82,
+      "change": 46.0,
       "vol24": "$604K",
-      "slug": "microstrategy-sells-any-bitcoin-by-may-31-2026"
+      "slug": "fl1-nan-tou-2026-05-17-tou"
+    },
+    {
+      "question": "LoL: DN SOOPers vs Nongshim Red Force (BO3) - Esports World Cup Korea Qualifier Playoffs",
+      "prob": 14,
+      "change": -18.0,
+      "vol24": "$459K",
+      "slug": "lol-dnf-ns-2026-05-18"
     }
   ],
   "top_vol": [
@@ -48,18 +48,18 @@
       "slug": "will-bitcoin-hit-150k-by-june-30-2026"
     },
     {
-      "question": "Trump declassifies new UFO files by May 15?",
-      "prob": 99,
-      "change": 16.3,
-      "vol24": "$1.5M",
-      "slug": "trump-declassifies-new-ufo-files-by-may-15"
-    },
-    {
       "question": "Will Trump say \"Dumbocrat\" during Bret Baier interview?",
       "prob": 99,
-      "change": 30.0,
-      "vol24": "$1.3M",
+      "change": 0,
+      "vol24": "$4.5M",
       "slug": "will-trump-say-dumbocrat-during-bret-baier-interview"
+    },
+    {
+      "question": "Israel x Syria security agreement by June 30?",
+      "prob": 11,
+      "change": -1.0,
+      "vol24": "$3.5M",
+      "slug": "israel-x-syria-security-agreement-by-june-30"
     }
   ]
 }
