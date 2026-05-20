@@ -1,42 +1,42 @@
 {
-  "date": "Tuesday May 19, 2026",
-  "generated": "2026-05-19T10:29:08.778351Z",
-  "brief": "# ZIMR Daily Polymarket Brief | May 19, 2026\n\n## Market is Pricing Iran De-escalation Before May 31\u2014But Betting Against Imminent Airspace Closure\n\nThe market just sent a mixed signal on Iran tensions. **Neymar's World Cup participation surged 23.5%** (now 94%)\u2014a bellwether for geopolitical risk appetite\u2014while the May 21 airspace closure tanked to 10%. But here's what's interesting: the May 31 Iran peace deal jumped to 12% on $2.1M volume, the second-highest volume market today. Smart money is *hedging both sides*: betting against immediate escalation while positioning for a negotiated settlement within 6 weeks. The discrepancy between May 21 (-3%) and May 24 (still at 24% despite -11.5%) suggests conviction is *wobbling*\u2014traders are deprioritizing the near-term crisis scenario.\n\n**The NBA Finals anomaly demands attention.** Spurs jumped 13.2% to 38% odds despite being in the Western Conference. If you've watched this market, the Spurs rally stinks of coordinated smart money. Thunder-Spurs is only 32% (down 3%), which means the market is saying Spurs beat Thunder *and* win the Finals at 38%\u2014implying ~84% odds to beat Thunder. That's aggressive for a team that wasn't favored pre-season. Either sharp bettors see draft capital shifting in June, or this is a speculative bubble. **Track this ruthlessly.**\n\nBitcoin at 1% for $150K by June 30 ($5.8M volume) looks absurdly depressed. We're in May; that's 42 days and BTC only needs ~2x. The volume screams institutional shorts. This is either the trade of the year for longs, or the market knows something about June liquidity.\n\n---\n\n## \ud83d\udcca WATCH LIST\n\n1. **US x Iran permanent peace deal by May 31 | 12% | $2.1M** \u2014 Highest volume outside shitcoins. This is the master key. If this ticks above 18%, expect cascade buying across risk assets (Neymar, Spurs, NBA). If it drops below 8%, airspace closure markets will reprice violently upward.\n\n2. **Bitcoin $150K by June 30 | 1% | $5.8M** \u2014 Institutional shorts are *screaming* here. Either capitulation is coming or we're seeing real conviction on a June correction. Watch for volume spikes; this is where whales telegraph moves.\n\n3. **Spurs win 2026 NBA Finals | 38% | +13.2%** \u2014 Monitor the Thunder-Spurs spread tightening. If it widens again (Spurs <35%), the rally was retail FOMO. If it stays tight, someone with real capital knows the draft class shifts favorability.",
+  "date": "Wednesday May 20, 2026",
+  "generated": "2026-05-20T10:15:46.681319Z",
+  "brief": "# POLYMARKET PULSE: May 20, 2026\n\n**Trump Affection Spike Signals Positive Event Risk; LCK Confidence Remains Unshaken**\n\nThe market's most interesting move today is the 46% surge in \"Trump kiss by May 31\"\u2014now at 56%\u2014on $437K volume. This isn't noise. A sudden 11-point pump in a binary event with just 11 days to resolution suggests either (1) fresh information about an upcoming public event, or (2) tactical accumulation ahead of weekend news cycles. Given Trump's visibility spike across Xi Jinping betting, coordinated positioning looks likely.\n\nMeanwhile, esports markets are locked in conviction mode. T1's BO3 victory odds hit 99% (+9.4% today, $914K volume), with Game 1 winner at the same level. This isn't speculation\u2014it's capitulation. When a market trades that tight with that volume, sharp money has sized and is holding. The Game 2 flop to 1% (down 81.5%) is the counter-signal worth watching: is this contrarian accumulation before a DRX upset, or cleanup of liquidated positions?\n\nOn geopolitical risk, Iran airspace closure is bifurcating: May 21 door close to zero (6%), while May 24 sits at 28%. This suggests market consensus for *some* action but not imminent. The spreads are tight, though\u2014classic uncertainty pricing. Bitcoin's $150K long-shot (1%, $5.8M volume) remains a zombie market for leverage traders; ignore it unless we see 10%+ moves.\n\n---\n\n## WATCH LIST\n\n**1. Trump Kiss by May 31 | 56% | Watch for 65%+**\nEntry point for contrarians if it dips to 48-50% (profit-taking on the spike). If it holds above 55%, smart money may know something about weekend scheduling. Monitor Trump event calendars closely.\n\n**2. T1 vs Kiwoom Game 2 | 1% | Watch for any move above 3%**\nThe 1% level is a trap-setting price. If DRX takes Game 2, this unwinds fast. Even a hint of T1 vulnerability (draft concerns, player interviews) could trigger sharp accumulation here before the match.\n\n**3. Iran Airspace (May 24) | 28% | Watch the May 21 market**\nIf May 21 stays below 8% as we approach the deadline, May 24 should compress toward 15-18%. If May 21 suddenly spikes, expect cascade buying in May 24 to 40%+. This is your macro volatility tell for the day.",
   "top_movers": [
     {
-      "question": "Will Neymar play in the 2026 FIFA World Cup?",
-      "prob": 94,
-      "change": 23.5,
-      "vol24": "$834K",
-      "slug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil"
+      "question": "LoL: T1 vs Kiwoom DRX - Game 2 Winner",
+      "prob": 1,
+      "change": -81.5,
+      "vol24": "$644K",
+      "slug": "lol-t1-drx-2026-05-20-game2"
     },
     {
-      "question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+      "question": "Trump kiss by May 31?",
+      "prob": 56,
+      "change": 46.2,
+      "vol24": "$437K",
+      "slug": "trump-kiss-by-may-31"
+    },
+    {
+      "question": "LoL: T1 vs Kiwoom DRX - Game 1 Winner",
+      "prob": 99,
+      "change": 18.4,
+      "vol24": "$515K",
+      "slug": "lol-t1-drx-2026-05-20-game1"
+    },
+    {
+      "question": "LoL: Nongshim Red Force vs KT Rolster (BO3) - LCK Rounds 1-2",
       "prob": 38,
-      "change": 13.2,
-      "vol24": "$551K",
-      "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals"
+      "change": 15.0,
+      "vol24": "$460K",
+      "slug": "lol-ns-kt-2026-05-20"
     },
     {
-      "question": "Iran closes its airspace by May 24?",
-      "prob": 24,
-      "change": -11.5,
-      "vol24": "$438K",
-      "slug": "iran-closes-its-airspace-by-may-24"
-    },
-    {
-      "question": "US x Iran permanent peace deal by June 30, 2026?",
-      "prob": 32,
-      "change": 8.0,
-      "vol24": "$545K",
-      "slug": "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877-363-892"
-    },
-    {
-      "question": "US x Iran permanent peace deal by May 31, 2026?",
-      "prob": 12,
-      "change": 4.0,
-      "vol24": "$2.1M",
-      "slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799-449"
+      "question": "LoL: T1 vs Kiwoom DRX (BO3) - LCK Rounds 1-2",
+      "prob": 99,
+      "change": 9.4,
+      "vol24": "$914K",
+      "slug": "lol-t1-drx-2026-05-20"
     }
   ],
   "top_vol": [
@@ -50,16 +50,16 @@
     {
       "question": "Will Trump say \"Iran\" during events with Xi Jinping?",
       "prob": 1,
-      "change": -0.4,
-      "vol24": "$2.7M",
+      "change": -0.8,
+      "vol24": "$2.1M",
       "slug": "will-trump-say-iran-during-events-with-xi-jinping"
     },
     {
-      "question": "Will Eric Trump win the 2028 US Presidential Election?",
+      "question": "Will Ghana win the 2026 FIFA World Cup?",
       "prob": 1,
-      "change": 0.1,
-      "vol24": "$2.3M",
-      "slug": "will-eric-trump-win-the-2028-us-presidential-election"
+      "change": 0,
+      "vol24": "$2.1M",
+      "slug": "will-ghana-win-the-2026-fifa-world-cup"
     }
   ]
 }
