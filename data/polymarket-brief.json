@@ -1,50 +1,57 @@
 {
-  "date": "Thursday May 21, 2026",
-  "generated": "2026-05-21T10:28:12.689025Z",
-  "brief": "# ZIMR Daily Brief | May 21, 2026\n\n## \"Trump Kiss Locked In; Market Pivots Iran Peace Odds Higher\"\n\nThe prediction markets are pricing near-certainty on a Trump public kiss by month-end (99%, +$8M volume), suggesting either imminent event data or late-stage momentum buying. Meanwhile, smart money is rotating into **US-Iran peace deal probability**\u2014the June 15 timeframe ticked up 15.5% today despite headline noise around airspace closures. This divergence is worth watching: if Iran peace talks are genuinely progressing, the May 24 airspace closure market (14% odds, down -14%) looks like a crowded short.\n\nThe esports bleed is real but thin\u2014CS and LoL markets are consolidating with fractional volumes despite dramatic percentage moves. Lynn Vision's 99% pricing in their matchup screams sharp money locking in, not organic flow. The Elon tweet market (1%, -35.8%) has finally capitulated; unless he's about to tweet-bomb, this is likely a liquidation floor.\n\n**Red flag:** Bitcoin ($150K by June 30) sitting at 1% with $5.8M volume is the highest-conviction contrarian bet on the board. If macro data pivots hawkish today, this could flush hard. Watch the bid-ask spreads.\n\n---\n\n## WATCH LIST\n\n1. **US x Iran permanent peace deal by June 15** (34%, +15.5%) \u2014 Volume uptick suggests institutional positioning. If this breaks 40% intraday, expect cascading bets into related Iran markets. Highly correlated to geopolitical vol.\n\n2. **Iran closes its airspace by May 24** (14%, -14%) \u2014 The short crowding here + the peace deal rally creates arbitrage tension. If May 24 closes without closure, May 31 (32%) likely compresses hard.\n\n3. **Trump kiss by May 31** (99%, +42.4%) \u2014 At this price, final 1% is illiquid risk. Any credible denial narrative could create a flash crash. Monitor social sentiment for early tells.",
+  "date": "Friday May 22, 2026",
+  "generated": "2026-05-22T10:13:34.355289Z",
+  "brief": "# IRAN CEASEFIRE HOLDS\u2014BUT MARKET HEDGES ON PERMANENT DEAL\n\n**The Setup**\n\nPolymarket is pricing in a ceasefire through May 24 at 90% (+3.0%), yet a permanent US-Iran peace deal by May 31 sits at just 18% (-4.0%). That 72-point spread is massive for a 9-day window. Smart money is reading this as: *the guns have stopped, but lasting diplomacy is nowhere close*. The Strait of Hormuz traffic recovery (4%, -1.6%) is essentially written off\u2014traders aren't banking on normalized shipping yet despite ceasefire confidence.\n\n**What's Moving**\n\nThe $4.0M volume on the May 31 permanent deal (down 4%) and the $2.2M depth on the May 22 deal (down 2.6%) tell us two things: (1) institutional flow is rotating *out* of optimistic scenarios, and (2) there's no capitulation. These are calibrated exits, not panic. The LCK esports market tanking 9% (-$1.1M) is noise\u2014typical Friday volatility in betting markets with binary outcomes.\n\nThe real signal? Ceasefire durability is *priced in*, but the asymmetric upside on a peace deal by month-end is being repriced *down*. This suggests closed-door talks aren't moving needles or Xi's involvement with Trump (massive $8.0M volume, 1% odds on \"Iran\" mention) is being treated as a separate, low-probability event.\n\n---\n\n## WATCH LIST\n\n1. **US x Iran permanent peace deal by May 31** ($4.0M) \u2014 The directional leader. If this breaks above 25% intraday, it signals new negotiation momentum. Sub-15% would confirm the market sees May as a stalemate.\n\n2. **Strait of Hormuz traffic returns to normal by end of May** ($1.9M, 4%) \u2014 The canary in the coal mine. Any uptick here on weekend headlines could be a reversal signal; ceasefire holds only matter if commerce resumes.\n\n3. **Will Reza Pahlavi lead Iran in 2026?** ($5.3M, 7%) \u2014 Regime change narrative check. Watch for correlation with peace deal odds; if this diverges upward, the market is pricing in internal instability despite external ceasefire.",
   "top_movers": [
     {
-      "question": "Counter-Strike: Lynn Vision vs NIP (BO3) - CS Asia Championships Group B",
-      "prob": 99,
-      "change": 67.0,
-      "vol24": "$750K",
-      "slug": "cs2-lvg-nip-2026-05-21"
-    },
-    {
-      "question": "Trump kiss by May 31?",
-      "prob": 99,
-      "change": 42.4,
-      "vol24": "$8.0M",
-      "slug": "trump-kiss-by-may-31"
-    },
-    {
-      "question": "Will Elon Musk post 220-239 tweets from May 15 to May 22, 2026?",
+      "question": "Will Elon Musk post 300-319 tweets from May 15 to May 22, 2026?",
       "prob": 1,
-      "change": -35.8,
-      "vol24": "$629K",
-      "slug": "elon-musk-of-tweets-may-15-may-22-220-239"
+      "change": -12.1,
+      "vol24": "$456K",
+      "slug": "elon-musk-of-tweets-may-15-may-22-300-319"
     },
     {
-      "question": "LoL: JD Gaming vs Anyone's Legend (BO5) - Esports World Cup China Qualifier Phase 2",
+      "question": "LoL: KT Rolster vs Gen.G (BO3) - LCK Rounds 1-2",
       "prob": 16,
-      "change": -35.0,
-      "vol24": "$402K",
-      "slug": "lol-jdg-al-2026-05-21"
+      "change": -9.0,
+      "vol24": "$1.1M",
+      "slug": "lol-kt-gen-2026-05-22"
     },
     {
-      "question": "Counter-Strike: BC.Game Esports vs paiN (BO3) - CS Asia Championships Group A",
-      "prob": 1,
-      "change": -34.4,
-      "vol24": "$771K",
-      "slug": "cs2-bcg-pain-2026-05-21"
+      "question": "Iran closes its airspace by May 24?",
+      "prob": 8,
+      "change": -6.0,
+      "vol24": "$566K",
+      "slug": "iran-closes-its-airspace-by-may-24"
+    },
+    {
+      "question": "US x Iran permanent peace deal by May 31, 2026?",
+      "prob": 18,
+      "change": -4.0,
+      "vol24": "$4.0M",
+      "slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799-449-125"
+    },
+    {
+      "question": "Will the Iran ceasefire continue through May 24?",
+      "prob": 90,
+      "change": 3.0,
+      "vol24": "$494K",
+      "slug": "will-the-iran-ceasefire-continue-through-may-24"
     }
   ],
   "top_vol": [
     {
+      "question": "Will Trump say \"Iran\" during events with Xi Jinping?",
+      "prob": 1,
+      "change": -0.1,
+      "vol24": "$8.0M",
+      "slug": "will-trump-say-iran-during-events-with-xi-jinping"
+    },
+    {
       "question": "Trump kiss by May 31?",
       "prob": 99,
-      "change": 42.4,
-      "vol24": "$8.0M",
+      "change": 0,
+      "vol24": "$6.0M",
       "slug": "trump-kiss-by-may-31"
     },
     {
@@ -53,13 +60,6 @@
       "change": 0,
       "vol24": "$5.8M",
       "slug": "will-bitcoin-hit-150k-by-june-30-2026"
-    },
-    {
-      "question": "Will Austria win the 2026 FIFA World Cup?",
-      "prob": 1,
-      "change": 0,
-      "vol24": "$5.0M",
-      "slug": "will-austria-win-the-2026-fifa-world-cup"
     }
   ]
 }
