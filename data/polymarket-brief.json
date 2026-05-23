@@ -1,65 +1,65 @@
 {
-  "date": "Friday May 22, 2026",
-  "generated": "2026-05-22T10:13:34.355289Z",
-  "brief": "# IRAN CEASEFIRE HOLDS\u2014BUT MARKET HEDGES ON PERMANENT DEAL\n\n**The Setup**\n\nPolymarket is pricing in a ceasefire through May 24 at 90% (+3.0%), yet a permanent US-Iran peace deal by May 31 sits at just 18% (-4.0%). That 72-point spread is massive for a 9-day window. Smart money is reading this as: *the guns have stopped, but lasting diplomacy is nowhere close*. The Strait of Hormuz traffic recovery (4%, -1.6%) is essentially written off\u2014traders aren't banking on normalized shipping yet despite ceasefire confidence.\n\n**What's Moving**\n\nThe $4.0M volume on the May 31 permanent deal (down 4%) and the $2.2M depth on the May 22 deal (down 2.6%) tell us two things: (1) institutional flow is rotating *out* of optimistic scenarios, and (2) there's no capitulation. These are calibrated exits, not panic. The LCK esports market tanking 9% (-$1.1M) is noise\u2014typical Friday volatility in betting markets with binary outcomes.\n\nThe real signal? Ceasefire durability is *priced in*, but the asymmetric upside on a peace deal by month-end is being repriced *down*. This suggests closed-door talks aren't moving needles or Xi's involvement with Trump (massive $8.0M volume, 1% odds on \"Iran\" mention) is being treated as a separate, low-probability event.\n\n---\n\n## WATCH LIST\n\n1. **US x Iran permanent peace deal by May 31** ($4.0M) \u2014 The directional leader. If this breaks above 25% intraday, it signals new negotiation momentum. Sub-15% would confirm the market sees May as a stalemate.\n\n2. **Strait of Hormuz traffic returns to normal by end of May** ($1.9M, 4%) \u2014 The canary in the coal mine. Any uptick here on weekend headlines could be a reversal signal; ceasefire holds only matter if commerce resumes.\n\n3. **Will Reza Pahlavi lead Iran in 2026?** ($5.3M, 7%) \u2014 Regime change narrative check. Watch for correlation with peace deal odds; if this diverges upward, the market is pricing in internal instability despite external ceasefire.",
+  "date": "Saturday May 23, 2026",
+  "generated": "2026-05-23T08:56:17.567125Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | SAT, MAY 23, 2026\n\n## **Markets Price Iran Airspace Closure as Imminent\u2014But Peace Deal Collapse Hints at Deeper Crisis**\n\nThe smart money is screaming: airspace closure is happening, probably within 72 hours. The May 24 market exploded +69.5% overnight to 79%, with $3.5M pouring in\u2014the highest single-day volume on any Iran-related event. This isn't retail FOMO. The velocity and conviction across the May 24/27/31 ladder suggests institutional flow with hard intel. Someone knows something.\n\nBut here's the tell: while airspace closure odds are rocketing, the ceasefire continuation market for May 24 *collapsed* -16% to 74%. That's a 5-point divergence that shouldn't exist if traders believed a simple technical airspace closure was coming. The market is pricing in that closure as a *precursor to escalation*\u2014a circuit-breaker ahead of military moves. Separately, the permanent peace deal by May 31 sits dead at 14% despite high volume ($4.7M), suggesting any breakthrough talk is just noise. Smart money has walked away from that trade entirely.\n\nThe real mispricing: **Iranian regime fall by June 30 at 5%** is criminally cheap if you believe the escalation narrative. If airspace closure signals broader conflict, regime stability becomes a live question. Meanwhile, Bitcoin hitting $150K by June 30 (1%, $5.8M volume) is the flight-to-safety hedge everyone's loading. The correlation is clear\u2014traders are positioning for Iran shock, not ceasefire comfort.\n\n---\n\n## WATCH LIST\n\n**1. Iran ceasefire continuation (May 24) \u2014 $1.1M vol**\nWatch for any 48-hour intraday dump below 70%. A break there signals market expects active hostilities within 96 hours, not just airspace theater.\n\n**2. US-Iran permanent deal (May 31) \u2014 $4.7M vol**\nThis volume is defensive shorting. If it cracks below 12%, smart money has fully capitulated on diplomacy; expect airspace closure to trigger secondary escalation bets.\n\n**3. Bitcoin $150K by June 30 \u2014 $5.8M vol**\nThe canary in the coal mine. If this creeps above 3% on sustained volume, it means institutional macro traders are rotating into safe havens ahead of Iran news. Watch the bid-ask spread widen.",
   "top_movers": [
     {
-      "question": "Will Elon Musk post 300-319 tweets from May 15 to May 22, 2026?",
-      "prob": 1,
-      "change": -12.1,
-      "vol24": "$456K",
-      "slug": "elon-musk-of-tweets-may-15-may-22-300-319"
-    },
-    {
-      "question": "LoL: KT Rolster vs Gen.G (BO3) - LCK Rounds 1-2",
-      "prob": 16,
-      "change": -9.0,
-      "vol24": "$1.1M",
-      "slug": "lol-kt-gen-2026-05-22"
-    },
-    {
       "question": "Iran closes its airspace by May 24?",
-      "prob": 8,
-      "change": -6.0,
-      "vol24": "$566K",
+      "prob": 79,
+      "change": 69.5,
+      "vol24": "$3.5M",
       "slug": "iran-closes-its-airspace-by-may-24"
     },
     {
-      "question": "US x Iran permanent peace deal by May 31, 2026?",
-      "prob": 18,
-      "change": -4.0,
-      "vol24": "$4.0M",
-      "slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799-449-125"
+      "question": "Iran closes its airspace by May 27?",
+      "prob": 78,
+      "change": 59.2,
+      "vol24": "$555K",
+      "slug": "iran-closes-its-airspace-by-may-29"
+    },
+    {
+      "question": "Iran closes its airspace by May 31?",
+      "prob": 82,
+      "change": 53.0,
+      "vol24": "$876K",
+      "slug": "iran-closes-its-airspace-by-may-31-434-443-672-526-188-756"
     },
     {
       "question": "Will the Iran ceasefire continue through May 24?",
-      "prob": 90,
-      "change": 3.0,
-      "vol24": "$494K",
-      "slug": "will-the-iran-ceasefire-continue-through-may-24"
+      "prob": 74,
+      "change": -16.0,
+      "vol24": "$1.1M",
+      "slug": "will-the-iran-ceasefire-continue-through-may-24-733"
+    },
+    {
+      "question": "Will the Iran ceasefire continue through May 22?",
+      "prob": 99,
+      "change": 1.6,
+      "vol24": "$2.7M",
+      "slug": "will-the-iran-ceasefire-continue-through-may-22"
     }
   ],
   "top_vol": [
-    {
-      "question": "Will Trump say \"Iran\" during events with Xi Jinping?",
-      "prob": 1,
-      "change": -0.1,
-      "vol24": "$8.0M",
-      "slug": "will-trump-say-iran-during-events-with-xi-jinping"
-    },
-    {
-      "question": "Trump kiss by May 31?",
-      "prob": 99,
-      "change": 0,
-      "vol24": "$6.0M",
-      "slug": "trump-kiss-by-may-31"
-    },
     {
       "question": "Will Bitcoin hit $150k by June 30, 2026?",
       "prob": 1,
       "change": 0,
       "vol24": "$5.8M",
       "slug": "will-bitcoin-hit-150k-by-june-30-2026"
+    },
+    {
+      "question": "US x Iran permanent peace deal by May 31, 2026?",
+      "prob": 14,
+      "change": -1.0,
+      "vol24": "$4.7M",
+      "slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799-449-125"
+    },
+    {
+      "question": "Will Uzbekistan win the 2026 FIFA World Cup?",
+      "prob": 1,
+      "change": -0.1,
+      "vol24": "$4.1M",
+      "slug": "will-uzbekistan-win-the-2026-fifa-world-cup-773"
     }
   ]
 }
