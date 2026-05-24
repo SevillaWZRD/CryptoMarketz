@@ -1,17 +1,5 @@
 [
   {
-    "id": 1779627555735,
-    "coin": "BNB/USD",
-    "type": "BUY",
-    "entry": "659",
-    "tp": "663",
-    "sl": "656",
-    "note": "1H bullish trend with price above EMAs, RSI 67.5 approaching overbought but still valid, clear support at EMA20 657.48. Strong momentum continuation setup. Use 1/3 position size.",
-    "timestamp": "2026-05-24T12:59:15.594Z",
-    "generated_at": "Sun, 24 May 2026 12:59:15 GMT",
-    "source": "claude-bot"
-  },
-  {
     "id": 1779576157819,
     "coin": "BTC/USD",
     "type": "SELL",
