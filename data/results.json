@@ -1,5 +1,18 @@
 [
   {
+    "id": 1779576157819,
+    "coin": "BTC/USD",
+    "type": "SELL",
+    "entry": "76390",
+    "tp": "74000",
+    "sl": "77100",
+    "result": "loss",
+    "pnl": "0.93%",
+    "resolved_price": 77485,
+    "signal_date": "2026-05-23T22:42:34.773Z",
+    "resolved_at": "2026-05-25T09:47:05.321Z"
+  },
+  {
     "id": 1779627555735,
     "coin": "BNB/USD",
     "type": "BUY",
