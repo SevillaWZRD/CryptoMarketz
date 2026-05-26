@@ -1,45 +1,52 @@
 {
-  "date": "Monday May 25, 2026",
-  "generated": "2026-05-25T11:02:04.566381Z",
-  "brief": "# ZIMR DAILY BRIEFING | Monday, May 25, 2026\n\n## Headline\n**Iran Peace Talks Crater as Deadline Passes; T1 Dominates LoL Qualifier, Bitcoin Languishes at $150K Ceiling**\n\n---\n\n## Market Intelligence\n\nThe Iran ceasefire extension narrative just collapsed. The May 25 deadline came and went with zero announcement\u2014the 4% odds on a same-day deal proved prescient, but the real action was the 61.5% dump on that contract. Smart money exited hard on Friday anticipating this. More tellingly: the May 31 extension market dropped 43% to 34%, suggesting negotiators are stalling or repositioning. Volume remained thick ($442K), indicating serious institutional players still hedging geopolitical risk, but the overall trend is unmistakably bearish on near-term resolution.\n\nThe Strait of Hormuz blockade lift (28% odds, -37% today) moved in tandem\u2014another signal that markets are pricing in an extended standoff rather than breakthrough talks. Compare this to the $4.4M flooding into the May 26 permanent peace deal (8% odds)\u2014that's a capitulation bet, not conviction. The $3.7M on May 31 permanent deal (26%) is where real conviction sits: traders are positioning for either a dramatic late-month breakthrough *or* a full collapse into June.\n\nT1's dominance in the LoL qualifier is the only clean narrative today. They've effectively won the series, with individual game markets pricing them at 99%, 1%, 1%, 1% respectively\u2014textbook blowout. The $1.3M volume on their overall qualifier win confirms esports money is flowing, but this is noise relative to macro geopolitical risk bleeding across crypto and commodities.\n\n---\n\n## Watch List\n\n1. **US x Iran permanent peace deal by May 31** (26%, $3.7M vol) \u2014 This is the real market. Watch for any State Department or UN statements. A 10%+ move intraday signals genuine intelligence flow. Currently underpriced if you believe in last-minute diplomatic theatre.\n\n2. **Strait of Hormuz blockade lift by May 31** (28% odds) \u2014 A correlated tail-risk hedge. If this ticks up sharply, crude markets will follow. Track alongside oil futures for arbitrage signals.\n\n3. **Bitcoin $150K by June 30** (1%, $5.8M vol) \u2014 Massive volume, near-zero odds. This is a capitulation market. Any geopolitical de-escalation could see this repriced upward 5-10% fast. Watch for macro risk-off reversals.\n\n---\n\n**ZIMR Capital | Markets Intelligence Unit**",
+  "date": "Tuesday May 26, 2026",
+  "generated": "2026-05-26T10:39:06.798890Z",
+  "brief": "# POLYMARKET DAILY BRIEF | Tuesday, May 26, 2026\n\n## Headline\n**Iran Peace Talks Stall: Markets Pricing Near-Zero Chance of Deal Closure by May 26**\n\n---\n\n## The Signal\n\nThe geopolitical complex is fracturing. A permanent US-Iran peace deal by May 26 sits at just **6%** with $6M in volume\u2014the single highest-volume market today. Yet the May 31 deadline prices at **28%**, suggesting smart money sees a 5-day extension as plausible but a same-day announcement as unlikely. The ceasefire holding through May 24 remains fat at **96%** (+5.4M vol), but this is priced as *baseline expectation*, not conviction.\n\n**What's moving:** Esports and tennis are seeing massive conviction bets. Liquid vs Xtreme Gaming at **99%** (+39.5% today, $664K) and Svitolina vs Bondar at **99%** (+15.4%, $964K) suggest sharp action on heavily favored outcomes\u2014typical late-tournament dynamics where favorites have already been culled. The outlier: Nongshim Red Force at **1%** (down -16.4%) indicates a reality check on Korean LoL favorites.\n\n**Smart money signal:** The May 26 vs May 31 Iran spread ($6M vs $3.2M) shows sophisticated traders aren't holding for same-day miracles but *are* positioning for extended talks. Oil traders have already capitulated\u2014WTI hitting $110 in May sits at **4%** (down -5.2%), priced as a tail event. Ceasefire extension = oil stays capped.\n\n---\n\n## Watch List\n\n1. **US x Iran permanent peace deal by May 31, 2026** (28%) \u2014 Watch the close. If this ticks above 35% by EOD, it signals new diplomatic chatter. Below 20% = talks are ice cold.\n\n2. **Will Bitcoin hit $150k by June 30, 2026?** (1%, $5.8M vol) \u2014 This absurdly high volume on a 1% price is either capitulation selling or a whale accumulation trade. Monitor order flow; prison-camp pricing usually reverses hard.\n\n3. **Iran ceasefire continue through May 24?** (96%, -4.0%) \u2014 The small decay matters. If this drops below 92%, something just broke in real-time. Worth watching as a leading indicator for the May 31 market.",
   "top_movers": [
     {
-      "question": "Roland Garros ATP: Pablo Carreno Busta vs Jiri Lehecka",
-      "prob": 92,
-      "change": 68.0,
-      "vol24": "$1.1M",
-      "slug": "atp-busta-lehecka-2026-05-24"
-    },
-    {
-      "question": "LoL: Dplus KIA vs T1 - Game 2 Winner",
+      "question": "Dota 2: Team Liquid vs Xtreme Gaming (BO1) - BLAST Slam Group Stage",
       "prob": 99,
-      "change": 62.5,
-      "vol24": "$687K",
-      "slug": "lol-dk-t1-2026-05-25-game2"
+      "change": 39.5,
+      "vol24": "$664K",
+      "slug": "dota2-liquid-xtreme-2026-05-26"
     },
     {
-      "question": "US announces new Iran agreement/ceasefire extension by May 25?",
-      "prob": 4,
-      "change": -61.5,
-      "vol24": "$454K",
-      "slug": "us-announces-new-iran-agreementceasefire-extension-by-may-25"
+      "question": "Dota 2: PARIVISION vs OG (BO1) - BLAST Slam Group Stage",
+      "prob": 99,
+      "change": 27.5,
+      "vol24": "$519K",
+      "slug": "dota2-pari-og-2026-05-26"
     },
     {
-      "question": "US announces new Iran agreement/ceasefire extension by May 31?",
-      "prob": 34,
-      "change": -43.0,
-      "vol24": "$442K",
-      "slug": "us-announces-new-iran-agreementceasefire-extension-by-may-31"
-    },
-    {
-      "question": "LoL: Dplus KIA vs T1 - Game 4 Winner",
+      "question": "LoL: Nongshim Red Force vs Hanwha Life Esports (BO3) - Esports World Cup Korea Qualifier Playoffs",
       "prob": 1,
-      "change": -38.5,
-      "vol24": "$514K",
-      "slug": "lol-dk-t1-2026-05-25-game4"
+      "change": -16.4,
+      "vol24": "$523K",
+      "slug": "lol-ns-hle1-2026-05-25"
+    },
+    {
+      "question": "Roland Garros WTA: Elina Svitolina vs Anna Bondar",
+      "prob": 99,
+      "change": 15.4,
+      "vol24": "$964K",
+      "slug": "wta-svitoli-bondar-2026-05-24"
+    },
+    {
+      "question": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in May?",
+      "prob": 4,
+      "change": -5.2,
+      "vol24": "$485K",
+      "slug": "will-wti-reach-110-in-may-2026-116-472"
     }
   ],
   "top_vol": [
+    {
+      "question": "US x Iran permanent peace deal by May 26, 2026?",
+      "prob": 6,
+      "change": -3.0,
+      "vol24": "$6.0M",
+      "slug": "us-x-iran-permanent-peace-deal-by-may-26-2026"
+    },
     {
       "question": "Will Bitcoin hit $150k by June 30, 2026?",
       "prob": 1,
@@ -48,18 +55,11 @@
       "slug": "will-bitcoin-hit-150k-by-june-30-2026"
     },
     {
-      "question": "US x Iran permanent peace deal by May 26, 2026?",
-      "prob": 8,
-      "change": -21.5,
-      "vol24": "$4.4M",
-      "slug": "us-x-iran-permanent-peace-deal-by-may-26-2026"
-    },
-    {
-      "question": "US x Iran permanent peace deal by May 31, 2026?",
-      "prob": 26,
-      "change": -13.0,
-      "vol24": "$3.7M",
-      "slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799-449-125"
+      "question": "Will the Iran ceasefire continue through May 24?",
+      "prob": 96,
+      "change": -4.0,
+      "vol24": "$5.4M",
+      "slug": "will-the-iran-ceasefire-continue-through-may-24-733"
     }
   ]
 }
