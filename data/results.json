@@ -1,5 +1,31 @@
 [
   {
+    "id": 1779719598378,
+    "coin": "BNB/USD",
+    "type": "SELL",
+    "entry": "671.50",
+    "tp": "645.00",
+    "sl": "680.00",
+    "result": "win",
+    "pnl": "+-3.95%",
+    "resolved_price": 632.57,
+    "signal_date": "2026-05-25T14:33:16.097Z",
+    "resolved_at": "2026-05-28T09:43:58.565Z"
+  },
+  {
+    "id": 1779576162007,
+    "coin": "ETH/USD",
+    "type": "SELL",
+    "entry": "2105",
+    "tp": "2020",
+    "sl": "2148",
+    "result": "win",
+    "pnl": "+-4.04%",
+    "resolved_price": 1989.78,
+    "signal_date": "2026-05-23T22:42:34.774Z",
+    "resolved_at": "2026-05-28T09:43:58.565Z"
+  },
+  {
     "id": 1779749505626,
     "coin": "BTC/USD",
     "type": "BUY",
