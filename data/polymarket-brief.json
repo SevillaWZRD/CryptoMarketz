@@ -1,65 +1,65 @@
 {
-  "date": "Thursday May 28, 2026",
-  "generated": "2026-05-28T10:43:11.636553Z",
-  "brief": "# ZIMR POLYMARKET BRIEFING | Thursday, May 28, 2026\n\n## Market Says: Iran Deal Dead, Esports Money Flowing, Trump Dance Forgotten\n\nThe market has decisively closed the book on near-term US-Iran diplomacy. Permanent peace deal odds collapsed 14% to just 8% for May 31, with $7.7M in volume\u2014the day's heaviest action. Extension agreements fared worse, dropping to 16%, signaling traders see **zero momentum** for the May 31 deadline. This isn't gradual fade; this is capitulation. Smart money exited simultaneously across all Iran pairs, suggesting a single catalyst shifted positioning hard (likely failed closed-door talks or leaked intel on negotiations).\n\nEsports is eating. LoL's SOOPers-Red Force Game 1 exploded to 99% (+70%), pulling $891K in what looks like pre-game squeeze or sharp money confident in a blowout. The BO3 market sits inverted at 1%, creating arbitrage opportunities if you're reading the series differently than the market. Roland Garros ATP also showing technical strength\u2014Cobolli at 97% is price-discovery heavy, no surprises.\n\nThe Trump dance market is dead (1% odds, -27%), which tells you retail exhaustion on novelty bets. The real signal: **geopolitics dumped, sports confidence rose**\u2014classic risk-off to risk-on in micro markets.\n\n---\n\n## WATCH LIST\n\n**1. US x Iran permanent peace deal by May 31** [8%, $7.7M vol]  \nWhy: Watch for after-hours news or weekend leaks. If odds spike back above 15%, you'll see cascading liquidations in related pairs. This is the canary.\n\n**2. LoL: SOOPers vs Red Force BO3** [1%, $1.4M vol]  \nWhy: Sharp disconnect between Game 1 (99%) and series outcome (1%). If Red Force takes Game 1, this corrects violently. High-leverage spot.\n\n**3. Will Bitcoin hit $150k by June 30** [1%, $5.8M vol]  \nWhy: Lowest odds, highest volume\u2014classic contrarian signal. Post-Iran capitulation, watch if risk appetite returns and this pops.",
+  "date": "Friday May 29, 2026",
+  "generated": "2026-05-29T10:37:30.293314Z",
+  "brief": "# ZIMR Daily Polymarket Brief | Friday, May 29, 2026\n\n## \"Peace Talks Priced Too Low; Esports Money Fleeing Volatility\"\n\nThe market is sending a sharp contradiction this morning. Iran deal probabilities jumped 7-10% overnight despite sitting at historically low odds (10-14%), signaling either genuine diplomatic momentum or desperate hope-buying ahead of the May 31 deadline. Meanwhile, $5.8M in volume on the permanent peace deal suggests institutional players are hedging against geopolitical surprise\u2014not a sign of confidence in current trajectory.\n\nSmart money is rotating hard into esports certainty. The DK/DRX and JD Gaming markets both hit 99% while pulling in massive volume ($1.6M and $905K respectively)\u2014these aren't lottery tickets, they're confidence expressions. The real tell: that 1% LoL Game 2 DK market cratered -73.5% in 24h, meaning sharp traders loaded up on the \"unlikely\" outcome yesterday and got blown out. Watch for similar liquidation patterns in lower-probability events today.\n\nThe Spurs Finals bet (+11.7%, $543K) is the outlier\u2014NBA finals odds typically compress, not expand on single days. Either new injury intel hit or this is dumb money panic-hedging. Separately, the MicroStrategy Bitcoin sale bet sits at only 18% despite massive corporate pressure to diversify; at $572K volume, this feels underpriced relative to institutional uncertainty.\n\n---\n\n## Watch List\n\n**1. US-Iran Ceasefire Extension (99% | $5.3M daily vol)**  \nMarket's saying it holds, but May 31 is *two days away*. If no formal extension announcement drops by EOD today, expect sharp repricing downward. Follow State Department calendar religiously.\n\n**2. Joao Fonseca vs Djokovic (32% | $602K vol)**  \nDown 4% despite being Roland Garros's marquee matchup. Fonseca's odds collapsing suggest sharps see a Djokovic chalk finish. Value-hunting day traders should monitor injury reports before markets lock.\n\n**3. MicroStrategy Bitcoin Sale (18% | $572K vol)**  \nSeverely underpriced relative to Q2 earnings cycle and sector pressure. If Michael Saylor signals any portfolio rotation in next 48h, this flips to 35%+ instantly.",
   "top_movers": [
     {
-      "question": "LoL: DN SOOPers vs Nongshim Red Force - Game 1 Winner",
+      "question": "LoL: Dplus KIA vs Kiwoom DRX - Game 2 Winner",
+      "prob": 1,
+      "change": -73.5,
+      "vol24": "$674K",
+      "slug": "lol-dk-drx-2026-05-29-game2"
+    },
+    {
+      "question": "LoL: JD Gaming vs ThunderTalk Gaming - Game 2 Winner",
       "prob": 99,
-      "change": 70.0,
-      "vol24": "$891K",
-      "slug": "lol-dnf-ns-2026-05-28-game1"
+      "change": 25.9,
+      "vol24": "$835K",
+      "slug": "lol-jdg-tt-2026-05-29-game2"
     },
     {
-      "question": "Will Donald Trump dance on May 25, 2026?",
-      "prob": 1,
-      "change": -27.0,
-      "vol24": "$1.0M",
-      "slug": "will-donald-trump-dance-on-may-25-2026"
+      "question": "LoL: Dplus KIA vs Kiwoom DRX (BO3) - LCK Rounds 1-2",
+      "prob": 99,
+      "change": 17.4,
+      "vol24": "$1.6M",
+      "slug": "lol-dk-drx-2026-05-29"
     },
     {
-      "question": "US announces new Iran agreement/ceasefire extension by May 31?",
-      "prob": 16,
-      "change": -27.0,
-      "vol24": "$825K",
-      "slug": "us-announces-new-iran-agreementceasefire-extension-by-may-31-665-831-238"
+      "question": "LoL: JD Gaming vs ThunderTalk Gaming (BO5) - LPL Playoffs",
+      "prob": 99,
+      "change": 12.4,
+      "vol24": "$905K",
+      "slug": "lol-jdg-tt-2026-05-29"
     },
     {
-      "question": "LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Rounds 1-2",
-      "prob": 1,
-      "change": -23.4,
-      "vol24": "$1.4M",
-      "slug": "lol-dnf-ns-2026-05-28"
-    },
-    {
-      "question": "Roland Garros ATP: Flavio Cobolli vs Yibing Wu",
-      "prob": 97,
-      "change": 23.1,
-      "vol24": "$542K",
-      "slug": "atp-cobolli-wu-2026-05-27"
+      "question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+      "prob": 27,
+      "change": 11.7,
+      "vol24": "$543K",
+      "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals"
     }
   ],
   "top_vol": [
     {
       "question": "US x Iran permanent peace deal by May 31, 2026?",
-      "prob": 8,
-      "change": -14.0,
-      "vol24": "$7.7M",
-      "slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799-449-125"
-    },
-    {
-      "question": "Will Bitcoin hit $150k by June 30, 2026?",
-      "prob": 1,
-      "change": 0,
+      "prob": 10,
+      "change": 2.0,
       "vol24": "$5.8M",
-      "slug": "will-bitcoin-hit-150k-by-june-30-2026"
+      "slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799-449-125"
     },
     {
       "question": "Will the Iran ceasefire continue through May 24?",
       "prob": 99,
-      "change": -0.1,
-      "vol24": "$3.8M",
+      "change": 0.2,
+      "vol24": "$5.3M",
       "slug": "will-the-iran-ceasefire-continue-through-may-24-733"
+    },
+    {
+      "question": "Will the US officially declare war on Venezuela by June 30, 2026?",
+      "prob": 1,
+      "change": 0.4,
+      "vol24": "$2.0M",
+      "slug": "will-the-us-officially-declare-war-on-venezuela-by-june-30-2026"
     }
   ]
 }
