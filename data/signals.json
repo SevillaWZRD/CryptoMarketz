@@ -1,5 +1,17 @@
 [
   {
+    "id": 1780233208007,
+    "coin": "BNB/USD",
+    "type": "BUY",
+    "entry": "725",
+    "tp": "755",
+    "sl": "713",
+    "note": "Strong 7d uptrend +9.84%, 1H bullish trend with price above EMA20 and EMA50, RSI 34.7 oversold for bounce, clear support at 24h low 718.56. Use 1/3 position size.",
+    "timestamp": "2026-05-31T13:13:21.039Z",
+    "generated_at": "Sun, 31 May 2026 13:13:21 GMT",
+    "source": "claude-bot"
+  },
+  {
     "id": 1779961462676,
     "coin": "ETH/USD",
     "type": "SELL",
