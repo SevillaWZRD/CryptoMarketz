@@ -1,5 +1,17 @@
 [
   {
+    "id": 1780334143371,
+    "coin": "BTC/USD",
+    "type": "SELL",
+    "entry": "71500",
+    "tp": "68500",
+    "sl": "72800",
+    "note": "Strong 4H downtrend with price well below both EMAs, 1H RSI extremely oversold at 17.9 but 4H structure remains bearish. Selling into oversold bounce with resistance at EMA levels. Use 1/3 position size.",
+    "timestamp": "2026-06-01T17:15:41.404Z",
+    "generated_at": "Mon, 01 Jun 2026 17:15:41 GMT",
+    "source": "claude-bot"
+  },
+  {
     "id": 1779961462676,
     "coin": "ETH/USD",
     "type": "SELL",
@@ -9,18 +21,6 @@
     "note": "Strong 4H downtrend with price well below both EMAs, extremely oversold RSI 23.6 on 4H suggests continuation after any minor bounce. Clear resistance at EMA20 around 2062. Use 1/3 position size.",
     "timestamp": "2026-05-28T09:44:16.805Z",
     "generated_at": "Thu, 28 May 2026 09:44:16 GMT",
-    "source": "claude-bot"
-  },
-  {
-    "id": 1779836475887,
-    "coin": "BTC/USD",
-    "type": "SELL",
-    "entry": "75642",
-    "tp": "72500",
-    "sl": "77000",
-    "note": "Strong 4H bearish trend with price below both EMAs, RSI 37.4 showing selling pressure but not oversold, clear resistance at 24h high $77881. Target support around $72500. Use 1/3 position size.",
-    "timestamp": "2026-05-26T23:01:08.240Z",
-    "generated_at": "Tue, 26 May 2026 23:01:08 GMT",
     "source": "claude-bot"
   }
 ]
