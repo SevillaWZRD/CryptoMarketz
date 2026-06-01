@@ -1,65 +1,65 @@
 {
-  "date": "Sunday May 31, 2026",
-  "generated": "2026-05-31T09:39:58.005652Z",
-  "brief": "# SPURS FEVER GRIPS MARKETS AS GEOPOLITICAL BETS COOL\n\n## The Signal\n\nNBA Finals sentiment just executed a violent 180. The Spurs' 64% Finals probability (+39% today on $1M volume) is screaming either: (a) sharp money got fresh intel on roster/injury status, or (b) retail is chasing narrative hard after a playoff statement. Either way, it's the day's loudest tell. Meanwhile, geopolitical risk is deflating across the board\u2014Iran peace deal, Cuba diplomacy, ceasefire extensions all shedding conviction. Smart money is rotating *out* of \"deal by May 31\" bets and into June timelines (Iran peace deal June 7 holds 12%), suggesting they're pricing in genuine negotiation stalls, not breakthroughs.\n\n## What's Moving the Needle\n\nThe diplomatic pullback matters more than the hoops action. Three separate Iran/Cuba markets contracting simultaneously on a Sunday suggests institutional players are hedging exposure ahead of likely negative Monday headlines (typically when geopolitical news drops stateside). The Spurs move is harder to read\u2014could be draft lottery intel trickling in, or just pure recency bias following their last game. The Knicks holding 35% while Spurs moon to 64% on same-day volume is *not* symmetric; someone's building conviction in San Antonio.\n\n## Watch List\n\n**1. US x Iran permanent peace deal by June 7** | Currently 12%, $711K volume | If this bleeds below 10% by market close, institutional capitulation is real. This is your barometer for whether smart money thinks negotiations are genuinely stalled or just slowing.\n\n**2. Spurs Finals win** | 64% | The volatility alone warrants tracking. If this holds above 60% through tomorrow, fresh information likely drove the move. If it reverts to 50s by Tuesday, it was retail euphoria.\n\n**3. Roland Garros WTA: Kostyuk vs Swiatek** | 32% for Kostyuk on $1.4M volume | High-volume sports market with real cash behind it. Use this as a sanity check on whether broader market is pricing fundamentals or noise.",
+  "date": "Monday June 01, 2026",
+  "generated": "2026-06-01T12:27:16.974914Z",
+  "brief": "# **ZIMR CAPITAL MARKET BRIEF | Monday, June 1, 2026**\n\n## HEADLINE\n**Espiella's Colombian coronation locks in; MicroStrategy Bitcoin dump odds spike 67% on May 31 deadline pass**\n\n---\n\n## ANALYSIS\n\nThe market delivered exactly what it priced in over the weekend. Abelardo de la Espriella's first-round Colombian presidential win moved to 99% (+76%) as final tallies confirmed dominance\u2014this wasn't a surprise swing but confirmation traders were waiting for. The real action: **MicroStrategy's May 31 Bitcoin sale probability jumped 67% to 84%** in the final 24 hours, suggesting either (a) institutional holders caught wind of liquidation pressure, or (b) the market finally priced in the company's Q2 earnings obligations. Watch the June 30 contract now at 99% (+27%)\u2014that's a *significant* repricing suggesting certainty is hardening around some form of MSTR Bitcoin movement this quarter.\n\nThe LoL/LPL playoffs bloodbath (Anyone's Legend down -70% across Game 1-3 markets, $3.8M wiped) tells a cleaner story: **Team WE is walking these markets.** Smart money appears to have loaded WE positions ahead of Sunday's action and is now selling into panicked retail tilting on the underdogs. Standard playoff volatility, but the symmetrical collapse across all three game markets signals coordinated unwinding rather than organic repricing.\n\nFIFA World Cup volume ($50M+ yesterday on cape Verde/Iraq/Haiti/New Zealand) remains pure noise\u2014liquidity aggregation on long-shot hedges. Ignore it. The **real edge is in geopolitical binary resolution**: US-Cuba meeting already locked (99%), but the Iran peace deal sitting at 6% with a June 7 deadline is under-explored. That's 6 days for potential surprise diplomatic movement.\n\n---\n\n## WATCH LIST\n\n1. **MSTR Bitcoin Sales (May 31 & June 30)** \u2014 The 67-point gap between May close (84%) and June contract (99%) is abnormal. Watch for company filings or analyst calls Monday that explain whether this is genuine conviction or technical positioning ahead of earnings.\n\n2. **US-Iran Permanent Peace Deal (by June 7)** \u2014 Priced at 6% with minimal volume. Before dismissing: any surprise UN General Assembly session or back-channel reports could swing this 200-300bps. Set alerts for State Dept statements.\n\n3. **Roland Garros WTA (Potapova vs Kalinskaya, down -64%)** \u2014 This match-odds collapse suggests early round exit for the 1% underdog. Confirm bracket positioning and head-to-head if you're hedging tennis exposure.",
   "top_movers": [
     {
-      "question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-      "prob": 64,
-      "change": 39.0,
+      "question": "LoL: Anyone's Legend vs Team WE (BO5) - LPL Playoffs",
+      "prob": 1,
+      "change": -80.5,
+      "vol24": "$1.5M",
+      "slug": "lol-al-we-2026-06-01"
+    },
+    {
+      "question": "Will Abelardo de la Espriella win the 1st round of the 2026 Colombian presidential election?",
+      "prob": 99,
+      "change": 76.0,
       "vol24": "$1.0M",
-      "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals"
+      "slug": "will-abelardo-de-la-espriella-win-the-1st-round-of-the-2026-colombian-presidential-election"
     },
     {
-      "question": "Will Botafogo FR win on 2026-05-30?",
+      "question": "LoL: Anyone's Legend vs Team WE - Game 1 Winner",
       "prob": 1,
-      "change": -24.4,
-      "vol24": "$354K",
-      "slug": "bra-bah-bot-2026-05-30-bot"
+      "change": -70.5,
+      "vol24": "$980K",
+      "slug": "lol-al-we-2026-06-01-game1"
     },
     {
-      "question": "LoL: HANJIN BRION vs Hanwha Life Esports - Game 1 Winner",
+      "question": "LoL: Anyone's Legend vs Team WE - Game 2 Winner",
       "prob": 1,
-      "change": -20.4,
-      "vol24": "$543K",
-      "slug": "lol-bro2-hle1-2026-05-31-game1"
+      "change": -68.5,
+      "vol24": "$1.1M",
+      "slug": "lol-al-we-2026-06-01-game2"
     },
     {
-      "question": "US x Cuba diplomatic meeting by May 31?",
-      "prob": 92,
-      "change": 14.1,
-      "vol24": "$462K",
-      "slug": "us-x-cuba-diplomatic-meeting-by-may-31-265"
-    },
-    {
-      "question": "LoL: HANJIN BRION vs Hanwha Life Esports - Game 2 Winner",
-      "prob": 2,
-      "change": -14.0,
-      "vol24": "$449K",
-      "slug": "lol-bro2-hle1-2026-05-31-game2"
+      "question": "LoL: Anyone's Legend vs Team WE - Game 3 Winner",
+      "prob": 1,
+      "change": -68.0,
+      "vol24": "$901K",
+      "slug": "lol-al-we-2026-06-01-game3"
     }
   ],
   "top_vol": [
     {
-      "question": "US x Iran permanent peace deal by May 31, 2026?",
-      "prob": 1,
-      "change": -3.0,
-      "vol24": "$2.8M",
-      "slug": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-241-192-799-449-125"
-    },
-    {
-      "question": "Will Congo DR win the 2026 FIFA World Cup?",
-      "prob": 1,
-      "change": -0.1,
-      "vol24": "$1.5M",
-      "slug": "will-congo-dr-win-the-2026-fifa-world-cup"
-    },
-    {
-      "question": "Will Ivory Coast win the 2026 FIFA World Cup?",
+      "question": "Will Cape Verde win the 2026 FIFA World Cup?",
       "prob": 1,
       "change": 0,
-      "vol24": "$1.5M",
-      "slug": "will-ivory-coast-win-the-2026-fifa-world-cup"
+      "vol24": "$10.8M",
+      "slug": "will-cape-verde-win-the-2026-fifa-world-cup"
+    },
+    {
+      "question": "Will Iraq win the 2026 FIFA World Cup?",
+      "prob": 1,
+      "change": 0,
+      "vol24": "$10.6M",
+      "slug": "will-iraq-win-the-2026-fifa-world-cup"
+    },
+    {
+      "question": "Will Qatar win the 2026 FIFA World Cup?",
+      "prob": 1,
+      "change": 0,
+      "vol24": "$10.1M",
+      "slug": "will-qatar-win-the-2026-fifa-world-cup"
     }
   ]
 }
