@@ -1,65 +1,65 @@
 {
-  "date": "Monday June 01, 2026",
-  "generated": "2026-06-01T12:27:16.974914Z",
-  "brief": "# **ZIMR CAPITAL MARKET BRIEF | Monday, June 1, 2026**\n\n## HEADLINE\n**Espiella's Colombian coronation locks in; MicroStrategy Bitcoin dump odds spike 67% on May 31 deadline pass**\n\n---\n\n## ANALYSIS\n\nThe market delivered exactly what it priced in over the weekend. Abelardo de la Espriella's first-round Colombian presidential win moved to 99% (+76%) as final tallies confirmed dominance\u2014this wasn't a surprise swing but confirmation traders were waiting for. The real action: **MicroStrategy's May 31 Bitcoin sale probability jumped 67% to 84%** in the final 24 hours, suggesting either (a) institutional holders caught wind of liquidation pressure, or (b) the market finally priced in the company's Q2 earnings obligations. Watch the June 30 contract now at 99% (+27%)\u2014that's a *significant* repricing suggesting certainty is hardening around some form of MSTR Bitcoin movement this quarter.\n\nThe LoL/LPL playoffs bloodbath (Anyone's Legend down -70% across Game 1-3 markets, $3.8M wiped) tells a cleaner story: **Team WE is walking these markets.** Smart money appears to have loaded WE positions ahead of Sunday's action and is now selling into panicked retail tilting on the underdogs. Standard playoff volatility, but the symmetrical collapse across all three game markets signals coordinated unwinding rather than organic repricing.\n\nFIFA World Cup volume ($50M+ yesterday on cape Verde/Iraq/Haiti/New Zealand) remains pure noise\u2014liquidity aggregation on long-shot hedges. Ignore it. The **real edge is in geopolitical binary resolution**: US-Cuba meeting already locked (99%), but the Iran peace deal sitting at 6% with a June 7 deadline is under-explored. That's 6 days for potential surprise diplomatic movement.\n\n---\n\n## WATCH LIST\n\n1. **MSTR Bitcoin Sales (May 31 & June 30)** \u2014 The 67-point gap between May close (84%) and June contract (99%) is abnormal. Watch for company filings or analyst calls Monday that explain whether this is genuine conviction or technical positioning ahead of earnings.\n\n2. **US-Iran Permanent Peace Deal (by June 7)** \u2014 Priced at 6% with minimal volume. Before dismissing: any surprise UN General Assembly session or back-channel reports could swing this 200-300bps. Set alerts for State Dept statements.\n\n3. **Roland Garros WTA (Potapova vs Kalinskaya, down -64%)** \u2014 This match-odds collapse suggests early round exit for the 1% underdog. Confirm bracket positioning and head-to-head if you're hedging tennis exposure.",
+  "date": "Tuesday June 02, 2026",
+  "generated": "2026-06-02T11:09:41.949468Z",
+  "brief": "# ZIMR CAPITAL MARKET BRIEF | Tuesday, June 2, 2026\n\n## Headline\n**MicroStrategy Bitcoin Dump Priced In; Roland Garros Andreeva Consensus Solidifies; Iran Peace Talks Hit Wall**\n\n---\n\n## Market Intelligence\n\n**The $123.5M MicroStrategy Bitcoin question just collapsed to 1%.** Smart money has effectively called it: Saylor's not selling. This was the highest volume market on Polymarket yesterday and today's -11.3% move signals conviction from sophisticated players who read the micro-signals (earnings calls, insider positioning) better than the crowd. The market had been fishing for a capitulation narrative; it didn't materialize.\n\n**WTA sentiment is crystallizing fast.** Mirra Andreeva vs Sorana Cirstea sitting at 99% (+36.4% today, $782K volume) suggests the match is functionally priced as a lock. This rare consensus on clay is notable\u2014either the smart money got early intel on draws/injuries, or Andreeva's form is undeniable. Watch for late money testing the edges; 99% markets are honeypots for sharp contrarian bettors.\n\n**Iran peace architecture is fragmenting across timeframes.** The June 7 deadline (6%, -1.0%, $3.3M vol) trades dramatically tighter than June 30 (26%, +2.0%, $594K vol). The 4-week spread suggests negotiators are nowhere near a 5-day resolution but markets see *some* possibility by month-end. The $3.3M volume on the tighter window shows where real conviction lives\u2014and it's thin. Geopolitical signals likely driving Strait of Hormuz traffic (22%, -3%) lower as risk-off sentiment prevails.\n\n---\n\n## Watch List\n\n1. **MicroStrategy Bitcoin ($123.5M)** \u2014 Monitor for any earnings surprise or public Saylor statements. This market just bottomed; if new shorts enter, it's a contrarian buy signal. Unlikely to move more than 2-3% absent major news.\n\n2. **US-Iran Peace Deal by June 7 ($3.3M, 6%)** \u2014 The deadline is *this week*. Any new talks announcement or UN statement moves this hard. Check UN/State Dept calendars today; if silence holds through Wednesday, the 6% floor might be the floor.\n\n3. **Roland Garros ATP: Jodar vs Zverev ($2.9M, 20%)** \u2014 Second-highest volume market that *hasn't* consensus-locked like Andreeva. 20% on Jodar suggests sharp disagreement on odds. Monitor weather (clay dries differently) and warm-up results; this is a spot for informed tennis bettors to extract value.\n\n---\n\n**ZIMR Capital | Markets update hourly. Positions update in real-time.**",
   "top_movers": [
     {
-      "question": "LoL: Anyone's Legend vs Team WE (BO5) - LPL Playoffs",
+      "question": "LoL: ThunderTalk Gaming vs LGD Gaming - Game 2 Winner",
       "prob": 1,
-      "change": -80.5,
-      "vol24": "$1.5M",
-      "slug": "lol-al-we-2026-06-01"
+      "change": -52.4,
+      "vol24": "$596K",
+      "slug": "lol-tt-lgd-2026-06-02-game2"
     },
     {
-      "question": "Will Abelardo de la Espriella win the 1st round of the 2026 Colombian presidential election?",
+      "question": "LoL: ThunderTalk Gaming vs LGD Gaming (BO5) - LPL Playoffs",
+      "prob": 10,
+      "change": -42.0,
+      "vol24": "$800K",
+      "slug": "lol-tt-lgd-2026-06-02"
+    },
+    {
+      "question": "Roland Garros WTA: Mirra Andreeva vs Sorana Cirstea",
       "prob": 99,
-      "change": 76.0,
-      "vol24": "$1.0M",
-      "slug": "will-abelardo-de-la-espriella-win-the-1st-round-of-the-2026-colombian-presidential-election"
+      "change": 36.4,
+      "vol24": "$782K",
+      "slug": "wta-andreev-cirstea-2026-06-02"
     },
     {
-      "question": "LoL: Anyone's Legend vs Team WE - Game 1 Winner",
+      "question": "MicroStrategy sells any Bitcoin by May 31, 2026?",
       "prob": 1,
-      "change": -70.5,
-      "vol24": "$980K",
-      "slug": "lol-al-we-2026-06-01-game1"
+      "change": -11.3,
+      "vol24": "$123.5M",
+      "slug": "microstrategy-sells-any-bitcoin-by-may-31-2026"
     },
     {
-      "question": "LoL: Anyone's Legend vs Team WE - Game 2 Winner",
-      "prob": 1,
-      "change": -68.5,
-      "vol24": "$1.1M",
-      "slug": "lol-al-we-2026-06-01-game2"
-    },
-    {
-      "question": "LoL: Anyone's Legend vs Team WE - Game 3 Winner",
-      "prob": 1,
-      "change": -68.0,
-      "vol24": "$901K",
-      "slug": "lol-al-we-2026-06-01-game3"
+      "question": "Roland Garros ATP: Rafael Jodar vs Alexander Zverev",
+      "prob": 20,
+      "change": -6.0,
+      "vol24": "$2.9M",
+      "slug": "atp-jodar-zverev-2026-06-02"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Cape Verde win the 2026 FIFA World Cup?",
+      "question": "MicroStrategy sells any Bitcoin by May 31, 2026?",
       "prob": 1,
-      "change": 0,
-      "vol24": "$10.8M",
-      "slug": "will-cape-verde-win-the-2026-fifa-world-cup"
+      "change": -11.3,
+      "vol24": "$123.5M",
+      "slug": "microstrategy-sells-any-bitcoin-by-may-31-2026"
     },
     {
-      "question": "Will Iraq win the 2026 FIFA World Cup?",
-      "prob": 1,
-      "change": 0,
-      "vol24": "$10.6M",
-      "slug": "will-iraq-win-the-2026-fifa-world-cup"
+      "question": "US x Iran permanent peace deal by June 7, 2026?",
+      "prob": 6,
+      "change": -1.0,
+      "vol24": "$3.3M",
+      "slug": "us-x-iran-permanent-peace-deal-by-june-7-2026"
     },
     {
-      "question": "Will Qatar win the 2026 FIFA World Cup?",
-      "prob": 1,
-      "change": 0,
-      "vol24": "$10.1M",
-      "slug": "will-qatar-win-the-2026-fifa-world-cup"
+      "question": "Roland Garros ATP: Rafael Jodar vs Alexander Zverev",
+      "prob": 20,
+      "change": -6.0,
+      "vol24": "$2.9M",
+      "slug": "atp-jodar-zverev-2026-06-02"
     }
   ]
 }
