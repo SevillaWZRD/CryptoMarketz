@@ -10,17 +10,5 @@
     "timestamp": "2026-06-02T15:58:27.282Z",
     "generated_at": "Tue, 02 Jun 2026 15:58:27 GMT",
     "source": "claude-bot"
-  },
-  {
-    "id": 1779961462676,
-    "coin": "ETH/USD",
-    "type": "SELL",
-    "entry": "1990",
-    "tp": "1850",
-    "sl": "2045",
-    "note": "Strong 4H downtrend with price well below both EMAs, extremely oversold RSI 23.6 on 4H suggests continuation after any minor bounce. Clear resistance at EMA20 around 2062. Use 1/3 position size.",
-    "timestamp": "2026-05-28T09:44:16.805Z",
-    "generated_at": "Thu, 28 May 2026 09:44:16 GMT",
-    "source": "claude-bot"
   }
 ]
