@@ -1,65 +1,65 @@
 {
-  "date": "Tuesday June 02, 2026",
-  "generated": "2026-06-02T11:09:41.949468Z",
-  "brief": "# ZIMR CAPITAL MARKET BRIEF | Tuesday, June 2, 2026\n\n## Headline\n**MicroStrategy Bitcoin Dump Priced In; Roland Garros Andreeva Consensus Solidifies; Iran Peace Talks Hit Wall**\n\n---\n\n## Market Intelligence\n\n**The $123.5M MicroStrategy Bitcoin question just collapsed to 1%.** Smart money has effectively called it: Saylor's not selling. This was the highest volume market on Polymarket yesterday and today's -11.3% move signals conviction from sophisticated players who read the micro-signals (earnings calls, insider positioning) better than the crowd. The market had been fishing for a capitulation narrative; it didn't materialize.\n\n**WTA sentiment is crystallizing fast.** Mirra Andreeva vs Sorana Cirstea sitting at 99% (+36.4% today, $782K volume) suggests the match is functionally priced as a lock. This rare consensus on clay is notable\u2014either the smart money got early intel on draws/injuries, or Andreeva's form is undeniable. Watch for late money testing the edges; 99% markets are honeypots for sharp contrarian bettors.\n\n**Iran peace architecture is fragmenting across timeframes.** The June 7 deadline (6%, -1.0%, $3.3M vol) trades dramatically tighter than June 30 (26%, +2.0%, $594K vol). The 4-week spread suggests negotiators are nowhere near a 5-day resolution but markets see *some* possibility by month-end. The $3.3M volume on the tighter window shows where real conviction lives\u2014and it's thin. Geopolitical signals likely driving Strait of Hormuz traffic (22%, -3%) lower as risk-off sentiment prevails.\n\n---\n\n## Watch List\n\n1. **MicroStrategy Bitcoin ($123.5M)** \u2014 Monitor for any earnings surprise or public Saylor statements. This market just bottomed; if new shorts enter, it's a contrarian buy signal. Unlikely to move more than 2-3% absent major news.\n\n2. **US-Iran Peace Deal by June 7 ($3.3M, 6%)** \u2014 The deadline is *this week*. Any new talks announcement or UN statement moves this hard. Check UN/State Dept calendars today; if silence holds through Wednesday, the 6% floor might be the floor.\n\n3. **Roland Garros ATP: Jodar vs Zverev ($2.9M, 20%)** \u2014 Second-highest volume market that *hasn't* consensus-locked like Andreeva. 20% on Jodar suggests sharp disagreement on odds. Monitor weather (clay dries differently) and warm-up results; this is a spot for informed tennis bettors to extract value.\n\n---\n\n**ZIMR Capital | Markets update hourly. Positions update in real-time.**",
+  "date": "Wednesday June 03, 2026",
+  "generated": "2026-06-03T11:48:52.335428Z",
+  "brief": "# POLYMARKET BRIEF | June 3, 2026\n\n## Market's Calling It: EDG/BIL Collapse & Iran Peace Deal Skepticism Intensifies\n\n**The Signal:** Massive capitulation in LPL playoffs betting across all three EDward Gaming/Bilibili markets (-8% to -21%), while geopolitical traders are quietly pricing out near-term US-Iran resolution. The real story? $126.6M still sitting on MicroStrategy Bitcoin liquidation (already resolved to 1%), suggesting lazy capital hasn't rotated out yet.\n\n**Smart Money Moves:** Volume flooding into WTA markets\u2014the Sabalenka/Shnaider line jumped to 90% (+3% today) on legitimate sentiment shift. Conversely, Iran peace deal buyers are bleeding: the June 7 deadline now at 4% (down 1.8%), June 15 at 12% (down 2%) despite $2.4M fresh volume yesterday. Geo traders reading new intelligence. The Seoul mayoral market (-16.9%, $787K) suggests emerging market political bets are getting repriced harder than usual\u2014watch for cascades.\n\n**The Misspricing:** Spencer Pratt LA mayoral at 12% looks artificially depressed on pure meme energy. If this is getting retail liquidated for portfolio balancing, there's edge on the contrarian side. Meanwhile, the Kalinskaya upset (1%, down -50% in a day) might've found a floor\u2014$2.3M in volume typically precedes mean reversion in tennis markets.\n\n---\n\n## WATCH LIST\n\n1. **MicroStrategy Bitcoin Liquidation** ($126.6M) \u2014 Monument to dead capital. Track for rotation into higher-conviction markets; signal of retail derisking if volume doesn't pick up.\n\n2. **US-Iran June 15 Peace Deal** ($2.4M) \u2014 Bleeding steadily. Next 48 hours critical; if it breaks below 10%, expect cascade liquidation. Geopolitical event risk is *real* pricing now, not fear.\n\n3. **EDG vs BIL BO5 Winner** (1%) \u2014 Fast capitulation. If Bilibili takes Game 2 decisively, expect further compression. Chinese esports markets are efficient; this action matters for broader LPL sentiment.",
   "top_movers": [
     {
-      "question": "LoL: ThunderTalk Gaming vs LGD Gaming - Game 2 Winner",
+      "question": "Roland Garros WTA: Anna Kalinskaya vs Maja Chwalinska",
       "prob": 1,
-      "change": -52.4,
-      "vol24": "$596K",
-      "slug": "lol-tt-lgd-2026-06-02-game2"
+      "change": -50.4,
+      "vol24": "$2.3M",
+      "slug": "wta-kalinsk-chwalin-2026-06-02"
     },
     {
-      "question": "LoL: ThunderTalk Gaming vs LGD Gaming (BO5) - LPL Playoffs",
-      "prob": 10,
-      "change": -42.0,
-      "vol24": "$800K",
-      "slug": "lol-tt-lgd-2026-06-02"
-    },
-    {
-      "question": "Roland Garros WTA: Mirra Andreeva vs Sorana Cirstea",
-      "prob": 99,
-      "change": 36.4,
-      "vol24": "$782K",
-      "slug": "wta-andreev-cirstea-2026-06-02"
-    },
-    {
-      "question": "MicroStrategy sells any Bitcoin by May 31, 2026?",
+      "question": "LoL: EDward Gaming vs Bilibili Gaming - Game 2 Winner",
       "prob": 1,
-      "change": -11.3,
-      "vol24": "$123.5M",
-      "slug": "microstrategy-sells-any-bitcoin-by-may-31-2026"
+      "change": -21.4,
+      "vol24": "$689K",
+      "slug": "lol-edg-blg-2026-06-03-game2"
     },
     {
-      "question": "Roland Garros ATP: Rafael Jodar vs Alexander Zverev",
-      "prob": 20,
-      "change": -6.0,
-      "vol24": "$2.9M",
-      "slug": "atp-jodar-zverev-2026-06-02"
+      "question": "LoL: EDward Gaming vs Bilibili Gaming - Game 3 Winner",
+      "prob": 2,
+      "change": -20.0,
+      "vol24": "$648K",
+      "slug": "lol-edg-blg-2026-06-03-game3"
+    },
+    {
+      "question": "Will Oh Se-hoon win the 2026 Seoul Mayoral Election",
+      "prob": 4,
+      "change": -16.9,
+      "vol24": "$787K",
+      "slug": "will-oh-se-hoon-win-the-2026-seoul-mayoral-election"
+    },
+    {
+      "question": "Will Spencer Pratt win the 2026 Los Angeles mayoral election?",
+      "prob": 12,
+      "change": -11.0,
+      "vol24": "$829K",
+      "slug": "will-spencer-pratt-win-the-2026-los-angeles-mayoral-election-983"
     }
   ],
   "top_vol": [
     {
       "question": "MicroStrategy sells any Bitcoin by May 31, 2026?",
       "prob": 1,
-      "change": -11.3,
-      "vol24": "$123.5M",
+      "change": -0.9,
+      "vol24": "$126.6M",
       "slug": "microstrategy-sells-any-bitcoin-by-may-31-2026"
     },
     {
-      "question": "US x Iran permanent peace deal by June 7, 2026?",
-      "prob": 6,
-      "change": -1.0,
-      "vol24": "$3.3M",
-      "slug": "us-x-iran-permanent-peace-deal-by-june-7-2026"
+      "question": "US x Iran permanent peace deal by June 15, 2026?",
+      "prob": 12,
+      "change": -2.0,
+      "vol24": "$2.4M",
+      "slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734-856-129"
     },
     {
-      "question": "Roland Garros ATP: Rafael Jodar vs Alexander Zverev",
-      "prob": 20,
-      "change": -6.0,
-      "vol24": "$2.9M",
-      "slug": "atp-jodar-zverev-2026-06-02"
+      "question": "Roland Garros WTA: Anna Kalinskaya vs Maja Chwalinska",
+      "prob": 1,
+      "change": -50.4,
+      "vol24": "$2.3M",
+      "slug": "wta-kalinsk-chwalin-2026-06-02"
     }
   ]
 }
