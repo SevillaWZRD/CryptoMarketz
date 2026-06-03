@@ -1,5 +1,17 @@
 [
   {
+    "id": 1780503366290,
+    "coin": "ETH/USD",
+    "type": "SELL",
+    "entry": "1834",
+    "tp": "1700",
+    "sl": "1890",
+    "note": "Strong 4H downtrend with price below both EMAs, 1H RSI at extreme oversold 19.3 but 4H RSI 28.3 allows continuation. Clear resistance at 24h high 1886. Risk/reward 1:2.4 acceptable given strong bearish momentum. Use 1/3 position size.",
+    "timestamp": "2026-06-03T16:16:00.861Z",
+    "generated_at": "Wed, 03 Jun 2026 16:16:00 GMT",
+    "source": "claude-bot"
+  },
+  {
     "id": 1780415911619,
     "coin": "BTC/USD",
     "type": "SELL",
