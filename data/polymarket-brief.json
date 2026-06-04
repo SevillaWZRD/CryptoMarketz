@@ -1,65 +1,65 @@
 {
-  "date": "Wednesday June 03, 2026",
-  "generated": "2026-06-03T11:48:52.335428Z",
-  "brief": "# POLYMARKET BRIEF | June 3, 2026\n\n## Market's Calling It: EDG/BIL Collapse & Iran Peace Deal Skepticism Intensifies\n\n**The Signal:** Massive capitulation in LPL playoffs betting across all three EDward Gaming/Bilibili markets (-8% to -21%), while geopolitical traders are quietly pricing out near-term US-Iran resolution. The real story? $126.6M still sitting on MicroStrategy Bitcoin liquidation (already resolved to 1%), suggesting lazy capital hasn't rotated out yet.\n\n**Smart Money Moves:** Volume flooding into WTA markets\u2014the Sabalenka/Shnaider line jumped to 90% (+3% today) on legitimate sentiment shift. Conversely, Iran peace deal buyers are bleeding: the June 7 deadline now at 4% (down 1.8%), June 15 at 12% (down 2%) despite $2.4M fresh volume yesterday. Geo traders reading new intelligence. The Seoul mayoral market (-16.9%, $787K) suggests emerging market political bets are getting repriced harder than usual\u2014watch for cascades.\n\n**The Misspricing:** Spencer Pratt LA mayoral at 12% looks artificially depressed on pure meme energy. If this is getting retail liquidated for portfolio balancing, there's edge on the contrarian side. Meanwhile, the Kalinskaya upset (1%, down -50% in a day) might've found a floor\u2014$2.3M in volume typically precedes mean reversion in tennis markets.\n\n---\n\n## WATCH LIST\n\n1. **MicroStrategy Bitcoin Liquidation** ($126.6M) \u2014 Monument to dead capital. Track for rotation into higher-conviction markets; signal of retail derisking if volume doesn't pick up.\n\n2. **US-Iran June 15 Peace Deal** ($2.4M) \u2014 Bleeding steadily. Next 48 hours critical; if it breaks below 10%, expect cascade liquidation. Geopolitical event risk is *real* pricing now, not fear.\n\n3. **EDG vs BIL BO5 Winner** (1%) \u2014 Fast capitulation. If Bilibili takes Game 2 decisively, expect further compression. Chinese esports markets are efficient; this action matters for broader LPL sentiment.",
+  "date": "Thursday June 04, 2026",
+  "generated": "2026-06-04T10:31:13.520844Z",
+  "brief": "# POLYMARKET BRIEFING | Thursday, June 4, 2026\n\n## Headline\n**Middle East Peace Premium Collides with Bitcoin Reality Check as NBA Futures Flip**\n\n---\n\n## The Signal\n\nThe market is pricing in a meaningful shift toward ceasefire stabilization in the Middle East\u2014Israel's Lebanon extension bet rocketed 74% to 99% in 24 hours on $1.4M volume, signaling either fresh intelligence or coordinated positioning ahead of the June 7 deadline. This is a confidence move, not noise.\n\nConversely, Bitcoin's 54% prompt is cratering (-43.4%), suggesting either liquidation pressure or a clean repricing below $62K as of market close yesterday. The $1M volume is meaningful but modest\u2014watch if this stabilizes below 50% or bounces on any Asia-AM strength.\n\nThe NBA Finals picture has inverted: Knicks now favorite (53%, +18%) over Spurs (47%, -18%) on $2.4M combined volume. This tracks real series momentum or recent injury/roster news. The direct Knicks-Spurs matchup (34%) sits underpriced relative to individual probabilities\u2014arb opportunity for sharp bettors.\n\n**Smart money signal**: World Cup exotics are absorbing massive liquidity ($26M across Congo DR, Australia, Croatia, Ghana, Ivory Coast combined) at 1% odds. This is either entertainment-driven retail OR a sophisticated hedge play on specific regional narratives (African qualification narratives, CONCACAF dark horses). Monitor for any shift here.\n\n---\n\n## Watch List Today\n\n1. **Israel/Lebanon ceasefire (99%)** \u2014 At extreme conviction, watch for any diplomatic headlines. A single setback tanks this hard. Asymmetric risk.\n\n2. **Bitcoin $62K prompt** \u2014 Critical support level. Break below 50% could signal deeper macro weakness; hold above 55% suggests stabilization.\n\n3. **Knicks-Spurs Finals matchup (34%)** \u2014 Currently undervalued vs. sum of parts. If one team's odds compress further, this direct market should widen. Efficient betting opportunity.",
   "top_movers": [
     {
-      "question": "Roland Garros WTA: Anna Kalinskaya vs Maja Chwalinska",
-      "prob": 1,
-      "change": -50.4,
-      "vol24": "$2.3M",
-      "slug": "wta-kalinsk-chwalin-2026-06-02"
+      "question": "Israel announces Lebanon ceasefire extension by June 7?",
+      "prob": 99,
+      "change": 74.4,
+      "vol24": "$1.4M",
+      "slug": "israel-announces-lebanon-ceasefire-extension-by-june-7"
     },
     {
-      "question": "LoL: EDward Gaming vs Bilibili Gaming - Game 2 Winner",
-      "prob": 1,
-      "change": -21.4,
-      "vol24": "$689K",
-      "slug": "lol-edg-blg-2026-06-03-game2"
+      "question": "Will the price of Bitcoin be above $62,000 on June 4?",
+      "prob": 54,
+      "change": -43.4,
+      "vol24": "$1.0M",
+      "slug": "bitcoin-above-62k-on-june-4-2026-493"
     },
     {
-      "question": "LoL: EDward Gaming vs Bilibili Gaming - Game 3 Winner",
-      "prob": 2,
-      "change": -20.0,
-      "vol24": "$648K",
-      "slug": "lol-edg-blg-2026-06-03-game3"
+      "question": "Will the New York Knicks win the 2026 NBA Finals?",
+      "prob": 53,
+      "change": 18.0,
+      "vol24": "$1.5M",
+      "slug": "will-the-new-york-knicks-win-the-2026-nba-finals"
     },
     {
-      "question": "Will Oh Se-hoon win the 2026 Seoul Mayoral Election",
-      "prob": 4,
-      "change": -16.9,
-      "vol24": "$787K",
-      "slug": "will-oh-se-hoon-win-the-2026-seoul-mayoral-election"
+      "question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+      "prob": 47,
+      "change": -18.0,
+      "vol24": "$906K",
+      "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals"
     },
     {
-      "question": "Will Spencer Pratt win the 2026 Los Angeles mayoral election?",
-      "prob": 12,
-      "change": -11.0,
-      "vol24": "$829K",
-      "slug": "will-spencer-pratt-win-the-2026-los-angeles-mayoral-election-983"
+      "question": "Knicks vs. Spurs",
+      "prob": 34,
+      "change": -4.0,
+      "vol24": "$987K",
+      "slug": "nba-nyk-sas-2026-06-05"
     }
   ],
   "top_vol": [
     {
-      "question": "MicroStrategy sells any Bitcoin by May 31, 2026?",
+      "question": "Will Australia win the 2026 FIFA World Cup?",
       "prob": 1,
-      "change": -0.9,
-      "vol24": "$126.6M",
-      "slug": "microstrategy-sells-any-bitcoin-by-may-31-2026"
+      "change": 0,
+      "vol24": "$9.9M",
+      "slug": "will-australia-win-the-2026-fifa-world-cup-816"
     },
     {
-      "question": "US x Iran permanent peace deal by June 15, 2026?",
-      "prob": 12,
-      "change": -2.0,
-      "vol24": "$2.4M",
-      "slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734-856-129"
+      "question": "Will Congo DR win the 2026 FIFA World Cup?",
+      "prob": 1,
+      "change": 0,
+      "vol24": "$6.5M",
+      "slug": "will-congo-dr-win-the-2026-fifa-world-cup"
     },
     {
-      "question": "Roland Garros WTA: Anna Kalinskaya vs Maja Chwalinska",
+      "question": "Will Croatia win the 2026 FIFA World Cup?",
       "prob": 1,
-      "change": -50.4,
-      "vol24": "$2.3M",
-      "slug": "wta-kalinsk-chwalin-2026-06-02"
+      "change": 0,
+      "vol24": "$3.1M",
+      "slug": "will-croatia-win-the-2026-fifa-world-cup"
     }
   ]
 }
