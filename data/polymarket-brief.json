@@ -1,65 +1,65 @@
 {
-  "date": "Thursday June 04, 2026",
-  "generated": "2026-06-04T10:31:13.520844Z",
-  "brief": "# POLYMARKET BRIEFING | Thursday, June 4, 2026\n\n## Headline\n**Middle East Peace Premium Collides with Bitcoin Reality Check as NBA Futures Flip**\n\n---\n\n## The Signal\n\nThe market is pricing in a meaningful shift toward ceasefire stabilization in the Middle East\u2014Israel's Lebanon extension bet rocketed 74% to 99% in 24 hours on $1.4M volume, signaling either fresh intelligence or coordinated positioning ahead of the June 7 deadline. This is a confidence move, not noise.\n\nConversely, Bitcoin's 54% prompt is cratering (-43.4%), suggesting either liquidation pressure or a clean repricing below $62K as of market close yesterday. The $1M volume is meaningful but modest\u2014watch if this stabilizes below 50% or bounces on any Asia-AM strength.\n\nThe NBA Finals picture has inverted: Knicks now favorite (53%, +18%) over Spurs (47%, -18%) on $2.4M combined volume. This tracks real series momentum or recent injury/roster news. The direct Knicks-Spurs matchup (34%) sits underpriced relative to individual probabilities\u2014arb opportunity for sharp bettors.\n\n**Smart money signal**: World Cup exotics are absorbing massive liquidity ($26M across Congo DR, Australia, Croatia, Ghana, Ivory Coast combined) at 1% odds. This is either entertainment-driven retail OR a sophisticated hedge play on specific regional narratives (African qualification narratives, CONCACAF dark horses). Monitor for any shift here.\n\n---\n\n## Watch List Today\n\n1. **Israel/Lebanon ceasefire (99%)** \u2014 At extreme conviction, watch for any diplomatic headlines. A single setback tanks this hard. Asymmetric risk.\n\n2. **Bitcoin $62K prompt** \u2014 Critical support level. Break below 50% could signal deeper macro weakness; hold above 55% suggests stabilization.\n\n3. **Knicks-Spurs Finals matchup (34%)** \u2014 Currently undervalued vs. sum of parts. If one team's odds compress further, this direct market should widen. Efficient betting opportunity.",
+  "date": "Friday June 05, 2026",
+  "generated": "2026-06-05T10:38:50.605216Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | Friday, June 5, 2026\n\n## \"African Dark Horse Betting Explodes While Iran Peace Odds Crumble\"\n\nThe market is rotating hard into African World Cup longshots\u2014Congo DR, Ivory Coast, and Egypt are absorbing massive capital ($12.5M, $5.9M, $3.5M respectively) despite microscopic win probabilities. Meanwhile, geopolitical optimism is evaporating: Iran peace deals have collapsed from 15%+ territory to single digits in 72 hours, signaling either genuine deterioration in negotiations or smart money derisking ahead of a Friday news cycle.\n\nThe Legend vs LGD spike (+22.4%) looks like retail FOMO on League esports rather than substantive value\u2014$585K volume is thin for a 99% market. More interesting: the Hunter Biden 2028 nom is quietly consolidating at 3% on $2.6M volume, suggesting sophisticated players aren't pricing him out despite the low odds (unusual conviction in a true longshot). The NBA/soccer markets are flat, indicating these aren't driving sentiment today.\n\n**The real signal:** $22.9M+ is flowing into African football bets while geopolitical markets deflate. Either there's genuine \"value\" thesis on underdog World Cup nations (unlikely) or this is wash trading/manipulation testing market depths. Watch if these African markets hold or reverse sharply.\n\n---\n\n## WATCH LIST\n\n**1. US x Iran peace deal by June 7 vs June 15**  \nMassive divergence (3% vs 12%) with synchronized volume decay. If a Friday announcement comes, the spread will crater instantly\u2014front-run before news hits.\n\n**2. Congo DR/Ivory Coast World Cup props**  \n$18.4M combined volume on 1% markets screams artificial liquidity or informed positioning. If this reverses, it signals either coordination unwind or major news. Track order flow.\n\n**3. Hunter Biden 2028 nom**  \n$2.6M on 3% suggests true believers remain. Monitor if this breaks above 5%\u2014would indicate narrative shift in Dem primary sentiment.",
   "top_movers": [
     {
-      "question": "Israel announces Lebanon ceasefire extension by June 7?",
+      "question": "LoL: Anyone's Legend vs LGD Gaming - Game 1 Winner",
       "prob": 99,
-      "change": 74.4,
-      "vol24": "$1.4M",
-      "slug": "israel-announces-lebanon-ceasefire-extension-by-june-7"
+      "change": 22.4,
+      "vol24": "$585K",
+      "slug": "lol-al-lgd-2026-06-05-game1"
     },
     {
-      "question": "Will the price of Bitcoin be above $62,000 on June 4?",
-      "prob": 54,
-      "change": -43.4,
-      "vol24": "$1.0M",
-      "slug": "bitcoin-above-62k-on-june-4-2026-493"
+      "question": "US x Iran permanent peace deal by June 15, 2026?",
+      "prob": 12,
+      "change": -3.0,
+      "vol24": "$1.2M",
+      "slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734-856-129"
     },
     {
-      "question": "Will the New York Knicks win the 2026 NBA Finals?",
-      "prob": 53,
-      "change": 18.0,
-      "vol24": "$1.5M",
-      "slug": "will-the-new-york-knicks-win-the-2026-nba-finals"
+      "question": "Will Hunter Biden win the 2028 Democratic presidential nomination?",
+      "prob": 3,
+      "change": 2.6,
+      "vol24": "$2.6M",
+      "slug": "will-person-a-win-the-2028-democratic-presidential-nomination"
     },
     {
-      "question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-      "prob": 47,
-      "change": -18.0,
-      "vol24": "$906K",
-      "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals"
+      "question": "US x Iran permanent peace deal by June 7, 2026?",
+      "prob": 3,
+      "change": -1.4,
+      "vol24": "$1.3M",
+      "slug": "us-x-iran-permanent-peace-deal-by-june-7-2026"
     },
     {
-      "question": "Knicks vs. Spurs",
-      "prob": 34,
-      "change": -4.0,
-      "vol24": "$987K",
-      "slug": "nba-nyk-sas-2026-06-05"
+      "question": "Will France win the 2026 FIFA World Cup?",
+      "prob": 16,
+      "change": -1.1,
+      "vol24": "$845K",
+      "slug": "will-france-win-the-2026-fifa-world-cup-924"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Australia win the 2026 FIFA World Cup?",
-      "prob": 1,
-      "change": 0,
-      "vol24": "$9.9M",
-      "slug": "will-australia-win-the-2026-fifa-world-cup-816"
-    },
-    {
       "question": "Will Congo DR win the 2026 FIFA World Cup?",
       "prob": 1,
       "change": 0,
-      "vol24": "$6.5M",
+      "vol24": "$12.5M",
       "slug": "will-congo-dr-win-the-2026-fifa-world-cup"
     },
     {
-      "question": "Will Croatia win the 2026 FIFA World Cup?",
+      "question": "Will Ivory Coast win the 2026 FIFA World Cup?",
       "prob": 1,
-      "change": 0,
-      "vol24": "$3.1M",
-      "slug": "will-croatia-win-the-2026-fifa-world-cup"
+      "change": 0.1,
+      "vol24": "$5.9M",
+      "slug": "will-ivory-coast-win-the-2026-fifa-world-cup"
+    },
+    {
+      "question": "Will Egypt win the 2026 FIFA World Cup?",
+      "prob": 1,
+      "change": -0.1,
+      "vol24": "$3.5M",
+      "slug": "will-egypt-win-the-2026-fifa-world-cup"
     }
   ]
 }
