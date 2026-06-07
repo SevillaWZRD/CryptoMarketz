@@ -1,65 +1,65 @@
 {
-  "date": "Saturday June 06, 2026",
-  "generated": "2026-06-06T09:15:27.612056Z",
-  "brief": "# ZIMR DAILY BRIEF | Saturday, June 6, 2026\n\n## \"Knicks Fever Breaks Through\u2014NBA Finals Narrative Flips Hard\"\n\nThe market just priced in a seismic shift in NBA Finals odds. The Knicks exploded +25.8% to 79% in 24 hours on $1.1M volume, while the Spurs cratered -25.6% to 21%\u2014a complete 58-point swing in relative positioning. This isn't noise. Smart money is rotating *hard* into New York, suggesting either late-breaking injury news on San Antonio's side or a critical playoff development the market is frontrunning. The Spurs-Knicks head-to-head matchup (46%) has barely moved, which is the tell: traders aren't hedging a Finals matchup\u2014they're betting against one team entirely.\n\nThe LoL markets are printing money for early buyers. Dplus KIA's Game 1 winner hit 99% (+33.5%) and the series itself sits at 90%, suggesting overwhelming confidence in a clean sweep narrative. $685K moved into Game 1 alone\u2014that's conviction, not casual betting. This is what pre-game consensus looks like when one team is viewed as prohibitively favored.\n\nOn geopolitics, the Iran peace deal markets remain deep value plays. The June 7 deadline sits at 1% on $1.1M\u2014genuinely terminal odds. Meanwhile, the June 15 version at 8% ($1.5M) still looks like it's pricing in \"nuclear deal or nothing.\" Most traders have clearly given up on near-term resolution. The Lebanon ceasefire extension (99%, $4.3M) is locked in\u2014that's a done deal being warehoused by institutional holders.\n\n---\n\n## WATCH LIST\n\n**1. Knicks Finals odds (79%) | Monitor for reversal or continuation**\nIf this holds above 75% into tomorrow, the move is real and the Spurs are genuinely broken. If it drifts back toward 65%, it was a whale buying spike. Either way, material price action incoming.\n\n**2. Roland Garros WTA: Chwalinska vs Andreeva (18%, $2.9M)**\nHighest volume outside geopolitics. Andreeva is priced as heavy underdog\u2014worth checking live odds vs. court dynamics. Tournament upsets are plausible here.\n\n**3. US-Iran June 7 peace deal (1%, $1.1M) | Tail for black swan**\nTerminal pricing but $1.1M still moving. Any weekend diplomatic chatter pushes this 2-3x instantly. Asymmetric risk/reward for patient traders.",
+  "date": "Sunday June 07, 2026",
+  "generated": "2026-06-07T09:54:12.398976Z",
+  "brief": "# KNICKS CORONATION STEADY; GEOPOLITICAL RISK REPRICES LOWER\n\nThe market's conviction on a Knicks championship remains rock-solid despite minor profit-taking, while Iran peace deal odds are collapsing as the June 7 deadline arrives with zero diplomatic breakthroughs. Sports markets dominate volume, but geopolitical risk is quietly shifting\u2014and that usually matters.\n\n**The Setup:** Knicks sit at 79% to win it all, down just 0.6% despite $802K in volume\u2014classic distribution by confident holders, not capitulation. The Spurs counterplay at 22% (+1.0%) is the real story; smart money appears to be hedging via San Antonio rather than selling Knicks outright. The Spurs-Knicks head-to-head at 46% ($4.6M volume) is the meta-trade here\u2014that's where the real conviction lives. Meanwhile, the Iran permanent peace deal by June 15 sits at 6% (down 1%), but the June 7 deadline contract has cratered to 1%\u2014revealing hard reality: no deal is getting done in the next 18 hours. The -1.7% combined bleed on both Iran contracts suggests this outcome was already priced as a tail risk, not a working thesis.\n\n**What's Moving:** The Lebanon ceasefire extension (99%, $3M volume) is the safe-haven trade\u2014nobody's shorting diplomatic stability wins. Expect that to hold. Taiwan invasion risk ticked up +0.6% on modest $1.4M volume\u2014not panic, but data-dependent traders are watching. The Crosby-to-Panthers market (+2.2%, only 3% odds) is illiquid noise; ignore it.\n\n## WATCH LIST\n\n1. **Spurs vs. Knicks (46%)** \u2014 $4.6M volume suggests this is the real Finals arbiter. If Knicks slip below 76%, Spurs could spike to 28%+. Liquidation pressure or genuine hedging? Monitor spreads.\n\n2. **Iran Peace Deal by June 15 (6%)** \u2014 Watch for any after-hours news. Currently underwater, but if negotiations restart mid-week, this reprices 3-5% instantly. Tail risk with asymmetric upside.\n\n3. **Taiwan Invasion by EOY (7%)** \u2014 Small tick up suggests geopolitical traders are waking up. Monitor alongside any China-US trade headlines; could signal vol expansion in broader conflict markets.",
   "top_movers": [
     {
-      "question": "LoL: Dplus KIA vs HANJIN BRION - Game 1 Winner",
-      "prob": 99,
-      "change": 33.5,
-      "vol24": "$685K",
-      "slug": "lol-dk-bro2-2026-06-06-game1"
+      "question": "Roland Garros ATP: Flavio Cobolli vs Alexander Zverev",
+      "prob": 20,
+      "change": -3.0,
+      "vol24": "$2.8M",
+      "slug": "atp-cobolli-zverev-2026-06-07"
     },
     {
-      "question": "Will the New York Knicks win the 2026 NBA Finals?",
-      "prob": 79,
-      "change": 25.8,
-      "vol24": "$1.1M",
-      "slug": "will-the-new-york-knicks-win-the-2026-nba-finals"
-    },
-    {
-      "question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-      "prob": 21,
-      "change": -25.6,
-      "vol24": "$1.1M",
-      "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals"
-    },
-    {
-      "question": "LoL: Dplus KIA vs HANJIN BRION (BO5) - LCK Road to MSI",
-      "prob": 90,
-      "change": 14.0,
-      "vol24": "$670K",
-      "slug": "lol-dk-bro2-2026-06-06"
+      "question": "Will Maxx Crosby play for Carolina Panthers next?",
+      "prob": 3,
+      "change": 2.2,
+      "vol24": "$841K",
+      "slug": "will-maxx-crosby-play-for-carolina-panthers-next"
     },
     {
       "question": "US x Iran permanent peace deal by June 15, 2026?",
-      "prob": 8,
-      "change": -6.0,
-      "vol24": "$1.5M",
+      "prob": 6,
+      "change": -1.0,
+      "vol24": "$909K",
       "slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734-856-129"
+    },
+    {
+      "question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+      "prob": 22,
+      "change": 1.0,
+      "vol24": "$733K",
+      "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals"
+    },
+    {
+      "question": "US x Iran permanent peace deal by June 7, 2026?",
+      "prob": 1,
+      "change": -0.7,
+      "vol24": "$872K",
+      "slug": "us-x-iran-permanent-peace-deal-by-june-7-2026"
     }
   ],
   "top_vol": [
     {
+      "question": "Spurs vs. Knicks",
+      "prob": 46,
+      "change": 0,
+      "vol24": "$4.6M",
+      "slug": "nba-sas-nyk-2026-06-08"
+    },
+    {
       "question": "Israel announces Lebanon ceasefire extension by June 7?",
       "prob": 99,
-      "change": 0.1,
-      "vol24": "$4.3M",
+      "change": 0,
+      "vol24": "$3.0M",
       "slug": "israel-announces-lebanon-ceasefire-extension-by-june-7"
     },
     {
-      "question": "Will Congo DR win the 2026 FIFA World Cup?",
-      "prob": 1,
-      "change": 0.1,
-      "vol24": "$3.5M",
-      "slug": "will-congo-dr-win-the-2026-fifa-world-cup"
-    },
-    {
-      "question": "Will Egypt win the 2026 FIFA World Cup?",
-      "prob": 1,
-      "change": 0.1,
-      "vol24": "$3.1M",
-      "slug": "will-egypt-win-the-2026-fifa-world-cup"
+      "question": "Roland Garros ATP: Flavio Cobolli vs Alexander Zverev",
+      "prob": 20,
+      "change": -3.0,
+      "vol24": "$2.8M",
+      "slug": "atp-cobolli-zverev-2026-06-07"
     }
   ]
 }
