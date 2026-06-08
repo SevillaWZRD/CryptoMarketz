@@ -2963,6 +2963,8 @@ a:focus-visible,button:focus-visible,input:focus-visible{
         <svg viewBox="0 0 24 24" style="width:14px;height:14px;stroke:currentColor;fill:none;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0;opacity:.65"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12 8l4 4-4 4"/></svg>Polymarket</a></li>
       <li><a href="#" onclick="goPage('early-signals',this);return false;" style="display:flex;align-items:center;gap:10px;padding:9px 12px;border-radius:8px;font-size:12.5px;font-weight:700;color:#9b59d6;text-decoration:none;border:1px solid transparent;transition:all .15s;margin-bottom:2px;" onmouseenter="this.style.background='rgba(155,89,214,.1)';this.style.borderColor='rgba(155,89,214,.3)'" onmouseleave="this.style.background='';this.style.borderColor='transparent'">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="width:14px;height:14px;flex-shrink:0;opacity:.9"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/><path d="M11 8v6M8 11h6"/></svg>Early Signals <span style="font-size:7px;background:rgba(155,89,214,.2);color:#9b59d6;border:1px solid rgba(155,89,214,.4);padding:1px 5px;border-radius:3px;margin-left:2px;">X10</span></a></li>
+      <li><a href="#" onclick="goPage('radar',this);return false;" style="display:flex;align-items:center;gap:10px;padding:9px 12px;border-radius:8px;font-size:12.5px;font-weight:700;color:#9b59d6;text-decoration:none;border:1px solid transparent;transition:all .15s;margin-bottom:2px;" onmouseenter="this.style.background='rgba(155,89,214,.1)';this.style.borderColor='rgba(155,89,214,.3)'" onmouseleave="this.style.background='';this.style.borderColor='transparent'">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="width:14px;height:14px;flex-shrink:0;opacity:.9"><circle cx="12" cy="12" r="3"/><circle cx="12" cy="12" r="9"/><path d="M12 3v3M12 18v3M3 12h3M18 12h3"/></svg>Attention Radar <span style="font-size:7px;background:rgba(155,89,214,.2);color:#9b59d6;border:1px solid rgba(155,89,214,.4);padding:1px 5px;border-radius:3px;margin-left:2px;">AI</span></a></li>
 
 
     </ul>
@@ -3096,7 +3098,16 @@ a:focus-visible,button:focus-visible,input:focus-visible{
             <div class="dhb-cta">Open full brief →</div>
           </div>
 
-
+          <!-- Attention Radar (compact) -->
+          <div class="dh-card" style="position:relative;padding:18px;margin-top:12px">
+            <div class="dh-glow" style="background:radial-gradient(ellipse at top left,rgba(155,89,214,.1),transparent 65%);"></div>
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px">
+              <div class="dhb-kicker">ATTENTION RADAR</div>
+              <button id="radar-dash-scan" onclick="radarScanDash()" style="padding:6px 14px;border-radius:7px;border:1px solid rgba(155,89,214,.3);cursor:pointer;background:rgba(155,89,214,.12);color:#9b59d6;font-size:11px;font-weight:700;font-family:'Inter',sans-serif">Scan</button>
+            </div>
+            <div id="radar-dash-out" style="font-size:12.5px;color:var(--sub,#8a8078);line-height:1.5">Tap scan to see where attention is shifting right now, across crypto and stocks.</div>
+            <div class="dhb-cta" style="margin-top:10px;cursor:pointer" onclick="goPage('radar',null)">Open full radar →</div>
+          </div>
 
         </div>
       </div>
@@ -4982,6 +4993,31 @@ a:focus-visible,button:focus-visible,input:focus-visible{
         </div>
       </div>
     </div>
+
+<!-- ═══ ATTENTION RADAR ═══ -->
+    <div class="page" id="page-radar">
+      <div class="ph"><h1>Attention Radar</h1><p>A scout, not an oracle. It puts candidates on your radar with the facts attached. The judgement stays yours.</p></div>
+      <div class="card" style="padding:20px;margin-bottom:14px">
+        <div style="display:flex;gap:8px;margin-bottom:12px;flex-wrap:wrap" id="radar-markets">
+          <button class="radar-mbtn" data-m="crypto" onclick="radarSetMarket('crypto',this)">Crypto</button>
+          <button class="radar-mbtn" data-m="aandelen" onclick="radarSetMarket('aandelen',this)">Stocks</button>
+          <button class="radar-mbtn radar-active" data-m="allebei" onclick="radarSetMarket('allebei',this)">Both</button>
+        </div>
+        <div style="display:flex;gap:8px">
+          <input id="radar-focus" placeholder="Optional: sector or theme (e.g. AI chips, layer 2, biotech)" style="flex:1;padding:11px 14px;border-radius:8px;background:#0f0f0f;border:1px solid #1c1c1c;color:#e8e8e8;font-size:13px;outline:none;font-family:'Inter',sans-serif">
+          <button id="radar-scan" onclick="radarScan()" style="padding:11px 22px;border-radius:8px;border:none;cursor:pointer;background:#9b59d6;color:#fff;font-size:13px;font-weight:700;white-space:nowrap;font-family:'Inter',sans-serif">Scan</button>
+        </div>
+      </div>
+      <div id="radar-out"></div>
+      <style>
+        .radar-mbtn{padding:8px 16px;border-radius:8px;cursor:pointer;font-size:13px;font-weight:600;border:1px solid #1c1c1c;background:#0f0f0f;color:#6b6b6b;font-family:'Inter',sans-serif}
+        .radar-mbtn.radar-active{border-color:#9b59d6;background:rgba(155,89,214,.1);color:#e8e8e8}
+        .radar-card{padding:18px;border-radius:10px;background:#0f0f0f;border:1px solid #1c1c1c;margin-bottom:12px}
+        .radar-spin{display:inline-block;animation:radarspin 1s linear infinite}
+        @keyframes radarspin{to{transform:rotate(360deg)}}
+      </style>
+    </div>
+
 
 <!-- ═══ ADMIN ═══ -->
     <div class="page" id="page-admin">
@@ -8471,4 +8507,195 @@ async function esRunScan(){
     };
   }
 })();
+</script>
+
+<!-- ═══ ATTENTION RADAR LOGIC ═══ -->
+<script>
+var radarMarket = 'allebei';
+function radarSetMarket(m, btn){
+  radarMarket = m;
+  document.querySelectorAll('.radar-mbtn').forEach(function(b){ b.classList.remove('radar-active'); });
+  if(btn) btn.classList.add('radar-active');
+}
+
+function radarFeeds(){
+  var crypto = [
+    {name:'CoinTelegraph', url:'https://cointelegraph.com/rss'},
+    {name:'CoinDesk', url:'https://www.coindesk.com/arc/outboundfeeds/rss/'},
+    {name:'Decrypt', url:'https://decrypt.co/feed'}
+  ];
+  var stocks = [
+    {name:'Yahoo Finance', url:'https://finance.yahoo.com/news/rssindex'},
+    {name:'MarketWatch', url:'http://feeds.marketwatch.com/marketwatch/topstories/'},
+    {name:'CNBC', url:'https://www.cnbc.com/id/100003114/device/rss/rss.html'}
+  ];
+  if(radarMarket === 'crypto') return crypto;
+  if(radarMarket === 'aandelen') return stocks;
+  return crypto.concat(stocks);
+}
+
+function radarEsc(s){ var d=document.createElement('div'); d.textContent = (s==null?'':s); return d.innerHTML; }
+
+async function radarScan(){
+  var btn = document.getElementById('radar-scan');
+  var out = document.getElementById('radar-out');
+  btn.disabled = true;
+  out.innerHTML = '<div style="color:#6b6b6b;font-size:13px;padding:18px 0;font-family:\'Inter\',sans-serif"><span class="radar-spin">◠</span>&nbsp; Scanning live headlines...</div>';
+
+  // 1) Pull live headlines from your own feeds
+  var feeds = radarFeeds();
+  var groups = await Promise.all(feeds.map(function(f){
+    try { return fetchFeedWithFallback(f.url, f.name); } catch(e){ return Promise.resolve([]); }
+  }));
+  var all = [];
+  groups.forEach(function(g){ all = all.concat(g || []); });
+  all.sort(function(a,b){ return b.date - a.date; });
+  var heads = all.slice(0, 45).map(function(i){ return '- ['+i.src+'] '+i.title; }).join('\n');
+
+  // 2) Ask Claude (via your existing /api/chat proxy) to spot where attention is shifting
+  var focus = (document.getElementById('radar-focus').value || '').trim();
+  var marketText = radarMarket === 'aandelen' ? 'stocks and upcoming IPOs'
+    : radarMarket === 'crypto' ? 'crypto (tokens, listings, funding rounds)'
+    : 'both stocks/IPOs and crypto';
+  var focusText = focus ? (' Focus specifically on: ' + focus + '.') : '';
+
+  var prompt = 'You are a market scout for ZIMR Capital. Below are the latest live headlines pulled just now. '
+    + 'Spot where attention is SHIFTING within ' + marketText + '.' + focusText + '\n\n'
+    + 'I do NOT want the loudest news (that is usually late). I want attention that is just starting to build, '
+    + 'or clear upcoming catalysts (IPOs, listings, earnings, unlocks, unusual moves).\n\n'
+    + 'Use the headlines as your signal, plus your own knowledge for context. Give MAXIMUM 5 items. Be concrete and short.\n\n'
+    + 'LIVE HEADLINES:\n' + (heads || '(none retrieved — use your own knowledge)') + '\n\n'
+    + 'Respond ONLY with valid JSON, no markdown, no backticks:\n'
+    + '{"summary":"one short sentence on what is moving","items":[{"name":"name","ticker":"ticker or null","type":"stock|crypto|ipo","attention":"early|building|loud","why":"one sentence why it is getting attention","watch":"short: what to check yourself or the risk"}]}';
+
+  try{
+    var resp = await fetch('https://zimr-proxy.vercel.app/api/chat', {
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({
+        model:'claude-sonnet-4-20250514',
+        max_tokens:1500,
+        system:'You are a sharp, sober market scout. Use numerals for numbers. Respond only with valid JSON.',
+        messages:[{role:'user',content:prompt}]
+      })
+    });
+    var data = await resp.json();
+    if(data.error){
+      out.innerHTML = '<div class="radar-card" style="border-color:#5c2626;background:#2a1515;color:#f0a0a0;font-size:13px">API error: ' + radarEsc(data.error.message||'unknown') + '</div>';
+      return;
+    }
+    var raw = (data.content && data.content[0] && data.content[0].text) || '';
+    var clean = raw.replace(/```json/g,'').replace(/```/g,'').trim();
+    var s = clean.indexOf('{'), e = clean.lastIndexOf('}');
+    if(s!==-1 && e!==-1) clean = clean.slice(s, e+1);
+    radarRender(JSON.parse(clean));
+  }catch(err){
+    out.innerHTML = '<div class="radar-card" style="border-color:#5c2626;background:#2a1515;color:#f0a0a0;font-size:13px">Could not finish the scan. ('+radarEsc(err.message)+')</div>';
+  }finally{
+    btn.disabled = false;
+  }
+}
+
+function radarRender(data){
+  var ATT = {
+    early:    {label:'EARLY',    color:'#3fb950'},
+    building: {label:'BUILDING', color:'#9b59d6'},
+    loud:     {label:'LOUD',     color:'#d29922'}
+  };
+  var out = document.getElementById('radar-out');
+  var html = '';
+  if(data.summary){
+    html += '<div class="radar-card" style="display:flex;gap:10px;align-items:flex-start;font-size:13.5px;line-height:1.55">'
+      + '<span style="color:#9b59d6;font-weight:700">▲</span><span>' + radarEsc(data.summary) + '</span></div>';
+  }
+  (data.items||[]).forEach(function(it){
+    var a = ATT[it.attention] || ATT.building;
+    html += '<div class="radar-card">';
+    html += '<div style="display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:10px">';
+    html += '<div style="display:flex;align-items:baseline;gap:10px;flex-wrap:wrap">';
+    html += '<span style="font-size:16px;font-weight:700;color:#e8e8e8">' + radarEsc(it.name) + '</span>';
+    if(it.ticker && it.ticker !== 'null') html += '<span style="font-size:12px;color:#9b59d6;background:rgba(155,89,214,.08);padding:2px 7px;border-radius:5px">' + radarEsc(it.ticker) + '</span>';
+    html += '<span style="font-size:10.5px;color:#6b6b6b;text-transform:uppercase;letter-spacing:1px">' + radarEsc(it.type) + '</span>';
+    html += '</div>';
+    html += '<span style="font-size:10px;font-weight:600;letter-spacing:1px;color:'+a.color+';border:1px solid '+a.color+'55;padding:3px 8px;border-radius:5px;white-space:nowrap">'+a.label+'</span>';
+    html += '</div>';
+    html += '<div style="font-size:13.5px;line-height:1.5;color:#e8e8e8;margin-bottom:8px">↗ ' + radarEsc(it.why) + '</div>';
+    if(it.watch) html += '<div style="font-size:12.5px;line-height:1.5;color:#b89048">👁 ' + radarEsc(it.watch) + '</div>';
+    html += '</div>';
+  });
+  html += '<div class="radar-card" style="display:flex;gap:8px;font-size:11.5px;line-height:1.5;color:#6b6b6b;background:#0c0c0c">'
+    + '<span>⚠</span><span>Not financial advice. Popular often means late, and in attention-driven markets the biggest risk is following a hype. Use this to research, not to trust.</span></div>';
+  out.innerHTML = html;
+}
+</script>
+
+<!-- ═══ ATTENTION RADAR — DASHBOARD WIDGET ═══ -->
+<script>
+async function radarScanDash(){
+  var btn = document.getElementById('radar-dash-scan');
+  var out = document.getElementById('radar-dash-out');
+  if(!out) return;
+  btn.disabled = true;
+  out.innerHTML = '<span class="radar-spin">◠</span>&nbsp; Scanning live headlines...';
+
+  var feeds = [
+    {name:'CoinTelegraph', url:'https://cointelegraph.com/rss'},
+    {name:'CoinDesk', url:'https://www.coindesk.com/arc/outboundfeeds/rss/'},
+    {name:'Decrypt', url:'https://decrypt.co/feed'},
+    {name:'Yahoo Finance', url:'https://finance.yahoo.com/news/rssindex'},
+    {name:'MarketWatch', url:'http://feeds.marketwatch.com/marketwatch/topstories/'}
+  ];
+  var groups = await Promise.all(feeds.map(function(f){
+    try { return fetchFeedWithFallback(f.url, f.name); } catch(e){ return Promise.resolve([]); }
+  }));
+  var all = []; groups.forEach(function(g){ all = all.concat(g || []); });
+  all.sort(function(a,b){ return b.date - a.date; });
+  var heads = all.slice(0, 40).map(function(i){ return '- ['+i.src+'] '+i.title; }).join('\n');
+
+  var prompt = 'You are a market scout for ZIMR Capital. Below are the latest live headlines pulled just now. '
+    + 'Spot where attention is SHIFTING across both crypto and stocks. '
+    + 'I do NOT want the loudest news (that is usually late). I want attention just starting to build, or clear upcoming catalysts. '
+    + 'Use the headlines as your signal plus your own knowledge. Give MAXIMUM 3 items. Be concrete and short.\n\n'
+    + 'LIVE HEADLINES:\n' + (heads || '(none retrieved — use your own knowledge)') + '\n\n'
+    + 'Respond ONLY with valid JSON, no markdown:\n'
+    + '{"items":[{"name":"name","ticker":"ticker or null","attention":"early|building|loud","why":"one short sentence why"}]}';
+
+  try{
+    var resp = await fetch('https://zimr-proxy.vercel.app/api/chat', {
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({
+        model:'claude-sonnet-4-20250514',
+        max_tokens:800,
+        system:'You are a sharp, sober market scout. Use numerals for numbers. Respond only with valid JSON.',
+        messages:[{role:'user',content:prompt}]
+      })
+    });
+    var data = await resp.json();
+    if(data.error){ out.innerHTML = '<span style="color:#f0a0a0">API error: ' + radarEsc(data.error.message||'unknown') + '</span>'; return; }
+    var raw = (data.content && data.content[0] && data.content[0].text) || '';
+    var clean = raw.replace(/```json/g,'').replace(/```/g,'').trim();
+    var s = clean.indexOf('{'), e = clean.lastIndexOf('}');
+    if(s!==-1 && e!==-1) clean = clean.slice(s, e+1);
+    var parsed = JSON.parse(clean);
+    var ATT = { early:'#3fb950', building:'#9b59d6', loud:'#d29922' };
+    var html = '';
+    (parsed.items||[]).forEach(function(it){
+      var c = ATT[it.attention] || '#9b59d6';
+      html += '<div style="padding:8px 0;border-bottom:1px solid rgba(155,89,214,.06)">';
+      html += '<div style="display:flex;align-items:center;gap:8px;margin-bottom:2px">';
+      html += '<span style="font-size:13px;font-weight:700;color:#e8e8e8">' + radarEsc(it.name) + '</span>';
+      if(it.ticker && it.ticker!=='null') html += '<span style="font-size:10px;color:#9b59d6">' + radarEsc(it.ticker) + '</span>';
+      html += '<span style="font-size:8px;font-weight:700;letter-spacing:.5px;color:'+c+';border:1px solid '+c+'55;padding:1px 6px;border-radius:4px;margin-left:auto">' + radarEsc((it.attention||'').toUpperCase()) + '</span>';
+      html += '</div>';
+      html += '<div style="font-size:11.5px;color:var(--sub,#8a8078);line-height:1.45">' + radarEsc(it.why) + '</div>';
+      html += '</div>';
+    });
+    out.innerHTML = html || 'No clear signal right now.';
+  }catch(err){
+    out.innerHTML = '<span style="color:#f0a0a0">Could not finish the scan. (' + radarEsc(err.message) + ')</span>';
+  }finally{
+    btn.disabled = false;
+  }
+}
 </script>
