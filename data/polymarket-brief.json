@@ -1,65 +1,65 @@
 {
-  "date": "Sunday June 07, 2026",
-  "generated": "2026-06-07T09:54:12.398976Z",
-  "brief": "# KNICKS CORONATION STEADY; GEOPOLITICAL RISK REPRICES LOWER\n\nThe market's conviction on a Knicks championship remains rock-solid despite minor profit-taking, while Iran peace deal odds are collapsing as the June 7 deadline arrives with zero diplomatic breakthroughs. Sports markets dominate volume, but geopolitical risk is quietly shifting\u2014and that usually matters.\n\n**The Setup:** Knicks sit at 79% to win it all, down just 0.6% despite $802K in volume\u2014classic distribution by confident holders, not capitulation. The Spurs counterplay at 22% (+1.0%) is the real story; smart money appears to be hedging via San Antonio rather than selling Knicks outright. The Spurs-Knicks head-to-head at 46% ($4.6M volume) is the meta-trade here\u2014that's where the real conviction lives. Meanwhile, the Iran permanent peace deal by June 15 sits at 6% (down 1%), but the June 7 deadline contract has cratered to 1%\u2014revealing hard reality: no deal is getting done in the next 18 hours. The -1.7% combined bleed on both Iran contracts suggests this outcome was already priced as a tail risk, not a working thesis.\n\n**What's Moving:** The Lebanon ceasefire extension (99%, $3M volume) is the safe-haven trade\u2014nobody's shorting diplomatic stability wins. Expect that to hold. Taiwan invasion risk ticked up +0.6% on modest $1.4M volume\u2014not panic, but data-dependent traders are watching. The Crosby-to-Panthers market (+2.2%, only 3% odds) is illiquid noise; ignore it.\n\n## WATCH LIST\n\n1. **Spurs vs. Knicks (46%)** \u2014 $4.6M volume suggests this is the real Finals arbiter. If Knicks slip below 76%, Spurs could spike to 28%+. Liquidation pressure or genuine hedging? Monitor spreads.\n\n2. **Iran Peace Deal by June 15 (6%)** \u2014 Watch for any after-hours news. Currently underwater, but if negotiations restart mid-week, this reprices 3-5% instantly. Tail risk with asymmetric upside.\n\n3. **Taiwan Invasion by EOY (7%)** \u2014 Small tick up suggests geopolitical traders are waking up. Monitor alongside any China-US trade headlines; could signal vol expansion in broader conflict markets.",
+  "date": "Monday June 08, 2026",
+  "generated": "2026-06-08T11:47:08.185431Z",
+  "brief": "# ZIMR Capital Market Intelligence \u2014 June 8, 2026\n\n## HEADLINE\n**Iran Airspace Closure Priced as Done Deal; Market Betting on Imminent Action Within Hours**\n\n---\n\n## THE SIGNAL\n\nThe Iran airspace markets are screaming. All three duration bands (June 8, 15, 30) hit 99% overnight on massive volume\u2014$8.2M alone on the 24-hour closure. This isn't incremental risk pricing; this is capitulation to a binary outcome. The market is essentially saying: *it's happening today or it already has*.\n\n**What smart money is doing:** Volume concentration on the shortest-dated contract (June 8) signals traders are front-running either (a) an imminent announcement, or (b) already-known intelligence not yet public. The +98.2% daily move in 24h suggests late-day Friday positioning crystallized into conviction overnight. Anyone holding Israel airspace at 17% looks like they're catching a falling knife\u2014the cross-asset correlation screams contagion risk that hasn't fully priced in yet.\n\n**The mispricing:** Strait of Hormuz traffic \"normal by end of June\" sits at 12%\u2014a dangerous disconnect. If Iran closes airspace, shipping doesn't magically normalize in 3 weeks. This contract is either mispriced on the downside (should be 5%) or the market knows something about de-escalation by mid-June that the airspace contracts don't reflect. Watch for arbitrage traders to exploit this spread.\n\n---\n\n## WATCH LIST\n\n**1. Israel closes airspace by June 15? (17%)**  \nVolume jumped +10.5% today but still massively underweighted relative to Iran. If this closes airspace, Israel follows within 72h historically. Current odds suggest 83% probability it *doesn't* happen\u2014that's your tell.\n\n**2. Strait of Hormuz traffic returns to normal by end of June? (12%)**  \nThe real tell on market conviction about escalation depth. If traders believed June 8 closure was real, this should be <5%. Grab a position here if you have conviction on either side\u2014structural mispricing.\n\n**3. Keiko Fujimori 2026 Peru (78%, +$3.2M vol)**  \nUnrelated but worth tracking: massive money flowing in on a +12% day. Check if she made a major announcement\u2014momentum this sharp on political bets usually signals fresh fundamentals, not sentiment drift.",
   "top_movers": [
     {
-      "question": "Roland Garros ATP: Flavio Cobolli vs Alexander Zverev",
-      "prob": 20,
-      "change": -3.0,
-      "vol24": "$2.8M",
-      "slug": "atp-cobolli-zverev-2026-06-07"
+      "question": "Iran closes its airspace by June 8?",
+      "prob": 99,
+      "change": 98.2,
+      "vol24": "$8.2M",
+      "slug": "iran-closes-its-airspace-by-june-8"
     },
     {
-      "question": "Will Maxx Crosby play for Carolina Panthers next?",
-      "prob": 3,
-      "change": 2.2,
-      "vol24": "$841K",
-      "slug": "will-maxx-crosby-play-for-carolina-panthers-next"
+      "question": "Iran closes its airspace by June 15?",
+      "prob": 99,
+      "change": 94.4,
+      "vol24": "$1.7M",
+      "slug": "iran-closes-its-airspace-by-june-15-219"
     },
     {
-      "question": "US x Iran permanent peace deal by June 15, 2026?",
-      "prob": 6,
-      "change": -1.0,
-      "vol24": "$909K",
-      "slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734-856-129"
+      "question": "Iran closes its airspace by June 30?",
+      "prob": 99,
+      "change": 81.5,
+      "vol24": "$1.0M",
+      "slug": "iran-closes-its-airspace-by-june-30-432-786-462-866-468"
     },
     {
-      "question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-      "prob": 22,
-      "change": 1.0,
-      "vol24": "$733K",
-      "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals"
-    },
-    {
-      "question": "US x Iran permanent peace deal by June 7, 2026?",
+      "question": "LoL: Anyone's Legend vs Bilibili Gaming - Game 2 Winner",
       "prob": 1,
-      "change": -0.7,
-      "vol24": "$872K",
-      "slug": "us-x-iran-permanent-peace-deal-by-june-7-2026"
+      "change": -37.5,
+      "vol24": "$1.3M",
+      "slug": "lol-al-blg-2026-06-08-game2"
+    },
+    {
+      "question": "LoL: Anyone's Legend vs Bilibili Gaming - Game 1 Winner",
+      "prob": 1,
+      "change": -35.9,
+      "vol24": "$1.0M",
+      "slug": "lol-al-blg-2026-06-08-game1"
     }
   ],
   "top_vol": [
     {
-      "question": "Spurs vs. Knicks",
-      "prob": 46,
-      "change": 0,
-      "vol24": "$4.6M",
-      "slug": "nba-sas-nyk-2026-06-08"
-    },
-    {
-      "question": "Israel announces Lebanon ceasefire extension by June 7?",
+      "question": "Iran closes its airspace by June 8?",
       "prob": 99,
-      "change": 0,
-      "vol24": "$3.0M",
-      "slug": "israel-announces-lebanon-ceasefire-extension-by-june-7"
+      "change": 98.2,
+      "vol24": "$8.2M",
+      "slug": "iran-closes-its-airspace-by-june-8"
     },
     {
-      "question": "Roland Garros ATP: Flavio Cobolli vs Alexander Zverev",
-      "prob": 20,
-      "change": -3.0,
-      "vol24": "$2.8M",
-      "slug": "atp-cobolli-zverev-2026-06-07"
+      "question": "Will Belgium win the 2026 FIFA World Cup?",
+      "prob": 2,
+      "change": 0.2,
+      "vol24": "$4.5M",
+      "slug": "will-belgium-win-the-2026-fifa-world-cup-358"
+    },
+    {
+      "question": "Will Colombia win the 2026 FIFA World Cup?",
+      "prob": 2,
+      "change": 0.2,
+      "vol24": "$4.3M",
+      "slug": "will-colombia-win-the-2026-fifa-world-cup-734"
     }
   ]
 }
