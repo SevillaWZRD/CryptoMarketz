@@ -5004,15 +5004,15 @@ a:focus-visible,button:focus-visible,input:focus-visible{
           <button class="radar-mbtn radar-active" data-m="allebei" onclick="radarSetMarket('allebei',this)">Both</button>
         </div>
         <div style="display:flex;gap:8px">
-          <input id="radar-focus" placeholder="Optional: sector or theme (e.g. AI chips, layer 2, biotech)" style="flex:1;padding:11px 14px;border-radius:8px;background:#0f0f0f;border:1px solid #1c1c1c;color:#e8e8e8;font-size:13px;outline:none;font-family:'Inter',sans-serif">
+          <input id="radar-focus" placeholder="Optional: sector or theme (e.g. AI chips, layer 2, biotech)" style="flex:1;padding:11px 14px;border-radius:8px;background:var(--c4);border:1px solid var(--bdr);color:var(--cream);font-size:13px;outline:none;font-family:'Inter',sans-serif">
           <button id="radar-scan" onclick="radarScan()" style="padding:11px 22px;border-radius:8px;border:none;cursor:pointer;background:#9b59d6;color:#fff;font-size:13px;font-weight:700;white-space:nowrap;font-family:'Inter',sans-serif">Scan</button>
         </div>
       </div>
       <div id="radar-out"></div>
       <style>
-        .radar-mbtn{padding:8px 16px;border-radius:8px;cursor:pointer;font-size:13px;font-weight:600;border:1px solid #1c1c1c;background:#0f0f0f;color:#6b6b6b;font-family:'Inter',sans-serif}
-        .radar-mbtn.radar-active{border-color:#9b59d6;background:rgba(155,89,214,.1);color:#e8e8e8}
-        .radar-card{padding:18px;border-radius:10px;background:#0f0f0f;border:1px solid #1c1c1c;margin-bottom:12px}
+        .radar-mbtn{padding:8px 16px;border-radius:8px;cursor:pointer;font-size:13px;font-weight:600;border:1px solid var(--bdr);background:var(--c4);color:var(--sub);font-family:'Inter',sans-serif}
+        .radar-mbtn.radar-active{border-color:var(--accent);background:rgba(155,89,214,.12);color:var(--cream)}
+        .radar-card{padding:18px;border-radius:10px;background:var(--c2);border:1px solid var(--bdr);color:var(--cream);margin-bottom:12px}
         .radar-spin{display:inline-block;animation:radarspin 1s linear infinite}
         @keyframes radarspin{to{transform:rotate(360deg)}}
       </style>
@@ -8540,7 +8540,7 @@ async function radarScan(){
   var btn = document.getElementById('radar-scan');
   var out = document.getElementById('radar-out');
   btn.disabled = true;
-  out.innerHTML = '<div style="color:#6b6b6b;font-size:13px;padding:18px 0;font-family:\'Inter\',sans-serif"><span class="radar-spin">◠</span>&nbsp; Scanning live headlines...</div>';
+  out.innerHTML = '<div style="color:var(--sub);font-size:13px;padding:18px 0;font-family:\'Inter\',sans-serif"><span class="radar-spin">◠</span>&nbsp; Scanning live headlines...</div>';
 
   // 1) Pull live headlines from your own feeds
   var feeds = radarFeeds();
@@ -8613,17 +8613,17 @@ function radarRender(data){
     html += '<div class="radar-card">';
     html += '<div style="display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:10px">';
     html += '<div style="display:flex;align-items:baseline;gap:10px;flex-wrap:wrap">';
-    html += '<span style="font-size:16px;font-weight:700;color:#e8e8e8">' + radarEsc(it.name) + '</span>';
+    html += '<span style="font-size:16px;font-weight:700;color:var(--cream)">' + radarEsc(it.name) + '</span>';
     if(it.ticker && it.ticker !== 'null') html += '<span style="font-size:12px;color:#9b59d6;background:rgba(155,89,214,.08);padding:2px 7px;border-radius:5px">' + radarEsc(it.ticker) + '</span>';
-    html += '<span style="font-size:10.5px;color:#6b6b6b;text-transform:uppercase;letter-spacing:1px">' + radarEsc(it.type) + '</span>';
+    html += '<span style="font-size:10.5px;color:var(--sub);text-transform:uppercase;letter-spacing:1px">' + radarEsc(it.type) + '</span>';
     html += '</div>';
     html += '<span style="font-size:10px;font-weight:600;letter-spacing:1px;color:'+a.color+';border:1px solid '+a.color+'55;padding:3px 8px;border-radius:5px;white-space:nowrap">'+a.label+'</span>';
     html += '</div>';
-    html += '<div style="font-size:13.5px;line-height:1.5;color:#e8e8e8;margin-bottom:8px">↗ ' + radarEsc(it.why) + '</div>';
+    html += '<div style="font-size:13.5px;line-height:1.5;color:var(--cream);margin-bottom:8px">↗ ' + radarEsc(it.why) + '</div>';
     if(it.watch) html += '<div style="font-size:12.5px;line-height:1.5;color:#b89048">👁 ' + radarEsc(it.watch) + '</div>';
     html += '</div>';
   });
-  html += '<div class="radar-card" style="display:flex;gap:8px;font-size:11.5px;line-height:1.5;color:#6b6b6b;background:#0c0c0c">'
+  html += '<div class="radar-card" style="display:flex;gap:8px;font-size:11.5px;line-height:1.5;color:var(--sub);background:var(--c3)">'
     + '<span>⚠</span><span>Not financial advice. Popular often means late, and in attention-driven markets the biggest risk is following a hype. Use this to research, not to trust.</span></div>';
   out.innerHTML = html;
 }
@@ -8684,7 +8684,7 @@ async function radarScanDash(){
       var c = ATT[it.attention] || '#9b59d6';
       html += '<div style="padding:8px 0;border-bottom:1px solid rgba(155,89,214,.06)">';
       html += '<div style="display:flex;align-items:center;gap:8px;margin-bottom:2px">';
-      html += '<span style="font-size:13px;font-weight:700;color:#e8e8e8">' + radarEsc(it.name) + '</span>';
+      html += '<span style="font-size:13px;font-weight:700;color:var(--cream)">' + radarEsc(it.name) + '</span>';
       if(it.ticker && it.ticker!=='null') html += '<span style="font-size:10px;color:#9b59d6">' + radarEsc(it.ticker) + '</span>';
       html += '<span style="font-size:8px;font-weight:700;letter-spacing:.5px;color:'+c+';border:1px solid '+c+'55;padding:1px 6px;border-radius:4px;margin-left:auto">' + radarEsc((it.attention||'').toUpperCase()) + '</span>';
       html += '</div>';
