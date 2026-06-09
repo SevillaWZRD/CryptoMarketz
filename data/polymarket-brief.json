@@ -1,65 +1,65 @@
 {
-  "date": "Monday June 08, 2026",
-  "generated": "2026-06-08T11:47:08.185431Z",
-  "brief": "# ZIMR Capital Market Intelligence \u2014 June 8, 2026\n\n## HEADLINE\n**Iran Airspace Closure Priced as Done Deal; Market Betting on Imminent Action Within Hours**\n\n---\n\n## THE SIGNAL\n\nThe Iran airspace markets are screaming. All three duration bands (June 8, 15, 30) hit 99% overnight on massive volume\u2014$8.2M alone on the 24-hour closure. This isn't incremental risk pricing; this is capitulation to a binary outcome. The market is essentially saying: *it's happening today or it already has*.\n\n**What smart money is doing:** Volume concentration on the shortest-dated contract (June 8) signals traders are front-running either (a) an imminent announcement, or (b) already-known intelligence not yet public. The +98.2% daily move in 24h suggests late-day Friday positioning crystallized into conviction overnight. Anyone holding Israel airspace at 17% looks like they're catching a falling knife\u2014the cross-asset correlation screams contagion risk that hasn't fully priced in yet.\n\n**The mispricing:** Strait of Hormuz traffic \"normal by end of June\" sits at 12%\u2014a dangerous disconnect. If Iran closes airspace, shipping doesn't magically normalize in 3 weeks. This contract is either mispriced on the downside (should be 5%) or the market knows something about de-escalation by mid-June that the airspace contracts don't reflect. Watch for arbitrage traders to exploit this spread.\n\n---\n\n## WATCH LIST\n\n**1. Israel closes airspace by June 15? (17%)**  \nVolume jumped +10.5% today but still massively underweighted relative to Iran. If this closes airspace, Israel follows within 72h historically. Current odds suggest 83% probability it *doesn't* happen\u2014that's your tell.\n\n**2. Strait of Hormuz traffic returns to normal by end of June? (12%)**  \nThe real tell on market conviction about escalation depth. If traders believed June 8 closure was real, this should be <5%. Grab a position here if you have conviction on either side\u2014structural mispricing.\n\n**3. Keiko Fujimori 2026 Peru (78%, +$3.2M vol)**  \nUnrelated but worth tracking: massive money flowing in on a +12% day. Check if she made a major announcement\u2014momentum this sharp on political bets usually signals fresh fundamentals, not sentiment drift.",
+  "date": "Tuesday June 09, 2026",
+  "generated": "2026-06-09T10:25:19.321598Z",
+  "brief": "# PERUVIAN POLITICS WHIPSAW SIGNALS LATE-BREAKING FUJIMORI NEWS\n\n**THE SIGNAL:** Peru's presidential race just repriced 17 points in 24 hours. S\u00e1nchez Palomino collapsed from 22% to 5%, while Fujimori rocketed to 94%. This isn't gradual consensus\u2014it's information shock. Smart money moved first; retail followed. The $10.3M combined volume suggests institutional players either got fresh polling data or priced in a regulatory/legal development favoring Fujimori.\n\n**WHAT'S REALLY HAPPENING:** The magnitude of the move (S\u00e1nchez down 17.2%, Fujimori up 16.5%) points to a binary event, not drift. Either S\u00e1nchez's candidacy faced a sudden legal challenge, or polls showed unexpected Fujimori momentum. The 94% Fujimori price is now *extremely* tight\u2014that's a 6% margin for ALL other candidates combined. Contrarian traders should monitor whether this holds or if the market corrects on profit-taking. The depth at 94% will tell you if conviction is real or if we see a relief bounce to 85-88% range.\n\n**MISPRICINGS TO HUNT:** Watch Argentina's World Cup odds (8%). That's too low given their current form and home-region advantage. Belgium at 2% and Mexico at 2% are noise trades\u2014the smart capital is clearly in football's real contenders. The Iran peace deal complex (68% by Dec 31 vs. 6% by June 15) is perfectly rational but illiquid; a sudden Middle East flare-up could create 200+ basis point swings.\n\n---\n\n## WATCH LIST\n\n**1. Keiko Fujimori 94% \u2014 HOLD FOR VOLATILITY**\nMicro-cap at the top of the range. If S\u00e1nchez remains >5% by EOW, this repricing was premature. If he drops to <2%, Fujimori could actually correct *higher* (96+) but with less juice. Monitor Peru news feeds for candidacy appeals or polling releases.\n\n**2. Knicks to Win Finals (62%, -15.2%)**\nSharp down-move on a team still in contention suggests smart money rotated out. Track injury reports and playoff seeding\u2014if they lock the 2-seed, expect a rebound. Current 62% is potentially underpriced if betting markets haven't fully digested recent wins.\n\n**3. Iran Peace Deal by Dec 31 (68%, +1.0%)**\nCalm trading on a geopolitical knife-edge. The fact it's barely moving despite global tension suggests the market has priced in \"messy but no war.\" A single airstrike or assassination could flip this 25+ points in hours. High-vol asymmetry trade.",
   "top_movers": [
     {
-      "question": "Iran closes its airspace by June 8?",
-      "prob": 99,
-      "change": 98.2,
-      "vol24": "$8.2M",
-      "slug": "iran-closes-its-airspace-by-june-8"
+      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
+      "prob": 5,
+      "change": -17.2,
+      "vol24": "$5.6M",
+      "slug": "will-roberto-snchez-palomino-win-the-2026-peruvian-presidential-election"
     },
     {
-      "question": "Iran closes its airspace by June 15?",
-      "prob": 99,
-      "change": 94.4,
+      "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?",
+      "prob": 94,
+      "change": 16.5,
+      "vol24": "$4.7M",
+      "slug": "will-keiko-fujimori-win-the-2026-peruvian-presidential-election"
+    },
+    {
+      "question": "Will the New York Knicks win the 2026 NBA Finals?",
+      "prob": 62,
+      "change": -15.2,
+      "vol24": "$1.5M",
+      "slug": "will-the-new-york-knicks-win-the-2026-nba-finals"
+    },
+    {
+      "question": "US x Iran permanent peace deal by December 31, 2026?",
+      "prob": 68,
+      "change": 1.0,
+      "vol24": "$2.1M",
+      "slug": "us-x-iran-permanent-peace-deal-by-december-31-2026-961-587-341-574-555-817"
+    },
+    {
+      "question": "US x Iran permanent peace deal by June 15, 2026?",
+      "prob": 6,
+      "change": 1.0,
       "vol24": "$1.7M",
-      "slug": "iran-closes-its-airspace-by-june-15-219"
-    },
-    {
-      "question": "Iran closes its airspace by June 30?",
-      "prob": 99,
-      "change": 81.5,
-      "vol24": "$1.0M",
-      "slug": "iran-closes-its-airspace-by-june-30-432-786-462-866-468"
-    },
-    {
-      "question": "LoL: Anyone's Legend vs Bilibili Gaming - Game 2 Winner",
-      "prob": 1,
-      "change": -37.5,
-      "vol24": "$1.3M",
-      "slug": "lol-al-blg-2026-06-08-game2"
-    },
-    {
-      "question": "LoL: Anyone's Legend vs Bilibili Gaming - Game 1 Winner",
-      "prob": 1,
-      "change": -35.9,
-      "vol24": "$1.0M",
-      "slug": "lol-al-blg-2026-06-08-game1"
+      "slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734-856-129"
     }
   ],
   "top_vol": [
     {
-      "question": "Iran closes its airspace by June 8?",
-      "prob": 99,
-      "change": 98.2,
-      "vol24": "$8.2M",
-      "slug": "iran-closes-its-airspace-by-june-8"
+      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
+      "prob": 5,
+      "change": -17.2,
+      "vol24": "$5.6M",
+      "slug": "will-roberto-snchez-palomino-win-the-2026-peruvian-presidential-election"
     },
     {
-      "question": "Will Belgium win the 2026 FIFA World Cup?",
-      "prob": 2,
-      "change": 0.2,
-      "vol24": "$4.5M",
-      "slug": "will-belgium-win-the-2026-fifa-world-cup-358"
+      "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?",
+      "prob": 94,
+      "change": 16.5,
+      "vol24": "$4.7M",
+      "slug": "will-keiko-fujimori-win-the-2026-peruvian-presidential-election"
     },
     {
-      "question": "Will Colombia win the 2026 FIFA World Cup?",
-      "prob": 2,
-      "change": 0.2,
-      "vol24": "$4.3M",
-      "slug": "will-colombia-win-the-2026-fifa-world-cup-734"
+      "question": "Will Uruguay win the 2026 FIFA World Cup?",
+      "prob": 1,
+      "change": 0,
+      "vol24": "$3.0M",
+      "slug": "will-uruguay-win-the-2026-fifa-world-cup-932"
     }
   ]
 }
