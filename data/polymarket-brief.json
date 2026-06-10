@@ -1,65 +1,65 @@
 {
-  "date": "Tuesday June 09, 2026",
-  "generated": "2026-06-09T10:25:19.321598Z",
-  "brief": "# PERUVIAN POLITICS WHIPSAW SIGNALS LATE-BREAKING FUJIMORI NEWS\n\n**THE SIGNAL:** Peru's presidential race just repriced 17 points in 24 hours. S\u00e1nchez Palomino collapsed from 22% to 5%, while Fujimori rocketed to 94%. This isn't gradual consensus\u2014it's information shock. Smart money moved first; retail followed. The $10.3M combined volume suggests institutional players either got fresh polling data or priced in a regulatory/legal development favoring Fujimori.\n\n**WHAT'S REALLY HAPPENING:** The magnitude of the move (S\u00e1nchez down 17.2%, Fujimori up 16.5%) points to a binary event, not drift. Either S\u00e1nchez's candidacy faced a sudden legal challenge, or polls showed unexpected Fujimori momentum. The 94% Fujimori price is now *extremely* tight\u2014that's a 6% margin for ALL other candidates combined. Contrarian traders should monitor whether this holds or if the market corrects on profit-taking. The depth at 94% will tell you if conviction is real or if we see a relief bounce to 85-88% range.\n\n**MISPRICINGS TO HUNT:** Watch Argentina's World Cup odds (8%). That's too low given their current form and home-region advantage. Belgium at 2% and Mexico at 2% are noise trades\u2014the smart capital is clearly in football's real contenders. The Iran peace deal complex (68% by Dec 31 vs. 6% by June 15) is perfectly rational but illiquid; a sudden Middle East flare-up could create 200+ basis point swings.\n\n---\n\n## WATCH LIST\n\n**1. Keiko Fujimori 94% \u2014 HOLD FOR VOLATILITY**\nMicro-cap at the top of the range. If S\u00e1nchez remains >5% by EOW, this repricing was premature. If he drops to <2%, Fujimori could actually correct *higher* (96+) but with less juice. Monitor Peru news feeds for candidacy appeals or polling releases.\n\n**2. Knicks to Win Finals (62%, -15.2%)**\nSharp down-move on a team still in contention suggests smart money rotated out. Track injury reports and playoff seeding\u2014if they lock the 2-seed, expect a rebound. Current 62% is potentially underpriced if betting markets haven't fully digested recent wins.\n\n**3. Iran Peace Deal by Dec 31 (68%, +1.0%)**\nCalm trading on a geopolitical knife-edge. The fact it's barely moving despite global tension suggests the market has priced in \"messy but no war.\" A single airstrike or assassination could flip this 25+ points in hours. High-vol asymmetry trade.",
+  "date": "Wednesday June 10, 2026",
+  "generated": "2026-06-10T10:46:30.041661Z",
+  "brief": "# POLYMARKET DAILY BRIEF | June 10, 2026\n\n## Headline\n**Peru's Presidential Race Locked In; Nuclear Anxiety Creeping Back Into Risk Assets**\n\n---\n\n## Market Intelligence\n\n**Fujimori's coronation is priced in\u2014but volume tells a different story.** Her 94% probability is down just 2% despite $1.2M in 24h volume, suggesting the move is already discounted. The real action is S\u00e1nchez Palomino sitting at 6% (+1.4%), with triple the volume ($3.2M). Smart money appears to be *hedging* against a late-game upset rather than betting on one\u2014classic contrarian accumulation in thin odds. Watch for any last-minute polling surprises from Peru before the election solidifies.\n\n**FIFA World Cup markets are a dumpster fire of rational apathy.** Spain (16%) and Portugal (10%) are the only outliners with real conviction; everyone else is noise-level pricing (<5%). The volume concentration in Egypt, Czechia, and Canada (all $4.5M+) at 1% odds suggests retail is chasing longshots. No edge here unless you have proprietary team injury data.\n\n**The nuclear test market just twitched higher (+0.4% to 2%) on $4.6M volume\u2014the highest of any geopolitical risk product.** This is worth monitoring hard. If it cracks 3% today, you're watching genuine institutional repositioning ahead of potential Russia-NATO escalation. The Iran peace deal market simultaneously collapsed to 4% (-1.0%), suggesting traders are pricing *diverging* geopolitical paths: no diplomacy breakthrough + elevated military risk. Correlations matter here.\n\n---\n\n## Watch List\n\n1. **Will Russia test a nuclear weapon by June 30?** (2%) \u2014 Volume spike + upward pressure = canary in the coal mine for geopolitical risk-off. If it hits 3%+ today, expect cascading moves in energy/defense equities.\n\n2. **US x Iran permanent peace deal by June 15** (4%) \u2014 Inverse of above. 5-day window is razor-tight. Any official negotiations announcement will crater this or spark a rally; currently mispriced given time decay.\n\n3. **Roberto S\u00e1nchez Palomino** (6%) \u2014 The volume-to-odds ratio is inverted; usually signals informed backing. Check Peru news feeds for late polling shifts. Long-odds hedge value if conviction builds.",
   "top_movers": [
-    {
-      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
-      "prob": 5,
-      "change": -17.2,
-      "vol24": "$5.6M",
-      "slug": "will-roberto-snchez-palomino-win-the-2026-peruvian-presidential-election"
-    },
     {
       "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?",
       "prob": 94,
-      "change": 16.5,
-      "vol24": "$4.7M",
+      "change": -2.0,
+      "vol24": "$1.2M",
       "slug": "will-keiko-fujimori-win-the-2026-peruvian-presidential-election"
     },
     {
-      "question": "Will the New York Knicks win the 2026 NBA Finals?",
-      "prob": 62,
-      "change": -15.2,
-      "vol24": "$1.5M",
-      "slug": "will-the-new-york-knicks-win-the-2026-nba-finals"
-    },
-    {
-      "question": "US x Iran permanent peace deal by December 31, 2026?",
-      "prob": 68,
-      "change": 1.0,
-      "vol24": "$2.1M",
-      "slug": "us-x-iran-permanent-peace-deal-by-december-31-2026-961-587-341-574-555-817"
+      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
+      "prob": 6,
+      "change": 1.4,
+      "vol24": "$3.2M",
+      "slug": "will-roberto-snchez-palomino-win-the-2026-peruvian-presidential-election"
     },
     {
       "question": "US x Iran permanent peace deal by June 15, 2026?",
-      "prob": 6,
-      "change": 1.0,
-      "vol24": "$1.7M",
+      "prob": 4,
+      "change": -1.0,
+      "vol24": "$3.1M",
       "slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734-856-129"
+    },
+    {
+      "question": "Will Russia test a nuclear weapon by June 30 2026?",
+      "prob": 2,
+      "change": 0.4,
+      "vol24": "$4.6M",
+      "slug": "will-russia-test-a-nuclear-weapon-by-june-30-2026"
+    },
+    {
+      "question": "Will Spain win the 2026 FIFA World Cup?",
+      "prob": 16,
+      "change": 0.3,
+      "vol24": "$2.1M",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
-      "prob": 5,
-      "change": -17.2,
-      "vol24": "$5.6M",
-      "slug": "will-roberto-snchez-palomino-win-the-2026-peruvian-presidential-election"
-    },
-    {
-      "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?",
-      "prob": 94,
-      "change": 16.5,
-      "vol24": "$4.7M",
-      "slug": "will-keiko-fujimori-win-the-2026-peruvian-presidential-election"
-    },
-    {
-      "question": "Will Uruguay win the 2026 FIFA World Cup?",
+      "question": "Will Egypt win the 2026 FIFA World Cup?",
       "prob": 1,
       "change": 0,
-      "vol24": "$3.0M",
-      "slug": "will-uruguay-win-the-2026-fifa-world-cup-932"
+      "vol24": "$5.5M",
+      "slug": "will-egypt-win-the-2026-fifa-world-cup"
+    },
+    {
+      "question": "Will Czechia win the 2026 FIFA World Cup?",
+      "prob": 1,
+      "change": 0,
+      "vol24": "$5.0M",
+      "slug": "will-czechia-win-the-2026-fifa-world-cup"
+    },
+    {
+      "question": "Will Canada win the 2026 FIFA World Cup?",
+      "prob": 1,
+      "change": 0,
+      "vol24": "$4.7M",
+      "slug": "will-canada-win-the-2026-fifa-world-cup-755"
     }
   ]
 }
