@@ -1,65 +1,65 @@
 {
-  "date": "Wednesday June 10, 2026",
-  "generated": "2026-06-10T10:46:30.041661Z",
-  "brief": "# POLYMARKET DAILY BRIEF | June 10, 2026\n\n## Headline\n**Peru's Presidential Race Locked In; Nuclear Anxiety Creeping Back Into Risk Assets**\n\n---\n\n## Market Intelligence\n\n**Fujimori's coronation is priced in\u2014but volume tells a different story.** Her 94% probability is down just 2% despite $1.2M in 24h volume, suggesting the move is already discounted. The real action is S\u00e1nchez Palomino sitting at 6% (+1.4%), with triple the volume ($3.2M). Smart money appears to be *hedging* against a late-game upset rather than betting on one\u2014classic contrarian accumulation in thin odds. Watch for any last-minute polling surprises from Peru before the election solidifies.\n\n**FIFA World Cup markets are a dumpster fire of rational apathy.** Spain (16%) and Portugal (10%) are the only outliners with real conviction; everyone else is noise-level pricing (<5%). The volume concentration in Egypt, Czechia, and Canada (all $4.5M+) at 1% odds suggests retail is chasing longshots. No edge here unless you have proprietary team injury data.\n\n**The nuclear test market just twitched higher (+0.4% to 2%) on $4.6M volume\u2014the highest of any geopolitical risk product.** This is worth monitoring hard. If it cracks 3% today, you're watching genuine institutional repositioning ahead of potential Russia-NATO escalation. The Iran peace deal market simultaneously collapsed to 4% (-1.0%), suggesting traders are pricing *diverging* geopolitical paths: no diplomacy breakthrough + elevated military risk. Correlations matter here.\n\n---\n\n## Watch List\n\n1. **Will Russia test a nuclear weapon by June 30?** (2%) \u2014 Volume spike + upward pressure = canary in the coal mine for geopolitical risk-off. If it hits 3%+ today, expect cascading moves in energy/defense equities.\n\n2. **US x Iran permanent peace deal by June 15** (4%) \u2014 Inverse of above. 5-day window is razor-tight. Any official negotiations announcement will crater this or spark a rally; currently mispriced given time decay.\n\n3. **Roberto S\u00e1nchez Palomino** (6%) \u2014 The volume-to-odds ratio is inverted; usually signals informed backing. Check Peru news feeds for late polling shifts. Long-odds hedge value if conviction builds.",
+  "date": "Thursday June 11, 2026",
+  "generated": "2026-06-11T11:15:51.673033Z",
+  "brief": "# ZIMR Capital Market Intelligence | Thursday, June 11, 2026\n\n## Trump's Freedom Agenda Just Priced In\u2014Markets Smell Confirmation\n\nThe market has decisively moved on Trump restarting Project Freedom by month-end, rocketing from 11.5% to 99% overnight on $1.8M volume. This isn't speculation\u2014this is post-announcement positioning. Smart money bought the dip yesterday and cashed out this morning. The 87.5% move in 24 hours suggests either (a) a major news drop hit after markets closed Wednesday, or (b) institutional players got wind of an imminent statement. Watch for follow-through volume; at 99%, there's limited upside but significant tail risk if reversal narratives emerge.\n\nPeru's S\u00e1nchez Palomino continues its death march, now at 3% after bleeding 2.6% today despite $3.7M in volume\u2014the highest-volume loser on the board. This is liquidation, not rotation. The bid-ask spread is probably widening meaningfully here; retail is dumping, but no institutional buyers are stepping in. The persistence of volume despite directional collapse signals conviction bearishness, not uncertainty.\n\nThe Iran peace deal complex is fragmenting by deadline. The June 15 deal (5%) is trading 14% lower in probability than the June 30 version (18%), despite being just two weeks apart. This is the market pricing in near-zero chance of rapid breakthrough but leaving room for a broader summer negotiation framework. Both markets are seeing real volume ($4.3M and $1.4M respectively), suggesting this isn't retail noise\u2014serious players are hedging geopolitical exposure ahead of mid-month catalysts.\n\n---\n\n## Watch List\n\n**1. Trump Project Freedom (99%)** \u2014 Catch any reversal signals or news contradictions. A drop below 95% would be violent and signal the market overshot. Volume dries up this high; look for illiquidity spikes as a warning sign.\n\n**2. Peru Election (3%)** \u2014 Capitulation zone. If volume persists above $3M today, it's institutional housecleaning before a hard deadline. Track if it holds at 3% or slides toward 1% (true death). Relevant for Latin America exposure traders.\n\n**3. Iran June 15 Deal (5%)** \u2014 Most mispriced relative to June 30. If any geopolitical headlines drop (IAEA inspections, Strait of Hormuz activity, regional proxy flare-ups), this could spike or crater violently. $4.3M volume means liquidity exists for position-building.\n\n---\n\n*ZIMR Capital | 11 June 2026*",
   "top_movers": [
     {
-      "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?",
-      "prob": 94,
-      "change": -2.0,
-      "vol24": "$1.2M",
-      "slug": "will-keiko-fujimori-win-the-2026-peruvian-presidential-election"
+      "question": "Will Trump restart Project Freedom by June 30?",
+      "prob": 99,
+      "change": 87.5,
+      "vol24": "$1.8M",
+      "slug": "will-trump-restart-project-freedom-by-june-30"
     },
     {
       "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
-      "prob": 6,
-      "change": 1.4,
-      "vol24": "$3.2M",
+      "prob": 3,
+      "change": -2.6,
+      "vol24": "$3.7M",
       "slug": "will-roberto-snchez-palomino-win-the-2026-peruvian-presidential-election"
     },
     {
-      "question": "US x Iran permanent peace deal by June 15, 2026?",
-      "prob": 4,
-      "change": -1.0,
-      "vol24": "$3.1M",
-      "slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734-856-129"
+      "question": "US x Iran permanent peace deal by June 30, 2026?",
+      "prob": 18,
+      "change": 2.0,
+      "vol24": "$1.4M",
+      "slug": "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877-363-892-537-597"
     },
     {
-      "question": "Will Russia test a nuclear weapon by June 30 2026?",
-      "prob": 2,
-      "change": 0.4,
-      "vol24": "$4.6M",
-      "slug": "will-russia-test-a-nuclear-weapon-by-june-30-2026"
+      "question": "Will Portugal win the 2026 FIFA World Cup?",
+      "prob": 11,
+      "change": 0.7,
+      "vol24": "$2.7M",
+      "slug": "will-portugal-win-the-2026-fifa-world-cup-912"
     },
     {
       "question": "Will Spain win the 2026 FIFA World Cup?",
-      "prob": 16,
-      "change": 0.3,
-      "vol24": "$2.1M",
+      "prob": 17,
+      "change": 0.7,
+      "vol24": "$2.3M",
       "slug": "will-spain-win-the-2026-fifa-world-cup-963"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Egypt win the 2026 FIFA World Cup?",
+      "question": "Will Paraguay win the 2026 FIFA World Cup?",
       "prob": 1,
-      "change": 0,
-      "vol24": "$5.5M",
-      "slug": "will-egypt-win-the-2026-fifa-world-cup"
+      "change": -0.1,
+      "vol24": "$6.9M",
+      "slug": "will-paraguay-win-the-2026-fifa-world-cup-967"
     },
     {
       "question": "Will Czechia win the 2026 FIFA World Cup?",
       "prob": 1,
-      "change": 0,
-      "vol24": "$5.0M",
+      "change": -0.1,
+      "vol24": "$6.6M",
       "slug": "will-czechia-win-the-2026-fifa-world-cup"
     },
     {
-      "question": "Will Canada win the 2026 FIFA World Cup?",
-      "prob": 1,
-      "change": 0,
-      "vol24": "$4.7M",
-      "slug": "will-canada-win-the-2026-fifa-world-cup-755"
+      "question": "US x Iran permanent peace deal by June 15, 2026?",
+      "prob": 5,
+      "change": 0.5,
+      "vol24": "$4.3M",
+      "slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734-856-129"
     }
   ]
 }
