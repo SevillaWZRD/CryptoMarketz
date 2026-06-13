@@ -1,65 +1,65 @@
 {
-  "date": "Friday June 12, 2026",
-  "generated": "2026-06-12T10:55:32.392804Z",
-  "brief": "# ZIMR POLYMARKET BRIEFING | Friday, June 12, 2026\n\n## HEADLINE\n**Iran Peace Fever Spreads as Deadline Momentum Builds\u2014But June 15 Odds Still Look Soft**\n\n---\n\n## THE SIGNAL\n\nThe Iran peace deal complex is having its moment. The June 30 market surged +21% to 38%\u2014a meaningful vote of confidence that *something* gets done in the next 18 days. But here's the tell: June 15 only moved +10.2% to 15%, despite sitting just three days away. Smart money isn't buying the imminent announcement narrative hard enough, suggesting either (a) today's June 12 deadline just passed quietly, or (b) negotiators are kicking to month-end rather than committing to a near-term framework.\n\nVolume concentration tells the real story. $6.2M flooded the June 15 contract, the second-highest volume on the board today\u2014that's positioning for a specific catalyst window traders expect to resolve *soon*. The fact that June 30 (further out, lower conviction usually) is outperforming percentage-wise suggests institutional players believe a deal *exists* but aren't pricing certainty on immediate announcement. This is a \"we know talks are happening\" market, not a \"deal is imminent\" market.\n\n**The mispricing:** Watch the June 15 vs June 30 spread. If June 15 doesn't pop on news within 72 hours, it's free money to short and rotate into the June 30 leg. The market is fragmenting risk across multiple dates instead of consolidating conviction\u2014classic sign of uncertainty that hasn't been priced in.\n\n---\n\n## WATCH LIST\n\n**1. US x Iran Permanent Peace Deal by June 15 | 15% | $6.2M vol**\nToday's deadline (June 12) appears to have passed without announcement. Monitor news wires through tomorrow for any statement. If silent through Sunday, this contract is overpriced relative to June 30 and worth shorting.\n\n**2. Will United States win on 2026-06-12? | 48% | $3.6M vol**\n-3% today despite Iran headlines. Check if this is sports betting (unclear fixture) or political betting. If sports, the move suggests favorite underperformed; if political, this is noise.\n\n**3. Czechia/South Korea World Cup Props | 1% each | $14.2M/$12.5M vol**\nMassive volume on 1% odds contracts smells like leverage plays or hedging. Unlikely outcomes with extreme liquidity suggest sophisticated actors building tails. Worth monitoring for panic unwinds if broader macro moves.",
+  "date": "Saturday June 13, 2026",
+  "generated": "2026-06-13T09:48:29.486363Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | SAT JUNE 13, 2026\n\n## \"Gen.G Hype Machine Peaks While Peace Deal Markets Crater\"\n\nThe market is pricing Gen.G as near-certain MSI favorites after yesterday's dominant performance, with both Game 3 and series winner contracts hitting 99%. This represents pure momentum trading\u2014the +23% surge in Game 3 winner pricing in 24 hours tells you retail has piled in hard. Smart money should be watching whether this holds or if value emerges on KT Rolster at the series level once euphoria settles. The esports arbitrage window is closing fast.\n\nMeanwhile, Iran ceasefire/peace deal markets are imploding. The June 12 extension contract collapsed from 14% to 1%\u2014a -13% bleed in hours\u2014suggesting either geopolitical pessimism shifted overnight or early-week optimism was pure speculation. The June 15 deal (16%, $4.2M) and June 30 permanent deal (42%, $1.6M) are now the real price discovery zones. The spread between these two suggests the market sees a *possible* framework emerging by month-end but near-zero confidence on imminent resolution. This is capitulation pricing.\n\nWorld Cup long-shot markets are pulling minor volume from majors but showing zero conviction. USA at 2% and Paraguay at 1% are lottery ticket positions, not theses. Brazil's -2% pullback despite being heavy favorites for today's match is the real tell\u2014bettors are hedging or taking profits ahead of the game.\n\n---\n\n## WATCH LIST\n\n**1. US x Iran June 15 Deal (16%, $4.2M vol)**  \nThe most-watched near-term catalyst. Any credible news cycle shift sends this exploding or imploding. This is your volatility play.\n\n**2. LoL Gen.G Series Winner (99%)**  \nApproaching maximum saturation. If KT wins even one map, the repricing will be swift and brutal. Contrarian value setup if odds stay this high.\n\n**3. Brazil vs Match Today (57%, $1.5M vol)**  \nWorld Cup liquidity concentrating here. Watch if this breaks 60%+ (smart money piling in) or collapses below 50% (sharp reversals).",
   "top_movers": [
     {
-      "question": "US x Iran permanent peace deal by June 30, 2026?",
-      "prob": 38,
-      "change": 21.0,
-      "vol24": "$2.5M",
-      "slug": "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877-363-892-537-597"
-    },
-    {
-      "question": "US x Iran permanent peace deal by June 15, 2026?",
-      "prob": 15,
-      "change": 10.2,
-      "vol24": "$6.2M",
-      "slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734-856-129"
+      "question": "LoL: Gen.G vs KT Rolster - Game 3 Winner",
+      "prob": 99,
+      "change": 23.4,
+      "vol24": "$1.2M",
+      "slug": "lol-gen-kt-2026-06-13-game3"
     },
     {
       "question": "US announces new Iran agreement/ceasefire extension by June 12?",
-      "prob": 15,
-      "change": 10.0,
-      "vol24": "$2.0M",
+      "prob": 1,
+      "change": -13.2,
+      "vol24": "$2.9M",
       "slug": "us-announces-new-iran-agreementceasefire-extension-by-june-12-2482"
     },
     {
-      "question": "Will United States win on 2026-06-12?",
-      "prob": 48,
-      "change": -3.0,
-      "vol24": "$3.6M",
-      "slug": "fifwc-usa-par-2026-06-12-usa"
+      "question": "LoL: Gen.G vs KT Rolster (BO5) - LCK Road to MSI",
+      "prob": 99,
+      "change": 11.5,
+      "vol24": "$1.2M",
+      "slug": "lol-gen-kt-2026-06-13"
     },
     {
-      "question": "Will Netherlands win the 2026 FIFA World Cup?",
-      "prob": 4,
-      "change": 0.4,
-      "vol24": "$3.2M",
-      "slug": "will-netherlands-win-the-2026-fifa-world-cup-739"
+      "question": "US x Iran permanent peace deal by June 30, 2026?",
+      "prob": 42,
+      "change": 4.0,
+      "vol24": "$1.6M",
+      "slug": "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877-363-892-537-597"
+    },
+    {
+      "question": "Will Brazil win on 2026-06-13?",
+      "prob": 57,
+      "change": -2.0,
+      "vol24": "$1.5M",
+      "slug": "fifwc-bra-mar-2026-06-13-bra"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Czechia win the 2026 FIFA World Cup?",
-      "prob": 1,
-      "change": 0,
-      "vol24": "$14.2M",
-      "slug": "will-czechia-win-the-2026-fifa-world-cup"
-    },
-    {
-      "question": "Will South Korea win the 2026 FIFA World Cup?",
-      "prob": 1,
-      "change": 0.2,
-      "vol24": "$12.5M",
-      "slug": "will-south-korea-win-the-2026-fifa-world-cup-485"
+      "question": "Will USA win the 2026 FIFA World Cup?",
+      "prob": 2,
+      "change": 0.8,
+      "vol24": "$8.1M",
+      "slug": "will-usa-win-the-2026-fifa-world-cup-467"
     },
     {
       "question": "Will Paraguay win the 2026 FIFA World Cup?",
       "prob": 1,
       "change": 0,
-      "vol24": "$6.5M",
+      "vol24": "$6.9M",
       "slug": "will-paraguay-win-the-2026-fifa-world-cup-967"
+    },
+    {
+      "question": "Will Bosnia-Herzegovina win the 2026 FIFA World Cup?",
+      "prob": 1,
+      "change": 0,
+      "vol24": "$4.7M",
+      "slug": "will-bosnia-herzegovina-win-the-2026-fifa-world-cup"
     }
   ]
 }
