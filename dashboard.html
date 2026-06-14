@@ -5003,6 +5003,7 @@ a:focus-visible,button:focus-visible,input:focus-visible{
           <button class="radar-mbtn" data-m="aandelen" onclick="radarSetMarket('aandelen',this)">Stocks</button>
           <button class="radar-mbtn radar-active" data-m="allebei" onclick="radarSetMarket('allebei',this)">Both</button>
         </div>
+        <input id="radar-watchlist" oninput="radarSaveWatchlist()" placeholder="Your watchlist — tickers/coins you hold or follow (e.g. BTC, NVDA, SOL)" style="width:100%;box-sizing:border-box;padding:11px 14px;border-radius:8px;background:var(--c4);border:1px solid var(--bdr);color:var(--cream);font-size:13px;outline:none;font-family:'Inter',sans-serif;margin-bottom:8px">
         <div style="display:flex;gap:8px">
           <input id="radar-focus" placeholder="Optional: sector or theme (e.g. AI chips, layer 2, biotech)" style="flex:1;padding:11px 14px;border-radius:8px;background:var(--c4);border:1px solid var(--bdr);color:var(--cream);font-size:13px;outline:none;font-family:'Inter',sans-serif">
           <button id="radar-scan" onclick="radarScan()" style="padding:11px 22px;border-radius:8px;border:none;cursor:pointer;background:#9b59d6;color:#fff;font-size:13px;font-weight:700;white-space:nowrap;font-family:'Inter',sans-serif">Scan</button>
@@ -8512,10 +8513,27 @@ async function esRunScan(){
 <!-- ═══ ATTENTION RADAR LOGIC ═══ -->
 <script>
 var radarMarket = 'allebei';
+var radarItems = [];
+var radarHeadlines = [];
+
 function radarSetMarket(m, btn){
   radarMarket = m;
   document.querySelectorAll('.radar-mbtn').forEach(function(b){ b.classList.remove('radar-active'); });
   if(btn) btn.classList.add('radar-active');
+}
+
+function radarWatchlist(){
+  try { return (localStorage.getItem('zimr_radar_watchlist')||'').split(',').map(function(s){return s.trim();}).filter(Boolean); }
+  catch(e){ return []; }
+}
+function radarSaveWatchlist(){
+  var el = document.getElementById('radar-watchlist');
+  if(!el) return;
+  try { localStorage.setItem('zimr_radar_watchlist', el.value || ''); } catch(e){}
+}
+function radarInitWatchlist(){
+  var el = document.getElementById('radar-watchlist');
+  if(el){ try { el.value = localStorage.getItem('zimr_radar_watchlist')||''; } catch(e){} }
 }
 
 function radarFeeds(){
@@ -8534,7 +8552,13 @@ function radarFeeds(){
   return crypto.concat(stocks);
 }
 
-function radarEsc(s){ var d=document.createElement('div'); d.textContent = (s==null?'':s); return d.innerHTML; }
+function radarEsc(s){ var d=document.createElement('div'); d.textContent=(s==null?'':s); return d.innerHTML; }
+
+function radarMatchesWatchlist(it, wl){
+  if(!wl.length) return false;
+  var hay = ((it.name||'')+' '+(it.ticker||'')).toLowerCase();
+  return wl.some(function(w){ return w && hay.indexOf(w.toLowerCase())!==-1; });
+}
 
 async function radarScan(){
   var btn = document.getElementById('radar-scan');
@@ -8542,91 +8566,121 @@ async function radarScan(){
   btn.disabled = true;
   out.innerHTML = '<div style="color:var(--sub);font-size:13px;padding:18px 0;font-family:\'Inter\',sans-serif"><span class="radar-spin">◠</span>&nbsp; Scanning live headlines...</div>';
 
-  // 1) Pull live headlines from your own feeds
   var feeds = radarFeeds();
   var groups = await Promise.all(feeds.map(function(f){
     try { return fetchFeedWithFallback(f.url, f.name); } catch(e){ return Promise.resolve([]); }
   }));
-  var all = [];
-  groups.forEach(function(g){ all = all.concat(g || []); });
+  var all = []; groups.forEach(function(g){ all = all.concat(g || []); });
   all.sort(function(a,b){ return b.date - a.date; });
-  var heads = all.slice(0, 45).map(function(i){ return '- ['+i.src+'] '+i.title; }).join('\n');
+  all = all.slice(0, 50);
+  radarHeadlines = all;
+  var heads = all.map(function(i,ix){ return '['+ix+'] ('+i.src+') '+i.title; }).join('\n');
 
-  // 2) Ask Claude (via your existing /api/chat proxy) to spot where attention is shifting
   var focus = (document.getElementById('radar-focus').value || '').trim();
+  var wl = radarWatchlist();
   var marketText = radarMarket === 'aandelen' ? 'stocks and upcoming IPOs'
     : radarMarket === 'crypto' ? 'crypto (tokens, listings, funding rounds)'
     : 'both stocks/IPOs and crypto';
   var focusText = focus ? (' Focus specifically on: ' + focus + '.') : '';
+  var wlText = wl.length ? (' The user holds or watches these — prioritise and clearly flag anything related: ' + wl.join(', ') + '.') : '';
 
-  var prompt = 'You are a market scout for ZIMR Capital. Below are the latest live headlines pulled just now. '
-    + 'Spot where attention is SHIFTING within ' + marketText + '.' + focusText + '\n\n'
-    + 'I do NOT want the loudest news (that is usually late). I want attention that is just starting to build, '
-    + 'or clear upcoming catalysts (IPOs, listings, earnings, unlocks, unusual moves).\n\n'
-    + 'Use the headlines as your signal, plus your own knowledge for context. Give MAXIMUM 5 items. Be concrete and short.\n\n'
-    + 'LIVE HEADLINES:\n' + (heads || '(none retrieved — use your own knowledge)') + '\n\n'
-    + 'Respond ONLY with valid JSON, no markdown, no backticks:\n'
-    + '{"summary":"one short sentence on what is moving","items":[{"name":"name","ticker":"ticker or null","type":"stock|crypto|ipo","attention":"early|building|loud","why":"one sentence why it is getting attention","watch":"short: what to check yourself or the risk"}]}';
+  var prompt = 'You are a market scout for ZIMR Capital. Below are the latest live headlines, each with an index number. '
+    + 'Spot where attention is SHIFTING within ' + marketText + '.' + focusText + wlText + '\n\n'
+    + 'I do NOT want the loudest news (usually late). I want attention just starting to build, or clear upcoming catalysts (IPOs, listings, earnings, unlocks, unusual moves). '
+    + 'Give 6 to 8 items. For each, the "why" should be up to 2 sentences and include a concrete detail (a number, date or level). '
+    + 'For "src", give the index number of the single headline this item is most based on, or null if it comes from your own knowledge.\n\n'
+    + 'LIVE HEADLINES:\n' + (heads || '(none)') + '\n\n'
+    + 'Respond ONLY with valid JSON, no markdown:\n'
+    + '{"summary":"one sentence on what is moving","items":[{"name":"name","ticker":"ticker or null","type":"stock|crypto|ipo","attention":"early|building|loud","why":"up to 2 sentences","watch":"what to check yourself or the risk","src":0}]}';
 
   try{
     var resp = await fetch('https://zimr-proxy.vercel.app/api/chat', {
-      method:'POST',
-      headers:{'Content-Type':'application/json'},
-      body: JSON.stringify({
-        model:'claude-sonnet-4-20250514',
-        max_tokens:1500,
+      method:'POST', headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({ model:'claude-sonnet-4-20250514', max_tokens:2500,
         system:'You are a sharp, sober market scout. Use numerals for numbers. Respond only with valid JSON.',
-        messages:[{role:'user',content:prompt}]
-      })
+        messages:[{role:'user',content:prompt}] })
     });
     var data = await resp.json();
-    if(data.error){
-      out.innerHTML = '<div class="radar-card" style="border-color:#5c2626;background:#2a1515;color:#f0a0a0;font-size:13px">API error: ' + radarEsc(data.error.message||'unknown') + '</div>';
-      return;
-    }
+    if(data.error){ out.innerHTML = '<div class="radar-card" style="border-color:#5c2626;background:rgba(92,38,38,.25);color:#f0a0a0;font-size:13px">API error: ' + radarEsc(data.error.message||'unknown') + '</div>'; return; }
     var raw = (data.content && data.content[0] && data.content[0].text) || '';
     var clean = raw.replace(/```json/g,'').replace(/```/g,'').trim();
-    var s = clean.indexOf('{'), e = clean.lastIndexOf('}');
-    if(s!==-1 && e!==-1) clean = clean.slice(s, e+1);
-    radarRender(JSON.parse(clean));
+    var s = clean.indexOf('{'), e = clean.lastIndexOf('}'); if(s!==-1 && e!==-1) clean = clean.slice(s, e+1);
+    var parsed = JSON.parse(clean);
+    radarItems = parsed.items || [];
+    radarRender(parsed);
   }catch(err){
-    out.innerHTML = '<div class="radar-card" style="border-color:#5c2626;background:#2a1515;color:#f0a0a0;font-size:13px">Could not finish the scan. ('+radarEsc(err.message)+')</div>';
-  }finally{
-    btn.disabled = false;
-  }
+    out.innerHTML = '<div class="radar-card" style="border-color:#5c2626;background:rgba(92,38,38,.25);color:#f0a0a0;font-size:13px">Could not finish the scan. (' + radarEsc(err.message) + ')</div>';
+  }finally{ btn.disabled = false; }
 }
 
 function radarRender(data){
-  var ATT = {
-    early:    {label:'EARLY',    color:'#3fb950'},
-    building: {label:'BUILDING', color:'#9b59d6'},
-    loud:     {label:'LOUD',     color:'#d29922'}
-  };
+  var ATT = { early:{label:'EARLY',color:'#3fb950'}, building:{label:'BUILDING',color:'#9b59d6'}, loud:{label:'LOUD',color:'#d29922'} };
+  var wl = radarWatchlist();
   var out = document.getElementById('radar-out');
   var html = '';
   if(data.summary){
-    html += '<div class="radar-card" style="display:flex;gap:10px;align-items:flex-start;font-size:13.5px;line-height:1.55">'
-      + '<span style="color:#9b59d6;font-weight:700">▲</span><span>' + radarEsc(data.summary) + '</span></div>';
+    html += '<div class="radar-card" style="display:flex;gap:10px;align-items:flex-start;font-size:13.5px;line-height:1.55"><span style="color:var(--accent);font-weight:700">▲</span><span>' + radarEsc(data.summary) + '</span></div>';
   }
-  (data.items||[]).forEach(function(it){
+  (data.items||[]).forEach(function(it, idx){
     var a = ATT[it.attention] || ATT.building;
-    html += '<div class="radar-card">';
+    var onList = radarMatchesWatchlist(it, wl);
+    var si = (it.src===null || it.src===undefined || it.src==='null') ? null : Number(it.src);
+    var src = (si!=null && !isNaN(si) && radarHeadlines[si]) ? radarHeadlines[si] : null;
+    html += '<div class="radar-card"' + (onList ? ' style="border-color:var(--accent)"' : '') + '>';
     html += '<div style="display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:10px">';
     html += '<div style="display:flex;align-items:baseline;gap:10px;flex-wrap:wrap">';
     html += '<span style="font-size:16px;font-weight:700;color:var(--cream)">' + radarEsc(it.name) + '</span>';
-    if(it.ticker && it.ticker !== 'null') html += '<span style="font-size:12px;color:#9b59d6;background:rgba(155,89,214,.08);padding:2px 7px;border-radius:5px">' + radarEsc(it.ticker) + '</span>';
+    if(it.ticker && it.ticker !== 'null') html += '<span style="font-size:12px;color:var(--accent);background:rgba(155,89,214,.1);padding:2px 7px;border-radius:5px">' + radarEsc(it.ticker) + '</span>';
     html += '<span style="font-size:10.5px;color:var(--sub);text-transform:uppercase;letter-spacing:1px">' + radarEsc(it.type) + '</span>';
+    if(onList) html += '<span style="font-size:9px;font-weight:700;letter-spacing:.5px;color:var(--accent);border:1px solid var(--accent);padding:1px 6px;border-radius:4px">ON YOUR LIST</span>';
     html += '</div>';
     html += '<span style="font-size:10px;font-weight:600;letter-spacing:1px;color:'+a.color+';border:1px solid '+a.color+'55;padding:3px 8px;border-radius:5px;white-space:nowrap">'+a.label+'</span>';
     html += '</div>';
     html += '<div style="font-size:13.5px;line-height:1.5;color:var(--cream);margin-bottom:8px">↗ ' + radarEsc(it.why) + '</div>';
-    if(it.watch) html += '<div style="font-size:12.5px;line-height:1.5;color:#b89048">👁 ' + radarEsc(it.watch) + '</div>';
+    if(it.watch) html += '<div style="font-size:12.5px;line-height:1.5;color:#b89048;margin-bottom:10px">👁 ' + radarEsc(it.watch) + '</div>';
+    html += '<div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap">';
+    html += '<button onclick="radarDig('+idx+')" style="padding:6px 12px;border-radius:7px;border:1px solid var(--bdr);background:var(--c4);color:var(--cream);font-size:11px;font-weight:600;cursor:pointer;font-family:\'Inter\',sans-serif">Dig deeper</button>';
+    if(src && src.url) html += '<a href="'+radarEsc(src.url)+'" target="_blank" rel="noopener" style="font-size:11px;color:var(--accent);text-decoration:none">Source: '+radarEsc(src.src)+' →</a>';
+    html += '</div>';
+    html += '<div id="radar-dig-'+idx+'"></div>';
     html += '</div>';
   });
-  html += '<div class="radar-card" style="display:flex;gap:8px;font-size:11.5px;line-height:1.5;color:var(--sub);background:var(--c3)">'
-    + '<span>⚠</span><span>Not financial advice. Popular often means late, and in attention-driven markets the biggest risk is following a hype. Use this to research, not to trust.</span></div>';
+  html += '<div class="radar-card" style="display:flex;gap:8px;font-size:11.5px;line-height:1.5;color:var(--sub)"><span>⚠</span><span>Not financial advice. Popular often means late, and in attention-driven markets the biggest risk is following a hype. Use this to research, not to trust.</span></div>';
   out.innerHTML = html;
 }
+
+async function radarDig(idx){
+  var it = radarItems[idx];
+  if(!it) return;
+  var box = document.getElementById('radar-dig-'+idx);
+  if(!box) return;
+  if(box.getAttribute('data-open')==='1'){ box.innerHTML=''; box.removeAttribute('data-open'); return; }
+  box.setAttribute('data-open','1');
+  box.innerHTML = '<div style="margin-top:10px;color:var(--sub);font-size:12px"><span class="radar-spin">◠</span>&nbsp; Digging into ' + radarEsc(it.name) + '...</div>';
+
+  var prompt = 'Go deeper on this single market item for a sober crypto and stocks researcher.\n\n'
+    + 'Item: ' + it.name + (it.ticker && it.ticker!=='null' ? (' (' + it.ticker + ')') : '') + '\n'
+    + 'Why it is on the radar: ' + (it.why||'') + '\n\n'
+    + 'Give a tight briefing in plain prose, no markdown headers, in 4 to 6 short sentences: what specifically is happening and the key number or date; why it could matter; the main risk or what would invalidate the thesis; and the one or two concrete things to check before acting. Be sober, use numerals, no hype, give no buy or sell advice.';
+
+  try{
+    var resp = await fetch('https://zimr-proxy.vercel.app/api/chat', {
+      method:'POST', headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({ model:'claude-sonnet-4-20250514', max_tokens:600,
+        system:'You are a sharp, sober market analyst. Use numerals. No buy or sell advice. Plain prose, no markdown.',
+        messages:[{role:'user',content:prompt}] })
+    });
+    var data = await resp.json();
+    if(data.error){ box.innerHTML = '<div style="margin-top:10px;color:#f0a0a0;font-size:12px">API error: ' + radarEsc(data.error.message||'unknown') + '</div>'; return; }
+    var txt = (data.content && data.content[0] && data.content[0].text) || '';
+    box.innerHTML = '<div style="margin-top:10px;padding:12px 14px;border-radius:8px;background:var(--c4);border:1px solid var(--bdr);font-size:12.5px;line-height:1.6;color:var(--cream)">' + radarEsc(txt) + '</div>';
+  }catch(err){
+    box.innerHTML = '<div style="margin-top:10px;color:#f0a0a0;font-size:12px">Could not load. (' + radarEsc(err.message) + ')</div>';
+  }
+}
+
+radarInitWatchlist();
+
 </script>
 
 <!-- ═══ ATTENTION RADAR — DASHBOARD WIDGET ═══ -->
