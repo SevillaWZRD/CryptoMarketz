@@ -1,14 +1,14 @@
 [
   {
-    "id": 1781523873374,
+    "id": 1781542525982,
     "coin": "ETH/USD",
-    "type": "BUY",
-    "entry": "1762",
-    "tp": "1825",
-    "sl": "1737",
-    "note": "Strong 4H bullish trend with price above both EMAs, 1H RSI 68.1 approaching but not overbought, clear support at 24h low 1632. Good momentum with 5.20% 24h gain. Use 1/3 position size.",
-    "timestamp": "2026-06-15T11:44:27.552Z",
-    "generated_at": "Mon, 15 Jun 2026 11:44:27 GMT",
+    "type": "SELL",
+    "entry": "1840",
+    "tp": "1720",
+    "sl": "1870",
+    "note": "Extremely overbought conditions with RSI 88.3 on 1H and 86.7 on 4H, price extended far above EMAs. Clear resistance at 24h high $1846. Risk/reward 1:4 with TP near EMA20 support. Use 1/3 position size.",
+    "timestamp": "2026-06-15T16:55:19.406Z",
+    "generated_at": "Mon, 15 Jun 2026 16:55:19 GMT",
     "source": "claude-bot"
   }
 ]
