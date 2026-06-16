@@ -1,65 +1,65 @@
 {
-  "date": "Monday June 15, 2026",
-  "generated": "2026-06-15T12:55:04.886088Z",
-  "brief": "# ZIMR DAILY BRIEF | MONDAY JUNE 15, 2026\n\n## \"Iran Deal Just Priced In\u2014Markets Pivoting to Implementation Risk\"\n\nThe market has spoken decisively: a US-Iran permanent peace deal is virtually locked in. The June 15 deadline contract jumped 77% overnight to 90%, with $23.2M in volume\u2014nearly 4x the next largest market. The June 30 version sitting at 96% suggests traders are already pricing in what's almost certain. This isn't speculation anymore; it's a done deal being confirmed.\n\nBut here's where it gets interesting: **the real money has already moved**. Smart capital is rotating away from the \"if\" into the \"what happens next.\" Notice the Strait of Hormuz traffic recovery market stuck at just 28% despite the peace deal momentum\u2014that's a dangerous mispricing. If Iran sanctions are lifting, maritime traffic should snap back hard. That spread is sitting pretty for value hunters. Meanwhile, the Spain vs. Cabo Verde sports markets are moving organically (Spain 92% to win today), but they're pulling in institutional volume as hedge pairs against geopolitical volatility.\n\nThe Fed rate cut market at 1% with $4.3M volume is the canary. Nobody's pricing a 50bp cut post-June meeting, which tells you the market doesn't expect economic shock from the Iran deal. Clean unwinding scenario priced in.\n\n---\n\n## WATCH LIST\n\n1. **Strait of Hormuz Normal Traffic by June 30** (28%) \u2014 Most underpricedmarket relative to the deal probability. If peace holds, this compresses to 70%+ within 48 hours. Entry opportunity.\n\n2. **US x Iran Deal by June 15 vs June 30 Spread** (90% vs 96%) \u2014 Narrow 6-point gap suggests signature could happen today. Watch for any news before 6pm ET; this tightens to <2 points if confirmed.\n\n3. **Germany 2026 World Cup Win** (6% with $5.5M vol) \u2014 Unusual volume for a 6% long shot. Someone's thesis here. Monitor whether this is smart hedge capital or noise.",
+  "date": "Tuesday June 16, 2026",
+  "generated": "2026-06-16T11:59:40.636680Z",
+  "brief": "# ZIMR Daily Brief \u2014 Tuesday, June 16, 2026\n\n## Headline\n**Iran Deal Officially Done: Markets Price in Near-Certainty, $14M+ in Volume Signals This Isn't Noise**\n\n---\n\n## The Signal\n\nThe market just declared victory. US-Iran agreement odds hit 99% with explosive volume\u2014$5.4M flooded in overnight on the June 15 deadline contract alone, up 96.7%. The permanent peace deal contract ($9.0M volume) is holding at 99% with more measured moves, suggesting traders are now rotating from \"will it happen\" to \"how durable is it.\"\n\nThis isn't typical geopolitical volatility. The size and direction of capital flow indicates institutional conviction, not retail speculation. When a tail-risk market suddenly consolidates at 99% with nine-figure daily volume, it's usually because something material just crossed the finish line off-market.\n\n**The mispricing to watch:** Spain's World Cup odds cratered -2.2% to 14% on light $3.8M volume. That's a -13% single-day drawdown on a legacy favorite. France picked up 1.6% instead. If this is algorithmic rebalancing rather than genuine form adjustment, Spain could be a contrarian long\u2014their pre-tournament positioning looked stronger than current odds reflect.\n\n---\n\n## Watch List\n\n1. **US x Iran permanent peace deal by June 30** (99%) \u2014 Watch the *spread* to June 15 contract over next 48 hours. If June 30 stays flat while June 15 consolidates, the market is saying \"done is done.\" Any divergence signals lingering verification risk.\n\n2. **France vs Spain World Cup odds** \u2014 France up 1.6%, Spain down 2.2%. Monitor if this is momentum-driven or information-driven. If France's actual squad metrics haven't changed, Spain represents value. Volume tell will matter more than price.\n\n3. **Argentina (9%) and Australia (1%) volume divergence** \u2014 $8.9M on Argentina, $7.8M on Australia despite 9x odds gap. Unusual retail interest in Australia suggests either deep-value hunting or informed long positioning. Track if this volume persists.",
   "top_movers": [
     {
+      "question": "US and Iran sign an agreement by June 15, 2026?",
+      "prob": 99,
+      "change": 96.7,
+      "vol24": "$5.4M",
+      "slug": "us-and-iran-sign-an-agreement-by-june-15-2026-20260611221049851"
+    },
+    {
       "question": "US x Iran permanent peace deal by June 15, 2026?",
-      "prob": 90,
-      "change": 77.1,
-      "vol24": "$23.2M",
+      "prob": 99,
+      "change": 11.0,
+      "vol24": "$9.0M",
       "slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734-856-129"
     },
     {
       "question": "US x Iran permanent peace deal by June 30, 2026?",
-      "prob": 96,
-      "change": 55.0,
-      "vol24": "$5.7M",
+      "prob": 99,
+      "change": 4.8,
+      "vol24": "$2.1M",
       "slug": "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877-363-892-537-597"
     },
     {
-      "question": "Strait of Hormuz traffic returns to normal by end of June?",
-      "prob": 28,
-      "change": 9.0,
-      "vol24": "$2.5M",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june"
+      "question": "Will Spain win the 2026 FIFA World Cup?",
+      "prob": 14,
+      "change": -2.2,
+      "vol24": "$3.8M",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963"
     },
     {
-      "question": "Spread: Spain (-2.5)",
-      "prob": 57,
-      "change": 8.0,
-      "vol24": "$2.9M",
-      "slug": "fifwc-esp-cvi-2026-06-15-spread-home-2pt5"
-    },
-    {
-      "question": "Spain vs. Cabo Verde: O/U 3.5",
-      "prob": 54,
-      "change": 4.0,
-      "vol24": "$2.3M",
-      "slug": "fifwc-esp-cvi-2026-06-15-total-3pt5"
+      "question": "Will France win the 2026 FIFA World Cup?",
+      "prob": 18,
+      "change": 1.6,
+      "vol24": "$3.0M",
+      "slug": "will-france-win-the-2026-fifa-world-cup-924"
     }
   ],
   "top_vol": [
     {
       "question": "US x Iran permanent peace deal by June 15, 2026?",
-      "prob": 90,
-      "change": 77.1,
-      "vol24": "$23.2M",
+      "prob": 99,
+      "change": 11.0,
+      "vol24": "$9.0M",
       "slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734-856-129"
     },
     {
-      "question": "Will Mexico win the 2026 FIFA World Cup?",
-      "prob": 1,
-      "change": 0.1,
-      "vol24": "$5.9M",
-      "slug": "will-mexico-win-the-2026-fifa-world-cup-529"
+      "question": "Will Argentina win the 2026 FIFA World Cup?",
+      "prob": 9,
+      "change": 1.2,
+      "vol24": "$8.9M",
+      "slug": "will-argentina-win-the-2026-fifa-world-cup-245"
     },
     {
-      "question": "US x Iran permanent peace deal by June 30, 2026?",
-      "prob": 96,
-      "change": 55.0,
-      "vol24": "$5.7M",
-      "slug": "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877-363-892-537-597"
+      "question": "Will Australia win the 2026 FIFA World Cup?",
+      "prob": 1,
+      "change": 0.2,
+      "vol24": "$7.8M",
+      "slug": "will-australia-win-the-2026-fifa-world-cup-816"
     }
   ]
 }
