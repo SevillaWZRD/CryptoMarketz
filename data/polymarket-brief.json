@@ -1,65 +1,65 @@
 {
-  "date": "Tuesday June 16, 2026",
-  "generated": "2026-06-16T11:59:40.636680Z",
-  "brief": "# ZIMR Daily Brief \u2014 Tuesday, June 16, 2026\n\n## Headline\n**Iran Deal Officially Done: Markets Price in Near-Certainty, $14M+ in Volume Signals This Isn't Noise**\n\n---\n\n## The Signal\n\nThe market just declared victory. US-Iran agreement odds hit 99% with explosive volume\u2014$5.4M flooded in overnight on the June 15 deadline contract alone, up 96.7%. The permanent peace deal contract ($9.0M volume) is holding at 99% with more measured moves, suggesting traders are now rotating from \"will it happen\" to \"how durable is it.\"\n\nThis isn't typical geopolitical volatility. The size and direction of capital flow indicates institutional conviction, not retail speculation. When a tail-risk market suddenly consolidates at 99% with nine-figure daily volume, it's usually because something material just crossed the finish line off-market.\n\n**The mispricing to watch:** Spain's World Cup odds cratered -2.2% to 14% on light $3.8M volume. That's a -13% single-day drawdown on a legacy favorite. France picked up 1.6% instead. If this is algorithmic rebalancing rather than genuine form adjustment, Spain could be a contrarian long\u2014their pre-tournament positioning looked stronger than current odds reflect.\n\n---\n\n## Watch List\n\n1. **US x Iran permanent peace deal by June 30** (99%) \u2014 Watch the *spread* to June 15 contract over next 48 hours. If June 30 stays flat while June 15 consolidates, the market is saying \"done is done.\" Any divergence signals lingering verification risk.\n\n2. **France vs Spain World Cup odds** \u2014 France up 1.6%, Spain down 2.2%. Monitor if this is momentum-driven or information-driven. If France's actual squad metrics haven't changed, Spain represents value. Volume tell will matter more than price.\n\n3. **Argentina (9%) and Australia (1%) volume divergence** \u2014 $8.9M on Argentina, $7.8M on Australia despite 9x odds gap. Unusual retail interest in Australia suggests either deep-value hunting or informed long positioning. Track if this volume persists.",
+  "date": "Wednesday June 17, 2026",
+  "generated": "2026-06-17T11:25:10.011674Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | Wednesday, June 17, 2026\n\n## HEADLINE\n**Iran Deal Priced as Done; World Cup Narrative Shifts to Underdog Argentina**\n\n---\n\n## MARKET INTELLIGENCE\n\n**The Iran Ceasefire is Baked In.** All four US-Iran peace deal markets are trading at 99%, with combined volume exceeding $47M. The June 15 deadline has passed, yet the market hasn't collapsed\u2014this signals either (1) deal mechanics are executing behind closed doors, or (2) liquidity is purely speculative with no real event resolution mechanics. Either way, smart money has already exited. The +1.2% move on the June 15 contract despite the date passing is a yellow flag: watch for forced settlements or contract amendments in the next 48 hours.\n\n**Argentina's 12% FIFA odds are the only live narrative.** Up 2.5% today on $5.7M volume, this is genuine positional movement, not noise. France (18%) and Spain (13%) are both slightly down, suggesting a tactical shift toward Argentina's underdog angle. Portugal's -1.0% move on today's match (76% to win) indicates pre-game profit-taking rather than fundamental doubt\u2014the real action is on the tournament outcomes, not individual games.\n\n**Fed Rates Market is Crystallized.** 99% probability on no rate change post-June meeting with $10.8M volume signals consensus. The binary between +25bps (1%, $7.2M) and -25bps (1%, $6.0M) shows almost zero conviction in either direction. This is a parking lot for capital, not an alpha opportunity.\n\n---\n\n## WATCH LIST\n\n1. **US x Iran Deal (June 15 contract)** \u2014 Resolution mechanism unclear given date expiration. Watch for emergency liquidity events or contract amendments. If it hits 98% without settling, exit positions.\n\n2. **Argentina FIFA 2026** \u2014 Momentum play. Up 2.5% in 24h. If it breaks 14% today, momentum traders may push it to 18-20% by Friday. Contrary indicator: France at 18% still has structural backing (Mbapp\u00e9 news cycle). Track team news.\n\n3. **Portugal vs. [Today's Opponent]** \u2014 76% is high confidence. If they lose, expect sharp repricing of Portugal's tournament odds (currently 10%, should compress further). Quick alpha play if upset develops.",
   "top_movers": [
     {
-      "question": "US and Iran sign an agreement by June 15, 2026?",
-      "prob": 99,
-      "change": 96.7,
-      "vol24": "$5.4M",
-      "slug": "us-and-iran-sign-an-agreement-by-june-15-2026-20260611221049851"
+      "question": "Will Argentina win the 2026 FIFA World Cup?",
+      "prob": 12,
+      "change": 2.5,
+      "vol24": "$5.7M",
+      "slug": "will-argentina-win-the-2026-fifa-world-cup-245"
     },
     {
       "question": "US x Iran permanent peace deal by June 15, 2026?",
       "prob": 99,
-      "change": 11.0,
-      "vol24": "$9.0M",
+      "change": 1.2,
+      "vol24": "$31.8M",
       "slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734-856-129"
     },
     {
-      "question": "US x Iran permanent peace deal by June 30, 2026?",
-      "prob": 99,
-      "change": 4.8,
-      "vol24": "$2.1M",
-      "slug": "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877-363-892-537-597"
-    },
-    {
-      "question": "Will Spain win the 2026 FIFA World Cup?",
-      "prob": 14,
-      "change": -2.2,
-      "vol24": "$3.8M",
-      "slug": "will-spain-win-the-2026-fifa-world-cup-963"
+      "question": "Will Portugal win on 2026-06-17?",
+      "prob": 76,
+      "change": -1.0,
+      "vol24": "$1.6M",
+      "slug": "fifwc-prt-cdr-2026-06-17-prt"
     },
     {
       "question": "Will France win the 2026 FIFA World Cup?",
       "prob": 18,
-      "change": 1.6,
+      "change": 0.8,
       "vol24": "$3.0M",
       "slug": "will-france-win-the-2026-fifa-world-cup-924"
+    },
+    {
+      "question": "Will Spain win the 2026 FIFA World Cup?",
+      "prob": 13,
+      "change": -0.8,
+      "vol24": "$1.8M",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963"
     }
   ],
   "top_vol": [
     {
       "question": "US x Iran permanent peace deal by June 15, 2026?",
       "prob": 99,
-      "change": 11.0,
-      "vol24": "$9.0M",
+      "change": 1.2,
+      "vol24": "$31.8M",
       "slug": "us-x-iran-permanent-peace-deal-by-june-15-2026-734-856-129"
     },
     {
-      "question": "Will Argentina win the 2026 FIFA World Cup?",
-      "prob": 9,
-      "change": 1.2,
-      "vol24": "$8.9M",
-      "slug": "will-argentina-win-the-2026-fifa-world-cup-245"
+      "question": "Will there be no change in Fed interest rates after the June 2026 meeting?",
+      "prob": 99,
+      "change": 0.3,
+      "vol24": "$10.8M",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-june-2026-meeting"
     },
     {
-      "question": "Will Australia win the 2026 FIFA World Cup?",
+      "question": "Will the Fed increase interest rates by 25 bps after the June 2026 meeting?",
       "prob": 1,
-      "change": 0.2,
-      "vol24": "$7.8M",
-      "slug": "will-australia-win-the-2026-fifa-world-cup-816"
+      "change": -0.1,
+      "vol24": "$7.2M",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-june-2026-meeting"
     }
   ]
 }
