@@ -1,6 +1,6 @@
 {
-  "updated": "15 Jun 2026, 12:55 UTC",
-  "updated_iso": "2026-06-15T12:55:38.415995+00:00",
+  "updated": "18 Jun 2026, 11:08 UTC",
+  "updated_iso": "2026-06-18T11:08:10.215455+00:00",
   "x_posts": [],
   "reddit": {
     "airdrops": [],
@@ -9,79 +9,59 @@
   },
   "youtube": [
     {
-      "title": "Will XRP EVER Recover?",
+      "title": "Justin Sun Is Going After Trump",
       "channel": "Coin Bureau",
-      "link": "https://www.youtube.com/watch?v=-vpba-l9okM",
-      "date": "2026-06-14T13:00:36+00:00"
+      "link": "https://www.youtube.com/watch?v=jFdThHQlPio",
+      "date": "2026-06-17T14:00:39+00:00"
     },
     {
-      "title": "Why Asian Banks Are Taking Over Crypto",
+      "title": "The AI Exploit That Could Destroy DeFi",
       "channel": "Coin Bureau",
-      "link": "https://www.youtube.com/watch?v=eoDtWmlaBFw",
-      "date": "2026-06-13T14:00:02+00:00"
+      "link": "https://www.youtube.com/watch?v=04tT68HWa8g",
+      "date": "2026-06-16T14:00:16+00:00"
     },
     {
-      "title": "How to Research Crypto Like a Pro in 2026",
+      "title": "Why Big Money Is Rushing Into Hyperliquid",
       "channel": "Coin Bureau",
-      "link": "https://www.youtube.com/watch?v=JbnZ4AzZ2ik",
-      "date": "2026-06-11T14:00:11+00:00"
+      "link": "https://www.youtube.com/watch?v=Kqk8nAfI-O0",
+      "date": "2026-06-15T13:52:56+00:00"
     },
     {
-      "title": "Bitcoin: Time-Based Capitulation",
+      "title": "Kevin Warsh's First FOMC as Fed Chair",
       "channel": "Benjamin Cowen",
-      "link": "https://www.youtube.com/watch?v=psz9FwqWGns",
-      "date": "2026-06-14T22:21:02+00:00"
+      "link": "https://www.youtube.com/watch?v=zKPohkQdq_Q",
+      "date": "2026-06-18T04:29:37+00:00"
     },
     {
-      "title": "Bitcoin Dynamic DCA: How I Navigate Crypto",
+      "title": "The SpaceX IPO",
       "channel": "Benjamin Cowen",
-      "link": "https://www.youtube.com/watch?v=hx_neha7BVQ",
-      "date": "2026-06-14T01:25:19+00:00"
+      "link": "https://www.youtube.com/watch?v=gFiKyyPXMFo",
+      "date": "2026-06-16T16:47:46+00:00"
     },
     {
-      "title": "Gold Outlook for the Rest of 2026",
+      "title": "I Think The Worst Thing A Person Can Do Is",
       "channel": "Benjamin Cowen",
-      "link": "https://www.youtube.com/watch?v=DoteyQFNfnE",
-      "date": "2026-06-13T04:50:12+00:00"
+      "link": "https://www.youtube.com/shorts/vTcABO_0Exg",
+      "date": "2026-06-16T01:46:52+00:00"
     },
     {
-      "title": "Crypto Holders - What's Coming Is Worse Than 1929 Depression | Macro Position Trader Jason Pizzino",
+      "title": "The Fed is about to BLOW UP Bitcoin! Crypto Holders Are WRONG!",
       "channel": "Altcoin Daily",
-      "link": "https://www.youtube.com/watch?v=2Q7Dmfqv5fY",
-      "date": "2026-06-14T21:37:42+00:00"
+      "link": "https://www.youtube.com/watch?v=poxOzmSvxzE",
+      "date": "2026-06-17T21:53:16+00:00"
     },
     {
-      "title": "GIANT CRYPTO NEWS HAPPENING NOW! (Major Clarity Act News)",
+      "title": "Crypto Holders - How To Start Trading Perps As A Beginner In 2026 (in under 12 minutes)",
       "channel": "Altcoin Daily",
-      "link": "https://www.youtube.com/watch?v=CdsTuErwm5k",
-      "date": "2026-06-13T21:29:37+00:00"
+      "link": "https://www.youtube.com/watch?v=sZERRNnSrw0",
+      "date": "2026-06-17T16:34:19+00:00"
     },
     {
-      "title": "Saylor FORGOT He Said This 💀 #bitcoin",
+      "title": "Why BlackRock Thinks Bitcoin Goes to $750k (XRP & TAO news)",
       "channel": "Altcoin Daily",
-      "link": "https://www.youtube.com/shorts/AXCcwvlsjqk",
-      "date": "2026-06-13T13:00:21+00:00"
+      "link": "https://www.youtube.com/watch?v=at3WIe_ugrI",
+      "date": "2026-06-16T20:20:21+00:00"
     }
   ],
-  "analysis": {
-    "headline": "Crypto YouTubers Sound Alarm Bells Over Market Capitulation and Economic Downturn",
-    "summary": "The crypto community is deeply concerned about potential market capitulation and broader economic challenges, with major YouTube channels discussing Bitcoin's downward trajectory and comparing current conditions to the 1929 depression. Despite some positive regulatory clarity news, the overall tone suggests investors are bracing for prolonged difficulty ahead.",
-    "top_narratives": [
-      "Bitcoin capitulation and market bottom hunting",
-      "Traditional finance vs crypto banking shifts",
-      "Regulatory clarity developments in crypto"
-    ],
-    "hot_airdrops": [],
-    "trending_themes": [
-      "Market capitulation",
-      "Asian banking adoption",
-      "Regulatory clarity",
-      "Economic recession fears",
-      "DCA strategies"
-    ],
-    "youtube_takeaway": "Major crypto YouTubers are focused on defensive strategies and market timing, with emphasis on DCA approaches and warnings about severe economic headwinds comparable to the Great Depression.",
-    "analyst_take": "The absence of social media data combined with doom-laden YouTube content suggests retail sentiment has reached extreme pessimism. This could indicate a market bottom is forming, but investors should prepare for extended volatility and focus on risk management over speculation.",
-    "sentiment": "bearish",
-    "sentiment_reason": "YouTube content dominated by capitulation discussions and depression-era economic comparisons signals deeply pessimistic market sentiment."
-  }
+  "analysis": null
 }
