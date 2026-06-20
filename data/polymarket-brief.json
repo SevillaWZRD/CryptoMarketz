@@ -1,65 +1,65 @@
 {
-  "date": "Friday June 19, 2026",
-  "generated": "2026-06-19T11:10:45.540402Z",
-  "brief": "# ZIMR POLYMARKET BRIEFING | Friday, June 19, 2026\n\n## Headline\n**Trump Withdrawal Deal Priced In; Market Calls BS on Uranium Concessions**\n\n---\n\n## The Signal\n\nMarkets are fractured on the Iran endgame. Trump troop withdrawal is now 99%\u2014a stunning reversal that suggests either (a) a deal framework just dropped, or (b) this contract is broken and illiquid. The -79.8% crater on the diplomatic meeting contract tells you traders think negotiations are *done*, not beginning. But here's the tell: uranium enrichment sits at 55% despite the withdrawal hitting 99%. That's incoherent. You don't get troop pullouts without enrichment concessions. Either the agreement carves out a loophole, or the market is massively mispricing tail risk on enforcement.\n\nSmart money is rotating out of \"dialogue happens\" plays (the -$979K selloff) into \"framework agreed, details TBD.\" The $1.8M volume on withdrawal confirms institutional size moving conviction. But the Strait of Hormuz at 8% is the real red flag\u2014if troops are leaving AND enrichment continues, shipping normalization isn't happening. That disconnect smells like model risk.\n\nThe misprice: **Uranium enrichment at 55% is too high if Trump withdrawal is truly 99%**. Either re-rate uranium down to 30-35%, or rate withdrawal down to 75%. Current pricing suggests the market hasn't reconciled what \"withdrawal\" actually contains.\n\n---\n\n## Watch List\n\n**1. US x Iran diplomatic meeting by June 19 | 2% (-79.8%)**  \n*Why:* Today IS June 19. If no meeting is announced in the next 6 hours, this hits zero. A last-minute announcement would be a massive signal that negotiations restarted. Front-run any news.\n\n**2. Iran agrees to end enrichment by June 30 | 55%**  \n*Why:* The linchpin contract. If this stays above 50% through Monday, the market is pricing phantom enforcement. Watch for Iranian statements on centrifuge operations\u2014they're the only thing that matters.\n\n**3. Strait of Hormuz traffic returns to normal by end of June | 8%**  \n*Why:* The reality check. This should correlate 0.8+ with uranium enrichment. If it stays below 10% while enrichment rises, you've got a geopolitical risk premium that's actually *not* priced into the energy complex.\n\n---\n\n**ZIMR | *Markets don't lie. Markets do get confused. Today's Iran complex is confused.***",
+  "date": "Saturday June 20, 2026",
+  "generated": "2026-06-20T09:55:34.108968Z",
+  "brief": "# ZIMR DAILY BRIEF | Saturday, June 20, 2026\n\n## \"Iran Nuclear Deal Craters as World Cup Dark Horses Get Real Money\"\n\nThe market just repriced Iran nuclear diplomacy overnight\u2014a brutal -50% collapse on the June 30 enrichment deadline, now trading at just 4%. This isn't noise. If traders are this bearish on a 10-day resolution, assume backroom talks have deteriorated or a key deadline has already slipped. Watch for Iranian official statements within 48 hours; if silence holds, the 2% range is the floor.\n\nMeanwhile, Polymarket's FIFA forecasts are exposing a massive structural arbitrage opportunity. The USA at 3% is a joke\u2014they have legitimate tournament infrastructure and recent CONCACAF dominance, yet the market has priced them below Egypt (1%, $3.2M volume) and Paraguay (1%, $3.1M volume). Heavy volume on these longshot bets suggests sophisticated traders are loading up on chaos hedges rather than genuine confidence. France at 19% looks like the only rationally priced favorite; Argentina, Spain, and Belgium are mysteriously underweighted.\n\nNetherlands' +2% move to 57% on match day (presumably they won today) confirms prediction markets remain reactive rather than anticipatory. This is a tell: if you're ahead of match outcomes by even 6 hours, you can scalp this market hard.\n\n---\n\n## WATCH LIST\n\n1. **Iran uranium enrichment (4%)** \u2014 Circuit breaker candidate. If it breaks below 2% or bounces back above 8% in next 12 hours, major geopolitical shift is priced in. Monitor Tehran media and IAEA statements.\n\n2. **USA World Cup (3%)** \u2014 Structural mispricing relative to tournament probability. This either finds 7-10% on smart money reallocation or crashes to 1% if they lose their next group stage match. High leverage play.\n\n3. **Hormuz strait normalization (10%)** \u2014 Correlated with Iran deal; currently underpriced if enrichment talks collapse. Watch this as a free option on geopolitical escalation.",
   "top_movers": [
     {
-      "question": "US x Iran diplomatic meeting by June 19, 2026?",
-      "prob": 2,
-      "change": -79.8,
-      "vol24": "$979K",
-      "slug": "us-x-iran-diplomatic-meeting-by-june-19-2026-475"
-    },
-    {
-      "question": "Will Trump agree to withdraw troops from the Iranian region by June 30?",
-      "prob": 99,
-      "change": 10.9,
-      "vol24": "$1.8M",
-      "slug": "will-trump-agree-to-withdraw-troops-from-the-iranian-region-by-june-30"
-    },
-    {
-      "question": "Strait of Hormuz traffic returns to normal by end of June?",
-      "prob": 8,
-      "change": -10.0,
-      "vol24": "$1.6M",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june"
-    },
-    {
       "question": " Iran agrees to end enrichment of uranium by June 30?",
-      "prob": 55,
-      "change": -8.0,
-      "vol24": "$1.9M",
+      "prob": 4,
+      "change": -50.0,
+      "vol24": "$3.6M",
       "slug": "iran-agrees-to-end-enrichment-of-uranium-by-june-30"
     },
     {
-      "question": "Will Graham Platner win the 2028 Democratic presidential nomination?",
-      "prob": 2,
-      "change": 1.4,
+      "question": "Will Netherlands win on 2026-06-20?",
+      "prob": 57,
+      "change": 2.0,
+      "vol24": "$1.2M",
+      "slug": "fifwc-nld-swe-2026-06-20-nld"
+    },
+    {
+      "question": "Will USA win the 2026 FIFA World Cup?",
+      "prob": 3,
+      "change": 0.9,
+      "vol24": "$7.1M",
+      "slug": "will-usa-win-the-2026-fifa-world-cup-467"
+    },
+    {
+      "question": "Will Brazil win the 2026 FIFA World Cup?",
+      "prob": 6,
+      "change": -0.5,
+      "vol24": "$2.1M",
+      "slug": "will-brazil-win-the-2026-fifa-world-cup-183"
+    },
+    {
+      "question": "Will France win the 2026 FIFA World Cup?",
+      "prob": 19,
+      "change": 0.5,
       "vol24": "$1.9M",
-      "slug": "will-graham-platner-win-the-2028-democratic-presidential-nomination"
+      "slug": "will-france-win-the-2026-fifa-world-cup-924"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Canada win the 2026 FIFA World Cup?",
-      "prob": 1,
-      "change": 0.1,
-      "vol24": "$5.7M",
-      "slug": "will-canada-win-the-2026-fifa-world-cup-755"
+      "question": "Will USA win the 2026 FIFA World Cup?",
+      "prob": 3,
+      "change": 0.9,
+      "vol24": "$7.1M",
+      "slug": "will-usa-win-the-2026-fifa-world-cup-467"
     },
     {
-      "question": "Will Switzerland win the 2026 FIFA World Cup?",
-      "prob": 1,
-      "change": 0.1,
-      "vol24": "$5.2M",
-      "slug": "will-switzerland-win-the-2026-fifa-world-cup"
+      "question": " Iran agrees to end enrichment of uranium by June 30?",
+      "prob": 4,
+      "change": -50.0,
+      "vol24": "$3.6M",
+      "slug": "iran-agrees-to-end-enrichment-of-uranium-by-june-30"
     },
     {
-      "question": "Will Mexico win the 2026 FIFA World Cup?",
-      "prob": 2,
-      "change": 0.2,
-      "vol24": "$5.1M",
-      "slug": "will-mexico-win-the-2026-fifa-world-cup-529"
+      "question": "Will Egypt win the 2026 FIFA World Cup?",
+      "prob": 1,
+      "change": -0.1,
+      "vol24": "$3.2M",
+      "slug": "will-egypt-win-the-2026-fifa-world-cup"
     }
   ]
 }
