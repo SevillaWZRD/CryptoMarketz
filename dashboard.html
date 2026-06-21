@@ -8816,51 +8816,52 @@ async function radarScanDash(){
 
 <script>
 /* ════════════════════════════════════════════════════════════════
-   CMC AI AGENT  —  skill buttons wired to /api/chat
-   Edit CMC_SKILLS to add/rename/reorder. {A} = the asset in the input.
-   asset:true  -> button uses the ticker field.  asset:false -> market wide.
-   To switch to real CMC derivatives data later: change CMC_ENDPOINT to your
-   new proxy route (e.g. /api/cmc) that injects OI/CVD/funding server-side.
+   CMC AI AGENT  —  skill buttons wired to the live CMC Skill Hub
+   via the proxy endpoint /api/cmc. Each button names a real skill
+   (unique_name). The proxy runs the skill and Claude formats the read.
+   Edit CMC_SKILLS to add/rename. asset:true marks skills that focus
+   on the ticker in the input (passed through in the question for now;
+   exact skill params get wired once we read each skill input_schema).
    ════════════════════════════════════════════════════════════════ */
-var CMC_ENDPOINT = 'https://zimr-proxy.vercel.app/api/chat';
+var CMC_ENDPOINT = 'https://zimr-proxy.vercel.app/api/cmc';
 
 var CMC_SKILLS = [
   { g:"Perp & dark flow", items:[
-    { id:"perp",       label:"perp contract analysis", asset:true,  prompt:"Run a perp contract analysis on {A}. Summarize perp market state across multiple timeframes, positioning pressure from open interest, funding and long/short, the confirmation signals, and the current bias." },
-    { id:"altperp",    label:"altcoin scanner perp",   asset:false, prompt:"Rank perpetual altcoin setups by which names deserve immediate review right now and which remain on watch, based on derivatives positioning." },
-    { id:"oidark",     label:"detect oi dark flow",    asset:true,  prompt:"Classify {A} as a perpetual dark-flow setup or not, based on open interest behaviour versus price. Lay out the evidence and the conclusion first." },
-    { id:"oirank",     label:"rank oi dark flow",      asset:false, prompt:"Rank perpetual symbols by open-interest dark-flow signal right now and flag the strongest candidates with one line each." },
-    { id:"accum",      label:"accumulation breakout",  asset:true,  prompt:"Review {A} for an accumulation-base to breakout transition. Is it building, breaking out, or neither, and what confirms it." },
+    { skill:"perp_contract_analysis",            label:"perp contract analysis", asset:true,  q:"Give a perp contract read on {A}: positioning pressure, confirmation and bias." },
+    { skill:"altcoin_scanner_perp",              label:"altcoin scanner perp",   asset:false, q:"Which perpetual altcoin setups deserve immediate review and which stay on watch." },
+    { skill:"detect_oi_dark_flow_setup",         label:"detect oi dark flow",    asset:true,  q:"Is {A} a perpetual dark-flow setup. Evidence and conclusion first." },
+    { skill:"rank_oi_dark_flow_candidates",      label:"rank oi dark flow",      asset:false, q:"Rank perpetual symbols by open-interest dark-flow signal right now." },
+    { skill:"detect_accumulation_breakout_transition", label:"accumulation breakout", asset:true, q:"Is {A} moving from accumulation base to breakout, and what confirms it." },
   ]},
   { g:"BTC & macro", items:[
-    { id:"daily",      label:"daily market overview",  asset:false, prompt:"Give the daily crypto market overview: macro backdrop, liquidity, BTC ETF flows and sentiment, then the read for today." },
-    { id:"btccorr",    label:"btc cross asset corr",   asset:false, prompt:"Give a conclusion-first BTC regime read with confidence and uncertainty notes across risk assets, equities, DXY and gold." },
-    { id:"btcetf",     label:"btc etf demand",         asset:false, prompt:"Score BTC ETF-led institutional demand and confirm it with spot absorption and long-term-holder supply. State the level of conviction." },
-    { id:"macroliq",   label:"macro liquidity",        asset:false, prompt:"Track macro liquidity conditions and say plainly whether the backdrop is supportive, neutral or restrictive for crypto." },
-    { id:"cryptomacro",label:"crypto macro overview",  asset:false, prompt:"Synthesize the crypto macro backdrop: market pulse, macro conditions, liquidity, cross-asset and sentiment, then the net read." },
-    { id:"macrofin",   label:"macro fin conditions",   asset:false, prompt:"Score whether rates, yields, curve shape, inflation, real rates, policy path and Fed stance are loosening or tightening for risk." },
-    { id:"macronews",  label:"macro news aggregator",  asset:false, prompt:"Aggregate current macro news into the key events, the market read, and a next-window watchlist." },
+    { skill:"daily_market_overview",             label:"daily market overview",  asset:false, q:"Give the daily crypto market read: macro, liquidity, ETF flows, sentiment." },
+    { skill:"btc_cross_asset_correlation",       label:"btc cross asset corr",   asset:false, q:"Conclusion-first BTC regime read with confidence and uncertainty notes." },
+    { skill:"btc_etf_institutional_demand",      label:"btc etf demand",         asset:false, q:"Score BTC ETF-led demand with spot absorption and holder supply." },
+    { skill:"macro_liquidity_monitor",           label:"macro liquidity",        asset:false, q:"Is the macro liquidity backdrop supportive, neutral or restrictive." },
+    { skill:"crypto_macro_overview",             label:"crypto macro overview",  asset:false, q:"Synthesize the crypto macro backdrop and the net read." },
+    { skill:"macro_financial_conditions",        label:"macro fin conditions",   asset:false, q:"Are financial conditions loosening or tightening for risk." },
+    { skill:"macro_news_aggregator",             label:"macro news aggregator",  asset:false, q:"Key macro events, the read, and a next-window watchlist." },
   ]},
   { g:"Altcoins", items:[
-    { id:"altprofile", label:"altcoin token profile",  asset:true,  prompt:"Profile {A}: identity, market snapshot, protocol context, holder coverage status, and the current read." },
-    { id:"altbreak",   label:"breakout scanner spot",  asset:false, prompt:"Rank current spot-altcoin breakout candidates and explain which names passed on price, volume and structure." },
-    { id:"altsector",  label:"sector analysis",        asset:true,  prompt:"Read whether the sector {A} belongs to is rotating in or out, with relative momentum versus the broader market." },
-    { id:"altofficial",label:"official dynamics",      asset:true,  prompt:"Review official updates, public content and catalyst quality for {A}. Is the catalyst flow improving or fading." },
-    { id:"altdeep",    label:"deep research",          asset:true,  prompt:"Build a deep research memo for {A}: token profile, market structure, sector context, and the main risks." },
-    { id:"altkol",     label:"kol sentiment",          asset:true,  prompt:"Read social and crypto-twitter sentiment for {A}. Separate genuine signal from noise and state the net tone." },
+    { skill:"altcoin_token_profile",             label:"altcoin token profile",  asset:true,  q:"Profile {A}: identity, market snapshot, protocol context, the read." },
+    { skill:"altcoin_breakout_scanner_spot",     label:"breakout scanner spot",  asset:false, q:"Rank spot-altcoin breakout candidates that passed on price, volume, structure." },
+    { skill:"altcoin_sector_analysis",           label:"sector analysis",        asset:true,  q:"Is the sector around {A} rotating in or out, with relative momentum." },
+    { skill:"altcoin_official_dynamics",         label:"official dynamics",      asset:true,  q:"Official updates and catalyst quality for {A}. Improving or fading." },
+    { skill:"altcoin_deep_research",             label:"deep research",          asset:true,  q:"Deep research memo for {A}: profile, structure, sector, risks." },
+    { skill:"altcoin_kol_sentiment",             label:"kol sentiment",          asset:true,  q:"Social and crypto-twitter sentiment for {A}. Signal versus noise." },
   ]},
   { g:"Onchain", items:[
-    { id:"onmeme",     label:"memecoin analysis",      asset:true,  prompt:"Review the onchain health of {A}: holder concentration, liquidity depth and lock status, then the risk read." },
-    { id:"onscan",     label:"onchain token scanner",  asset:false, prompt:"Scan new and active onchain tokens and surface candidates with early traction, with one line on why each." },
-    { id:"onmemeprof", label:"memecoin token profile", asset:true,  prompt:"Give a memecoin token profile for {A}: identity, holders, liquidity and security flags." },
+    { skill:"onchain_memecoin_analysis",         label:"memecoin analysis",      asset:true,  q:"Onchain health of {A}: holder concentration, liquidity depth, lock status." },
+    { skill:"onchain_token_scanner",             label:"onchain token scanner",  asset:false, q:"New and active onchain tokens with early traction, one line each." },
+    { skill:"onchain_memecoin_token_profile",    label:"memecoin token profile", asset:true,  q:"Memecoin profile for {A}: identity, holders, liquidity, security flags." },
   ]},
   { g:"Tools", items:[
-    { id:"kline",      label:"kline pattern recog",    asset:true,  prompt:"Detect candlestick and classical chart patterns on {A}'s recent k-line history, flags, wedges, head and shoulders, and what they imply." },
-    { id:"portfolio",  label:"portfolio pipeline",     asset:false, prompt:"Review a portfolio through macro context and single-name risk. If you need the holdings, ask me for them first." },
+    { skill:"kline_pattern_recognition",         label:"kline pattern recog",    asset:true,  q:"Detect chart patterns on {A}'s recent k-line history and what they imply." },
+    { skill:"portfolio_analysis_pipeline",       label:"portfolio pipeline",     asset:false, q:"Review a portfolio through macro context and single-name risk." },
   ]},
 ];
 
-var CMC_VOICE = "You are the ZIMR Capital crypto desk agent. Write the read like a sharp trader posting to X: direct, precise, lowercase to capitalized, no em dashes, no bullet points, no hype. Use the exact live figures provided. If a specific derivatives number (open interest, funding, CVD, liquidations) is not in the provided context, say so plainly rather than inventing it. Keep it to 4 to 7 sentences. End with one short line: not financial advice.";
+var CMC_VOICE = "You are the ZIMR Capital crypto desk agent. Write the read like a sharp trader posting to X: direct, precise, lowercase to capitalized, no em dashes, no bullet points, no hype. Use the exact figures from the skill data. If a value is missing, say so plainly. Keep it to 4 to 7 sentences. End with one short line: not financial advice.";
 
 var cmcBusy = false;
 
@@ -8905,44 +8906,41 @@ async function cmcRun(skill, btn){
   btns.forEach(function(x){ x.disabled = true; });
 
   var asset = (document.getElementById('cmc-asset').value || 'BTC').trim().toUpperCase();
-  var userPrompt = skill.prompt.replace(/\{A\}/g, asset);
+  var question = skill.q.replace(/\{A\}/g, asset);
 
   document.getElementById('cmc-q').textContent = skill.label + (skill.asset ? ' · ' + asset : '');
   var body = document.getElementById('cmc-body');
   body.innerHTML = '<span class="cmc-dots"><i></i><i></i><i></i></span>';
   document.getElementById('cmc-time').textContent = new Date().toLocaleTimeString();
 
-  // reuse the dashboard's live price context + voice
-  var sys = CMC_VOICE;
-  try { if(typeof aiGetLivePriceContext === 'function'){ sys += '\n\n' + aiGetLivePriceContext(); } } catch(e){}
-
   try{
     var resp = await fetch(CMC_ENDPOINT, {
       method:'POST',
       headers:{'Content-Type':'application/json'},
       body:JSON.stringify({
-        model:'claude-sonnet-4-20250514',
-        max_tokens:1000,
-        system: sys,
-        messages:[{ role:'user', content: userPrompt }]
+        skill: skill.skill,
+        parameters: { preview: true },
+        system: CMC_VOICE,
+        question: question,
+        model: 'claude-sonnet-4-20250514',
+        max_tokens: 1200
       })
     });
     var data = await resp.json();
     if(data.error){
-      body.innerHTML = '<p class="muted">Proxy error: ' + (data.error.message || 'unknown') + '</p>';
+      body.innerHTML = '<p class="muted">Error: ' + (data.error.message || data.error) + '</p>';
     } else {
-      var reply = (data.content && data.content[0] && data.content[0].text) || 'No text returned. Try again.';
+      var reply = (data.content && data.content[0] && data.content[0].text) || 'No text returned.';
       body.innerHTML = '<p>' + cmcMd(reply) + '</p>';
     }
   }catch(e){
-    body.innerHTML = '<p class="muted">Could not reach the agent. Check the proxy is up.</p>';
+    body.innerHTML = '<p class="muted">Could not reach the agent. Is /api/cmc deployed.</p>';
   }finally{
     cmcBusy = false;
     btns.forEach(function(x){ x.disabled = false; });
   }
 }
 
-// build buttons once the DOM is ready
 if(document.readyState === 'loading'){
   document.addEventListener('DOMContentLoaded', cmcBuildRail);
 } else {
