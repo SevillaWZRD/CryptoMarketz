@@ -2937,6 +2937,8 @@ a:focus-visible,button:focus-visible,input:focus-visible{
     <ul class="sbn">
       <li><a onclick="goPage('ai',this)">
         <svg viewBox="0 0 24 24"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>AI Analyst <span style="font-family:'Inter',sans-serif;font-size:10px;background:rgba(155,89,214,.15);color:#9b59d6;border:1px solid rgba(155,89,214,.3);padding:1px 6px;border-radius:3px;margin-left:4px;font-weight:700;">AI</span><span class="sb-lk" id="lk-ai">🔒</span></a></li>
+      <li><a onclick="goPage('cmc-agent',this)">
+        <svg viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 9h6v6H9z"/><path d="M9 1v2M15 1v2M9 21v2M15 21v2M1 9h2M1 15h2M21 9h2M21 15h2"/></svg>CMC AI Agent <span style="font-family:'Inter',sans-serif;font-size:10px;background:rgba(155,89,214,.15);color:#9b59d6;border:1px solid rgba(155,89,214,.3);padding:1px 6px;border-radius:3px;margin-left:4px;font-weight:700;">SKILLS</span></a></li>
       <li><a onclick="goPage('ai-brief',this)">
         <svg viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M8 13h8"/><path d="M8 17h8"/><path d="M8 9h2"/></svg>AI Daily Market Brief<span class="sb-lk" id="lk-ai-brief">🔒</span></a></li>
       <li><a onclick="goPage('bot-signals',this)">
@@ -4117,6 +4119,64 @@ a:focus-visible,button:focus-visible,input:focus-visible{
 
         
     <!-- ═══ AI DAILY MARKET BRIEF ═══ -->
+    <!-- CMC AI AGENT -->
+    <div class="page" id="page-cmc-agent">
+      <style>
+        #page-cmc-agent .cmc-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.05fr);gap:18px;align-items:start}
+        #page-cmc-agent .cmc-controls{display:flex;flex-direction:column;gap:18px}
+        #page-cmc-agent .cmc-assetbar{display:flex;align-items:center;gap:10px;background:var(--c2);border:1px solid var(--bdr);border-radius:12px;padding:12px 14px}
+        #page-cmc-agent .cmc-assetbar label{font-family:'Inter',sans-serif;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--sub);font-weight:700}
+        #page-cmc-agent .cmc-assetbar input{flex:1;background:var(--c3);border:1px solid var(--bdr);border-radius:8px;color:inherit;font-family:'JetBrains Mono',monospace;font-size:13px;font-weight:600;padding:8px 11px;outline:none;text-transform:uppercase}
+        #page-cmc-agent .cmc-assetbar input:focus{border-color:var(--accent)}
+        #page-cmc-agent .cmc-assetbar .hint{font-family:'Inter',sans-serif;font-size:10.5px;color:var(--sub)}
+        #page-cmc-agent .cmc-group{}
+        #page-cmc-agent .cmc-glabel{font-family:'Inter',sans-serif;font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--sub);font-weight:700;margin:0 0 9px 2px}
+        #page-cmc-agent .cmc-btns{display:flex;flex-wrap:wrap;gap:8px}
+        #page-cmc-agent .cmc-btn{display:inline-flex;align-items:center;gap:7px;font-family:'Inter',sans-serif;font-size:12.5px;font-weight:600;color:inherit;cursor:pointer;background:var(--c2);border:1px solid var(--bdr);border-radius:10px;padding:9px 12px;transition:all .15s}
+        #page-cmc-agent .cmc-btn:hover{border-color:var(--accent);color:var(--accent);transform:translateY(-1px)}
+        #page-cmc-agent .cmc-btn:disabled{opacity:.45;cursor:not-allowed;transform:none}
+        #page-cmc-agent .cmc-btn .a{font-family:'JetBrains Mono',monospace;font-size:9px;font-weight:700;color:var(--accent);background:var(--accent-soft);padding:1px 5px;border-radius:4px}
+        #page-cmc-agent .cmc-out{position:sticky;top:18px;background:var(--c2);border:1px solid var(--bdr);border-radius:14px;padding:22px;min-height:460px;display:flex;flex-direction:column}
+        #page-cmc-agent .cmc-out-h{font-family:'Inter',sans-serif;font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--sub);font-weight:700;display:flex;align-items:center;gap:8px}
+        #page-cmc-agent .cmc-out-h::before{content:"";width:7px;height:7px;border-radius:2px;background:var(--accent)}
+        #page-cmc-agent .cmc-q{font-family:'Inter',sans-serif;font-size:16px;font-weight:700;margin:11px 0 16px;letter-spacing:-.01em;min-height:1.2em}
+        #page-cmc-agent .cmc-body{flex:1;font-family:'Inter',sans-serif;font-size:14px;line-height:1.72;color:inherit}
+        #page-cmc-agent .cmc-body .muted{color:var(--sub)}
+        #page-cmc-agent .cmc-body h3{font-family:'Inter',sans-serif;font-size:11px;letter-spacing:.1em;color:var(--accent);margin:16px 0 6px;font-weight:700}
+        #page-cmc-agent .cmc-body strong{color:inherit;font-weight:700}
+        #page-cmc-agent .cmc-body p{margin:0 0 11px}
+        #page-cmc-agent .cmc-meta{margin-top:18px;padding-top:14px;border-top:1px solid var(--bdr);font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--sub);display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap}
+        #page-cmc-agent .cmc-dots i{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--accent);margin-right:5px;animation:cmcb 1.2s infinite ease-in-out}
+        #page-cmc-agent .cmc-dots i:nth-child(2){animation-delay:.2s}
+        #page-cmc-agent .cmc-dots i:nth-child(3){animation-delay:.4s}
+        @keyframes cmcb{0%,80%,100%{opacity:.25}40%{opacity:1}}
+        @media(max-width:900px){#page-cmc-agent .cmc-grid{grid-template-columns:1fr}#page-cmc-agent .cmc-out{position:static}}
+      </style>
+
+      <div class="ph">
+        <h1>CMC AI Agent</h1>
+        <p>Click a skill. The agent pulls live context and returns a read in your voice.</p>
+      </div>
+
+      <div class="cmc-grid">
+        <div class="cmc-controls">
+          <div class="cmc-assetbar">
+            <label>Asset</label>
+            <input id="cmc-asset" value="BTC" maxlength="12" spellcheck="false" />
+            <span class="hint">used by asset-specific skills</span>
+          </div>
+          <div id="cmc-rail"></div>
+        </div>
+
+        <div class="cmc-out">
+          <div class="cmc-out-h">agent output</div>
+          <div class="cmc-q" id="cmc-q">Pick a skill to run</div>
+          <div class="cmc-body" id="cmc-body"><p class="muted">No read yet. Reads use your live market context. Asset skills run on the ticker above; market skills ignore it.</p></div>
+          <div class="cmc-meta"><span id="cmc-model">claude · via proxy</span><span id="cmc-time">—</span></div>
+        </div>
+      </div>
+    </div>
+
     <div class="page" id="page-ai-brief">
       <div class="ph"><h1>Daily Market Brief</h1><p>AI-generated intelligence report &mdash; published every day at 07:00 UTC.</p></div>
       <div class="lkd brief-shell">
@@ -8753,3 +8813,140 @@ async function radarScanDash(){
   }
 }
 </script>
+
+<script>
+/* ════════════════════════════════════════════════════════════════
+   CMC AI AGENT  —  skill buttons wired to /api/chat
+   Edit CMC_SKILLS to add/rename/reorder. {A} = the asset in the input.
+   asset:true  -> button uses the ticker field.  asset:false -> market wide.
+   To switch to real CMC derivatives data later: change CMC_ENDPOINT to your
+   new proxy route (e.g. /api/cmc) that injects OI/CVD/funding server-side.
+   ════════════════════════════════════════════════════════════════ */
+var CMC_ENDPOINT = 'https://zimr-proxy.vercel.app/api/chat';
+
+var CMC_SKILLS = [
+  { g:"Perp & dark flow", items:[
+    { id:"perp",       label:"perp contract analysis", asset:true,  prompt:"Run a perp contract analysis on {A}. Summarize perp market state across multiple timeframes, positioning pressure from open interest, funding and long/short, the confirmation signals, and the current bias." },
+    { id:"altperp",    label:"altcoin scanner perp",   asset:false, prompt:"Rank perpetual altcoin setups by which names deserve immediate review right now and which remain on watch, based on derivatives positioning." },
+    { id:"oidark",     label:"detect oi dark flow",    asset:true,  prompt:"Classify {A} as a perpetual dark-flow setup or not, based on open interest behaviour versus price. Lay out the evidence and the conclusion first." },
+    { id:"oirank",     label:"rank oi dark flow",      asset:false, prompt:"Rank perpetual symbols by open-interest dark-flow signal right now and flag the strongest candidates with one line each." },
+    { id:"accum",      label:"accumulation breakout",  asset:true,  prompt:"Review {A} for an accumulation-base to breakout transition. Is it building, breaking out, or neither, and what confirms it." },
+  ]},
+  { g:"BTC & macro", items:[
+    { id:"daily",      label:"daily market overview",  asset:false, prompt:"Give the daily crypto market overview: macro backdrop, liquidity, BTC ETF flows and sentiment, then the read for today." },
+    { id:"btccorr",    label:"btc cross asset corr",   asset:false, prompt:"Give a conclusion-first BTC regime read with confidence and uncertainty notes across risk assets, equities, DXY and gold." },
+    { id:"btcetf",     label:"btc etf demand",         asset:false, prompt:"Score BTC ETF-led institutional demand and confirm it with spot absorption and long-term-holder supply. State the level of conviction." },
+    { id:"macroliq",   label:"macro liquidity",        asset:false, prompt:"Track macro liquidity conditions and say plainly whether the backdrop is supportive, neutral or restrictive for crypto." },
+    { id:"cryptomacro",label:"crypto macro overview",  asset:false, prompt:"Synthesize the crypto macro backdrop: market pulse, macro conditions, liquidity, cross-asset and sentiment, then the net read." },
+    { id:"macrofin",   label:"macro fin conditions",   asset:false, prompt:"Score whether rates, yields, curve shape, inflation, real rates, policy path and Fed stance are loosening or tightening for risk." },
+    { id:"macronews",  label:"macro news aggregator",  asset:false, prompt:"Aggregate current macro news into the key events, the market read, and a next-window watchlist." },
+  ]},
+  { g:"Altcoins", items:[
+    { id:"altprofile", label:"altcoin token profile",  asset:true,  prompt:"Profile {A}: identity, market snapshot, protocol context, holder coverage status, and the current read." },
+    { id:"altbreak",   label:"breakout scanner spot",  asset:false, prompt:"Rank current spot-altcoin breakout candidates and explain which names passed on price, volume and structure." },
+    { id:"altsector",  label:"sector analysis",        asset:true,  prompt:"Read whether the sector {A} belongs to is rotating in or out, with relative momentum versus the broader market." },
+    { id:"altofficial",label:"official dynamics",      asset:true,  prompt:"Review official updates, public content and catalyst quality for {A}. Is the catalyst flow improving or fading." },
+    { id:"altdeep",    label:"deep research",          asset:true,  prompt:"Build a deep research memo for {A}: token profile, market structure, sector context, and the main risks." },
+    { id:"altkol",     label:"kol sentiment",          asset:true,  prompt:"Read social and crypto-twitter sentiment for {A}. Separate genuine signal from noise and state the net tone." },
+  ]},
+  { g:"Onchain", items:[
+    { id:"onmeme",     label:"memecoin analysis",      asset:true,  prompt:"Review the onchain health of {A}: holder concentration, liquidity depth and lock status, then the risk read." },
+    { id:"onscan",     label:"onchain token scanner",  asset:false, prompt:"Scan new and active onchain tokens and surface candidates with early traction, with one line on why each." },
+    { id:"onmemeprof", label:"memecoin token profile", asset:true,  prompt:"Give a memecoin token profile for {A}: identity, holders, liquidity and security flags." },
+  ]},
+  { g:"Tools", items:[
+    { id:"kline",      label:"kline pattern recog",    asset:true,  prompt:"Detect candlestick and classical chart patterns on {A}'s recent k-line history, flags, wedges, head and shoulders, and what they imply." },
+    { id:"portfolio",  label:"portfolio pipeline",     asset:false, prompt:"Review a portfolio through macro context and single-name risk. If you need the holdings, ask me for them first." },
+  ]},
+];
+
+var CMC_VOICE = "You are the ZIMR Capital crypto desk agent. Write the read like a sharp trader posting to X: direct, precise, lowercase to capitalized, no em dashes, no bullet points, no hype. Use the exact live figures provided. If a specific derivatives number (open interest, funding, CVD, liquidations) is not in the provided context, say so plainly rather than inventing it. Keep it to 4 to 7 sentences. End with one short line: not financial advice.";
+
+var cmcBusy = false;
+
+function cmcBuildRail(){
+  var rail = document.getElementById('cmc-rail');
+  if(!rail) return;
+  rail.innerHTML = '';
+  CMC_SKILLS.forEach(function(group){
+    var wrap = document.createElement('div');
+    wrap.className = 'cmc-group';
+    var lab = document.createElement('div');
+    lab.className = 'cmc-glabel';
+    lab.textContent = group.g;
+    wrap.appendChild(lab);
+    var row = document.createElement('div');
+    row.className = 'cmc-btns';
+    group.items.forEach(function(it){
+      var b = document.createElement('button');
+      b.className = 'cmc-btn';
+      b.innerHTML = (it.asset ? '<span class="a">ASSET</span>' : '') + it.label;
+      b.onclick = function(){ cmcRun(it, b); };
+      row.appendChild(b);
+    });
+    wrap.appendChild(row);
+    rail.appendChild(wrap);
+  });
+}
+
+function cmcMd(text){
+  return text
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+    .replace(/\*\*(.*?)\*\*/g,'<strong>$1</strong>')
+    .replace(/^#{1,3}\s*(.+)$/gm,'<h3>$1</h3>')
+    .replace(/\n\n/g,'</p><p>')
+    .replace(/\n/g,'<br>');
+}
+
+async function cmcRun(skill, btn){
+  if(cmcBusy) return;
+  cmcBusy = true;
+  var btns = document.querySelectorAll('#page-cmc-agent .cmc-btn');
+  btns.forEach(function(x){ x.disabled = true; });
+
+  var asset = (document.getElementById('cmc-asset').value || 'BTC').trim().toUpperCase();
+  var userPrompt = skill.prompt.replace(/\{A\}/g, asset);
+
+  document.getElementById('cmc-q').textContent = skill.label + (skill.asset ? ' · ' + asset : '');
+  var body = document.getElementById('cmc-body');
+  body.innerHTML = '<span class="cmc-dots"><i></i><i></i><i></i></span>';
+  document.getElementById('cmc-time').textContent = new Date().toLocaleTimeString();
+
+  // reuse the dashboard's live price context + voice
+  var sys = CMC_VOICE;
+  try { if(typeof aiGetLivePriceContext === 'function'){ sys += '\n\n' + aiGetLivePriceContext(); } } catch(e){}
+
+  try{
+    var resp = await fetch(CMC_ENDPOINT, {
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({
+        model:'claude-sonnet-4-20250514',
+        max_tokens:1000,
+        system: sys,
+        messages:[{ role:'user', content: userPrompt }]
+      })
+    });
+    var data = await resp.json();
+    if(data.error){
+      body.innerHTML = '<p class="muted">Proxy error: ' + (data.error.message || 'unknown') + '</p>';
+    } else {
+      var reply = (data.content && data.content[0] && data.content[0].text) || 'No text returned. Try again.';
+      body.innerHTML = '<p>' + cmcMd(reply) + '</p>';
+    }
+  }catch(e){
+    body.innerHTML = '<p class="muted">Could not reach the agent. Check the proxy is up.</p>';
+  }finally{
+    cmcBusy = false;
+    btns.forEach(function(x){ x.disabled = false; });
+  }
+}
+
+// build buttons once the DOM is ready
+if(document.readyState === 'loading'){
+  document.addEventListener('DOMContentLoaded', cmcBuildRail);
+} else {
+  cmcBuildRail();
+}
+</script>
+
