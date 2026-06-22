@@ -1,65 +1,65 @@
 {
-  "date": "Sunday June 21, 2026",
-  "generated": "2026-06-21T10:23:11.226385Z",
-  "brief": "# ZIMR POLYMARKET BRIEFING | SUNDAY, JUNE 21, 2026\n\n## HEADLINE\n**Iran Diplomacy Odds Spike to 98%\u2014Market Pricing in Imminent US Meeting as Hormuz Remains Frozen**\n\n---\n\n## THE SIGNAL\n\nThe US-Iran diplomatic meeting market just printed +76.5% in 24 hours and is now trading at 98%. This isn't speculation anymore\u2014it's pricing near-certainty. The catalyst is real: something tangible has shifted in negotiations, and smart money is front-running an official announcement expected within days (possibly by EOD tomorrow given the specific June 21 deadline).\n\n**The disconnect**: Strait of Hormuz traffic normalization is collapsing (now 8%, down -2.0%). This tells us the market believes the *meeting will happen* but doesn't expect immediate de-escalation on shipping. Translation: talks are on, but geopolitical tension lingers. Traders are buying the diplomatic meeting as a binary event, not as a genuine resolution play.\n\n**What's mispriced**: Spain at 56% (Euro 2026 spread bet) is moving on broader sentiment, not fundamentals. It's early-stage World Cup positioning ahead of group stage knockout drama. The Japan World Cup odds at 2% on $7.1M volume screams speculative small-cap behavior\u2014whales testing liquidity, not conviction.\n\n---\n\n## WATCH LIST\n\n1. **US x Iran diplomatic meeting by June 21** \u2014 Dead money if it hits 99%+. Consider exiting long positions; tail risk premium evaporates. Monitor for any official State Dept statement or Reuters headline in next 6 hours.\n\n2. **Strait of Hormuz traffic normalization** \u2014 The real arb. If the meeting confirms (98%), watch for this to spike hard toward 25-35% on follow-on optimism. Currently oversold at 8%.\n\n3. **France 2026 World Cup at 20%** \u2014 Only market with legitimate fundamental edge. Volume is dry ($1.8M), but France's actual squad depth justifies 20-25% range. Dead money for now, but watch for movement post-Group Stage draws.\n\n---\n\n*ZIMR Capital | Market data as of 14:32 UTC*",
+  "date": "Monday June 22, 2026",
+  "generated": "2026-06-22T12:39:47.707179Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | Monday, June 22, 2026\n\n## Headline\n**Colombia's Election Settled; Markets Pivot to World Cup Chaos as Argentina Gains Traction**\n\n---\n\n## Market Intelligence\n\n**The Colombian Story is Over.** De la Espriella's march to 99% is essentially complete\u2014today's +10.8% move signals capitulation from Cepeda Castro shorts. $3.5M in combined volume confirms the narrative has locked in. Smart money exited Cepeda positions Friday; today was retail mopping up losers. This market is brain-dead until post-election confirmation on June 29th.\n\n**Argentina's World Cup Odds Defying Match Reality.** Here's the mispricing: Argentina trades at 68% to win today's match (+4.0%) while sitting at only 13% for the entire tournament. That's the real signal\u2014market confidence in the *match* outcome doesn't translate to title odds. The $4.6M volume on today's game dwarfs the tournament book, suggesting short-term sentiment traders dominating. If Argentina wins today, expect the tournament odds to creep toward 16-18% by EOD.\n\n**World Cup Tournament Market is Risk-Off on Longshots.** Belgium, Uruguay, Norway, and USA all taking small hits despite no material news. This looks like systematic deleveraging\u2014likely a larger fund trimming South American exposure ahead of potential volatility. Cape Verde's $20.7M in volume is pure noise (1% odds), but the sheer liquidity there suggests it's a venue for money parking rather than genuine belief. Watch for a snap-back if any of the favored nations stumbles.\n\n---\n\n## Watch List\n\n1. **Argentina Tournament Odds (13%)** \u2014 If they win today, this *should* jump 3-5 points. If it doesn't, the market is overweighting Copa Am\u00e9rica fatigue narrative. Track the post-match reaction for real tournament conviction.\n\n2. **Belgium World Cup (1%, $7.7M vol)** \u2014 Highest volume on a 1% shot. This is either a contrarian play or dead capital. Any Belgium news (injury, lineup changes) will signal where smart money really sits.\n\n3. **Norway Match Odds (44%)** \u2014 Lowest conviction on a major matchup. Light $961K volume suggests uncertainty. This is a tell on where directional money sits before inevitable moves.\n\n---\n\n**ZIMR Capital | Markets don't lie, but they do get distracted.**",
   "top_movers": [
     {
-      "question": "US x Iran diplomatic meeting by June 21, 2026?",
-      "prob": 98,
-      "change": 76.5,
-      "vol24": "$1.0M",
-      "slug": "us-x-iran-diplomatic-meeting-by-june-21-2026-631-919-131-645-654-454-281-531-319-585-646"
+      "question": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?",
+      "prob": 1,
+      "change": -11.7,
+      "vol24": "$1.8M",
+      "slug": "will-ivan-cepeda-castro-win-the-2026-colombian-presidential-election"
     },
     {
-      "question": "Spread: Spain (-2.5)",
-      "prob": 56,
-      "change": 6.0,
-      "vol24": "$1.1M",
-      "slug": "fifwc-esp-ksa-2026-06-21-spread-home-2pt5"
+      "question": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?",
+      "prob": 99,
+      "change": 10.8,
+      "vol24": "$1.7M",
+      "slug": "will-abelardo-de-la-espriella-win-the-2026-colombian-presidential-election"
     },
     {
-      "question": "Strait of Hormuz traffic returns to normal by end of June?",
-      "prob": 8,
-      "change": -2.0,
-      "vol24": "$2.0M",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june"
+      "question": "Will Argentina win on 2026-06-22?",
+      "prob": 68,
+      "change": 4.0,
+      "vol24": "$4.6M",
+      "slug": "fifwc-arg-aut-2026-06-22-arg"
     },
     {
-      "question": "Will Netherlands win the 2026 FIFA World Cup?",
-      "prob": 6,
-      "change": 1.8,
-      "vol24": "$4.1M",
-      "slug": "will-netherlands-win-the-2026-fifa-world-cup-739"
+      "question": "Will Norway win on 2026-06-22?",
+      "prob": 44,
+      "change": 2.0,
+      "vol24": "$961K",
+      "slug": "fifwc-nor-sen-2026-06-22-nor"
     },
     {
-      "question": "Will Japan win the 2026 FIFA World Cup?",
-      "prob": 2,
-      "change": 0.8,
-      "vol24": "$7.1M",
-      "slug": "will-japan-win-the-2026-fifa-world-cup-112"
+      "question": "Will Argentina win the 2026 FIFA World Cup?",
+      "prob": 13,
+      "change": 1.6,
+      "vol24": "$3.0M",
+      "slug": "will-argentina-win-the-2026-fifa-world-cup-245"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Japan win the 2026 FIFA World Cup?",
-      "prob": 2,
-      "change": 0.8,
-      "vol24": "$7.1M",
-      "slug": "will-japan-win-the-2026-fifa-world-cup-112"
-    },
-    {
-      "question": "Will Ivory Coast win the 2026 FIFA World Cup?",
+      "question": "Will Cape Verde win the 2026 FIFA World Cup?",
       "prob": 1,
       "change": 0.1,
-      "vol24": "$6.9M",
-      "slug": "will-ivory-coast-win-the-2026-fifa-world-cup"
+      "vol24": "$20.7M",
+      "slug": "will-cape-verde-win-the-2026-fifa-world-cup"
     },
     {
-      "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
+      "question": "Will Uruguay win the 2026 FIFA World Cup?",
       "prob": 1,
-      "change": 0,
-      "vol24": "$6.3M",
-      "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia"
+      "change": -0.4,
+      "vol24": "$8.0M",
+      "slug": "will-uruguay-win-the-2026-fifa-world-cup-932"
+    },
+    {
+      "question": "Will Belgium win the 2026 FIFA World Cup?",
+      "prob": 1,
+      "change": -0.5,
+      "vol24": "$7.7M",
+      "slug": "will-belgium-win-the-2026-fifa-world-cup-358"
     }
   ]
 }
