@@ -1,65 +1,65 @@
 {
-  "date": "Tuesday June 23, 2026",
-  "generated": "2026-06-23T10:25:54.906352Z",
-  "brief": "# ZIMR CAPITAL MARKET BRIEF | Tuesday, June 23, 2026\n\n## Portugal Poised for Statement Win as World Cup Longshots Bleed Volume\n\n**The Signal:** Portugal's odds surged 3% overnight to 86%\u2014a near-certainty pricing that's pulling serious money ($2.1M). Today's match is shaping as a confidence vote on the broader European contender thesis, with smart money rotating *out* of traditional powerhouses (Brazil -0.7%, Netherlands -0.7%) and *into* tournament favorites. This isn't noise\u2014it's structural repricing.\n\n**What Smart Money Is Doing:** The real tell is the African tournament darkhorses bleeding volume despite tournament viability. Ivory Coast, Senegal, and Algeria are absorbing $14M+ in aggregate volume but trading at 1% odds\u2014classic \"hope tax\" mechanics. Meanwhile, Norway's +0.9% move on $4.9M volume is the outlier: either fresh model updates favoring Scandinavian trajectories or sophisticated hedge positioning ahead of the group stage gauntlet.\n\n**The Mispricing:** Argentina at 14% (+1.4%) looks artificially compressed. Post-group stage bias is real in World Cup markets\u2014early eliminations are underweighted. Argentina's infrastructure and historical depth don't justify single-digit tournament odds; expect mean reversion if they advance cleanly. The Ethiopian PM race (Adanech +0.8% to 1%, Alesa +0.5% to 1%) is pure noise\u2014micro-cap speculation with zero predictive value.\n\n---\n\n## WATCH LIST\n\n**1. Portugal vs. [Today's Opponent] | 86% Odds | $2.1M Vol**\nIf Portugal drops below 82%, it signals model recalibration on European favorites broadly. Watch for cascading repricing in Spain, France, Germany.\n\n**2. Argentina's Next Match | 14% Odds | Monitor for +0.5% moves**\nFirst post-group result will be volatile. Any advance pushes this to 18-22% range. Early elimination validates current pricing. Track as a bellwether for South American thesis.\n\n**3. Norway Outlier Thesis | 3% Odds | $4.9M Volume anomaly**\nHighest volume-to-odds ratio on a 3% shot. Either signal-to-noise or someone knows something. Need clarity on what's driving accumulation.",
+  "date": "Wednesday June 24, 2026",
+  "generated": "2026-06-24T10:11:06.825286Z",
+  "brief": "# ZIMR CAPITAL MARKET BRIEF | June 24, 2026\n\n## Headline\n**World Cup Favorites Weakening as Iran Nuclear Deal Stalls; Ethiopia PM Race Explodes on Heavy Volume**\n\n---\n\n## Market Intelligence\n\nThe geopolitical reassurance trade is reversing hard. Strait of Hormuz normalization and the Iran nuclear deal both cratered 3% today\u2014smart money is rotating away from de-escalation narratives as negotiations clearly stall. The Hormuz contract at 2% is pricing in almost zero probability of resolution by month-end, suggesting traders believe we're past any near-term breakthrough window.\n\nThe FIFA World Cup betting market is showing classic late-stage mean reversion. Brazil's 74% probability on today's match is the highest conviction bet on the board, but England (-1.5%), France (-1.2%), and the entire European tier are getting hammered. The real signal: $4.3M flooded into Croatia at 1% probability\u2014this is either sophisticated conviction on a deep run or institutional hedging/arbitrage. Watch whether that volume represents real edge or just tail-risk accumulation.\n\nEthiopia's PM race exploded to $11.2M combined volume (Belete Molla + Adanech Abiebie) with both stuck at 1% odds despite massive flow. This screams market inefficiency\u2014either the pricing is completely detached from ground truth, or traders are simply using these as cheap lottery tickets. The volume-to-probability mismatch warrants investigation.\n\n---\n\n## Watch List\n\n1. **US-Iran Nuclear Deal (24% | -3.0%)** \u2014 Heavy directional selling suggests the June-August window is now off the table. Watch for any official statements post-negotiation round. If it stays below 20%, expect continued geopolitical risk premium.\n\n2. **Brazil Match (74%)** \u2014 Live game today. This is your real-time market heat gauge for volatility and smart money positioning.\n\n3. **Croatia World Cup (1% | $4.3M)** \u2014 Highest volume/lowest odds combo. Clarify whether this is signal or noise before deploying capital into similar mispricing patterns.",
   "top_movers": [
     {
-      "question": "Bad Homburg Open: Eva Lys vs Emma Navarro",
-      "prob": 12,
-      "change": -26.5,
-      "vol24": "$964K",
-      "slug": "wta-lys-navarro-2026-06-21"
+      "question": "Strait of Hormuz traffic returns to normal by end of June?",
+      "prob": 2,
+      "change": -3.0,
+      "vol24": "$1.4M",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june"
     },
     {
-      "question": "Will Portugal win on 2026-06-23?",
-      "prob": 86,
+      "question": "US-Iran Final Nuclear Deal by August 31, 2026?",
+      "prob": 24,
+      "change": -3.0,
+      "vol24": "$742K",
+      "slug": "us-iran-final-nuclear-deal-by-august-31-2026-20260621201255154"
+    },
+    {
+      "question": "Will Brazil win on 2026-06-24?",
+      "prob": 74,
       "change": 3.0,
-      "vol24": "$2.1M",
-      "slug": "fifwc-prt-uzb-2026-06-23-prt"
+      "vol24": "$604K",
+      "slug": "fifwc-sco-bra-2026-06-24-bra"
     },
     {
-      "question": "Will Argentina win the 2026 FIFA World Cup?",
-      "prob": 14,
+      "question": "Will England win the 2026 FIFA World Cup?",
+      "prob": 11,
+      "change": -1.5,
+      "vol24": "$2.0M",
+      "slug": "will-england-win-the-2026-fifa-world-cup-937"
+    },
+    {
+      "question": "Will Portugal win the 2026 FIFA World Cup?",
+      "prob": 8,
       "change": 1.4,
-      "vol24": "$2.7M",
-      "slug": "will-argentina-win-the-2026-fifa-world-cup-245"
-    },
-    {
-      "question": "Will Uzbekistan win on 2026-06-23?",
-      "prob": 4,
-      "change": -1.0,
-      "vol24": "$736K",
-      "slug": "fifwc-prt-uzb-2026-06-23-uzb"
-    },
-    {
-      "question": "Will Norway win the 2026 FIFA World Cup?",
-      "prob": 3,
-      "change": 0.9,
-      "vol24": "$4.9M",
-      "slug": "will-norway-win-the-2026-fifa-world-cup-893"
+      "vol24": "$2.9M",
+      "slug": "will-portugal-win-the-2026-fifa-world-cup-912"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Ivory Coast win the 2026 FIFA World Cup?",
+      "question": "Will Croatia win the 2026 FIFA World Cup?",
       "prob": 1,
-      "change": -0.1,
-      "vol24": "$5.0M",
-      "slug": "will-ivory-coast-win-the-2026-fifa-world-cup"
+      "change": 0,
+      "vol24": "$4.3M",
+      "slug": "will-croatia-win-the-2026-fifa-world-cup"
     },
     {
-      "question": "Will Norway win the 2026 FIFA World Cup?",
-      "prob": 3,
-      "change": 0.9,
-      "vol24": "$4.9M",
-      "slug": "will-norway-win-the-2026-fifa-world-cup-893"
+      "question": "Will Belete Molla be the next Prime Minister of Ethiopia?",
+      "prob": 1,
+      "change": 0.8,
+      "vol24": "$3.7M",
+      "slug": "will-belete-molla-be-the-next-prime-minister-of-ethiopia"
     },
     {
-      "question": "Will Senegal win the 2026 FIFA World Cup?",
+      "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
       "prob": 1,
-      "change": -0.3,
-      "vol24": "$4.7M",
-      "slug": "will-senegal-win-the-2026-fifa-world-cup"
+      "change": 0,
+      "vol24": "$3.6M",
+      "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia"
     }
   ]
 }
