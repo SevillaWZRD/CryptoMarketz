@@ -1,65 +1,65 @@
 {
-  "date": "Wednesday June 24, 2026",
-  "generated": "2026-06-24T10:11:06.825286Z",
-  "brief": "# ZIMR CAPITAL MARKET BRIEF | June 24, 2026\n\n## Headline\n**World Cup Favorites Weakening as Iran Nuclear Deal Stalls; Ethiopia PM Race Explodes on Heavy Volume**\n\n---\n\n## Market Intelligence\n\nThe geopolitical reassurance trade is reversing hard. Strait of Hormuz normalization and the Iran nuclear deal both cratered 3% today\u2014smart money is rotating away from de-escalation narratives as negotiations clearly stall. The Hormuz contract at 2% is pricing in almost zero probability of resolution by month-end, suggesting traders believe we're past any near-term breakthrough window.\n\nThe FIFA World Cup betting market is showing classic late-stage mean reversion. Brazil's 74% probability on today's match is the highest conviction bet on the board, but England (-1.5%), France (-1.2%), and the entire European tier are getting hammered. The real signal: $4.3M flooded into Croatia at 1% probability\u2014this is either sophisticated conviction on a deep run or institutional hedging/arbitrage. Watch whether that volume represents real edge or just tail-risk accumulation.\n\nEthiopia's PM race exploded to $11.2M combined volume (Belete Molla + Adanech Abiebie) with both stuck at 1% odds despite massive flow. This screams market inefficiency\u2014either the pricing is completely detached from ground truth, or traders are simply using these as cheap lottery tickets. The volume-to-probability mismatch warrants investigation.\n\n---\n\n## Watch List\n\n1. **US-Iran Nuclear Deal (24% | -3.0%)** \u2014 Heavy directional selling suggests the June-August window is now off the table. Watch for any official statements post-negotiation round. If it stays below 20%, expect continued geopolitical risk premium.\n\n2. **Brazil Match (74%)** \u2014 Live game today. This is your real-time market heat gauge for volatility and smart money positioning.\n\n3. **Croatia World Cup (1% | $4.3M)** \u2014 Highest volume/lowest odds combo. Clarify whether this is signal or noise before deploying capital into similar mispricing patterns.",
+  "date": "Thursday June 25, 2026",
+  "generated": "2026-06-25T09:59:29.578329Z",
+  "brief": "# ZIMR POLYMARKET DAILY BRIEF | Thursday, June 25, 2026\n\n## Germany's Group Stage Gamble: Late Money Piling In Before Kick\n\nThe market is pricing Germany as the day's most volatile asset\u2014a +11.7% surge to 64% suggests either a late tactical shift or smart money front-running perceived value. This is your tell that today's match carries outsized information asymmetry.\n\nThe flip side: Ecuador's -7.3% collapse to just 17% looks like panic selling rather than new information. With $1.2M in volume versus Germany's $5.7M, this feels like retail capitulation into institutional accumulation. If there's a mismatch in team news or betting syndicates are comfortable with the underdog, that 17% could be a trap. Watch for late-breaking injury reports in the next 2 hours.\n\nSeparately, the long-duration markets reveal dead weight: South Korea and Bosnia-Herzegovina are pulling massive volume ($9.3M and $8.5M respectively) at 1% odds each\u2014classic tail-hedge behavior from World Cup gamblers. These aren't predictive; they're lottery tickets masquerading as liquidity. The real signal is in *today's* matches where information still moves prices.\n\n---\n\n## WATCH LIST\n\n**1. Germany 64% (vs. Ecuador) \u2014 Intraday reversal risk**  \nThe +11.7% is too sharp, too clean. This smells like one large order. If German injury news drops in next 90 minutes, or if pre-match stats show Ecuador overperforming xG metrics, 64% could compress back to 58%. Set alerts for tactical lineup announcements.\n\n**2. Japan 51% (vs. USA) \u2014 Market is pricing a coin flip incorrectly**  \nDead even odds ($2.2M vol) in a match where historical head-to-head and recent form favor the USMNT. Either the market knows something about US squad rotation, or Japan's recent form is being overweighted. Check team sheets at 10am for hints of load management.\n\n**3. Strait of Hormuz 6% \u2014 The geopolitical wildcard**  \nOnly 5 days left and sitting at 6%. This is either properly priced (realistic assessment of transit normalization) or dangerously undervalued if a single incident occurs. Low liquidity ($1.5M) = high slippage on any news spike. Worth monitoring for asymmetric risk.",
   "top_movers": [
     {
+      "question": "Will Germany win on 2026-06-25?",
+      "prob": 64,
+      "change": 11.7,
+      "vol24": "$5.7M",
+      "slug": "fifwc-ecu-ger-2026-06-25-ger"
+    },
+    {
+      "question": "Will Ecuador win on 2026-06-25?",
+      "prob": 17,
+      "change": -7.3,
+      "vol24": "$1.2M",
+      "slug": "fifwc-ecu-ger-2026-06-25-ecu"
+    },
+    {
       "question": "Strait of Hormuz traffic returns to normal by end of June?",
-      "prob": 2,
-      "change": -3.0,
-      "vol24": "$1.4M",
+      "prob": 6,
+      "change": 3.6,
+      "vol24": "$1.5M",
       "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june"
     },
     {
-      "question": "US-Iran Final Nuclear Deal by August 31, 2026?",
-      "prob": 24,
-      "change": -3.0,
-      "vol24": "$742K",
-      "slug": "us-iran-final-nuclear-deal-by-august-31-2026-20260621201255154"
-    },
-    {
-      "question": "Will Brazil win on 2026-06-24?",
-      "prob": 74,
-      "change": 3.0,
-      "vol24": "$604K",
-      "slug": "fifwc-sco-bra-2026-06-24-bra"
-    },
-    {
-      "question": "Will England win the 2026 FIFA World Cup?",
-      "prob": 11,
+      "question": "Will Japan win on 2026-06-25?",
+      "prob": 51,
       "change": -1.5,
-      "vol24": "$2.0M",
-      "slug": "will-england-win-the-2026-fifa-world-cup-937"
+      "vol24": "$2.2M",
+      "slug": "fifwc-jpn-swe-2026-06-25-jpn"
     },
     {
-      "question": "Will Portugal win the 2026 FIFA World Cup?",
-      "prob": 8,
-      "change": 1.4,
-      "vol24": "$2.9M",
-      "slug": "will-portugal-win-the-2026-fifa-world-cup-912"
+      "question": "Will United States win on 2026-06-25?",
+      "prob": 52,
+      "change": 1.0,
+      "vol24": "$2.6M",
+      "slug": "fifwc-tur-usa-2026-06-25-usa"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Croatia win the 2026 FIFA World Cup?",
+      "question": "Will South Korea win the 2026 FIFA World Cup?",
       "prob": 1,
-      "change": 0,
-      "vol24": "$4.3M",
-      "slug": "will-croatia-win-the-2026-fifa-world-cup"
+      "change": -0.1,
+      "vol24": "$9.3M",
+      "slug": "will-south-korea-win-the-2026-fifa-world-cup-485"
     },
     {
-      "question": "Will Belete Molla be the next Prime Minister of Ethiopia?",
+      "question": "Will Bosnia-Herzegovina win the 2026 FIFA World Cup?",
       "prob": 1,
-      "change": 0.8,
-      "vol24": "$3.7M",
-      "slug": "will-belete-molla-be-the-next-prime-minister-of-ethiopia"
+      "change": 0.1,
+      "vol24": "$8.5M",
+      "slug": "will-bosnia-herzegovina-win-the-2026-fifa-world-cup"
     },
     {
-      "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
+      "question": "Will Canada win the 2026 FIFA World Cup?",
       "prob": 1,
-      "change": 0,
-      "vol24": "$3.6M",
-      "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia"
+      "change": -0.1,
+      "vol24": "$7.1M",
+      "slug": "will-canada-win-the-2026-fifa-world-cup-755"
     }
   ]
 }
