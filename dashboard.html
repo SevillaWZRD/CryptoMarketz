@@ -8816,135 +8816,218 @@ async function radarScanDash(){
 
 <script>
 /* ════════════════════════════════════════════════════════════════
-   CMC AI AGENT  —  skill buttons wired to the live CMC Skill Hub
-   via the proxy endpoint /api/cmc. Each button names a real skill
-   (unique_name). The proxy runs the skill and Claude formats the read.
-   Edit CMC_SKILLS to add/rename. asset:true marks skills that focus
-   on the ticker in the input (passed through in the question for now;
-   exact skill params get wired once we read each skill input_schema).
+   CMC AI AGENT  —  all 23 skills wired to their real inputs.
+   amode: how the asset field is used per skill
+     none      -> no asset (macro / scanners), uses params as-is
+     symbol    -> ticker goes into params.symbol
+     id        -> numeric input -> cmcid, else -> symbol
+     contract  -> needs a 0x contract address + chain (memecoin skills)
+     portfolio -> uses the sample holdings (edit CMC_SAMPLE_PORTFOLIO)
+     series    -> needs a data feed; runs minimal, may ask for input
+   params: the fixed (non-asset) parameters for that skill.
    ════════════════════════════════════════════════════════════════ */
 var CMC_ENDPOINT = 'https://zimr-proxy.vercel.app/api/cmc';
 
 var CMC_SKILLS = [
   { g:"Perp & dark flow", items:[
-    { skill:"perp_contract_analysis",            label:"perp contract analysis", asset:true,  q:"Give a perp contract read on {A}: positioning pressure, confirmation and bias." },
-    { skill:"altcoin_scanner_perp",              label:"altcoin scanner perp",   asset:false, q:"Which perpetual altcoin setups deserve immediate review and which stay on watch." },
-    { skill:"detect_oi_dark_flow_setup",         label:"detect oi dark flow",    asset:true,  q:"Is {A} a perpetual dark-flow setup. Evidence and conclusion first." },
-    { skill:"rank_oi_dark_flow_candidates",      label:"rank oi dark flow",      asset:false, q:"Rank perpetual symbols by open-interest dark-flow signal right now." },
-    { skill:"detect_accumulation_breakout_transition", label:"accumulation breakout", asset:true, q:"Is {A} moving from accumulation base to breakout, and what confirms it." },
+    { skill:"perp_contract_analysis", label:"perp contract analysis", amode:"symbol",
+      params:{timeframe:"4h",lookback_days:14,liq_range:"3d",exchange_list:"Binance,OKX,Bybit"} },
+    { skill:"altcoin_scanner_perp", label:"altcoin scanner perp", amode:"none", params:{preview:true} },
+    { skill:"detect_oi_dark_flow_setup", label:"detect oi dark flow", amode:"symbol",
+      params:{venue:"Binance",window:"4h",lookback_days:14} },
+    { skill:"rank_oi_dark_flow_candidates", label:"rank oi dark flow", amode:"none",
+      params:{universe:["BTC","ETH","SOL","LINK","SUI","AVAX","DOGE","ADA"],venue:["Binance","OKX","Bybit"],window:"24h",top_n:5} },
+    { skill:"detect_accumulation_breakout_transition", label:"accumulation breakout", amode:"symbol",
+      params:{venue:"Binance",lookback_days:14} },
   ]},
   { g:"BTC & macro", items:[
-    { skill:"daily_market_overview",             label:"daily market overview",  asset:false, q:"Give the daily crypto market read: macro, liquidity, ETF flows, sentiment." },
-    { skill:"btc_cross_asset_correlation",       label:"btc cross asset corr",   asset:false, q:"Conclusion-first BTC regime read with confidence and uncertainty notes." },
-    { skill:"btc_etf_institutional_demand",      label:"btc etf demand",         asset:false, q:"Score BTC ETF-led demand with spot absorption and holder supply." },
-    { skill:"macro_liquidity_monitor",           label:"macro liquidity",        asset:false, q:"Is the macro liquidity backdrop supportive, neutral or restrictive." },
-    { skill:"crypto_macro_overview",             label:"crypto macro overview",  asset:false, q:"Synthesize the crypto macro backdrop and the net read." },
-    { skill:"macro_financial_conditions",        label:"macro fin conditions",   asset:false, q:"Are financial conditions loosening or tightening for risk." },
-    { skill:"macro_news_aggregator",             label:"macro news aggregator",  asset:false, q:"Key macro events, the read, and a next-window watchlist." },
+    { skill:"daily_market_overview", label:"daily market overview", amode:"none", params:{preview:true} },
+    { skill:"btc_cross_asset_correlation", label:"btc cross asset corr", amode:"none", params:{preview:true} },
+    { skill:"btc_etf_institutional_demand", label:"btc etf demand", amode:"none", params:{preview:true} },
+    { skill:"macro_liquidity_monitor", label:"macro liquidity", amode:"none", params:{preview:true} },
+    { skill:"crypto_macro_overview", label:"crypto macro overview", amode:"none", params:{preview:true} },
+    { skill:"macro_financial_conditions", label:"macro fin conditions", amode:"series", params:{lookback_days:30} },
+    { skill:"macro_news_aggregator", label:"macro news aggregator", amode:"none",
+      params:{preview:true,lookback_hours:72,live_fetch:true} },
   ]},
   { g:"Altcoins", items:[
-    { skill:"altcoin_token_profile",             label:"altcoin token profile",  asset:true,  q:"Profile {A}: identity, market snapshot, protocol context, the read." },
-    { skill:"altcoin_breakout_scanner_spot",     label:"breakout scanner spot",  asset:false, q:"Rank spot-altcoin breakout candidates that passed on price, volume, structure." },
-    { skill:"altcoin_sector_analysis",           label:"sector analysis",        asset:true,  q:"Is the sector around {A} rotating in or out, with relative momentum." },
-    { skill:"altcoin_official_dynamics",         label:"official dynamics",      asset:true,  q:"Official updates and catalyst quality for {A}. Improving or fading." },
-    { skill:"altcoin_deep_research",             label:"deep research",          asset:true,  q:"Deep research memo for {A}: profile, structure, sector, risks." },
-    { skill:"altcoin_kol_sentiment",             label:"kol sentiment",          asset:true,  q:"Social and crypto-twitter sentiment for {A}. Signal versus noise." },
+    { skill:"altcoin_token_profile", label:"altcoin token profile", amode:"id", params:{convert:"USD"} },
+    { skill:"altcoin_breakout_scanner_spot", label:"breakout scanner spot", amode:"none", params:{preview:true} },
+    { skill:"altcoin_sector_analysis", label:"sector analysis", amode:"symbol", params:{convert:"USD"} },
+    { skill:"altcoin_official_dynamics", label:"official dynamics", amode:"symbol",
+      params:{convert:"USD",search_days:14,news_limit:5,live_fetch:true} },
+    { skill:"altcoin_deep_research", label:"deep research", amode:"symbol",
+      params:{convert:"USD",ohlcv_timeframe:"4h",perp_timeframe:"4h",lookback_days:30,signal_window:5,source_a_window_days:14,source_b_window_hours:72} },
+    { skill:"altcoin_kol_sentiment", label:"kol sentiment", amode:"id", params:{} },
   ]},
   { g:"Onchain", items:[
-    { skill:"onchain_memecoin_analysis",         label:"memecoin analysis",      asset:true,  q:"Onchain health of {A}: holder concentration, liquidity depth, lock status." },
-    { skill:"onchain_token_scanner",             label:"onchain token scanner",  asset:false, q:"New and active onchain tokens with early traction, one line each." },
-    { skill:"onchain_memecoin_token_profile",    label:"memecoin token profile", asset:true,  q:"Memecoin profile for {A}: identity, holders, liquidity, security flags." },
+    { skill:"onchain_memecoin_analysis", label:"memecoin analysis", amode:"contract", params:{} },
+    { skill:"onchain_token_scanner", label:"onchain token scanner", amode:"none", params:{max_gain_threshold:300,top_n_deep_dive:2} },
+    { skill:"onchain_memecoin_token_profile", label:"memecoin token profile", amode:"contract", params:{} },
   ]},
   { g:"Tools", items:[
-    { skill:"kline_pattern_recognition",         label:"kline pattern recog",    asset:true,  q:"Detect chart patterns on {A}'s recent k-line history and what they imply." },
-    { skill:"portfolio_analysis_pipeline",       label:"portfolio pipeline",     asset:false, q:"Review a portfolio through macro context and single-name risk." },
+    { skill:"kline_pattern_recognition", label:"kline pattern recog", amode:"symbol", params:{convert:"USD",interval:"4h"} },
+    { skill:"portfolio_analysis", label:"portfolio pipeline", amode:"portfolio", params:{} },
   ]},
 ];
 
-var CMC_VOICE = "You are the ZIMR Capital crypto desk agent. Write the read like a sharp trader posting to X: direct, precise, lowercase to capitalized, no em dashes, no bullet points, no hype. Use the exact figures from the skill data. If a value is missing, say so plainly. Keep it to 4 to 7 sentences. End with one short line: not financial advice.";
+/* sample portfolio for portfolio_analysis — edit to your real holdings */
+var CMC_SAMPLE_PORTFOLIO = [
+  {symbol:"SOL",position_value_usd:42500,weight_pct:42.5},
+  {symbol:"ONDO",position_value_usd:12000,weight_pct:12},
+  {symbol:"PEPE",network:"ethereum",contract_address:"0x6982508145454ce325ddbe47a25d4ec3d2311933",position_value_usd:6000,weight_pct:6},
+  {symbol:"MOG",network:"ethereum",contract_address:"0xaaee1a9723aadb7c3e14e2e17a7d845c6b5ed15f",position_value_usd:2500,weight_pct:2.5}
+];
+
+var CMC_SCHEMA = [
+"You are the ZIMR Capital desk agent. You receive raw CMC skill data.",
+"Return ONLY a JSON object. No markdown, no backticks, no text before or after.",
+"Schema: {\"title\":string,\"subtitle\":string,\"regime\":{\"label\":string,\"score\":int 0-100,\"bias\":string,\"tone\":\"good|neutral|bad|warn\"}(optional),",
+"\"blocks\":[ {\"type\":\"stats\",\"title\":string,\"tone\":\"good|neutral|bad|warn\",\"items\":[{\"k\":string,\"v\":string}]},",
+"{\"type\":\"section\",\"title\":string,\"tone\":...,\"items\":[{\"k\":string,\"v\":string}]},",
+"{\"type\":\"table\",\"title\":string,\"columns\":[string],\"rows\":[[string]]},",
+"{\"type\":\"callout\",\"tone\":\"warn|bad|neutral\",\"text\":string},",
+"{\"type\":\"takeaway\",\"text\":string} ], \"disclaimer\":\"not financial advice\"}",
+"Use exact figures from the skill data. If a value is missing, say so in text, never invent it.",
+"Pick only blocks that fit the data, sensible order, short punchy values. Always include a takeaway and the disclaimer."
+].join("\n");
 
 var cmcBusy = false;
 
+function cmcInjectCSS(){
+  if(document.getElementById('cmc-blocks-css')) return;
+  var s=document.createElement('style'); s.id='cmc-blocks-css';
+  s.textContent=[
+   "#cmc-body .rg{background:var(--c3);border:1px solid var(--bdr);border-radius:12px;padding:14px 16px;margin-bottom:14px}",
+   "#cmc-body .rg-top{display:flex;justify-content:space-between;align-items:baseline;gap:10px;margin-bottom:10px}",
+   "#cmc-body .rg-label{font-family:'Inter',sans-serif;font-weight:700;font-size:14px}",
+   "#cmc-body .rg-score{font-family:'JetBrains Mono',monospace;font-size:13px;color:var(--sub)}",
+   "#cmc-body .rg-bar{height:7px;border-radius:5px;background:rgba(127,127,127,.18);overflow:hidden}",
+   "#cmc-body .rg-bar i{display:block;height:100%;border-radius:5px}",
+   "#cmc-body .rg-bias{display:inline-block;margin-top:10px;font-family:'JetBrains Mono',monospace;font-size:11px;font-weight:600;padding:3px 9px;border-radius:6px}",
+   "#cmc-body .blk{margin:0 0 14px}",
+   "#cmc-body .blk-h{display:flex;align-items:center;gap:8px;font-family:'Inter',sans-serif;font-size:11px;letter-spacing:.08em;text-transform:uppercase;font-weight:700;margin-bottom:8px}",
+   "#cmc-body .blk-h .dot{width:8px;height:8px;border-radius:3px;flex:none}",
+   "#cmc-body .kv{display:flex;justify-content:space-between;gap:14px;padding:7px 0;border-bottom:1px solid var(--bdr);font-size:13.5px}",
+   "#cmc-body .kv:last-child{border-bottom:none}",
+   "#cmc-body .kv .k{color:var(--sub)} #cmc-body .kv .v{font-family:'JetBrains Mono',monospace;text-align:right;font-weight:600}",
+   "#cmc-body table.ct{width:100%;border-collapse:collapse;font-size:12.5px;margin-top:2px}",
+   "#cmc-body table.ct th{text-align:left;font-family:'Inter',sans-serif;font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:var(--sub);padding:6px 8px;border-bottom:1px solid var(--bdr)}",
+   "#cmc-body table.ct td{padding:7px 8px;border-bottom:1px solid var(--bdr);font-family:'JetBrains Mono',monospace}",
+   "#cmc-body table.ct td:first-child{font-weight:700;font-family:'Inter',sans-serif}",
+   "#cmc-body .call{display:flex;gap:9px;padding:11px 13px;border-radius:10px;font-size:13px;line-height:1.55;margin:0 0 14px}",
+   "#cmc-body .take{background:var(--accent-soft);border-left:3px solid var(--accent);border-radius:8px;padding:11px 14px;font-size:13.5px;line-height:1.6;margin:0 0 12px}",
+   "#cmc-body .take b{color:var(--accent)}",
+   "#cmc-body .disc{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--sub);margin-top:4px}",
+   "#cmc-body .doc-sub{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--sub);margin:-6px 0 14px}",
+   "#cmc-chain{background:var(--c3);border:1px solid var(--bdr);border-radius:8px;color:inherit;font-family:'JetBrains Mono',monospace;font-size:12px;padding:7px 9px;outline:none}"
+  ].join("\n");
+  document.head.appendChild(s);
+}
+
+function cmcTone(t){ return ({good:'#27ae60',bad:'#e8392a',warn:'#e0a020',neutral:'var(--accent)'})[t]||'var(--accent)'; }
+function cmcToneSoft(t){ return ({good:'rgba(39,174,96,.12)',bad:'rgba(232,57,42,.12)',warn:'rgba(224,160,32,.13)',neutral:'var(--accent-soft)'})[t]||'var(--accent-soft)'; }
+function esc(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+function cmcRenderDoc(doc){
+  cmcInjectCSS(); var h='';
+  if(doc.subtitle) h+='<div class="doc-sub">'+esc(doc.subtitle)+'</div>';
+  if(doc.regime){ var rg=doc.regime,c=cmcTone(rg.tone),pct=Math.max(0,Math.min(100,rg.score||0));
+    h+='<div class="rg"><div class="rg-top"><span class="rg-label">'+esc(rg.label)+'</span>'
+      +(rg.score!=null?'<span class="rg-score">score '+pct+'/100</span>':'')+'</div>'
+      +'<div class="rg-bar"><i style="width:'+pct+'%;background:'+c+'"></i></div>'
+      +(rg.bias?'<span class="rg-bias" style="background:'+cmcToneSoft(rg.tone)+';color:'+c+'">'+esc(rg.bias)+'</span>':'')+'</div>'; }
+  (doc.blocks||[]).forEach(function(b){ var c=cmcTone(b.tone);
+    if(b.type==='stats'||b.type==='section'){
+      h+='<div class="blk"><div class="blk-h"><span class="dot" style="background:'+c+'"></span>'+esc(b.title||'')+'</div>';
+      (b.items||[]).forEach(function(it){ h+='<div class="kv"><span class="k">'+esc(it.k)+'</span><span class="v">'+esc(it.v)+'</span></div>'; });
+      if(b.text) h+='<div style="font-size:13.5px;line-height:1.6">'+esc(b.text)+'</div>'; h+='</div>';
+    } else if(b.type==='table'){
+      h+='<div class="blk"><div class="blk-h"><span class="dot" style="background:var(--accent)"></span>'+esc(b.title||'')+'</div><table class="ct"><thead><tr>';
+      (b.columns||[]).forEach(function(col){ h+='<th>'+esc(col)+'</th>'; }); h+='</tr></thead><tbody>';
+      (b.rows||[]).forEach(function(r){ h+='<tr>'; r.forEach(function(cell){ h+='<td>'+esc(cell)+'</td>'; }); h+='</tr>'; });
+      h+='</tbody></table></div>';
+    } else if(b.type==='callout'){
+      h+='<div class="call" style="background:'+cmcToneSoft(b.tone||'warn')+';color:'+cmcTone(b.tone||'warn')+'"><span>'+(b.tone==='bad'?'🔴':(b.tone==='neutral'?'•':'⚠️'))+'</span><span style="color:inherit">'+esc(b.text)+'</span></div>';
+    } else if(b.type==='takeaway'){ h+='<div class="take"><b>Takeaway.</b> '+esc(b.text)+'</div>'; }
+  });
+  if(doc.disclaimer) h+='<div class="disc">'+esc(doc.disclaimer)+'</div>';
+  return h||'<p class="muted">Empty response.</p>';
+}
+
+function cmcParseJSON(text){ if(!text) return null;
+  var t=text.trim().replace(/^```json/i,'').replace(/^```/,'').replace(/```$/,'').trim();
+  var a=t.indexOf('{'),z=t.lastIndexOf('}'); if(a===-1||z===-1) return null;
+  try{ return JSON.parse(t.slice(a,z+1)); }catch(e){ return null; } }
+
 function cmcBuildRail(){
-  var rail = document.getElementById('cmc-rail');
-  if(!rail) return;
-  rail.innerHTML = '';
+  var rail=document.getElementById('cmc-rail'); if(!rail) return;
+  // add a chain selector to the asset bar (for onchain/contract skills)
+  var bar=document.querySelector('#page-cmc-agent .cmc-assetbar');
+  if(bar && !document.getElementById('cmc-chain')){
+    var sel=document.createElement('select'); sel.id='cmc-chain';
+    ['ethereum','bsc','base','arbitrum','polygon','solana'].forEach(function(ch){
+      var o=document.createElement('option'); o.value=ch; o.textContent=ch; sel.appendChild(o); });
+    var hint=bar.querySelector('.hint');
+    if(hint){ hint.textContent='ticker, or a 0x address + chain for onchain skills'; bar.insertBefore(sel,hint); }
+    else bar.appendChild(sel);
+  }
+  rail.innerHTML='';
   CMC_SKILLS.forEach(function(group){
-    var wrap = document.createElement('div');
-    wrap.className = 'cmc-group';
-    var lab = document.createElement('div');
-    lab.className = 'cmc-glabel';
-    lab.textContent = group.g;
-    wrap.appendChild(lab);
-    var row = document.createElement('div');
-    row.className = 'cmc-btns';
+    var wrap=document.createElement('div'); wrap.className='cmc-group';
+    var lab=document.createElement('div'); lab.className='cmc-glabel'; lab.textContent=group.g; wrap.appendChild(lab);
+    var row=document.createElement('div'); row.className='cmc-btns';
     group.items.forEach(function(it){
-      var b = document.createElement('button');
-      b.className = 'cmc-btn';
-      b.innerHTML = (it.asset ? '<span class="a">ASSET</span>' : '') + it.label;
-      b.onclick = function(){ cmcRun(it, b); };
+      var b=document.createElement('button'); b.className='cmc-btn';
+      var tag = (it.amode==='symbol'||it.amode==='id')?'ASSET':(it.amode==='contract'?'0x':'');
+      b.innerHTML=(tag?'<span class="a">'+tag+'</span>':'')+it.label;
+      b.onclick=function(){ cmcRun(it,b); };
       row.appendChild(b);
     });
-    wrap.appendChild(row);
-    rail.appendChild(wrap);
+    wrap.appendChild(row); rail.appendChild(wrap);
   });
 }
 
-function cmcMd(text){
-  return text
-    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
-    .replace(/\*\*(.*?)\*\*/g,'<strong>$1</strong>')
-    .replace(/^#{1,3}\s*(.+)$/gm,'<h3>$1</h3>')
-    .replace(/\n\n/g,'</p><p>')
-    .replace(/\n/g,'<br>');
-}
-
-async function cmcRun(skill, btn){
-  if(cmcBusy) return;
-  cmcBusy = true;
-  var btns = document.querySelectorAll('#page-cmc-agent .cmc-btn');
-  btns.forEach(function(x){ x.disabled = true; });
-
-  var asset = (document.getElementById('cmc-asset').value || 'BTC').trim().toUpperCase();
-  var question = skill.q.replace(/\{A\}/g, asset);
-
-  document.getElementById('cmc-q').textContent = skill.label + (skill.asset ? ' · ' + asset : '');
-  var body = document.getElementById('cmc-body');
-  body.innerHTML = '<span class="cmc-dots"><i></i><i></i><i></i></span>';
-  document.getElementById('cmc-time').textContent = new Date().toLocaleTimeString();
-
-  try{
-    var resp = await fetch(CMC_ENDPOINT, {
-      method:'POST',
-      headers:{'Content-Type':'application/json'},
-      body:JSON.stringify({
-        skill: skill.skill,
-        parameters: { preview: true },
-        system: CMC_VOICE,
-        question: question,
-        model: 'claude-sonnet-4-6',
-        max_tokens: 1200
-      })
-    });
-    var data = await resp.json();
-    if(data.error){
-      body.innerHTML = '<p class="muted">Error: ' + (data.error.message || data.error) + '</p>';
-    } else {
-      var reply = (data.content && data.content[0] && data.content[0].text) || 'No text returned.';
-      body.innerHTML = '<p>' + cmcMd(reply) + '</p>';
-    }
-  }catch(e){
-    body.innerHTML = '<p class="muted">Could not reach the agent. Is /api/cmc deployed.</p>';
-  }finally{
-    cmcBusy = false;
-    btns.forEach(function(x){ x.disabled = false; });
+function cmcBuildParams(skill){
+  var p=Object.assign({},skill.params||{});
+  var field=(document.getElementById('cmc-asset').value||'').trim();
+  var chainEl=document.getElementById('cmc-chain');
+  var chain=chainEl?chainEl.value:'ethereum';
+  var m=skill.amode, disp='';
+  if(m==='symbol'){ p.symbol=(field||'BTC').toUpperCase(); disp=p.symbol; }
+  else if(m==='id'){ if(/^\d+$/.test(field)){ p.cmcid=field; disp='id '+field; } else { p.symbol=(field||'BTC').toUpperCase(); disp=p.symbol; } }
+  else if(m==='contract'){
+    if(!/^0x[0-9a-fA-F]{6,}$/.test(field)) return {error:'Paste a token contract address (0x...) in the Asset field and pick the chain for this skill.'};
+    p.contract_address=field; p.chain=chain; disp=field.slice(0,6)+'…'+field.slice(-4)+' · '+chain;
   }
+  else if(m==='portfolio'){ p.holdings=CMC_SAMPLE_PORTFOLIO; disp='sample portfolio'; }
+  return {params:p, disp:disp};
 }
 
-if(document.readyState === 'loading'){
-  document.addEventListener('DOMContentLoaded', cmcBuildRail);
-} else {
-  cmcBuildRail();
+async function cmcRun(skill,btn){
+  if(cmcBusy) return; cmcBusy=true;
+  var btns=document.querySelectorAll('#page-cmc-agent .cmc-btn'); btns.forEach(function(x){x.disabled=true;});
+  var built=cmcBuildParams(skill);
+  var body=document.getElementById('cmc-body');
+  document.getElementById('cmc-q').textContent=skill.label+(built.disp?' · '+built.disp:'');
+
+  if(built.error){ body.innerHTML='<p class="muted">'+esc(built.error)+'</p>'; cmcBusy=false; btns.forEach(function(x){x.disabled=false;}); return; }
+
+  body.innerHTML='<span class="cmc-dots"><i></i><i></i><i></i></span>';
+  document.getElementById('cmc-time').textContent=new Date().toLocaleTimeString();
+  try{
+    var resp=await fetch(CMC_ENDPOINT,{ method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({ skill:skill.skill, parameters:built.params, system:CMC_SCHEMA,
+        question:'Run '+skill.label+'. Build the structured read from the skill data.',
+        model:'claude-sonnet-4-6', max_tokens:2000 }) });
+    var data=await resp.json();
+    if(data.error){ body.innerHTML='<p class="muted">Error: '+esc(data.error.message||data.error)+'</p>'; }
+    else { var text=(data.content&&data.content[0]&&data.content[0].text)||''; var doc=cmcParseJSON(text);
+      body.innerHTML = doc ? cmcRenderDoc(doc) : '<p>'+esc(text).replace(/\n/g,'<br>')+'</p>'; }
+  }catch(e){ body.innerHTML='<p class="muted">Could not reach the agent. Is /api/cmc deployed.</p>'; }
+  finally{ cmcBusy=false; btns.forEach(function(x){x.disabled=false;}); }
 }
+
+if(document.readyState==='loading'){ document.addEventListener('DOMContentLoaded',cmcBuildRail); } else { cmcBuildRail(); }
 </script>
 
