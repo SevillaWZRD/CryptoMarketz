@@ -8920,6 +8920,11 @@ function cmcInjectCSS(){
    "#cmc-body .take b{color:var(--accent)}",
    "#cmc-body .disc{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--sub);margin-top:4px}",
    "#cmc-body .doc-sub{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--sub);margin:-6px 0 14px}",
+   "#cmc-body .pheadline{font-family:'Inter',sans-serif;font-size:15px;font-weight:700;line-height:1.5;margin:0 0 14px}",
+   "#cmc-body .pp{font-size:13.5px;line-height:1.72;margin:0 0 12px}",
+   "#cmc-body ul.pl{margin:0 0 13px;padding-left:18px}",
+   "#cmc-body ul.pl li{font-size:13.5px;line-height:1.7;margin-bottom:5px}",
+   "#cmc-body h3{font-family:'Inter',sans-serif;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin:16px 0 7px;font-weight:700}",
    "#cmc-chain{background:var(--c3);border:1px solid var(--bdr);border-radius:8px;color:inherit;font-family:'JetBrains Mono',monospace;font-size:12px;padding:7px 9px;outline:none}"
   ].join("\n");
   document.head.appendChild(s);
@@ -8953,6 +8958,26 @@ function cmcRenderDoc(doc){
   });
   if(doc.disclaimer) h+='<div class="disc">'+esc(doc.disclaimer)+'</div>';
   return h||'<p class="muted">Empty response.</p>';
+}
+
+function cmcRenderProse(text){
+  cmcInjectCSS();
+  var t = esc((text||'').trim());
+  t = t.replace(/^#{1,3}\s*(.+)$/gm,'<h3>$1<\/h3>');
+  t = t.replace(/\*\*(.+?)\*\*/g,'<strong>$1<\/strong>');
+  var paras = t.split(/\n\s*\n/), html='', first=true;
+  paras.forEach(function(p){
+    p=p.trim(); if(!p) return;
+    if(p.indexOf('<h3>')===0){ html+=p; return; }
+    if(/^[-•]\s/m.test(p)){
+      var items=p.split(/\n/).filter(function(l){return /^[-•]\s/.test(l.trim());})
+        .map(function(l){return '<li>'+l.trim().replace(/^[-•]\s/,'')+'<\/li>';}).join('');
+      html+='<ul class="pl">'+items+'<\/ul>'; return;
+    }
+    if(first){ html+='<div class="pheadline">'+p.replace(/\n/g,' ')+'<\/div>'; first=false; }
+    else { html+='<p class="pp">'+p.replace(/\n/g,'<br>')+'<\/p>'; }
+  });
+  return html || '<p class="muted">Empty response.<\/p>';
 }
 
 function cmcParseJSON(text){ if(!text) return null;
@@ -9023,7 +9048,7 @@ async function cmcRun(skill,btn){
     var data=await resp.json();
     if(data.error){ body.innerHTML='<p class="muted">Error: '+esc(data.error.message||data.error)+'</p>'; }
     else { var text=(data.content&&data.content[0]&&data.content[0].text)||''; var doc=cmcParseJSON(text);
-      body.innerHTML = doc ? cmcRenderDoc(doc) : '<p>'+esc(text).replace(/\n/g,'<br>')+'</p>'; }
+      body.innerHTML = doc ? cmcRenderDoc(doc) : cmcRenderProse(text); }
   }catch(e){ body.innerHTML='<p class="muted">Could not reach the agent. Is /api/cmc deployed.</p>'; }
   finally{ cmcBusy=false; btns.forEach(function(x){x.disabled=false;}); }
 }
