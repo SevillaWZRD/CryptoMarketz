@@ -1,65 +1,65 @@
 {
-  "date": "Saturday June 27, 2026",
-  "generated": "2026-06-27T09:20:00.260885Z",
-  "brief": "# ZIMR Daily Polymarket Brief | Saturday, June 27, 2026\n\n## Market Narrative: World Cup Drama Overshadows Geopolitics as Long-Shot Bets Crater\n\nThe market is aggressively repricing tournament favorites on live action. Argentina's 86% match-win probability against a presumed weaker opponent suggests comfortable positioning, yet the broader tournament field shows smart money rotating *away* from longshot darlings. Egypt and Ecuador each pulled $8.1M and $6.8M in volume overnight despite holding 1% odds\u2014classic de-risking of speculative tournament stacks. This isn't retail FOMO; it's sophisticated liquidation.\n\nFrance (+2.7%) and Argentina (+2.9%) modest gains on *absolute* favorites signal confidence without conviction. The real signal: **Spain crashed -1.3%** despite being in the tournament's live rounds. This suggests either shock elimination or injury concerns breaking late. Netherlands' -1.1% decline is equally suspicious for a 5% asset\u2014someone knows something the overnight market doesn't.\n\nColombia's 28% odds with a fresh +5% rip deserves scrutiny. If Colombia's actually favored today against a named opponent (likely Peru or Mexico), the 23-point gap between 28% match odds and their 0% FIFA tournament odds screams mispricing. Either match-day intel or sloppy volume absorption. Watch for position unwinding if Colombia underperforms.\n\n---\n\n## Watch List\n\n**1. Colombia 2026-06-27 Match | 28% | HIGH PRIORITY**\nThe +5% single-day move on relatively thin $737K volume feels reactive, not fundamental. If this is real information advantage, expect follow-through or reversal within 2 hours. Sharp money should validate the thesis before the match starts.\n\n**2. Portugal -3.0% | 48% | STRUCTURAL CONCERN**\nAt 48%, Portugal's treated as a coin flip. Any slight underperformance data (weather, lineup news) could trigger a flush below 45%. Monitor line movement for late-breaking team news\u2014this is a pivot point.\n\n**3. Hormuz Strait \"Normal by June 30\" | 5% \u2192 -7.5% Crash | BLACK SWAN WATCH**\nDown 750bps in 24 hours. If this closes below 3%, expect capitulation selling. But 3-5% on geopolitical binary is where real value hides if regional tensions ease even slightly. Low volume ($915K) = opportunity for size.\n\n---\n\n**ZIMR Thesis:** Tournament volatility is masking weak conviction in macro. Position accordingly.",
+  "date": "Sunday June 28, 2026",
+  "generated": "2026-06-28T09:50:13.198028Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | Sunday, June 28, 2026\n\n## HEADLINE\n**World Cup Favorites Repricing as Tournament Enters Knockout Phase; Esports Certainty Hits 99% While Geopolitical Tail Risks Dominate Volume**\n\n---\n\n## MARKET INTELLIGENCE\n\n**The World Cup Math Is Breaking Down**\nFrance and Argentina are trading at combined 44% to win it all\u2014a modest premium for the two favorites, but watch the edges: Argentina's +2.9% pop despite being deeper in the tournament suggests smart money is buying the narrative. Portugal pulling $5.2M in volume at 6% odds signals sophisticated hedging; either someone's betting Iberian upside or laying off exposure elsewhere. Spain's -1.9% slide is notable\u2014the market's finally accepting their window has closed.\n\n**Geopolitical Premium is Real**\nNetanyahu Iran cross ($5.3M volume, 1% odds) and Hormuz normalcy (down to 1%, -3.5%) are eating capital despite razor-thin probabilities. This isn't retail noise\u2014these are portfolio hedges. The $12.7M combined volume in tail-risk political markets tells you institutional money is positioning for volatility through month-end. Expect continued bid on any escalation headlines.\n\n**Esports Certainty = Value Trap or Lock?**\nKarmine Corp's 99% moneyline (+21.9% today, $1.1M) in LoL Game 3 is either reflecting a genuine mismatch or pricing in predetermined outcomes. Cross-check live odds against professional consensus; if sharps are still laying money at these levels, there's edge. If they've gone silent, it's priced.\n\n---\n\n## WATCH LIST\n\n1. **Argentina 2026 World Cup (21%, +2.9%)** \u2014 Track if they advance today. Positive momentum + structural favorites spot = potential squeeze higher. Monitor for sudden -3% to -5% corrections if early knockout talk emerges.\n\n2. **Portugal 6% / Colombia 2% (paired trade)** \u2014 $10.3M combined volume on long-shot winners. If either team makes deep run in next 48h, explosive repricing. Use as volatility proxy for World Cup repricing cycles.\n\n3. **Netanyahu Iran (1%, $5.3M)** \u2014 Circuit breaker market. Zero predictive value, pure hedge. Watch for >0.5% moves as signal of real-world tension escalation. Spikes = institutional VIX equivalent for geopolitical exposure.\n\n---\n\n**ZIMR EDGE:** The Hormuz market death spiral (-3.5%) suggests consensus shifted overnight. Check shipping indices and tanker spreads for confirmation of normalization thesis\u2014could signal broader risk-off.",
   "top_movers": [
     {
+      "question": "LoL: Karmine Corp vs Deep Cross Gaming - Game 3 Winner",
+      "prob": 99,
+      "change": 21.9,
+      "vol24": "$1.1M",
+      "slug": "lol-kc-dcg-2026-06-27-game3"
+    },
+    {
       "question": "Strait of Hormuz traffic returns to normal by end of June?",
-      "prob": 5,
-      "change": -7.5,
-      "vol24": "$915K",
+      "prob": 1,
+      "change": -3.5,
+      "vol24": "$737K",
       "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june"
     },
     {
-      "question": "Will Colombia win on 2026-06-27?",
-      "prob": 28,
-      "change": 5.0,
-      "vol24": "$737K",
-      "slug": "fifwc-col-prt-2026-06-27-col"
-    },
-    {
-      "question": "Will Portugal win on 2026-06-27?",
-      "prob": 48,
-      "change": -3.0,
-      "vol24": "$2.1M",
-      "slug": "fifwc-col-prt-2026-06-27-prt"
-    },
-    {
-      "question": "Will Algeria vs. Austria end in a draw?",
-      "prob": 46,
+      "question": "Will Canada win on 2026-06-28?",
+      "prob": 60,
       "change": 3.0,
-      "vol24": "$777K",
-      "slug": "fifwc-alg-aut-2026-06-27-draw"
+      "vol24": "$2.3M",
+      "slug": "fifwc-rsa-can-2026-06-28-can"
     },
     {
       "question": "Will Argentina win the 2026 FIFA World Cup?",
-      "prob": 18,
+      "prob": 21,
       "change": 2.9,
-      "vol24": "$2.5M",
+      "vol24": "$3.9M",
       "slug": "will-argentina-win-the-2026-fifa-world-cup-245"
+    },
+    {
+      "question": "Will Spain win the 2026 FIFA World Cup?",
+      "prob": 11,
+      "change": -1.9,
+      "vol24": "$1.8M",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Egypt win the 2026 FIFA World Cup?",
-      "prob": 1,
-      "change": -0.1,
-      "vol24": "$8.1M",
-      "slug": "will-egypt-win-the-2026-fifa-world-cup"
-    },
-    {
-      "question": "Will Ecuador win the 2026 FIFA World Cup?",
+      "question": "Will Algeria win the 2026 FIFA World Cup?",
       "prob": 1,
       "change": 0.1,
-      "vol24": "$6.8M",
-      "slug": "will-ecuador-win-the-2026-fifa-world-cup-986"
+      "vol24": "$6.4M",
+      "slug": "will-algeria-win-the-2026-fifa-world-cup"
     },
     {
-      "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
+      "question": "Will Benjamin Netanyahu enter Iran by June 30?",
       "prob": 1,
-      "change": 0.9,
-      "vol24": "$5.1M",
-      "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia"
+      "change": -0.2,
+      "vol24": "$5.3M",
+      "slug": "will-benjamin-netanyahu-enter-iran-by-june-30"
+    },
+    {
+      "question": "Will Portugal win the 2026 FIFA World Cup?",
+      "prob": 6,
+      "change": -1.8,
+      "vol24": "$5.2M",
+      "slug": "will-portugal-win-the-2026-fifa-world-cup-912"
     }
   ]
 }
