@@ -1,65 +1,65 @@
 {
-  "date": "Monday June 29, 2026",
-  "generated": "2026-06-29T11:51:15.712443Z",
-  "brief": "# ZIMR Polymarket Daily Brief | Monday, June 29, 2026\n\n## Headline\n**Germany's Knockout Dominance Masks Deeper Tournament Uncertainty\u2014Smart Money Hedging Winner Exposure**\n\n---\n\n## Market Intelligence\n\n**The Surface Play:** Germany is the day's consensus monster at 72% to win today's match, with minimal volatility (-1.0%). That's not confidence\u2014that's laziness. Compare this to the 46% odds on their -1.5 spread, which suggests sharp money isn't as convinced they'll dominate the scoreline. The 2.6% spread between moneyline and handicap pricing is a yellow flag for overconfidence in a knockout format where one mistake ends everything.\n\n**The Real Signal:** Look at the tournament winner markets instead. Spain (11%), Argentina (21%), and Brazil (6%) are getting crushed despite being traditional heavyweights. Meanwhile, Canada is pulling $8.1M in volume at 1% odds\u2014that's not retail FOMO, that's someone either massively hedging or building a narrative position. The Ethiopia PM markets ($13.8M combined volume) suggest serious money is rotating OUT of tournament markets entirely, possibly ahead of late-round collapses or surprise eliminations.\n\n**The Misprice:** Brazil's 56% match odds versus their 6% tournament odds is the most violent disconnect on the board. Either the market thinks Brazil loses today and the tournament is over for them, OR Brazil's path to the final is genuinely brutal. Today's -1% dip while maintaining 56% suggests weak hands selling match confidence but tournament odds already priced in a run that doesn't happen. Watch if they advance\u2014if Brazil wins today and tournament odds DON'T rally, that's capitulation and a buy signal for contrarians.\n\n---\n\n## Watch List\n\n**1. Germany -1.5 @ 46% | HIGHEST PRIORITY**\n72% to win vs. 46% to cover the spread is $2.1B+ in implied value being left on the table. If the market truly believes in a dominant German performance, the spread should trade 60%+. This is where sharp money is taking Germany's moneyline but fading the narrative. Track order flow at 50%\u2014that's the real conviction level.\n\n**2. Brazil vs. Japan O/U 2.5 @ 46% | VOLATILITY PLAY**\nDown 3.0% in 24h with $1.2M volume. This is thin and moving. Brazil's attacking setup vs. Japan's defensive discipline should push totals, but the market is expecting a grind. A breakout above 48% (or collapse below 44%) in the first half will signal if the tape knows something about team setup changes.\n\n**3. Canada World Cup @ 1% | LIQUIDITY TRAP**\n$8.1M volume on 1% odds is statistical noise masquerading as signal. Either this is a hedge from someone holding $800K+ in Canada futures, or it's a meme. Track if this drains to $2-3M or holds\u2014holding suggests institutional positioning we're not seeing elsewhere.\n\n---\n\n**Trade Thesis:** Fade the consensus on Germany's margin today. Go long the spread at 46%+ if you can get it. Tournament odds are already pricing in drama; match odds are pricing in coronation.",
+  "date": "Tuesday June 30, 2026",
+  "generated": "2026-06-30T10:21:28.484094Z",
+  "brief": "# ZIMR DAILY BRIEF | June 30, 2026\n\n## HEADLINE\n**France's World Cup odds surge as Vu\u010di\u0107's political fate crystallizes\u2014but longshot exotics are bleeding volume**\n\n---\n\n## MARKET INTELLIGENCE\n\n**The Political Certainty Play is Pricing In.** Vu\u010di\u0107 at 99% (+4.7%) reads as information-settled rather than speculation\u2014this is execution, not discovery. Smart money closed this position weeks ago; today's tick-up is retail catching final scraps. Volume at $1.3M is thin for a near-certain event, suggesting institutional players already moved on.\n\n**France's +5.6% pop deserves scrutiny.** At 29% odds, the market is pricing France as the 4th-likeliest winner behind unlisted favorites (England, Spain, Netherlands presumably). The uptick correlates with C\u00f4te d'Ivoire vs Norway fixtures today\u2014if France's group rivals underperform, relative value shifts. But watch the asymmetry: $2.9M volume on France vs. $15.9M on Morocco's 4% longshot. That's not confidence; that's lottery ticket fever.\n\n**Longshot exotics are the real story.** Morocco, Paraguay, and Egypt combined are pulling $40.7M in volume despite single-digit odds. This screams retail rotation into \"value\" plays\u2014the classic post-upset euphoria when an underdog runs. The -66% collapse on Karmine Corp (LoL Play-In) mirrors this: when favorites fail, money floods into underdogs anywhere on the platform. These positions will bleed.\n\n---\n\n## WATCH LIST\n\n**1. France vs. group stage rivals (implied)** \u2014 Track any injury/lineup news. If France wins decisively today, expect +3-4% correction higher. Current 29% may be artificially depressed.\n\n**2. Morocco longshot volatility** \u2014 $15.9M volume at 4% odds is unsustainable. Watch for profit-taking if any African underdog loses today; this bet will reverse hard and fast.\n\n**3. Norway vs. C\u00f4te d'Ivoire result** \u2014 Direct input on France's pathway. A Norwegian upset cascades into France repricing. Market may be front-running this; check live odds at kickoff.",
   "top_movers": [
     {
-      "question": "Brazil vs. Japan: O/U 2.5",
-      "prob": 46,
-      "change": -3.0,
+      "question": "LoL: Karmine Corp vs Team Liquid (BO5) - Mid-Season Invitational Play-In",
+      "prob": 8,
+      "change": -67.0,
+      "vol24": "$1.3M",
+      "slug": "lol-kc-tl2-2026-06-30"
+    },
+    {
+      "question": "LoL: Karmine Corp vs Team Liquid - Game 2 Winner",
+      "prob": 1,
+      "change": -66.0,
+      "vol24": "$1.3M",
+      "slug": "lol-kc-tl2-2026-06-30-game2"
+    },
+    {
+      "question": "Will France win the 2026 FIFA World Cup?",
+      "prob": 29,
+      "change": 5.6,
+      "vol24": "$2.9M",
+      "slug": "will-france-win-the-2026-fifa-world-cup-924"
+    },
+    {
+      "question": "Aleksandar Vu\u010di\u0107 out as Serbian President by June 30, 2026?",
+      "prob": 99,
+      "change": 4.7,
+      "vol24": "$1.3M",
+      "slug": "aleksandar-vui-out-as-serbian-president-by-june-30-2026-398"
+    },
+    {
+      "question": "C\u00f4te d'Ivoire vs. Norway: O/U 2.5",
+      "prob": 50,
+      "change": -4.0,
       "vol24": "$1.2M",
-      "slug": "fifwc-bra-jpn-2026-06-29-total-2pt5"
-    },
-    {
-      "question": "Will Netherlands win on 2026-06-29?",
-      "prob": 42,
-      "change": -2.0,
-      "vol24": "$1.4M",
-      "slug": "fifwc-nld-mar-2026-06-29-nld"
-    },
-    {
-      "question": "Will Brazil win on 2026-06-29?",
-      "prob": 56,
-      "change": -1.0,
-      "vol24": "$3.2M",
-      "slug": "fifwc-bra-jpn-2026-06-29-bra"
-    },
-    {
-      "question": "Spread: Germany (-1.5)",
-      "prob": 46,
-      "change": -1.0,
-      "vol24": "$1.4M",
-      "slug": "fifwc-ger-par-2026-06-29-spread-home-1pt5"
-    },
-    {
-      "question": "Will Japan win on 2026-06-29?",
-      "prob": 18,
-      "change": -1.0,
-      "vol24": "$990K",
-      "slug": "fifwc-bra-jpn-2026-06-29-jpn"
+      "slug": "fifwc-civ-nor-2026-06-30-total-2pt5"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Canada win the 2026 FIFA World Cup?",
-      "prob": 1,
-      "change": 0.1,
-      "vol24": "$8.1M",
-      "slug": "will-canada-win-the-2026-fifa-world-cup-755"
+      "question": "Will Morocco win the 2026 FIFA World Cup?",
+      "prob": 4,
+      "change": 2.5,
+      "vol24": "$15.9M",
+      "slug": "will-morocco-win-the-2026-fifa-world-cup-464"
     },
     {
-      "question": "Will Shimelis Abdisa be the next Prime Minister of Ethiopia?",
+      "question": "Will Paraguay win the 2026 FIFA World Cup?",
+      "prob": 1,
+      "change": 0.2,
+      "vol24": "$15.5M",
+      "slug": "will-paraguay-win-the-2026-fifa-world-cup-967"
+    },
+    {
+      "question": "Will Egypt win the 2026 FIFA World Cup?",
       "prob": 1,
       "change": 0,
-      "vol24": "$7.7M",
-      "slug": "will-shimelis-abdisa-be-the-next-prime-minister-of-ethiopia"
-    },
-    {
-      "question": "Will Gedion Timothewos be the next Prime Minister of Ethiopia?",
-      "prob": 1,
-      "change": 0.1,
-      "vol24": "$6.1M",
-      "slug": "will-gedion-timothewos-be-the-next-prime-minister-of-ethiopia"
+      "vol24": "$9.1M",
+      "slug": "will-egypt-win-the-2026-fifa-world-cup"
     }
   ]
 }
