@@ -1,64 +1,64 @@
 {
-  "date": "Wednesday July 01, 2026",
-  "generated": "2026-07-01T10:36:01.563568Z",
-  "brief": "# ZIMR POLYMARKET BRIEF | Wednesday, July 1, 2026\n\n## HEADLINE\n**France's World Cup Odds Surge While Morocco Hemorrhages Volume Despite Long-Shot Status**\n\n---\n\n## THE SIGNAL\n\nFrance is the day's narrative winner, climbing 3.9% to 33% amid $3M in daily volume. The move suggests smart money is positioning ahead of likely knockout stages, or reacting to team news we're not seeing in the raw odds. This is genuine conviction buying in a major tournament contract\u2014not noise.\n\nThe real story is **Morocco dysfunction**: $8.3M flowed through their tournament winner at just 2% odds. That's distressed liquidation or systematic de-risking by holders who got caught long at better prices. When 2% contracts see that much volume *downward*, it signals either (1) capitulation after poor recent form, or (2) professional reshuffling ahead of their July 4th match. Either way, it's a crowded exit.\n\nEngland's match against DR Congo (today) is oddly flat despite being live action. The -1.5 spread and O/U 2.5 are both bleeding volume and conviction\u2014traditional bettors may be sitting this one out, suggesting the outcome is fairly priced with no edge. The 18% draw odds creeping up +1% could indicate late money on the \"boring result\" as underdog value.\n\n---\n\n## WATCH LIST\n\n1. **France 2026 Winner (33%)** \u2014 Momentum is your friend in tournament markets. If they clear the next match convincingly, expect further repricing. Watch for odds above 35% as a structural breakdown signal.\n\n2. **England vs. DR Congo Spread (-1.5, 50%)** \u2014 A coinflip at exactly 50% means zero edge. If DR Congo scores early, spreads typically swing 2-3% hard. Monitor for position unwinding if it stays flat through halftime.\n\n3. **Morocco July 4 Match (54%)** \u2014 After $8.3M in sell pressure on their tournament odds, watch whether today's match (if they're playing) stabilizes or extends the bleed. This is a potential capitulation bottom or a foreshadowing of deeper problems.",
+  "date": "Thursday July 02, 2026",
+  "generated": "2026-07-02T09:49:55.809402Z",
+  "brief": "# POLYMARKET DAILY BRIEF | Thursday, July 2, 2026\n\n## Headline\n**Trump-Netanyahu Bet Explodes to 99%: Market Pricing Certainty on Insult That May Have Already Happened**\n\n---\n\n## Market Intelligence\n\n**The Trump-Netanyahu Trade is Done.** A $1.3M surge pushed this market to 99% in 24 hours\u2014a 64.5% rip that suggests either: (a) the insult already occurred and wasn't publicly reported yet, (b) Trump made a statement that's being interpreted as insulting, or (c) this is pure momentum/desperation buying into deadline certainty. With June 30 as the cutoff, the market is essentially calling this resolved. Check your news feeds\u2014if nothing major broke, this is a potential overheating signal for politically-sensitive micro markets.\n\n**World Cup Narratives Shifting but Belgium/Ghana Volume Suggests Skepticism.** France ticked up +2.3% to 35%, but Belgium and Ghana are pulling massive volume ($10.7M and $7.6M respectively) despite pricing at 2% and 1%. This is classic \"long-shot lottery\" behavior from retail. Smart money is likely **selling Belgium/Ghana and buying France or Argentina** on the edges\u2014the fringe bets are pricing in too much tail risk given tournament structure. Argentina's -0.9% dip to 18% looks like profit-taking on favorites ahead of knockout rounds.\n\n**Portugal-Spain Plays Coalescing Around Spain Favorites.** Spain's moving up to 75% win probability with steady volume, while Portugal hovers at 57% on the Over 2.5 goals line. The spread (-1.5 Spain) at 50% is the natural meeting point\u2014but that tight pricing suggests sharp action is waiting for team lineups. Spain's directional strength is the cleaner trade here.\n\n---\n\n## Watch List\n\n1. **Trump-Netanyahu (99%) \u2013 AVOID or FADE hard.** If nothing breaks in next 2 hours, this could crater. Waiting for confirmation before shorting, but 99% leaves no margin for error or clarification disputes.\n\n2. **France 2026 World Cup (35%) \u2013 BUY on weakness.** Volume is building and narrative is shifting. France at 35% vs. England at 8% feels inverted given tournament depth. Watch for late-round odds compression.\n\n3. **Portugal vs. Croatia O/U 2.5 (55%) \u2013 NEUTRAL for now.** Clean setup pre-kickoff, but don't chase momentum. Wait for team sheets at kickoff before committing size.",
   "top_movers": [
     {
-      "question": "Will France win the 2026 FIFA World Cup?",
-      "prob": 33,
-      "change": 3.9,
-      "vol24": "$3.0M",
-      "slug": "will-france-win-the-2026-fifa-world-cup-924"
+      "question": "Will Donald Trump publicly insult Benjamin Netanyahu by June 30, 2026?",
+      "prob": 99,
+      "change": 64.5,
+      "vol24": "$1.3M",
+      "slug": "will-donald-trump-publicly-insult-benjamin-netanyahu-by-june-30-2026"
     },
     {
-      "question": "England vs. DR Congo: O/U 2.5",
-      "prob": 46,
+      "question": "Wimbledon ATP: Rafael Jodar vs Pablo Carreno Busta",
+      "prob": 40,
+      "change": -38.0,
+      "vol24": "$937K",
+      "slug": "atp-jodar-busta-2026-07-01"
+    },
+    {
+      "question": "Portugal vs. Croatia: O/U 2.5",
+      "prob": 55,
+      "change": 8.1,
+      "vol24": "$870K",
+      "slug": "fifwc-prt-hrv-2026-07-02-total-2pt5"
+    },
+    {
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "prob": 12,
       "change": -3.0,
-      "vol24": "$810K",
-      "slug": "fifwc-eng-cdr-2026-07-01-total-2pt5"
+      "vol24": "$1.2M",
+      "slug": "putin-out-before-2027"
     },
     {
-      "question": "Spread: England (-1.5)",
-      "prob": 50,
-      "change": -2.0,
-      "vol24": "$1.1M",
-      "slug": "fifwc-eng-cdr-2026-07-01-spread-home-1pt5"
-    },
-    {
-      "question": "Will Morocco win the 2026 FIFA World Cup?",
-      "prob": 2,
-      "change": -1.4,
-      "vol24": "$8.3M",
-      "slug": "will-morocco-win-the-2026-fifa-world-cup-464"
-    },
-    {
-      "question": "Will Mexico win the 2026 FIFA World Cup?",
-      "prob": 3,
-      "change": 1.1,
-      "vol24": "$6.6M",
-      "slug": "will-mexico-win-the-2026-fifa-world-cup-529"
+      "question": "Will Portugal win on 2026-07-02?",
+      "prob": 57,
+      "change": 2.6,
+      "vol24": "$1.0M",
+      "slug": "fifwc-prt-hrv-2026-07-02-prt"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Morocco win the 2026 FIFA World Cup?",
+      "question": "Will Belgium win the 2026 FIFA World Cup?",
       "prob": 2,
-      "change": -1.4,
-      "vol24": "$8.3M",
-      "slug": "will-morocco-win-the-2026-fifa-world-cup-464"
+      "change": 0.4,
+      "vol24": "$10.7M",
+      "slug": "will-belgium-win-the-2026-fifa-world-cup-358"
     },
     {
-      "question": "Will Shimelis Abdisa be the next Prime Minister of Ethiopia?",
+      "question": "Will Ghana win the 2026 FIFA World Cup?",
       "prob": 1,
-      "change": 0,
-      "vol24": "$7.7M",
-      "slug": "will-shimelis-abdisa-be-the-next-prime-minister-of-ethiopia"
+      "change": 0.1,
+      "vol24": "$7.6M",
+      "slug": "will-ghana-win-the-2026-fifa-world-cup"
     },
     {
       "question": "Will Mexico win the 2026 FIFA World Cup?",
       "prob": 3,
-      "change": 1.1,
-      "vol24": "$6.6M",
+      "change": 0.8,
+      "vol24": "$6.1M",
       "slug": "will-mexico-win-the-2026-fifa-world-cup-529"
     }
   ]
