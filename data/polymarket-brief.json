@@ -1,65 +1,65 @@
 {
-  "date": "Thursday July 02, 2026",
-  "generated": "2026-07-02T09:49:55.809402Z",
-  "brief": "# POLYMARKET DAILY BRIEF | Thursday, July 2, 2026\n\n## Headline\n**Trump-Netanyahu Bet Explodes to 99%: Market Pricing Certainty on Insult That May Have Already Happened**\n\n---\n\n## Market Intelligence\n\n**The Trump-Netanyahu Trade is Done.** A $1.3M surge pushed this market to 99% in 24 hours\u2014a 64.5% rip that suggests either: (a) the insult already occurred and wasn't publicly reported yet, (b) Trump made a statement that's being interpreted as insulting, or (c) this is pure momentum/desperation buying into deadline certainty. With June 30 as the cutoff, the market is essentially calling this resolved. Check your news feeds\u2014if nothing major broke, this is a potential overheating signal for politically-sensitive micro markets.\n\n**World Cup Narratives Shifting but Belgium/Ghana Volume Suggests Skepticism.** France ticked up +2.3% to 35%, but Belgium and Ghana are pulling massive volume ($10.7M and $7.6M respectively) despite pricing at 2% and 1%. This is classic \"long-shot lottery\" behavior from retail. Smart money is likely **selling Belgium/Ghana and buying France or Argentina** on the edges\u2014the fringe bets are pricing in too much tail risk given tournament structure. Argentina's -0.9% dip to 18% looks like profit-taking on favorites ahead of knockout rounds.\n\n**Portugal-Spain Plays Coalescing Around Spain Favorites.** Spain's moving up to 75% win probability with steady volume, while Portugal hovers at 57% on the Over 2.5 goals line. The spread (-1.5 Spain) at 50% is the natural meeting point\u2014but that tight pricing suggests sharp action is waiting for team lineups. Spain's directional strength is the cleaner trade here.\n\n---\n\n## Watch List\n\n1. **Trump-Netanyahu (99%) \u2013 AVOID or FADE hard.** If nothing breaks in next 2 hours, this could crater. Waiting for confirmation before shorting, but 99% leaves no margin for error or clarification disputes.\n\n2. **France 2026 World Cup (35%) \u2013 BUY on weakness.** Volume is building and narrative is shifting. France at 35% vs. England at 8% feels inverted given tournament depth. Watch for late-round odds compression.\n\n3. **Portugal vs. Croatia O/U 2.5 (55%) \u2013 NEUTRAL for now.** Clean setup pre-kickoff, but don't chase momentum. Wait for team sheets at kickoff before committing size.",
+  "date": "Friday July 03, 2026",
+  "generated": "2026-07-03T09:47:29.233262Z",
+  "brief": "# ZIMR Daily Polymarket Brief | Friday, July 3, 2026\n\n## Headline\n**G2 Esports Sweep Priced In; Fed Rate-Hold Consensus Hardens as Market Calls \"No Cut\" July**\n\n---\n\n## Market Intelligence\n\n**LoL Finals Narrative Collapsing into Certainty**\nG2's dominance in the Mid-Season Invitational playoff series has compressed the outcome uncertainty to near-zero. Games 3 and 4 winner markets both sit at 99%\u2014a 50%+ daily move\u2014while Game 2 (Top Esports' only conceivable victory) cratered to 1%. The series-level market (76%) is trading *wide* relative to the component games, suggesting either sharp bettors see late-series volatility (unlikely) or retail is still pricing series-win optionality that no longer exists. **Signal: This market is efficiently priced; watch for game-by-game arbs if Game 4 extends.**\n\n**Fed Hold Now 90%\u2014Inflation Talk Has Evaporated**\nThe interest rate markets flipped decisively overnight. The 90% probability on \"no change\" is now your market consensus; the 25bps hike market collapsed to 8% (-9.7%). This isn't hawkish Fed positioning\u2014it's *capitulation* to soft data and the market's demand for stability heading into the summer recess. Smart money moved early; late buyers are chasing consensus at unfavorable odds.\n\n**World Cup Depth Markets Absorbing $25M+ in Shuffle Volume**\nParaguay, Switzerland, and Portugal are trading at 1-6% with massive volume ($6-7M each). This is classic uncertainty absorption\u2014small probability outcomes soaking liquidity as bettor conviction fragments. Spain (12%) remains the \"meme\" dark horse within the non-favorites tier. **Real insight: Money is defending against narrative shocks, not signaling genuine edge.**\n\n---\n\n## Watch List Today\n\n1. **Argentina vs. Cabo Verde (94% Argentina advance)** \u2014 Match today. The 94% is reasonable but watch for line movement in the final 2 hours if Cabo Verde's preparation becomes a surprise variable. Low volume ($1.3M) = high slippage risk.\n\n2. **Fed July Meeting (90% no change)** \u2014 Any breaking macro data (jobless claims, PCE whisper numbers) could trigger a flash move. 10% on the hike is still real tail risk; monitor 2yr yields.\n\n3. **G2 vs. Top Game 4** \u2014 If they're sweeping, esports betting liquidity will thin *fast* post-series. Use this as a barometer for whether casual action is still entering the market or if whales have already exited.",
   "top_movers": [
     {
-      "question": "Will Donald Trump publicly insult Benjamin Netanyahu by June 30, 2026?",
+      "question": "LoL: G2 Esports vs Top Esports - Game 4 Winner",
       "prob": 99,
-      "change": 64.5,
-      "vol24": "$1.3M",
-      "slug": "will-donald-trump-publicly-insult-benjamin-netanyahu-by-june-30-2026"
+      "change": 51.9,
+      "vol24": "$1.7M",
+      "slug": "lol-g2-tes-2026-07-04-game4"
     },
     {
-      "question": "Wimbledon ATP: Rafael Jodar vs Pablo Carreno Busta",
-      "prob": 40,
-      "change": -38.0,
-      "vol24": "$937K",
-      "slug": "atp-jodar-busta-2026-07-01"
+      "question": "LoL: G2 Esports vs Top Esports - Game 3 Winner",
+      "prob": 99,
+      "change": 51.4,
+      "vol24": "$1.4M",
+      "slug": "lol-g2-tes-2026-07-04-game3"
     },
     {
-      "question": "Portugal vs. Croatia: O/U 2.5",
-      "prob": 55,
-      "change": 8.1,
-      "vol24": "$870K",
-      "slug": "fifwc-prt-hrv-2026-07-02-total-2pt5"
-    },
-    {
-      "question": "Putin out as President of Russia by December 31, 2026?",
-      "prob": 12,
-      "change": -3.0,
+      "question": "LoL: G2 Esports vs Top Esports - Game 2 Winner",
+      "prob": 1,
+      "change": -48.4,
       "vol24": "$1.2M",
-      "slug": "putin-out-before-2027"
+      "slug": "lol-g2-tes-2026-07-04-game2"
     },
     {
-      "question": "Will Portugal win on 2026-07-02?",
-      "prob": 57,
-      "change": 2.6,
-      "vol24": "$1.0M",
-      "slug": "fifwc-prt-hrv-2026-07-02-prt"
+      "question": "LoL: G2 Esports vs Top Esports (BO5) - Mid-Season Invitational Playoffs",
+      "prob": 76,
+      "change": 29.0,
+      "vol24": "$2.9M",
+      "slug": "lol-g2-tes-2026-07-04"
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "prob": 90,
+      "change": 10.0,
+      "vol24": "$1.3M",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Belgium win the 2026 FIFA World Cup?",
-      "prob": 2,
-      "change": 0.4,
-      "vol24": "$10.7M",
-      "slug": "will-belgium-win-the-2026-fifa-world-cup-358"
+      "question": "Will Shimelis Abdisa be the next Prime Minister of Ethiopia?",
+      "prob": 1,
+      "change": 0,
+      "vol24": "$7.6M",
+      "slug": "will-shimelis-abdisa-be-the-next-prime-minister-of-ethiopia"
     },
     {
-      "question": "Will Ghana win the 2026 FIFA World Cup?",
+      "question": "Will Paraguay win the 2026 FIFA World Cup?",
+      "prob": 1,
+      "change": 0,
+      "vol24": "$6.8M",
+      "slug": "will-paraguay-win-the-2026-fifa-world-cup-967"
+    },
+    {
+      "question": "Will Switzerland win the 2026 FIFA World Cup?",
       "prob": 1,
       "change": 0.1,
-      "vol24": "$7.6M",
-      "slug": "will-ghana-win-the-2026-fifa-world-cup"
-    },
-    {
-      "question": "Will Mexico win the 2026 FIFA World Cup?",
-      "prob": 3,
-      "change": 0.8,
-      "vol24": "$6.1M",
-      "slug": "will-mexico-win-the-2026-fifa-world-cup-529"
+      "vol24": "$6.0M",
+      "slug": "will-switzerland-win-the-2026-fifa-world-cup"
     }
   ]
 }
