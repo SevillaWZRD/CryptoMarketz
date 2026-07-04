@@ -1,65 +1,65 @@
 {
-  "date": "Friday July 03, 2026",
-  "generated": "2026-07-03T09:47:29.233262Z",
-  "brief": "# ZIMR Daily Polymarket Brief | Friday, July 3, 2026\n\n## Headline\n**G2 Esports Sweep Priced In; Fed Rate-Hold Consensus Hardens as Market Calls \"No Cut\" July**\n\n---\n\n## Market Intelligence\n\n**LoL Finals Narrative Collapsing into Certainty**\nG2's dominance in the Mid-Season Invitational playoff series has compressed the outcome uncertainty to near-zero. Games 3 and 4 winner markets both sit at 99%\u2014a 50%+ daily move\u2014while Game 2 (Top Esports' only conceivable victory) cratered to 1%. The series-level market (76%) is trading *wide* relative to the component games, suggesting either sharp bettors see late-series volatility (unlikely) or retail is still pricing series-win optionality that no longer exists. **Signal: This market is efficiently priced; watch for game-by-game arbs if Game 4 extends.**\n\n**Fed Hold Now 90%\u2014Inflation Talk Has Evaporated**\nThe interest rate markets flipped decisively overnight. The 90% probability on \"no change\" is now your market consensus; the 25bps hike market collapsed to 8% (-9.7%). This isn't hawkish Fed positioning\u2014it's *capitulation* to soft data and the market's demand for stability heading into the summer recess. Smart money moved early; late buyers are chasing consensus at unfavorable odds.\n\n**World Cup Depth Markets Absorbing $25M+ in Shuffle Volume**\nParaguay, Switzerland, and Portugal are trading at 1-6% with massive volume ($6-7M each). This is classic uncertainty absorption\u2014small probability outcomes soaking liquidity as bettor conviction fragments. Spain (12%) remains the \"meme\" dark horse within the non-favorites tier. **Real insight: Money is defending against narrative shocks, not signaling genuine edge.**\n\n---\n\n## Watch List Today\n\n1. **Argentina vs. Cabo Verde (94% Argentina advance)** \u2014 Match today. The 94% is reasonable but watch for line movement in the final 2 hours if Cabo Verde's preparation becomes a surprise variable. Low volume ($1.3M) = high slippage risk.\n\n2. **Fed July Meeting (90% no change)** \u2014 Any breaking macro data (jobless claims, PCE whisper numbers) could trigger a flash move. 10% on the hike is still real tail risk; monitor 2yr yields.\n\n3. **G2 vs. Top Game 4** \u2014 If they're sweeping, esports betting liquidity will thin *fast* post-series. Use this as a barometer for whether casual action is still entering the market or if whales have already exited.",
+  "date": "Saturday July 04, 2026",
+  "generated": "2026-07-04T09:11:29.283166Z",
+  "brief": "# ZIMR DAILY BRIEF | Saturday, July 4, 2026\n\n## Headline\n**Bilibili Gaming Blowout Triggers $5.5M Mid-Series Collapse; World Cup Favorites Hold as July FOMC Looms**\n\n---\n\n## Market Intelligence\n\nThe esports market is screaming a single narrative: Bilibili Gaming just demolished T1 in Game 1, and smart money is all-in on a series sweep. Game 2 and Game 3 winner contracts hit 99% (each up 54% today), while Game 1 crashed to 1%\u2014a dramatic repricing that suggests sharp syndicates loaded positions pre-match. The $3.2M volume on the BO5 matchup (now 69%) reflects high-conviction betting; this is institutional-grade confidence, not retail chasing.\n\nFIFA World Cup markets are in a holding pattern ahead of today's Morocco fixture, but the real signal is in what *isn't* moving: Argentina (17%) and France (35%) remain range-bound despite $7.5M+ combined volume. Bettors are clearly de-risking longshot positions\u2014Egypt and Switzerland are getting $19M+ in volume at 1% odds, classic contrarian depth. The absence of volatility on the favorites suggests consensus: this tournament's outcomes are already priced in.\n\nThe Fed markets reveal complacency: 90% probability of no rate change in July, only -1% today. With $1.5M volume, there's minimal positioning for surprise hawkishness. If inflation data surprises hard before the meeting, this contract could gap\u2014worth monitoring as a tail risk lever.\n\n---\n\n## Watch List\n\n1. **LoL: Bilibili vs T1 (BO5) - 69%** | Track momentum into Game 4/5 if the series goes that deep. Syndicates may be overextended; any T1 comeback signals forced liquidations.\n\n2. **Will Morocco win 2026-07-04? - 54%** | Today's fixture is your live beta test for tournament market efficiency. Sharp vs. casual money divergence here tells us if World Cup favorites are truly settled.\n\n3. **No Fed Rate Change (July) - 90%** | Set alerts for pre-FOMC data drops (CPI, jobs). A 90% price leaves zero margin for error\u2014first hawkish surprise wins big.",
   "top_movers": [
     {
-      "question": "LoL: G2 Esports vs Top Esports - Game 4 Winner",
+      "question": "LoL: Bilibili Gaming vs T1 - Game 2 Winner",
       "prob": 99,
-      "change": 51.9,
-      "vol24": "$1.7M",
-      "slug": "lol-g2-tes-2026-07-04-game4"
+      "change": 54.4,
+      "vol24": "$1.9M",
+      "slug": "lol-blg-t1-2026-07-04-game2"
     },
     {
-      "question": "LoL: G2 Esports vs Top Esports - Game 3 Winner",
+      "question": "LoL: Bilibili Gaming vs T1 - Game 3 Winner",
       "prob": 99,
-      "change": 51.4,
-      "vol24": "$1.4M",
-      "slug": "lol-g2-tes-2026-07-04-game3"
+      "change": 54.4,
+      "vol24": "$1.6M",
+      "slug": "lol-blg-t1-2026-07-04-game3"
     },
     {
-      "question": "LoL: G2 Esports vs Top Esports - Game 2 Winner",
+      "question": "LoL: Bilibili Gaming vs T1 - Game 1 Winner",
       "prob": 1,
-      "change": -48.4,
-      "vol24": "$1.2M",
-      "slug": "lol-g2-tes-2026-07-04-game2"
+      "change": -48.9,
+      "vol24": "$1.7M",
+      "slug": "lol-blg-t1-2026-07-04-game1"
     },
     {
-      "question": "LoL: G2 Esports vs Top Esports (BO5) - Mid-Season Invitational Playoffs",
-      "prob": 76,
-      "change": 29.0,
-      "vol24": "$2.9M",
-      "slug": "lol-g2-tes-2026-07-04"
+      "question": "LoL: Bilibili Gaming vs T1 (BO5) - Mid-Season Invitational Playoffs",
+      "prob": 69,
+      "change": 21.5,
+      "vol24": "$3.2M",
+      "slug": "lol-blg-t1-2026-07-04"
     },
     {
-      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "prob": 90,
-      "change": 10.0,
-      "vol24": "$1.3M",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting"
+      "question": "Will Argentina win the 2026 FIFA World Cup?",
+      "prob": 17,
+      "change": -2.1,
+      "vol24": "$5.5M",
+      "slug": "will-argentina-win-the-2026-fifa-world-cup-245"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Shimelis Abdisa be the next Prime Minister of Ethiopia?",
-      "prob": 1,
-      "change": 0,
-      "vol24": "$7.6M",
-      "slug": "will-shimelis-abdisa-be-the-next-prime-minister-of-ethiopia"
-    },
-    {
-      "question": "Will Paraguay win the 2026 FIFA World Cup?",
-      "prob": 1,
-      "change": 0,
-      "vol24": "$6.8M",
-      "slug": "will-paraguay-win-the-2026-fifa-world-cup-967"
-    },
-    {
-      "question": "Will Switzerland win the 2026 FIFA World Cup?",
+      "question": "Will Egypt win the 2026 FIFA World Cup?",
       "prob": 1,
       "change": 0.1,
-      "vol24": "$6.0M",
-      "slug": "will-switzerland-win-the-2026-fifa-world-cup"
+      "vol24": "$14.6M",
+      "slug": "will-egypt-win-the-2026-fifa-world-cup"
+    },
+    {
+      "question": "Will Alesa Mengesha be the next Prime Minister of Ethiopia?",
+      "prob": 1,
+      "change": 0.1,
+      "vol24": "$5.8M",
+      "slug": "will-alesa-mengesha-be-the-next-prime-minister-of-ethiopia"
+    },
+    {
+      "question": "Will Argentina win the 2026 FIFA World Cup?",
+      "prob": 17,
+      "change": -2.1,
+      "vol24": "$5.5M",
+      "slug": "will-argentina-win-the-2026-fifa-world-cup-245"
     }
   ]
 }
