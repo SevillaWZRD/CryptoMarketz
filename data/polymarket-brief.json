@@ -1,65 +1,65 @@
 {
-  "date": "Saturday July 04, 2026",
-  "generated": "2026-07-04T09:11:29.283166Z",
-  "brief": "# ZIMR DAILY BRIEF | Saturday, July 4, 2026\n\n## Headline\n**Bilibili Gaming Blowout Triggers $5.5M Mid-Series Collapse; World Cup Favorites Hold as July FOMC Looms**\n\n---\n\n## Market Intelligence\n\nThe esports market is screaming a single narrative: Bilibili Gaming just demolished T1 in Game 1, and smart money is all-in on a series sweep. Game 2 and Game 3 winner contracts hit 99% (each up 54% today), while Game 1 crashed to 1%\u2014a dramatic repricing that suggests sharp syndicates loaded positions pre-match. The $3.2M volume on the BO5 matchup (now 69%) reflects high-conviction betting; this is institutional-grade confidence, not retail chasing.\n\nFIFA World Cup markets are in a holding pattern ahead of today's Morocco fixture, but the real signal is in what *isn't* moving: Argentina (17%) and France (35%) remain range-bound despite $7.5M+ combined volume. Bettors are clearly de-risking longshot positions\u2014Egypt and Switzerland are getting $19M+ in volume at 1% odds, classic contrarian depth. The absence of volatility on the favorites suggests consensus: this tournament's outcomes are already priced in.\n\nThe Fed markets reveal complacency: 90% probability of no rate change in July, only -1% today. With $1.5M volume, there's minimal positioning for surprise hawkishness. If inflation data surprises hard before the meeting, this contract could gap\u2014worth monitoring as a tail risk lever.\n\n---\n\n## Watch List\n\n1. **LoL: Bilibili vs T1 (BO5) - 69%** | Track momentum into Game 4/5 if the series goes that deep. Syndicates may be overextended; any T1 comeback signals forced liquidations.\n\n2. **Will Morocco win 2026-07-04? - 54%** | Today's fixture is your live beta test for tournament market efficiency. Sharp vs. casual money divergence here tells us if World Cup favorites are truly settled.\n\n3. **No Fed Rate Change (July) - 90%** | Set alerts for pre-FOMC data drops (CPI, jobs). A 90% price leaves zero margin for error\u2014first hawkish surprise wins big.",
+  "date": "Sunday July 05, 2026",
+  "generated": "2026-07-05T09:32:41.591318Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | Sunday, July 5, 2026\n\n## HEADLINE\n**Hanwha Life's Coronation Complete: LoL Market Prices Korean Dominance at 99%, Casual Sports Bettors Left Behind**\n\n---\n\n## THE SIGNAL\n\nThe League of Legends Mid-Season Invitational playoff between Hanwha Life and G2 is being treated as a coronation, not a competition. All three individual game markets and the series winner are sitting at 99% probability with $4.7M combined volume in 24h\u2014these aren't price discoveries, they're confirmation bets.\n\nThe real tell: **smart money has stopped trading these markets.** Volume concentration in individual games (rather than spread across series outcomes) suggests retail is chasing momentum after Hanwha's dominant play, while sophisticated traders already exited. This is textbook late-stage bubble behavior in esports prediction markets\u2014when consensus becomes this absolute, it's usually priced in.\n\nThe Brazil Copa America matches reveal the actual market volatility: Brazil vs. Norway shows 70% advance probability with meaningful 3% daily moves, while the broader Brazil World Cup win sits at 55% with modest 1% swings. **This spread tells us traders see variance in knockout football, but are treating the LoL series as already written.** That 99% floor across three LoL games is begging for contrarian positioning if G2 finds even one map win.\n\n---\n\n## WATCH LIST\n\n**1. LoL: Hanwha vs G2 \u2013 Game 1 Winner (99%)**\nHanwha priced at 99% carries a dangerous signal. If G2 steals Game 1, the liquidity dries up but the odds shift sharply\u2014watch for early 4.0+ odds before first game starts. Tournament gameplay often punishes favorites in early maps.\n\n**2. Brazil vs. Norway \u2013 Team to Advance (70%)**\nBrazil's 70% advance odds with active daily repricing (up 3%) suggests uncertainty beneath the surface. Monitor late team news; this is the volatility sweet spot for value hunting before kickoff.\n\n**3. Morocco/Egypt 2026 World Cup Winners ($8.2M / $4.2M volume)**\nThese are bleeding volume ($12.4M combined on 1-3% probabilities). Market is fascinated by long-shot African narratives. Watch for World Cup draw implications\u2014expect major repricing when bracket structure finalizes.",
   "top_movers": [
     {
-      "question": "LoL: Bilibili Gaming vs T1 - Game 2 Winner",
+      "question": "LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner",
       "prob": 99,
-      "change": 54.4,
-      "vol24": "$1.9M",
-      "slug": "lol-blg-t1-2026-07-04-game2"
+      "change": 28.9,
+      "vol24": "$1.8M",
+      "slug": "lol-hle1-g2-2026-07-05-game1"
     },
     {
-      "question": "LoL: Bilibili Gaming vs T1 - Game 3 Winner",
+      "question": "LoL: Hanwha Life Esports vs G2 Esports - Game 3 Winner",
       "prob": 99,
-      "change": 54.4,
-      "vol24": "$1.6M",
-      "slug": "lol-blg-t1-2026-07-04-game3"
+      "change": 28.9,
+      "vol24": "$1.1M",
+      "slug": "lol-hle1-g2-2026-07-05-game3"
     },
     {
-      "question": "LoL: Bilibili Gaming vs T1 - Game 1 Winner",
-      "prob": 1,
-      "change": -48.9,
-      "vol24": "$1.7M",
-      "slug": "lol-blg-t1-2026-07-04-game1"
+      "question": "LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner",
+      "prob": 99,
+      "change": 28.4,
+      "vol24": "$1.4M",
+      "slug": "lol-hle1-g2-2026-07-05-game2"
     },
     {
-      "question": "LoL: Bilibili Gaming vs T1 (BO5) - Mid-Season Invitational Playoffs",
-      "prob": 69,
-      "change": 21.5,
-      "vol24": "$3.2M",
-      "slug": "lol-blg-t1-2026-07-04"
+      "question": "LoL: Hanwha Life Esports vs G2 Esports (BO5) - Mid-Season Invitational Playoffs",
+      "prob": 99,
+      "change": 15.4,
+      "vol24": "$2.4M",
+      "slug": "lol-hle1-g2-2026-07-05"
     },
     {
-      "question": "Will Argentina win the 2026 FIFA World Cup?",
-      "prob": 17,
-      "change": -2.1,
-      "vol24": "$5.5M",
-      "slug": "will-argentina-win-the-2026-fifa-world-cup-245"
+      "question": "Wimbledon WTA: Jessica Pegula vs Iva Jovic",
+      "prob": 70,
+      "change": 5.0,
+      "vol24": "$412K",
+      "slug": "wta-pegula-jovic-2026-07-05"
     }
   ],
   "top_vol": [
     {
+      "question": "Will Morocco win the 2026 FIFA World Cup?",
+      "prob": 3,
+      "change": 0.3,
+      "vol24": "$8.2M",
+      "slug": "will-morocco-win-the-2026-fifa-world-cup-464"
+    },
+    {
       "question": "Will Egypt win the 2026 FIFA World Cup?",
       "prob": 1,
-      "change": 0.1,
-      "vol24": "$14.6M",
+      "change": -0.1,
+      "vol24": "$4.2M",
       "slug": "will-egypt-win-the-2026-fifa-world-cup"
     },
     {
-      "question": "Will Alesa Mengesha be the next Prime Minister of Ethiopia?",
+      "question": "Will Gedion Timothewos be the next Prime Minister of Ethiopia?",
       "prob": 1,
-      "change": 0.1,
-      "vol24": "$5.8M",
-      "slug": "will-alesa-mengesha-be-the-next-prime-minister-of-ethiopia"
-    },
-    {
-      "question": "Will Argentina win the 2026 FIFA World Cup?",
-      "prob": 17,
-      "change": -2.1,
-      "vol24": "$5.5M",
-      "slug": "will-argentina-win-the-2026-fifa-world-cup-245"
+      "change": 0,
+      "vol24": "$3.2M",
+      "slug": "will-gedion-timothewos-be-the-next-prime-minister-of-ethiopia"
     }
   ]
 }
