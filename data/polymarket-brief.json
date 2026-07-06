@@ -1,65 +1,65 @@
 {
-  "date": "Sunday July 05, 2026",
-  "generated": "2026-07-05T09:32:41.591318Z",
-  "brief": "# ZIMR POLYMARKET BRIEFING | Sunday, July 5, 2026\n\n## HEADLINE\n**Hanwha Life's Coronation Complete: LoL Market Prices Korean Dominance at 99%, Casual Sports Bettors Left Behind**\n\n---\n\n## THE SIGNAL\n\nThe League of Legends Mid-Season Invitational playoff between Hanwha Life and G2 is being treated as a coronation, not a competition. All three individual game markets and the series winner are sitting at 99% probability with $4.7M combined volume in 24h\u2014these aren't price discoveries, they're confirmation bets.\n\nThe real tell: **smart money has stopped trading these markets.** Volume concentration in individual games (rather than spread across series outcomes) suggests retail is chasing momentum after Hanwha's dominant play, while sophisticated traders already exited. This is textbook late-stage bubble behavior in esports prediction markets\u2014when consensus becomes this absolute, it's usually priced in.\n\nThe Brazil Copa America matches reveal the actual market volatility: Brazil vs. Norway shows 70% advance probability with meaningful 3% daily moves, while the broader Brazil World Cup win sits at 55% with modest 1% swings. **This spread tells us traders see variance in knockout football, but are treating the LoL series as already written.** That 99% floor across three LoL games is begging for contrarian positioning if G2 finds even one map win.\n\n---\n\n## WATCH LIST\n\n**1. LoL: Hanwha vs G2 \u2013 Game 1 Winner (99%)**\nHanwha priced at 99% carries a dangerous signal. If G2 steals Game 1, the liquidity dries up but the odds shift sharply\u2014watch for early 4.0+ odds before first game starts. Tournament gameplay often punishes favorites in early maps.\n\n**2. Brazil vs. Norway \u2013 Team to Advance (70%)**\nBrazil's 70% advance odds with active daily repricing (up 3%) suggests uncertainty beneath the surface. Monitor late team news; this is the volatility sweet spot for value hunting before kickoff.\n\n**3. Morocco/Egypt 2026 World Cup Winners ($8.2M / $4.2M volume)**\nThese are bleeding volume ($12.4M combined on 1-3% probabilities). Market is fascinated by long-shot African narratives. Watch for World Cup draw implications\u2014expect major repricing when bracket structure finalizes.",
+  "date": "Monday July 06, 2026",
+  "generated": "2026-07-06T11:19:25.373490Z",
+  "brief": "# POLYMARKET DAILY | JULY 6, 2026\n\n## **World Cup Chalk Getting Tested\u2014But Norway Bid Looks Like Vacuum Money**\n\nThe market is having a schizophrenic day: tournament favorites (England, France) are bleeding while dark horses (Norway at 5%, Morocco at 3%) are vacuuming volume like there's no tomorrow. The real signal? Massive hedging into what looks like long-shot insurance bets, not genuine conviction plays.\n\n**The Setup:** USA-Belgium advances today, and smart money is already rotating forward into tournament narratives. England's +7.2% pop (+14% odds) suggests institutional dip-buying on the favorites\u2014classic \"pick up names on weakness\" positioning. But here's the tell: Norway's $11.2M volume at 5% odds is 2x any other market. That's not organic. It's either (a) sophisticated arb between decentralized and centralized sportsbooks, or (b) traders front-running a specific update/injury report we haven't seen yet. Watch the next 4 hours\u2014if Norway volume crests and reverses hard, someone had information.\n\n**The Mispricing:** France down 3% to 33% while England rallies is suspicious. Both face similar round-of-16 paths. This looks like momentum chasing, not fundamental. France is the sharper value at current odds if you're fading the narrative trade.\n\n---\n\n## WATCH LIST\n\n\ud83d\udd34 **USA vs Belgium (54% USA) | Decision point TODAY**\n- Market is pricing in ~+4% USA edge intraday. Final whistle will cascade into tournament odds instantly. If Belgium pulls upset, expect long-shot Norway/Morocco bids to evaporate fast (profit-taking). Monitor line movement in final 30min pre-kickoff.\n\n\ud83d\udfe1 **Norway 2026 Winner (5% | $11.2M vol)**\n- Circuit breaker alert. Track total daily volume. If it hits $15M+ without odds movement, someone's liquidating. If it cracks 7%, institutional panic-buying is real. Either way, this market is signaling something.\n\n\ud83d\udfe2 **Haaland Top Goalscorer (12% | +9.0%)**\n- Quiet rip higher. Early-tournament goalscorer bids tend to be \"smart money pregame\" positions locking in value before group stage carnage. If this keeps climbing, Argentina's draw/fixture luck is pricing favorably. Worth watching as a proxy for group-stage confidence.",
   "top_movers": [
     {
-      "question": "LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner",
-      "prob": 99,
-      "change": 28.9,
-      "vol24": "$1.8M",
-      "slug": "lol-hle1-g2-2026-07-05-game1"
+      "question": "Will the White House call a full lid by 6:30PM on July 4?",
+      "prob": 1,
+      "change": -14.5,
+      "vol24": "$512K",
+      "slug": "will-the-white-house-call-a-full-lid-by-630pm-on-july-4-20260626160825418"
     },
     {
-      "question": "LoL: Hanwha Life Esports vs G2 Esports - Game 3 Winner",
-      "prob": 99,
-      "change": 28.9,
-      "vol24": "$1.1M",
-      "slug": "lol-hle1-g2-2026-07-05-game3"
+      "question": "Will Erling Haaland be the top goalscorer at the 2026 FIFA World Cup?",
+      "prob": 12,
+      "change": 9.0,
+      "vol24": "$304K",
+      "slug": "will-erling-haaland-be-the-top-goalscorer-at-the-2026-fifa-world-cup"
     },
     {
-      "question": "LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner",
-      "prob": 99,
-      "change": 28.4,
-      "vol24": "$1.4M",
-      "slug": "lol-hle1-g2-2026-07-05-game2"
+      "question": "Will England win the 2026 FIFA World Cup?",
+      "prob": 14,
+      "change": 7.2,
+      "vol24": "$4.9M",
+      "slug": "will-england-win-the-2026-fifa-world-cup-937"
     },
     {
-      "question": "LoL: Hanwha Life Esports vs G2 Esports (BO5) - Mid-Season Invitational Playoffs",
-      "prob": 99,
-      "change": 15.4,
-      "vol24": "$2.4M",
-      "slug": "lol-hle1-g2-2026-07-05"
+      "question": "Wimbledon WTA: Ashlyn Krueger vs Marta Kostyuk",
+      "prob": 26,
+      "change": -7.0,
+      "vol24": "$937K",
+      "slug": "wta-krueger-kostyuk-2026-07-05"
     },
     {
-      "question": "Wimbledon WTA: Jessica Pegula vs Iva Jovic",
-      "prob": 70,
-      "change": 5.0,
-      "vol24": "$412K",
-      "slug": "wta-pegula-jovic-2026-07-05"
+      "question": "United States vs. Belgium: Team to Advance",
+      "prob": 54,
+      "change": 4.0,
+      "vol24": "$2.3M",
+      "slug": "fifwc-usa-bel-2026-07-06-team-to-advance"
     }
   ],
   "top_vol": [
     {
+      "question": "Will Norway win the 2026 FIFA World Cup?",
+      "prob": 5,
+      "change": 3.0,
+      "vol24": "$11.2M",
+      "slug": "will-norway-win-the-2026-fifa-world-cup-893"
+    },
+    {
       "question": "Will Morocco win the 2026 FIFA World Cup?",
       "prob": 3,
-      "change": 0.3,
-      "vol24": "$8.2M",
+      "change": 0.1,
+      "vol24": "$6.3M",
       "slug": "will-morocco-win-the-2026-fifa-world-cup-464"
     },
     {
       "question": "Will Egypt win the 2026 FIFA World Cup?",
       "prob": 1,
-      "change": -0.1,
-      "vol24": "$4.2M",
+      "change": 0.1,
+      "vol24": "$5.3M",
       "slug": "will-egypt-win-the-2026-fifa-world-cup"
-    },
-    {
-      "question": "Will Gedion Timothewos be the next Prime Minister of Ethiopia?",
-      "prob": 1,
-      "change": 0,
-      "vol24": "$3.2M",
-      "slug": "will-gedion-timothewos-be-the-next-prime-minister-of-ethiopia"
     }
   ]
 }
