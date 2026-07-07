@@ -1,65 +1,65 @@
 {
-  "date": "Monday July 06, 2026",
-  "generated": "2026-07-06T11:19:25.373490Z",
-  "brief": "# POLYMARKET DAILY | JULY 6, 2026\n\n## **World Cup Chalk Getting Tested\u2014But Norway Bid Looks Like Vacuum Money**\n\nThe market is having a schizophrenic day: tournament favorites (England, France) are bleeding while dark horses (Norway at 5%, Morocco at 3%) are vacuuming volume like there's no tomorrow. The real signal? Massive hedging into what looks like long-shot insurance bets, not genuine conviction plays.\n\n**The Setup:** USA-Belgium advances today, and smart money is already rotating forward into tournament narratives. England's +7.2% pop (+14% odds) suggests institutional dip-buying on the favorites\u2014classic \"pick up names on weakness\" positioning. But here's the tell: Norway's $11.2M volume at 5% odds is 2x any other market. That's not organic. It's either (a) sophisticated arb between decentralized and centralized sportsbooks, or (b) traders front-running a specific update/injury report we haven't seen yet. Watch the next 4 hours\u2014if Norway volume crests and reverses hard, someone had information.\n\n**The Mispricing:** France down 3% to 33% while England rallies is suspicious. Both face similar round-of-16 paths. This looks like momentum chasing, not fundamental. France is the sharper value at current odds if you're fading the narrative trade.\n\n---\n\n## WATCH LIST\n\n\ud83d\udd34 **USA vs Belgium (54% USA) | Decision point TODAY**\n- Market is pricing in ~+4% USA edge intraday. Final whistle will cascade into tournament odds instantly. If Belgium pulls upset, expect long-shot Norway/Morocco bids to evaporate fast (profit-taking). Monitor line movement in final 30min pre-kickoff.\n\n\ud83d\udfe1 **Norway 2026 Winner (5% | $11.2M vol)**\n- Circuit breaker alert. Track total daily volume. If it hits $15M+ without odds movement, someone's liquidating. If it cracks 7%, institutional panic-buying is real. Either way, this market is signaling something.\n\n\ud83d\udfe2 **Haaland Top Goalscorer (12% | +9.0%)**\n- Quiet rip higher. Early-tournament goalscorer bids tend to be \"smart money pregame\" positions locking in value before group stage carnage. If this keeps climbing, Argentina's draw/fixture luck is pricing favorably. Worth watching as a proxy for group-stage confidence.",
+  "date": "Tuesday July 07, 2026",
+  "generated": "2026-07-07T10:16:11.549202Z",
+  "brief": "# ZIMR CAPITAL | POLYMARKET BRIEF | TUESDAY, JULY 07, 2026\n\n## Headline\n**Political Shock Overshadows World Cup Hype as Platner Dropout Odds Explode 76%**\n\n---\n\n## Market Intelligence\n\nThe Platner exit market is screaming. A 76% single-day surge to 98% suggests hard news dropped\u2014not speculation. $503K in volume on a political binary this volatile indicates insiders moving first. This is the kind of repricing that happens *after* the story breaks on cable, so retail is likely catching up at peak odds. If you're long, take profits now; if you're short, the 2% residual assumes zero black swans between now and midterms, which is naive.\n\nThe Ronaldo crying market just got obliterated (-52%, now 14%). This feels like coordinated smart money exiting a crowded trade ahead of tournament action\u2014either they got their fill at higher prices or new intel suggests he won't feature heavily. $4.8M volume on a niche prop is real money. Worth monitoring: if this bounces back above 25%, that's a contrarian signal the market overshot.\n\nWorld Cup futures remain bloated on chalk. Spain moving +5.2% to 18% on $3.9M suggests some conviction, but Egypt (1%, $12.1M volume) and Belgium (2%, $7.7M) are getting crushed into oblivion. The market is pricing near-certain outcomes before group play\u2014dangerous. Watch the Argentina spread; it's crawling higher (+4% to 48%) while total volume stays modest ($570K). Someone's building a position.\n\n---\n\n## Watch List\n\n1. **Platner Dropout (98%)** \u2014 Will it bleed to 95%+ or crater below 90% by EOD? The 2-4% range is where real liquidity emerges. Time the mean reversion.\n\n2. **Ronaldo Crying (14%)** \u2014 Next technical level is 10%. If it holds 12-16%, that's a floor. Break below and it's heading to single digits. Track squad announcements.\n\n3. **Hormuz July 31 Return (6%)** \u2014 Market repriced the December contract (-10%) but left July orphaned. If geopolitical risk escalates, watch for capital rotation *into* this unloved short-term contract. Currently mispriced vs. the Dec contract.",
   "top_movers": [
     {
-      "question": "Will the White House call a full lid by 6:30PM on July 4?",
-      "prob": 1,
-      "change": -14.5,
-      "vol24": "$512K",
-      "slug": "will-the-white-house-call-a-full-lid-by-630pm-on-july-4-20260626160825418"
+      "question": "Will Graham Platner drop out before the Midterms?",
+      "prob": 98,
+      "change": 76.1,
+      "vol24": "$503K",
+      "slug": "will-grahm-platner-drop-out-before-the-midterms-20260608200746523-993-791-462-396-195-772"
     },
     {
-      "question": "Will Erling Haaland be the top goalscorer at the 2026 FIFA World Cup?",
-      "prob": 12,
-      "change": 9.0,
-      "vol24": "$304K",
-      "slug": "will-erling-haaland-be-the-top-goalscorer-at-the-2026-fifa-world-cup"
-    },
-    {
-      "question": "Will England win the 2026 FIFA World Cup?",
+      "question": "Will Ronaldo Cry at the World Cup?",
       "prob": 14,
-      "change": 7.2,
-      "vol24": "$4.9M",
-      "slug": "will-england-win-the-2026-fifa-world-cup-937"
+      "change": -52.0,
+      "vol24": "$4.8M",
+      "slug": "will-ronaldo-cry-at-the-world-cup-20260604013616610"
     },
     {
-      "question": "Wimbledon WTA: Ashlyn Krueger vs Marta Kostyuk",
-      "prob": 26,
-      "change": -7.0,
-      "vol24": "$937K",
-      "slug": "wta-krueger-kostyuk-2026-07-05"
+      "question": "Dota 2: Team Falcons vs BetBoom Team - Game 1 Winner",
+      "prob": 18,
+      "change": -30.0,
+      "vol24": "$389K",
+      "slug": "dota2-flc-bb4-2026-07-07-game1"
     },
     {
-      "question": "United States vs. Belgium: Team to Advance",
-      "prob": 54,
-      "change": 4.0,
-      "vol24": "$2.3M",
-      "slug": "fifwc-usa-bel-2026-07-06-team-to-advance"
+      "question": "Wimbledon ATP: Jiri Lehecka vs Alexander Zverev",
+      "prob": 8,
+      "change": -19.0,
+      "vol24": "$1.0M",
+      "slug": "atp-lehecka-zverev-2026-07-06"
+    },
+    {
+      "question": "Strait of Hormuz traffic returns to normal by December 31?",
+      "prob": 60,
+      "change": -10.0,
+      "vol24": "$370K",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Norway win the 2026 FIFA World Cup?",
-      "prob": 5,
-      "change": 3.0,
-      "vol24": "$11.2M",
-      "slug": "will-norway-win-the-2026-fifa-world-cup-893"
-    },
-    {
-      "question": "Will Morocco win the 2026 FIFA World Cup?",
-      "prob": 3,
-      "change": 0.1,
-      "vol24": "$6.3M",
-      "slug": "will-morocco-win-the-2026-fifa-world-cup-464"
-    },
-    {
       "question": "Will Egypt win the 2026 FIFA World Cup?",
       "prob": 1,
-      "change": 0.1,
-      "vol24": "$5.3M",
+      "change": 0,
+      "vol24": "$12.1M",
       "slug": "will-egypt-win-the-2026-fifa-world-cup"
+    },
+    {
+      "question": "Will Belgium win the 2026 FIFA World Cup?",
+      "prob": 2,
+      "change": 0.9,
+      "vol24": "$7.7M",
+      "slug": "will-belgium-win-the-2026-fifa-world-cup-358"
+    },
+    {
+      "question": "Will Norway win the 2026 FIFA World Cup?",
+      "prob": 6,
+      "change": 1.1,
+      "vol24": "$4.9M",
+      "slug": "will-norway-win-the-2026-fifa-world-cup-893"
     }
   ]
 }
