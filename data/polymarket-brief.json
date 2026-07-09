@@ -1,65 +1,65 @@
 {
-  "date": "Wednesday July 08, 2026",
-  "generated": "2026-07-08T09:18:23.365989Z",
-  "brief": "# ZIMR Daily Brief: July 8, 2026\n\n## Headline\n**Esports Certainty Meets World Cup Emotion: Market Pricing Narratives Over Fundamentals**\n\n## Analysis\n\nThe $29.3M surge into \"Will Ronaldo Cry at the World Cup?\" hitting 99% signals pure narrative trading, not prediction. A 99% price on an inherently subjective, camera-dependent outcome screams retail FOMO chasing sentiment rather than edge. This is your canary in the coal mine for overheated positioning\u2014when emotional beats are worth $29M, risk-off is coming.\n\nThe LoL G2 vs T1 series reveals sharper market structure. Games 2 already priced at 99% (T1 favored) while Game 3 sits at 1% (G2 favored) suggests the market is handicapping a BO5 series reset *if* T1 takes early control. Smart money is hedging: $3.5M on the series at 40% G2 odds means sophisticated players see deeper value in a full comeback than binary game outcomes imply. Watch for midstream repricing if Game 2 goes to T1\u2014that 40% could spike to 55%+ if G2 steals one back.\n\nThe Dota 2 collapse (-50% ZEDI Game 1 winner) with minimal volume ($588K) is noise masquerading as signal. Real liquidation would show volume. This is likely algorithmic position unwinding or early line movers getting blown out. Ignore unless volume spikes 5x+ on fresh conviction.\n\n## Watch List\n\n**1. G2 vs T1 BO5 Series (40% G2) \u2013 Volatility Play**\nGame-by-game pricing is creating arbitrage. If G2 takes Game 2, expect sharp repricing on series odds. Entry point for contrarian bettors post-Game 2 result.\n\n**2. Ronaldo Crying at 99% \u2013 Sentiment Peak Indicator**\nWhen a subjective outcome hits nine-nines on $29M volume, mean reversion is usually weeks away. Not actionable today, but use as crowdometer for broader retail sentiment health.\n\n**3. Le Pen vs Bardella French Election (28% vs 4%)**\nSmall volume ($362K combined) but directional: Le Pen gaining +19% today while Bardella cratered. Track for EU political repricing cascades\u2014often predicts downstream policy markets.",
+  "date": "Thursday July 09, 2026",
+  "generated": "2026-07-09T10:15:57.712312Z",
+  "brief": "# ZIMR CAPITAL MARKET BRIEFING | THURSDAY, JULY 9, 2026\n\n## Headline\n**Bilibili Gaming Dominance Priced In; Fed Pause Conviction Hardens as Rate Cut Bets Fade**\n\n---\n\n## Market Intelligence\n\nThe Bilibili-Hanwha matchup is exhibiting textbook blow-out dynamics. Games 1 and 2 are essentially settled at 99%, driving massive unidirectional volume ($1.2M-$1.8M each) with 55%+ single-day moves. The critical signal: **Game 3 is pricing at just 29%**, suggesting sophisticated money believes Hanwha will force a reset if they survive to Game 3. This isn't irrational\u2014it's a probability hedge acknowledging that 2-0 leads in BO5s routinely collapse. Watch the ratio of Game 3 volume vs. overall series volume; elevated Game 3 buying would signal smart money locking in arbitrage.\n\nOn macro, the **82% \"no change\" probability for July Fed decision** has solidified with +5.5% daily movement, effectively erasing any meaningful 25bp hike scenario (now 19%). This is notable: markets have confidence in the pause narrative *despite* persistent inflation chatter. The $1.2M combined volume on Fed contracts suggests institutional conviction rather than retail confusion.\n\n**Mispricing alert**: The 99% Ronaldo cry market at $41.7M volume is pure entertainment noise masking real edge elsewhere. Argentina's 20% World Cup odds ($2.9M volume) look compressed relative to their actual tournament position\u2014compare this to Morocco's 3% ($4.0M volume). Sharp money may be underweighting Argentina's depth.\n\n---\n\n## Watch List\n\n1. **LoL Game 3 Winner (29% Hanwha)** \u2014 Volume inflection point. If >$1.5M flows in next 4 hours, indicates pro traders positioning for series extension.\n\n2. **Fed 25bp Rate Increase (19%)** \u2014 Capitulation move. Break below 15% signals terminal capitulation; hold above 22% suggests real hedge demand from institutions.\n\n3. **Argentina 2026 World Cup (20%)** \u2014 Relative value play vs. tournament structure. Track any moves toward 25%+ as signal of smart money rotation.",
   "top_movers": [
     {
-      "question": "Will Ronaldo Cry at the World Cup?",
+      "question": "LoL: Bilibili Gaming vs Hanwha Life Esports - Game 1 Winner",
       "prob": 99,
-      "change": 84.5,
-      "vol24": "$29.3M",
-      "slug": "will-ronaldo-cry-at-the-world-cup-20260604013616610"
+      "change": 57.5,
+      "vol24": "$1.2M",
+      "slug": "lol-blg-hle1-2026-07-09-game1"
     },
     {
-      "question": "LoL: G2 Esports vs T1 - Game 2 Winner",
+      "question": "LoL: Bilibili Gaming vs Hanwha Life Esports - Game 2 Winner",
       "prob": 99,
-      "change": 71.5,
-      "vol24": "$1.6M",
-      "slug": "lol-g2-t1-2026-07-08-game2"
+      "change": 55.5,
+      "vol24": "$1.8M",
+      "slug": "lol-blg-hle1-2026-07-09-game2"
     },
     {
-      "question": "Dota 2: ZEDI Esports vs GamerLegion - Game 1 Winner",
-      "prob": 1,
-      "change": -50.3,
-      "vol24": "$588K",
-      "slug": "dota2-zedies-gl-2026-07-07-game1"
+      "question": "LoL: Bilibili Gaming vs Hanwha Life Esports (BO5) - Mid-Season Invitational Playoffs",
+      "prob": 76,
+      "change": 37.0,
+      "vol24": "$4.2M",
+      "slug": "lol-blg-hle1-2026-07-09"
     },
     {
-      "question": "Dota 2: ZEDI Esports vs GamerLegion - Game 2 Winner",
-      "prob": 1,
-      "change": -43.0,
-      "vol24": "$516K",
-      "slug": "dota2-zedies-gl-2026-07-07-game2"
+      "question": "LoL: Bilibili Gaming vs Hanwha Life Esports - Game 3 Winner",
+      "prob": 29,
+      "change": -14.0,
+      "vol24": "$886K",
+      "slug": "lol-blg-hle1-2026-07-09-game3"
     },
     {
-      "question": "LoL: G2 Esports vs T1 - Game 3 Winner",
-      "prob": 1,
-      "change": -28.4,
-      "vol24": "$2.8M",
-      "slug": "lol-g2-t1-2026-07-08-game3"
+      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "prob": 82,
+      "change": 5.5,
+      "vol24": "$766K",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting"
     }
   ],
   "top_vol": [
     {
       "question": "Will Ronaldo Cry at the World Cup?",
       "prob": 99,
-      "change": 84.5,
-      "vol24": "$29.3M",
+      "change": 0,
+      "vol24": "$41.7M",
       "slug": "will-ronaldo-cry-at-the-world-cup-20260604013616610"
     },
     {
-      "question": "Will Switzerland win the 2026 FIFA World Cup?",
-      "prob": 2,
-      "change": 1.2,
-      "vol24": "$14.8M",
-      "slug": "will-switzerland-win-the-2026-fifa-world-cup"
+      "question": "LoL: Bilibili Gaming vs Hanwha Life Esports (BO5) - Mid-Season Invitational Playoffs",
+      "prob": 76,
+      "change": 37.0,
+      "vol24": "$4.2M",
+      "slug": "lol-blg-hle1-2026-07-09"
     },
     {
-      "question": "Will Argentina win the 2026 FIFA World Cup?",
-      "prob": 19,
-      "change": 0,
-      "vol24": "$12.8M",
-      "slug": "will-argentina-win-the-2026-fifa-world-cup-245"
+      "question": "Will Morocco win the 2026 FIFA World Cup?",
+      "prob": 3,
+      "change": 0.1,
+      "vol24": "$4.0M",
+      "slug": "will-morocco-win-the-2026-fifa-world-cup-464"
     }
   ]
 }
