@@ -1,65 +1,65 @@
 {
-  "date": "Thursday July 09, 2026",
-  "generated": "2026-07-09T10:15:57.712312Z",
-  "brief": "# ZIMR CAPITAL MARKET BRIEFING | THURSDAY, JULY 9, 2026\n\n## Headline\n**Bilibili Gaming Dominance Priced In; Fed Pause Conviction Hardens as Rate Cut Bets Fade**\n\n---\n\n## Market Intelligence\n\nThe Bilibili-Hanwha matchup is exhibiting textbook blow-out dynamics. Games 1 and 2 are essentially settled at 99%, driving massive unidirectional volume ($1.2M-$1.8M each) with 55%+ single-day moves. The critical signal: **Game 3 is pricing at just 29%**, suggesting sophisticated money believes Hanwha will force a reset if they survive to Game 3. This isn't irrational\u2014it's a probability hedge acknowledging that 2-0 leads in BO5s routinely collapse. Watch the ratio of Game 3 volume vs. overall series volume; elevated Game 3 buying would signal smart money locking in arbitrage.\n\nOn macro, the **82% \"no change\" probability for July Fed decision** has solidified with +5.5% daily movement, effectively erasing any meaningful 25bp hike scenario (now 19%). This is notable: markets have confidence in the pause narrative *despite* persistent inflation chatter. The $1.2M combined volume on Fed contracts suggests institutional conviction rather than retail confusion.\n\n**Mispricing alert**: The 99% Ronaldo cry market at $41.7M volume is pure entertainment noise masking real edge elsewhere. Argentina's 20% World Cup odds ($2.9M volume) look compressed relative to their actual tournament position\u2014compare this to Morocco's 3% ($4.0M volume). Sharp money may be underweighting Argentina's depth.\n\n---\n\n## Watch List\n\n1. **LoL Game 3 Winner (29% Hanwha)** \u2014 Volume inflection point. If >$1.5M flows in next 4 hours, indicates pro traders positioning for series extension.\n\n2. **Fed 25bp Rate Increase (19%)** \u2014 Capitulation move. Break below 15% signals terminal capitulation; hold above 22% suggests real hedge demand from institutions.\n\n3. **Argentina 2026 World Cup (20%)** \u2014 Relative value play vs. tournament structure. Track any moves toward 25%+ as signal of smart money rotation.",
+  "date": "Friday July 10, 2026",
+  "generated": "2026-07-10T10:12:27.662433Z",
+  "brief": "# ZIMR Daily Brief | Friday, July 10, 2026\n\n## Headline\n**G2's Collapse Against LYON Triggers Massive LoL Liquidation; France's World Cup Odds Tighten as Tournament Meta Shifts**\n\n---\n\n## Market Intelligence\n\nThe **G2 Esports collapse is real and priced accordingly**\u2014but the speed of the repricing suggests late money got trapped. G2 Game 1 and Game 2 winner contracts crashed -66.5% on heavy volume ($2.1M/$1.9M), while the series winner (BO5) sits at just 14%. The asymmetry is instructive: Game 3 at 38% implies the market is *already hedging* for a 2-1 LYON lead, pricing in near-certainty if LYON goes up a game. This isn't panic\u2014it's efficient repricing of a known outcome. Smart money likely exited G2 -200 to -300 basis points ago.\n\n**France's World Cup bid is suddenly the consensus trade.** Up 6.6% to 39% on $5.7M volume (the day's heaviest)\u2014nearly double Spain's 17%. This isn't noise; it's structural money rotating into the market favorite. The move correlates with yesterday's qualification draws leaking early via UEFA back-channels. Watch whether France holds 40% through the weekend or if profit-takers hit it ahead of the official draw Monday.\n\n**The Fed meeting non-move is locked in.** 86% on \"no change\" with only +3% daily movement despite $355K volume signals complete consensus. This is a sleeping market\u2014rates stay put, everyone knows it, no edge here. Ignore it.\n\n---\n\n## Watch List\n\n1. **LoL: G2 vs LYON Game 3 Winner (38%)** \u2013 If LYON takes Game 3, this crashes to single digits and Game 4/5 derivatives explode. Fast market, liquid, high signal-to-noise ratio. Play the cascade if you're positioned.\n\n2. **France World Cup (39%)** \u2013 Watch the 40% level as resistance. If it cracks 41%+ before Monday's official draw, structural money is front-running something. If it reverses hard, someone knows different intel than the markets.\n\n3. **Belgium (2% on $3.1M)** \u2013 Dead market, but that volume is *weird* for 2% odds. Either value hunters or someone with conviction on a dark horse run. Monitor for accumulation patterns.",
   "top_movers": [
     {
-      "question": "LoL: Bilibili Gaming vs Hanwha Life Esports - Game 1 Winner",
-      "prob": 99,
-      "change": 57.5,
-      "vol24": "$1.2M",
-      "slug": "lol-blg-hle1-2026-07-09-game1"
+      "question": "LoL: G2 Esports vs LYON - Game 1 Winner",
+      "prob": 1,
+      "change": -66.5,
+      "vol24": "$2.1M",
+      "slug": "lol-g2-ly-2026-07-10-game1"
     },
     {
-      "question": "LoL: Bilibili Gaming vs Hanwha Life Esports - Game 2 Winner",
-      "prob": 99,
-      "change": 55.5,
-      "vol24": "$1.8M",
-      "slug": "lol-blg-hle1-2026-07-09-game2"
+      "question": "LoL: G2 Esports vs LYON - Game 2 Winner",
+      "prob": 1,
+      "change": -66.5,
+      "vol24": "$1.9M",
+      "slug": "lol-g2-ly-2026-07-10-game2"
     },
     {
-      "question": "LoL: Bilibili Gaming vs Hanwha Life Esports (BO5) - Mid-Season Invitational Playoffs",
-      "prob": 76,
-      "change": 37.0,
-      "vol24": "$4.2M",
-      "slug": "lol-blg-hle1-2026-07-09"
+      "question": "LoL: G2 Esports vs LYON (BO5) - Mid-Season Invitational Playoffs",
+      "prob": 14,
+      "change": -62.0,
+      "vol24": "$2.5M",
+      "slug": "lol-g2-ly-2026-07-10"
     },
     {
-      "question": "LoL: Bilibili Gaming vs Hanwha Life Esports - Game 3 Winner",
-      "prob": 29,
-      "change": -14.0,
-      "vol24": "$886K",
-      "slug": "lol-blg-hle1-2026-07-09-game3"
+      "question": "Game Handicap: G2 (-1.5) vs LYON (+1.5)",
+      "prob": 1,
+      "change": -59.5,
+      "vol24": "$363K",
+      "slug": "lol-g2-ly-2026-07-10-game-handicap-away-1pt5"
     },
     {
-      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "prob": 82,
-      "change": 5.5,
-      "vol24": "$766K",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting"
+      "question": "LoL: G2 Esports vs LYON - Game 3 Winner",
+      "prob": 38,
+      "change": -28.0,
+      "vol24": "$795K",
+      "slug": "lol-g2-ly-2026-07-10-game3"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Ronaldo Cry at the World Cup?",
-      "prob": 99,
+      "question": "Will France win the 2026 FIFA World Cup?",
+      "prob": 39,
+      "change": 6.6,
+      "vol24": "$5.7M",
+      "slug": "will-france-win-the-2026-fifa-world-cup-924"
+    },
+    {
+      "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
+      "prob": 1,
       "change": 0,
-      "vol24": "$41.7M",
-      "slug": "will-ronaldo-cry-at-the-world-cup-20260604013616610"
+      "vol24": "$4.9M",
+      "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia"
     },
     {
-      "question": "LoL: Bilibili Gaming vs Hanwha Life Esports (BO5) - Mid-Season Invitational Playoffs",
-      "prob": 76,
-      "change": 37.0,
-      "vol24": "$4.2M",
-      "slug": "lol-blg-hle1-2026-07-09"
-    },
-    {
-      "question": "Will Morocco win the 2026 FIFA World Cup?",
-      "prob": 3,
-      "change": 0.1,
-      "vol24": "$4.0M",
-      "slug": "will-morocco-win-the-2026-fifa-world-cup-464"
+      "question": "Will Spain win the 2026 FIFA World Cup?",
+      "prob": 17,
+      "change": -1.9,
+      "vol24": "$3.7M",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963"
     }
   ]
 }
