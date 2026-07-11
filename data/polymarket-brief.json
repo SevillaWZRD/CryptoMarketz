@@ -1,65 +1,65 @@
 {
-  "date": "Friday July 10, 2026",
-  "generated": "2026-07-10T10:12:27.662433Z",
-  "brief": "# ZIMR Daily Brief | Friday, July 10, 2026\n\n## Headline\n**G2's Collapse Against LYON Triggers Massive LoL Liquidation; France's World Cup Odds Tighten as Tournament Meta Shifts**\n\n---\n\n## Market Intelligence\n\nThe **G2 Esports collapse is real and priced accordingly**\u2014but the speed of the repricing suggests late money got trapped. G2 Game 1 and Game 2 winner contracts crashed -66.5% on heavy volume ($2.1M/$1.9M), while the series winner (BO5) sits at just 14%. The asymmetry is instructive: Game 3 at 38% implies the market is *already hedging* for a 2-1 LYON lead, pricing in near-certainty if LYON goes up a game. This isn't panic\u2014it's efficient repricing of a known outcome. Smart money likely exited G2 -200 to -300 basis points ago.\n\n**France's World Cup bid is suddenly the consensus trade.** Up 6.6% to 39% on $5.7M volume (the day's heaviest)\u2014nearly double Spain's 17%. This isn't noise; it's structural money rotating into the market favorite. The move correlates with yesterday's qualification draws leaking early via UEFA back-channels. Watch whether France holds 40% through the weekend or if profit-takers hit it ahead of the official draw Monday.\n\n**The Fed meeting non-move is locked in.** 86% on \"no change\" with only +3% daily movement despite $355K volume signals complete consensus. This is a sleeping market\u2014rates stay put, everyone knows it, no edge here. Ignore it.\n\n---\n\n## Watch List\n\n1. **LoL: G2 vs LYON Game 3 Winner (38%)** \u2013 If LYON takes Game 3, this crashes to single digits and Game 4/5 derivatives explode. Fast market, liquid, high signal-to-noise ratio. Play the cascade if you're positioned.\n\n2. **France World Cup (39%)** \u2013 Watch the 40% level as resistance. If it cracks 41%+ before Monday's official draw, structural money is front-running something. If it reverses hard, someone knows different intel than the markets.\n\n3. **Belgium (2% on $3.1M)** \u2013 Dead market, but that volume is *weird* for 2% odds. Either value hunters or someone with conviction on a dark horse run. Monitor for accumulation patterns.",
+  "date": "Saturday July 11, 2026",
+  "generated": "2026-07-11T08:40:52.817004Z",
+  "brief": "# ZIMR CAPITAL MARKET BRIEF | Saturday, July 11, 2026\n\n## **Spain's World Cup Odds Surge Past England as McGregor Hype Builds Pre-Fight**\n\nSpain's World Cup probability jumped 4% to 21% on $5M volume\u2014the largest single-day move across all major sports markets. Meanwhile, England's tournament odds collapsed 1.5%, signaling serious confidence drain in the Three Lions ahead of today's Norway fixture. The market is pricing in a Spain resurgence while English underperformance is now being priced as structural, not tactical.\n\nUFC 329 is the day's secondary narrative: McGregor-Holloway sits at 70% implied odds for Max with +2% momentum and $1.5M traded. Smart money appears comfortable with the favorite here, but the spread (70/30) suggests limited edge\u2014this is a show, not a squeeze. The Pimblett vs. Saint Denis lightweight slot (44%) trades thinner, indicating uncertainty where institutional flow hasn't arrived yet.\n\nEthiopia PM succession markets exploded overnight on $8.5M combined volume but remain opaque\u2014Gedion Timothewos at 1% +1.3% suggests late-breaking political intel or pure volatility trading. Exercise caution: these are information deserts masquerading as liquid markets.\n\n---\n\n## **WATCH LIST**\n\n1. **England vs. Norway (BTTS: 60%, -0%)** \u2014 Market is stable but watch for line movement into kickoff. If England's tournament odds continue bleeding, expect BTTS to drift lower as goal probability shifts. Early tells on whether today's match resets sentiment.\n\n2. **Spain World Cup (21%, +4.0%)** \u2014 Highest volume and momentum. If Spain advances further in today's fixture (if applicable), expect this to test 25%+. Track vs. France (38%) as the real arbitrage\u2014are we overpricing France relative to Spain's recent form?\n\n3. **Strait of Hormuz (8%, +3.0%)** \u2014 Illiquid but moving ($630K). Low absolute probability + positive momentum = either late-stage capitulation or genuine geopolitical de-escalation signals. Check news wires before entering.",
   "top_movers": [
     {
-      "question": "LoL: G2 Esports vs LYON - Game 1 Winner",
-      "prob": 1,
-      "change": -66.5,
-      "vol24": "$2.1M",
-      "slug": "lol-g2-ly-2026-07-10-game1"
+      "question": "Will Spain win the 2026 FIFA World Cup?",
+      "prob": 21,
+      "change": 4.0,
+      "vol24": "$5.0M",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963"
     },
     {
-      "question": "LoL: G2 Esports vs LYON - Game 2 Winner",
-      "prob": 1,
-      "change": -66.5,
-      "vol24": "$1.9M",
-      "slug": "lol-g2-ly-2026-07-10-game2"
+      "question": "Strait of Hormuz traffic returns to normal by July 31?",
+      "prob": 8,
+      "change": 3.0,
+      "vol24": "$630K",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-31"
     },
     {
-      "question": "LoL: G2 Esports vs LYON (BO5) - Mid-Season Invitational Playoffs",
-      "prob": 14,
-      "change": -62.0,
-      "vol24": "$2.5M",
-      "slug": "lol-g2-ly-2026-07-10"
+      "question": "UFC 329: Max Holloway vs. Conor McGregor (Welterweight, Main Card)",
+      "prob": 70,
+      "change": 2.0,
+      "vol24": "$1.5M",
+      "slug": "ufc-max1-con-2026-07-11"
     },
     {
-      "question": "Game Handicap: G2 (-1.5) vs LYON (+1.5)",
-      "prob": 1,
-      "change": -59.5,
-      "vol24": "$363K",
-      "slug": "lol-g2-ly-2026-07-10-game-handicap-away-1pt5"
+      "question": "Norway vs. England: Both Teams to Score",
+      "prob": 60,
+      "change": 2.0,
+      "vol24": "$729K",
+      "slug": "fifwc-nor-eng-2026-07-11-btts"
     },
     {
-      "question": "LoL: G2 Esports vs LYON - Game 3 Winner",
-      "prob": 38,
-      "change": -28.0,
-      "vol24": "$795K",
-      "slug": "lol-g2-ly-2026-07-10-game3"
+      "question": "Milwaukee Brewers vs. Pittsburgh Pirates",
+      "prob": 48,
+      "change": 2.0,
+      "vol24": "$426K",
+      "slug": "mlb-mil-pit-2026-07-10"
     }
   ],
   "top_vol": [
     {
-      "question": "Will France win the 2026 FIFA World Cup?",
-      "prob": 39,
-      "change": 6.6,
-      "vol24": "$5.7M",
-      "slug": "will-france-win-the-2026-fifa-world-cup-924"
+      "question": "Will Spain win the 2026 FIFA World Cup?",
+      "prob": 21,
+      "change": 4.0,
+      "vol24": "$5.0M",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963"
     },
     {
       "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
       "prob": 1,
       "change": 0,
-      "vol24": "$4.9M",
+      "vol24": "$4.4M",
       "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia"
     },
     {
-      "question": "Will Spain win the 2026 FIFA World Cup?",
-      "prob": 17,
-      "change": -1.9,
-      "vol24": "$3.7M",
-      "slug": "will-spain-win-the-2026-fifa-world-cup-963"
+      "question": "Will Gedion Timothewos be the next Prime Minister of Ethiopia?",
+      "prob": 1,
+      "change": 1.3,
+      "vol24": "$4.1M",
+      "slug": "will-gedion-timothewos-be-the-next-prime-minister-of-ethiopia"
     }
   ]
 }
