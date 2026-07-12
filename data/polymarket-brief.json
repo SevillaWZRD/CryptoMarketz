@@ -1,65 +1,65 @@
 {
-  "date": "Saturday July 11, 2026",
-  "generated": "2026-07-11T08:40:52.817004Z",
-  "brief": "# ZIMR CAPITAL MARKET BRIEF | Saturday, July 11, 2026\n\n## **Spain's World Cup Odds Surge Past England as McGregor Hype Builds Pre-Fight**\n\nSpain's World Cup probability jumped 4% to 21% on $5M volume\u2014the largest single-day move across all major sports markets. Meanwhile, England's tournament odds collapsed 1.5%, signaling serious confidence drain in the Three Lions ahead of today's Norway fixture. The market is pricing in a Spain resurgence while English underperformance is now being priced as structural, not tactical.\n\nUFC 329 is the day's secondary narrative: McGregor-Holloway sits at 70% implied odds for Max with +2% momentum and $1.5M traded. Smart money appears comfortable with the favorite here, but the spread (70/30) suggests limited edge\u2014this is a show, not a squeeze. The Pimblett vs. Saint Denis lightweight slot (44%) trades thinner, indicating uncertainty where institutional flow hasn't arrived yet.\n\nEthiopia PM succession markets exploded overnight on $8.5M combined volume but remain opaque\u2014Gedion Timothewos at 1% +1.3% suggests late-breaking political intel or pure volatility trading. Exercise caution: these are information deserts masquerading as liquid markets.\n\n---\n\n## **WATCH LIST**\n\n1. **England vs. Norway (BTTS: 60%, -0%)** \u2014 Market is stable but watch for line movement into kickoff. If England's tournament odds continue bleeding, expect BTTS to drift lower as goal probability shifts. Early tells on whether today's match resets sentiment.\n\n2. **Spain World Cup (21%, +4.0%)** \u2014 Highest volume and momentum. If Spain advances further in today's fixture (if applicable), expect this to test 25%+. Track vs. France (38%) as the real arbitrage\u2014are we overpricing France relative to Spain's recent form?\n\n3. **Strait of Hormuz (8%, +3.0%)** \u2014 Illiquid but moving ($630K). Low absolute probability + positive momentum = either late-stage capitulation or genuine geopolitical de-escalation signals. Check news wires before entering.",
+  "date": "Sunday July 12, 2026",
+  "generated": "2026-07-12T08:56:35.708575Z",
+  "brief": "# POLYMARKET BRIEFING | SUNDAY, JULY 12, 2026\n\n## Headline\n**Iran tensions spike geopolitical hedging; baseball/soccer markets diverge sharply on World Cup narratives**\n\n---\n\n## Analysis\n\nThe market is pricing an escalating Iran crisis today. The US blockade threat jumped +22.5% to 43%, while simultaneous collapse in the Hormuz normalization trades (both July and August deadlines bleeding red) signals traders aren't buying de-escalation rhetoric. Most striking: Iran's commitment to *not* attack ships (3%) is now priced as fantasy\u2014the market has effectively priced in confrontation. This isn't panic noise; $288K flowing into blockade risk in 24 hours shows institutional positioning.\n\nThe Brewers-Pirates reversal is textbook sharp money action. Yesterday's 1% line on the ML got crushed -47.4%, but the O/U 8.5 went the opposite direction (+47.4% to 99%). This suggests informed bettors knew the total would stay bloated regardless of who won\u2014either a high-scoring Pirates upset or another Brewers victory with padding. The asymmetry is clean: amateurs bet the favorite, sharps bet the prop.\n\nWorld Cup markets are pricing Mbappe's injury risk at 57% (top scorer)\u2014a 14% daily surge. That's potentially soft. England at 21% (+6.7%) and Argentina at 19% suggest the market is underweighting USA's depth and overweighting European pedigree heading into group stage. France's 38% looks anchored on recent form, but German and Benelux money might be slowly testing these favorites on the long end.\n\n---\n\n## Watch List\n\n1. **Iran full airspace closure by July 15** (11%, +3.0%) \u2014 Watch for escalation telegraphing. If this hits 20%+ today, regional conflict premium has genuine institutional conviction. Dead canary for Hormuz normalization trades.\n\n2. **Will the US announce a blockade on Iran by July 31** (43%, +22.5%) \u2014 Key support/resistance test. If it breaks 50% before any news drop, the market is front-running policy. If it fades below 40%, consider it capitulation.\n\n3. **Mbappe top goalscorer 2026 WC** (57%) \u2014 Inverse play: small position betting Bellingham outscores him at 3%. Current odds suggest irrational confidence in Mbappe's availability. Real sharp money is building contrarian striker exposure.",
   "top_movers": [
     {
-      "question": "Will Spain win the 2026 FIFA World Cup?",
-      "prob": 21,
-      "change": 4.0,
-      "vol24": "$5.0M",
-      "slug": "will-spain-win-the-2026-fifa-world-cup-963"
-    },
-    {
-      "question": "Strait of Hormuz traffic returns to normal by July 31?",
-      "prob": 8,
-      "change": 3.0,
-      "vol24": "$630K",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-31"
-    },
-    {
-      "question": "UFC 329: Max Holloway vs. Conor McGregor (Welterweight, Main Card)",
-      "prob": 70,
-      "change": 2.0,
-      "vol24": "$1.5M",
-      "slug": "ufc-max1-con-2026-07-11"
-    },
-    {
-      "question": "Norway vs. England: Both Teams to Score",
-      "prob": 60,
-      "change": 2.0,
-      "vol24": "$729K",
-      "slug": "fifwc-nor-eng-2026-07-11-btts"
-    },
-    {
       "question": "Milwaukee Brewers vs. Pittsburgh Pirates",
-      "prob": 48,
-      "change": 2.0,
-      "vol24": "$426K",
+      "prob": 1,
+      "change": -47.4,
+      "vol24": "$1.3M",
       "slug": "mlb-mil-pit-2026-07-10"
+    },
+    {
+      "question": "Milwaukee Brewers vs. Pittsburgh Pirates: O/U 8.5",
+      "prob": 99,
+      "change": 47.4,
+      "vol24": "$191K",
+      "slug": "mlb-mil-pit-2026-07-10-total-8pt5"
+    },
+    {
+      "question": "Will the US announce a blockade on Iran by July 31?",
+      "prob": 43,
+      "change": 22.5,
+      "vol24": "$288K",
+      "slug": "will-the-us-announce-a-blockade-on-iran-by-july-31-20260622191116912"
+    },
+    {
+      "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?",
+      "prob": 57,
+      "change": 14.0,
+      "vol24": "$175K",
+      "slug": "will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup"
+    },
+    {
+      "question": "Iran commits not to attack ships in Hormuz by Sunday?",
+      "prob": 3,
+      "change": -10.7,
+      "vol24": "$192K",
+      "slug": "iran-commits-not-to-attack-ships-in-hormuz-by-sunday-20260710215434348"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Spain win the 2026 FIFA World Cup?",
-      "prob": 21,
-      "change": 4.0,
-      "vol24": "$5.0M",
-      "slug": "will-spain-win-the-2026-fifa-world-cup-963"
+      "question": "Will Argentina win the 2026 FIFA World Cup?",
+      "prob": 19,
+      "change": 1.2,
+      "vol24": "$7.3M",
+      "slug": "will-argentina-win-the-2026-fifa-world-cup-245"
     },
     {
-      "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
+      "question": "Will England win the 2026 FIFA World Cup?",
+      "prob": 21,
+      "change": 6.7,
+      "vol24": "$4.2M",
+      "slug": "will-england-win-the-2026-fifa-world-cup-937"
+    },
+    {
+      "question": "Will Demeke Mekonnen be the next Prime Minister of Ethiopia?",
       "prob": 1,
       "change": 0,
-      "vol24": "$4.4M",
-      "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia"
-    },
-    {
-      "question": "Will Gedion Timothewos be the next Prime Minister of Ethiopia?",
-      "prob": 1,
-      "change": 1.3,
-      "vol24": "$4.1M",
-      "slug": "will-gedion-timothewos-be-the-next-prime-minister-of-ethiopia"
+      "vol24": "$3.0M",
+      "slug": "will-demeke-mekonnen-be-the-next-prime-minister-of-ethiopia"
     }
   ]
 }
