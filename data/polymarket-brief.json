@@ -1,65 +1,65 @@
 {
-  "date": "Monday July 13, 2026",
-  "generated": "2026-07-13T10:15:11.398832Z",
-  "brief": "# POLYMARKET DAILY | MONDAY JULY 13, 2026\n\n## Headline\n**France-Spain Quarterfinal Dominates Flow as Fed Rate Traders Rotate; Tennis Markets Show Extreme Conviction**\n\n---\n\n## THE SIGNAL\n\nSmart money is clearly positioned on France advancing (60% to advance, 39% to win the cup), with $3.4M flooding the Spain matchup\u2014the largest single market today. This isn't casual betting. The volume concentration suggests institutional or large syndicate players are locking in positions pre-match, likely hedging broader tournament exposure or building knockout-stage portfolios.\n\nThe Fed rate markets tell a different story: the \"no change\" probability dropped 3.0% to 76%, while the 25 bps hike play ticked up 1.4%. This is classic pre-meeting consolidation\u2014traders are slowly repricing hawkish optionality. With $413K combined volume, conviction remains soft, but the directional lean is toward rate support in July. Watch this space tomorrow.\n\nThe real disconnect is tennis. Sonego at 82% (+16% today on $316K volume) against Schwaerzler screams one-way money. That's either a sharp take or crowd consensus forming. Either way, it's worth watching for late liquidation or reverse flow.\n\n---\n\n## WATCH LIST\n\n**1. France vs Spain (Advance) \u2014 $3.4M Vol | 60%**\nPre-match flow into the highest-volume market ever. Monitor for late sharp action 2-4 hours before kickoff; smart money often adjusts final positioning then. Any drop below 58% signals potential reverse syndicate positioning.\n\n**2. Will the Fed increase rates by 25 bps? \u2014 $173K Vol | 22%**\nTiny market with surprising recent uptick. Cross-reference with FOMC futures and short-dated bond yields this afternoon. If this breaks 25%, expect broader macro reassessment.\n\n**3. Sonego vs Schwaerzler \u2014 $316K Vol | 82%**\nExtreme conviction in a tennis match. Check injury reports and recent form\u2014this feels like it could either be a sharp fade opportunity or legitimate one-sidedness. Track for contrarian accumulation.",
+  "date": "Tuesday July 14, 2026",
+  "generated": "2026-07-14T08:56:42.713847Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | Tuesday, July 14, 2026\n\n## Headline\n**Geopolitical Risk Spiking: Iran Military Action Now Priced 99%, While Fed Rate Hold Unravels on Hawkish Pivot**\n\n---\n\n## Market Intelligence\n\n**The Iran Situation Just Got Real.** The military action market exploded +45.9% overnight to 99%, indicating near-certainty something happened or is happening. The $667K volume suggests informed positioning rather than retail panic. This isn't speculation\u2014smart money is committing capital here. Watch for confluence with the MOU withdrawal market (24%, up 7%), which is pricing a breakdown in negotiations. The spread between these two suggests traders believe military escalation and diplomatic collapse are linked events.\n\n**Fed Hold is Cracking.** The \"no rate change\" market collapsed -13% to 64%, the largest single mover by percentage loss. This reversal is significant: it means expectations shifted decisively toward a cut OR a hike. The $1.5M volume confirms institutional repositioning. Likely scenario: either inflation data this week shifted expectations toward a cut, or Fed speakers leaned hawkish and traders rotated into a hike priced elsewhere.\n\n**Sports Markets Show Normal Volatility; F1 Remains a Graveyard.** France-Spain advancing at 60% with $3.8M volume is liquid and rational. But the F1 championship markets are screaming mispricing: Norris at 2% ($2M volume) versus Piastri at 1% ($3M volume) despite Norris being the clear championship favorite. This suggests either meme-level retail trading or intentional position stacking. The volume without corresponding price movement indicates resistance\u2014watch for capitulation.\n\n---\n\n## Watch List\n\n1. **Iran Military Action (99%)** \u2014 Monitor real-time news for Gulf State incidents. If actual military engagement confirmed, expect derivative moves in MOU withdrawal and US invasion markets. If nothing materializes by EOD, watch for sharp reversal.\n\n2. **Fed Rate Hold (64%)** \u2014 Critical today. Any Fed speakers or economic data could trigger another 10-15% swing. The $1.5M volume suggests this reprices multiple times daily. Set alerts for CPI revisions or Fed minutes.\n\n3. **France vs. Spain Advance (60%)** \u2014 Highest volume market ($3.8M). Match kickoff will force resolution. Current 60/40 split is tight; goal momentum in first half could trigger sharp directional moves. Good barometer for retail vs. sophisticated money behavior.",
   "top_movers": [
     {
-      "question": "Swiss Open: Lorenzo Sonego vs Joel Schwaerzler",
-      "prob": 82,
-      "change": 16.0,
-      "vol24": "$316K",
-      "slug": "atp-sonego-schwaer-2026-07-13"
+      "question": "Iran military action against a Gulf State on July 9?",
+      "prob": 99,
+      "change": 45.9,
+      "vol24": "$667K",
+      "slug": "iran-military-action-against-a-gulf-state-on-july-9-20260708212322934"
     },
     {
-      "question": "Iasi Open: Clara Burel vs Yulia Putintseva",
-      "prob": 50,
-      "change": -16.0,
-      "vol24": "$181K",
-      "slug": "wta-burel-putints-2026-07-13"
-    },
-    {
-      "question": "Granby: Nicolas Arseneault vs Andres Martin",
-      "prob": 32,
-      "change": -10.0,
-      "vol24": "$224K",
-      "slug": "atp-arsenea-marti-2026-07-13"
-    },
-    {
-      "question": "Will the price of Bitcoin be above $66,000 on July 13?",
-      "prob": 1,
-      "change": -4.2,
-      "vol24": "$295K",
-      "slug": "bitcoin-above-66k-on-july-13-2026"
+      "question": "Cordenons: Sumit Nagal vs Cezar Cretu",
+      "prob": 80,
+      "change": 32.2,
+      "vol24": "$315K",
+      "slug": "atp-nagal-cretu-2026-07-13"
     },
     {
       "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "prob": 76,
-      "change": -3.0,
-      "vol24": "$240K",
+      "prob": 64,
+      "change": -13.0,
+      "vol24": "$1.5M",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting"
+    },
+    {
+      "question": "Will Iran announce withdrawal from MOU negotiations by July 31?",
+      "prob": 24,
+      "change": 7.0,
+      "vol24": "$324K",
+      "slug": "will-iran-announce-withdrawal-from-mou-negotiations-by-july-31-20260622191733846-586-829-787"
+    },
+    {
+      "question": "Will Lando Norris be the 2026 F1 Drivers' Champion?",
+      "prob": 2,
+      "change": 1.4,
+      "vol24": "$2.0M",
+      "slug": "will-lando-norris-be-the-2026-f1-drivers-champion"
     }
   ],
   "top_vol": [
     {
       "question": "France vs. Spain: Team to Advance",
       "prob": 60,
-      "change": 0.1,
-      "vol24": "$3.4M",
+      "change": 0.2,
+      "vol24": "$3.8M",
       "slug": "fifwc-fra-esp-2026-07-14-team-to-advance"
+    },
+    {
+      "question": "Will Oscar Piastri be the 2026 F1 Drivers' Champion?",
+      "prob": 1,
+      "change": 0.5,
+      "vol24": "$3.0M",
+      "slug": "will-oscar-piastri-be-the-2026-f1-drivers-champion"
     },
     {
       "question": "Will France win on 2026-07-14?",
       "prob": 41,
-      "change": -1.4,
-      "vol24": "$2.4M",
+      "change": -0.5,
+      "vol24": "$2.6M",
       "slug": "fifwc-fra-esp-2026-07-14-fra"
-    },
-    {
-      "question": "Will Mostafa Pourmohammadi be head of state in Iran end of 2026?",
-      "prob": 1,
-      "change": 0,
-      "vol24": "$2.3M",
-      "slug": "will-mostafa-pourmohammadi-be-head-of-state-in-iran-end-of-2026"
     }
   ]
 }
