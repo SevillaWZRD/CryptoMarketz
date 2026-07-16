@@ -1,65 +1,65 @@
 {
-  "date": "Wednesday July 15, 2026",
-  "generated": "2026-07-15T09:02:33.857182Z",
-  "brief": "# ZIMR POLYMARKET BRIEFING | Wednesday, July 15, 2026\n\n## HEADLINE\n**Spain's World Cup Odds Explode 37% Higher\u2014Market Repricing Tournament Favorites as Fed Holds Steady**\n\n---\n\n## MARKET SIGNALS\n\nThe day belongs to two narratives: (1) **Spain is now the consensus favorite** at 58% after a dramatic $7.4M volume surge, suggesting either a decisive match performance or accumulating sharp money repositioning the entire tournament. This knock-on effect is real\u2014Argentina's odds ticked up (+2.3%) despite Spain's rise, indicating a flight *from* other contenders. England's 23% (down from implied higher levels) and Mbappe's -20% collapse are the casualties.\n\nThe Fed call is essentially **settled**: no rate change now at 92% with +29% volume. The 25bp increase case has cratered to 7% (-30%). Smart money stopped fighting this narrative yesterday; today's action is liquidation of long-shot hawkish positions. This matters for crypto: low-rate expectations are *priced in* across all risk assets, so no fresh surprises here.\n\n**Mispricings worth noting**: Messi at 51% (+17.4%) for top goalscorer is getting interesting relative to Mbappe's 36% collapse. If this reflects actual form/fixture advantage rather than narrative momentum, it's worth monitoring\u2014but watch the *ratio*. At current prices, you're getting nearly even odds on Messi beating Mbappe despite Mbappe historically being the more explosive finisher. High-conviction traders may see value fading this swing.\n\n---\n\n## WATCH LIST\n\n1. **Spain vs. next opponent (intraday)** \u2014 The 37% spike needs validation. If Spain underperforms in their next match, expect violent reversal and cascading liquidations in tournament favorites. This is peak momentum.\n\n2. **Messi/Mbappe ratio** \u2014 Messi +17%, Mbappe -20% in 24h is a 37-point swing. If this is form-based, it's signal. If it's just narrative contagion from Spain's move, expect mean reversion.\n\n3. **Fed hold (92%) vs. macro spillover** \u2014 Watch if crypto continues pricing in indefinite pause or if any hawkish Fed speaker today moves the needle. Currently *too* confident.",
+  "date": "Thursday July 16, 2026",
+  "generated": "2026-07-16T09:06:50.045516Z",
+  "brief": "# ZIMR POLYMARKET DAILY | Thursday, July 16, 2026\n\n## Messi's Golden Ball Odds Surge 50% Amid World Cup Momentum\n\nThe market is pricing Messi as an overwhelming favorite for individual tournament honors, but Argentina's collective odds remain surprisingly modest given the star power concentration.\n\n**The Signal:** Messi's Golden Ball contract exploded to 90% (+49.9% in 24h, $252K volume), while his top goalscorer odds sit at 64%. This bifurcation is instructive\u2014the market is essentially betting Messi dominates the *narrative* (assists, playmaking, clutch moments) without necessarily hunting the pure goal tally. Argentina's World Cup win probability at 42% with $13.3M in volume suggests smart money sees value in other contenders, despite having the tournament's most marketable player. Spain (58%) commands higher odds despite less star appeal, signaling efficiency-based confidence.\n\n**The Arb Watch:** Harry Kane (1%) and Jude Bellingham (1%) are priced at near-zero for top goalscorer\u2014extreme long shots given England's pedigree. If England advances deep, these will face repricing. The market may be overcounting Messi monopoly risk.\n\n**Fed Certainty Play:** 96% on no rate change post-July meeting ($1.3M volume) reflects consensus conviction. Low volatility, high confidence\u2014institutional money has moved in.\n\n---\n\n## WATCH LIST\n\n1. **Will Argentina win the 2026 FIFA World Cup? (42%)** \u2014 The largest volume pool ($13.3M). Watch for lineup announcements and early group stage results. If Argentina stumbles vs. weaker opponents, Spain/France will reprice sharply upward.\n\n2. **Will Lionel Messi be top goalscorer? (64%)** \u2014 Messi Golden Ball momentum may be pushing goalscorer odds inflated. Watch actual team formation/role assignments. If he's deployed as playmaker, this corrects lower.\n\n3. **Will the U.S. invade Iran before 2027? (24%, +5.0%)** \u2014 Geopolitical spike today. Iran MOU withdrawal odds collapsed to 3% (-10.3%), suggesting markets see diplomatic channel still open. Monitor for statement reversals.",
   "top_movers": [
     {
-      "question": "Will Spain win the 2026 FIFA World Cup?",
-      "prob": 58,
-      "change": 36.9,
-      "vol24": "$7.4M",
-      "slug": "will-spain-win-the-2026-fifa-world-cup-963"
+      "question": "Will Lionel Messi win the Golden Ball at the 2026 FIFA World Cup?",
+      "prob": 90,
+      "change": 49.9,
+      "vol24": "$252K",
+      "slug": "will-lionel-messi-win-the-golden-ball-at-the-2026-fifa-world-cup-20260603194032283"
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-      "prob": 7,
-      "change": -30.2,
-      "vol24": "$1.3M",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting"
+      "question": "Will Argentina win the 2026 FIFA World Cup?",
+      "prob": 42,
+      "change": 21.9,
+      "vol24": "$13.3M",
+      "slug": "will-argentina-win-the-2026-fifa-world-cup-245"
     },
     {
-      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "prob": 92,
-      "change": 29.0,
-      "vol24": "$3.0M",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting"
-    },
-    {
-      "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?",
-      "prob": 36,
-      "change": -20.0,
-      "vol24": "$919K",
-      "slug": "will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup"
+      "question": "Swiss Open: Juan Manuel Cerundolo vs Miomir Kecmanovic",
+      "prob": 34,
+      "change": -18.0,
+      "vol24": "$222K",
+      "slug": "atp-cerund-kecmano-2026-07-15"
     },
     {
       "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?",
-      "prob": 51,
-      "change": 17.4,
-      "vol24": "$310K",
+      "prob": 64,
+      "change": 12.8,
+      "vol24": "$1.7M",
       "slug": "will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup"
+    },
+    {
+      "question": "Swiss Open: Jerome Kym vs Stefanos Tsitsipas",
+      "prob": 39,
+      "change": 12.8,
+      "vol24": "$536K",
+      "slug": "atp-kym-tsitsip-2026-07-15"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Spain win the 2026 FIFA World Cup?",
-      "prob": 58,
-      "change": 36.9,
-      "vol24": "$7.4M",
-      "slug": "will-spain-win-the-2026-fifa-world-cup-963"
-    },
-    {
       "question": "Will Argentina win the 2026 FIFA World Cup?",
-      "prob": 20,
-      "change": 2.3,
-      "vol24": "$5.2M",
+      "prob": 42,
+      "change": 21.9,
+      "vol24": "$13.3M",
       "slug": "will-argentina-win-the-2026-fifa-world-cup-245"
     },
     {
-      "question": "England vs. Argentina: Team to Advance",
-      "prob": 54,
-      "change": -1.2,
-      "vol24": "$3.8M",
-      "slug": "fifwc-eng-arg-2026-07-15-team-to-advance"
+      "question": "Will Gedion Timothewos be the next Prime Minister of Ethiopia?",
+      "prob": 1,
+      "change": -0.1,
+      "vol24": "$5.5M",
+      "slug": "will-gedion-timothewos-be-the-next-prime-minister-of-ethiopia"
+    },
+    {
+      "question": "Will Spain win the 2026 FIFA World Cup?",
+      "prob": 58,
+      "change": -0.2,
+      "vol24": "$4.7M",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963"
     }
   ]
 }
