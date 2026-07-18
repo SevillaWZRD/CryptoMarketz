@@ -1,65 +1,65 @@
 {
-  "date": "Friday July 17, 2026",
-  "generated": "2026-07-17T09:01:38.861988Z",
-  "brief": "# ZIMR DAILY BRIEF | July 17, 2026\n\n## \"Ethiopia's PM Race Flooding Markets; World Cup Favorites Consolidating\"\n\nThe market is screaming uncertainty on Ethiopian politics. $5M has flooded into Gedion Timothewos (1%) and $3.9M into Belete Molla (1%)\u2014classic \"uncertainty premium\" behavior where traders are hedging against tail risks they don't fully understand. Both sitting at 1% odds suggests serious information asymmetry; someone knows something about the succession process, or this is pure panic buying. Either way, watch for institutional position unwinds if clarity emerges from Addis Ababa.\n\nOn soccer, the 2026 World Cup consensus is hardening: Spain and Argentina are trading as co-favorites at 59% and 41%, with France vs. England (64% favorite) showing Friday confidence. The real tell? Messi's top-scorer odds cratering -4.9% despite Argentina being a Cup favorite\u2014markets are pricing out his goalscoring role specifically, likely factoring age and Argentina's expected reliance on younger strikers. That's sophisticated pricing, not noise.\n\nThe misspricing lives in Manchester City's EPL odds (30%). City at 30% in July 2026 feels like a post-disaster market, likely overweighting last season's struggles. If you believe the summer window brings reinforcements, this is asymmetric value. Compare to historical dominance: City typically 40-50% early-season favorites.\n\n## WATCH LIST\n\n**1. Spain vs. Argentina O/U 2.5 Goals (42% / $430K)**  \nSitting at 42% is suspicious\u2014too low for an attacking final. Volume creeping up suggests smart money testing the under. High-odds play if you see a defensive setup coming.\n\n**2. Ethiopian PM Markets (combined $9M+)**  \nSet alerts for any official statements from Ethiopian government. First credible news will trigger violent repricing. Scalp opportunity for news traders.\n\n**3. Messi Top Goalscorer (59% \u2192 55% implied / $279K)**  \nWatch if this keeps bleeding. A complete disconnect from Argentina being Cup favorite would indicate institutional repositioning toward Juli\u00e1n \u00c1lvarez or Lautaro Mart\u00ednez.",
+  "date": "Saturday July 18, 2026",
+  "generated": "2026-07-18T08:29:15.288376Z",
+  "brief": "# ZIMR POLYMARKET BRIEF | Saturday, July 18, 2026\n\n## Headline\n**World Cup Quarterfinals Drive Action; Iran Tensions Edge Higher as Fed Rate Hike Odds Crumble**\n\n---\n\n## Market Intelligence\n\n**The World Cup is eating oxygen.** France-England and Spain-Argentina are generating real volume ($1.7M and $876K respectively), with France favored at 66% to beat England today. But here's the tell: Messi's Golden Ball is *still* at 93% despite being mathematically vulnerable if Argentina exits early. Smart money hasn't priced in upset risk\u2014the market is front-running Argentina's narrative, not their tournament odds (down to 40%, -1% today). If Spain advances, expect a violent repricing downward.\n\n**Iran geopolitical premium is real.** The invasion-before-2027 market popped 4% to 28% on modest $601K volume\u2014thin for such a binary. This smells like informed flow. Check news wires for Middle East developments; if this stays bid above 30%, institutional conviction is hardening. Compare against Fed rate hike odds (5%, +1.1%), which remain absurdly low and are likely capitulation pricing after recent CPI data. The inversion here is worth watching: geopolitical risk *rising* while monetary tightening odds *compress*.\n\n**LeBron-to-Warriors collapsed 13.2% overnight to 18%.** This wasn't news-driven\u2014it's pure market correction after overheating. $505K volume suggests retail exhaustion rather than sharp-driven selling. The real signal: Warriors narratives aren't moving markets anymore. Dead money.\n\n---\n\n## WATCH LIST\n\n1. **France vs. England Win (66%) | LIVE TODAY** \u2014 First mover advantage to early line movers. If France goes down, expect cascade liquidation across Messi/Argentina markets. Monitor halftime for sharp repositioning.\n\n2. **Argentina 2026 WC Win (40%) | Post-Spain match** \u2014 Messi's Golden Ball (93%) is a canary. Watch the correlation collapse if Spain wins; that 93% evaporates to ~60% instantly, creating arbitrage across linked markets.\n\n3. **U.S. Invade Iran Before 2027 (28%) | NEWS-DEPENDENT** \u2014 If this breaks 32%, escalation narrative is locking in. Set alerts. This is where real macro premium lives today.",
   "top_movers": [
     {
-      "question": "Swiss Open: Raphael Collignon vs Valentin Vacherot",
-      "prob": 76,
-      "change": 17.5,
-      "vol24": "$400K",
-      "slug": "atp-collign-vachero-2026-07-17"
+      "question": "Will LeBron James play for the Golden State Warriors in 2026-27?",
+      "prob": 18,
+      "change": -13.2,
+      "vol24": "$505K",
+      "slug": "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27"
     },
     {
-      "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?",
-      "prob": 59,
-      "change": -4.9,
-      "vol24": "$279K",
-      "slug": "will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup"
+      "question": "Will the U.S. invade Iran before 2027?",
+      "prob": 28,
+      "change": 4.0,
+      "vol24": "$601K",
+      "slug": "will-the-us-invade-iran-before-2027"
     },
     {
-      "question": "Will Manchester City win the 2026-27 English Premier League (EPL) Championship?",
-      "prob": 30,
+      "question": "Will Lionel Messi win the Golden Ball at the 2026 FIFA World Cup?",
+      "prob": 93,
+      "change": 2.9,
+      "vol24": "$265K",
+      "slug": "will-lionel-messi-win-the-golden-ball-at-the-2026-fifa-world-cup-20260603194032283"
+    },
+    {
+      "question": "Will France win on 2026-07-18?",
+      "prob": 52,
       "change": 2.0,
-      "vol24": "$297K",
-      "slug": "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761"
-    },
-    {
-      "question": "Swiss Open: Alexander Bublik vs Quentin Halys",
-      "prob": 69,
-      "change": 1.0,
-      "vol24": "$1.1M",
-      "slug": "atp-bublik-halys-2026-07-15"
+      "vol24": "$1.7M",
+      "slug": "fifwc-fra-eng-2026-07-18-fra"
     },
     {
       "question": "France vs. England: Team to Win",
-      "prob": 64,
-      "change": 1.0,
-      "vol24": "$893K",
+      "prob": 66,
+      "change": 2.0,
+      "vol24": "$1.4M",
       "slug": "fifwc-fra-eng-2026-07-18-team-to-advance"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Gedion Timothewos be the next Prime Minister of Ethiopia?",
+      "question": "Will Demeke Mekonnen be the next Prime Minister of Ethiopia?",
       "prob": 1,
-      "change": 0.8,
-      "vol24": "$5.0M",
-      "slug": "will-gedion-timothewos-be-the-next-prime-minister-of-ethiopia"
+      "change": -0.1,
+      "vol24": "$5.1M",
+      "slug": "will-demeke-mekonnen-be-the-next-prime-minister-of-ethiopia"
     },
     {
       "question": "Will Belete Molla be the next Prime Minister of Ethiopia?",
       "prob": 1,
-      "change": 0.4,
-      "vol24": "$3.9M",
+      "change": 0.1,
+      "vol24": "$4.8M",
       "slug": "will-belete-molla-be-the-next-prime-minister-of-ethiopia"
     },
     {
-      "question": "Exact Score: Spain 2 - 3 Argentina?",
-      "prob": 4,
-      "change": -0.1,
-      "vol24": "$2.9M",
-      "slug": "fifwc-esp-arg-2026-07-19-exact-score-2-3"
+      "question": "Will Argentina win the 2026 FIFA World Cup?",
+      "prob": 40,
+      "change": -1.0,
+      "vol24": "$2.8M",
+      "slug": "will-argentina-win-the-2026-fifa-world-cup-245"
     }
   ]
 }
