@@ -1,65 +1,65 @@
 {
-  "date": "Saturday July 18, 2026",
-  "generated": "2026-07-18T08:29:15.288376Z",
-  "brief": "# ZIMR POLYMARKET BRIEF | Saturday, July 18, 2026\n\n## Headline\n**World Cup Quarterfinals Drive Action; Iran Tensions Edge Higher as Fed Rate Hike Odds Crumble**\n\n---\n\n## Market Intelligence\n\n**The World Cup is eating oxygen.** France-England and Spain-Argentina are generating real volume ($1.7M and $876K respectively), with France favored at 66% to beat England today. But here's the tell: Messi's Golden Ball is *still* at 93% despite being mathematically vulnerable if Argentina exits early. Smart money hasn't priced in upset risk\u2014the market is front-running Argentina's narrative, not their tournament odds (down to 40%, -1% today). If Spain advances, expect a violent repricing downward.\n\n**Iran geopolitical premium is real.** The invasion-before-2027 market popped 4% to 28% on modest $601K volume\u2014thin for such a binary. This smells like informed flow. Check news wires for Middle East developments; if this stays bid above 30%, institutional conviction is hardening. Compare against Fed rate hike odds (5%, +1.1%), which remain absurdly low and are likely capitulation pricing after recent CPI data. The inversion here is worth watching: geopolitical risk *rising* while monetary tightening odds *compress*.\n\n**LeBron-to-Warriors collapsed 13.2% overnight to 18%.** This wasn't news-driven\u2014it's pure market correction after overheating. $505K volume suggests retail exhaustion rather than sharp-driven selling. The real signal: Warriors narratives aren't moving markets anymore. Dead money.\n\n---\n\n## WATCH LIST\n\n1. **France vs. England Win (66%) | LIVE TODAY** \u2014 First mover advantage to early line movers. If France goes down, expect cascade liquidation across Messi/Argentina markets. Monitor halftime for sharp repositioning.\n\n2. **Argentina 2026 WC Win (40%) | Post-Spain match** \u2014 Messi's Golden Ball (93%) is a canary. Watch the correlation collapse if Spain wins; that 93% evaporates to ~60% instantly, creating arbitrage across linked markets.\n\n3. **U.S. Invade Iran Before 2027 (28%) | NEWS-DEPENDENT** \u2014 If this breaks 32%, escalation narrative is locking in. Set alerts. This is where real macro premium lives today.",
+  "date": "Sunday July 19, 2026",
+  "generated": "2026-07-19T08:59:47.012406Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | SUNDAY, JULY 19, 2026\n\n## Headline\n**Mbapp\u00e9's Golden Boot Certainty Hits 92% as Market Reprices 2026 World Cup Hierarchy**\n\n---\n\n## Market Intelligence\n\nThe Mbapp\u00e9 coronation accelerated sharply today (+51%), signaling organized capital rotation out of aging superstars. Messi's collapse (-50%, now 7%) wasn't random noise\u2014it's a structural repricing: the market has decisively killed the \"one last run\" narrative. This isn't sentiment; it's efficient price discovery on a 35-year-old's declining athleticism in a tournament 18 months away.\n\nSmart money is clearly positioning for youth dominance. The Mbapp\u00e9 surge correlates with Argentina's slight uptick (+0.8% to 41%), suggesting sophisticated bettors see the final as France vs. Argentina redux\u2014but with France's star actually in his prime. France's odds to score most goals (1%) remain criminally undervalued relative to Mbapp\u00e9's 92% top scorer odds; that's an arbitrage signal. If Mbapp\u00e9 scores 4+ goals, France *must* be among the top-scoring nations.\n\nThe $2.0M volume dump on Messi signals distribution by believers. High-conviction contrarians should watch for accumulation if he drops below 5%\u2014his historical pedigree might offer asymmetric value for a late tournament explosion, though today's action suggests that thesis is dead money.\n\n---\n\n## Watch List\n\n1. **Spain vs. Argentina: Team to Advance (59%, $4.1M vol)** \u2014 This is the real market. $4.1M flowing into Spain's elimination odds while Argentina holds 41% tournament probability is a tension point. Watch if geopolitical or injury news shifts this spread.\n\n2. **Mbapp\u00e9 Top Scorer vs. France Most Goals Arbitrage** \u2014 The 92%/1% spread is too wide. If smart money continues backing Mbapp\u00e9, France's goal total odds should compress. Track this for mean reversion.\n\n3. **LeBron Heat Trade (47%, +14.5%)** \u2014 Highest velocity non-World Cup signal. Likely driven by real NBA offseason chatter, not retail noise. This is information. Monitor for Warriors counter-movement.",
   "top_movers": [
     {
-      "question": "Will LeBron James play for the Golden State Warriors in 2026-27?",
-      "prob": 18,
-      "change": -13.2,
-      "vol24": "$505K",
-      "slug": "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27"
+      "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?",
+      "prob": 92,
+      "change": 51.0,
+      "vol24": "$1.3M",
+      "slug": "will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup"
     },
     {
-      "question": "Will the U.S. invade Iran before 2027?",
-      "prob": 28,
-      "change": 4.0,
-      "vol24": "$601K",
-      "slug": "will-the-us-invade-iran-before-2027"
+      "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?",
+      "prob": 7,
+      "change": -50.0,
+      "vol24": "$2.0M",
+      "slug": "will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup"
     },
     {
-      "question": "Will Lionel Messi win the Golden Ball at the 2026 FIFA World Cup?",
-      "prob": 93,
-      "change": 2.9,
-      "vol24": "$265K",
-      "slug": "will-lionel-messi-win-the-golden-ball-at-the-2026-fifa-world-cup-20260603194032283"
+      "question": "Will LeBron James play for the Miami Heat in 2026-27?",
+      "prob": 47,
+      "change": 14.5,
+      "vol24": "$545K",
+      "slug": "will-lebron-james-play-for-the-miami-heat-in-2026-27"
     },
     {
-      "question": "Will France win on 2026-07-18?",
-      "prob": 52,
-      "change": 2.0,
-      "vol24": "$1.7M",
-      "slug": "fifwc-fra-eng-2026-07-18-fra"
+      "question": "Will France score the most goals at the 2026 FIFA World Cup?",
+      "prob": 1,
+      "change": -8.1,
+      "vol24": "$374K",
+      "slug": "will-france-score-the-most-goals-at-the-2026-fifa-world-cup"
     },
     {
-      "question": "France vs. England: Team to Win",
-      "prob": 66,
-      "change": 2.0,
-      "vol24": "$1.4M",
-      "slug": "fifwc-fra-eng-2026-07-18-team-to-advance"
+      "question": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
+      "prob": 72,
+      "change": -5.7,
+      "vol24": "$281K",
+      "slug": "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Demeke Mekonnen be the next Prime Minister of Ethiopia?",
-      "prob": 1,
+      "question": "Spain vs. Argentina: Team to Advance",
+      "prob": 59,
       "change": -0.1,
-      "vol24": "$5.1M",
-      "slug": "will-demeke-mekonnen-be-the-next-prime-minister-of-ethiopia"
+      "vol24": "$4.1M",
+      "slug": "fifwc-esp-arg-2026-07-19-team-to-advance"
     },
     {
       "question": "Will Belete Molla be the next Prime Minister of Ethiopia?",
       "prob": 1,
-      "change": 0.1,
-      "vol24": "$4.8M",
+      "change": 0,
+      "vol24": "$4.1M",
       "slug": "will-belete-molla-be-the-next-prime-minister-of-ethiopia"
     },
     {
-      "question": "Will Argentina win the 2026 FIFA World Cup?",
-      "prob": 40,
-      "change": -1.0,
-      "vol24": "$2.8M",
-      "slug": "will-argentina-win-the-2026-fifa-world-cup-245"
+      "question": "Exact Score: Spain 2 - 3 Argentina?",
+      "prob": 3,
+      "change": 0.3,
+      "vol24": "$3.4M",
+      "slug": "fifwc-esp-arg-2026-07-19-exact-score-2-3"
     }
   ]
 }
