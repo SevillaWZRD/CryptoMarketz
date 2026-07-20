@@ -1,65 +1,65 @@
 {
-  "date": "Sunday July 19, 2026",
-  "generated": "2026-07-19T08:59:47.012406Z",
-  "brief": "# ZIMR POLYMARKET BRIEFING | SUNDAY, JULY 19, 2026\n\n## Headline\n**Mbapp\u00e9's Golden Boot Certainty Hits 92% as Market Reprices 2026 World Cup Hierarchy**\n\n---\n\n## Market Intelligence\n\nThe Mbapp\u00e9 coronation accelerated sharply today (+51%), signaling organized capital rotation out of aging superstars. Messi's collapse (-50%, now 7%) wasn't random noise\u2014it's a structural repricing: the market has decisively killed the \"one last run\" narrative. This isn't sentiment; it's efficient price discovery on a 35-year-old's declining athleticism in a tournament 18 months away.\n\nSmart money is clearly positioning for youth dominance. The Mbapp\u00e9 surge correlates with Argentina's slight uptick (+0.8% to 41%), suggesting sophisticated bettors see the final as France vs. Argentina redux\u2014but with France's star actually in his prime. France's odds to score most goals (1%) remain criminally undervalued relative to Mbapp\u00e9's 92% top scorer odds; that's an arbitrage signal. If Mbapp\u00e9 scores 4+ goals, France *must* be among the top-scoring nations.\n\nThe $2.0M volume dump on Messi signals distribution by believers. High-conviction contrarians should watch for accumulation if he drops below 5%\u2014his historical pedigree might offer asymmetric value for a late tournament explosion, though today's action suggests that thesis is dead money.\n\n---\n\n## Watch List\n\n1. **Spain vs. Argentina: Team to Advance (59%, $4.1M vol)** \u2014 This is the real market. $4.1M flowing into Spain's elimination odds while Argentina holds 41% tournament probability is a tension point. Watch if geopolitical or injury news shifts this spread.\n\n2. **Mbapp\u00e9 Top Scorer vs. France Most Goals Arbitrage** \u2014 The 92%/1% spread is too wide. If smart money continues backing Mbapp\u00e9, France's goal total odds should compress. Track this for mean reversion.\n\n3. **LeBron Heat Trade (47%, +14.5%)** \u2014 Highest velocity non-World Cup signal. Likely driven by real NBA offseason chatter, not retail noise. This is information. Monitor for Warriors counter-movement.",
+  "date": "Monday July 20, 2026",
+  "generated": "2026-07-20T09:48:02.142403Z",
+  "brief": "# ZIMR Capital Daily Brief | Monday, July 20, 2026\n\n## Headline\n**Korea's LoL Dominance Priced In; Ethiopia Turmoil Absorbs $9.4M as Smart Money Waits**\n\n---\n\n## Market Intelligence\n\n**The KeSPA Sweep is Real, But Valuations Are Stretched**\nFour League of Legends matches are trading at 99% and 82%, with $574K-$1.0M each in volume. The narrative is clear: Korean teams are heavily favored in Cup play. However, the +75% single-day moves suggest retail FOMO rather than new information. DRX at 82% has room for contrarian positioning if BNK FEARX shows any momentum. The 1% pricing on DN SOOPers vs HANJIN BRION looks like capitulation selling\u2014worth monitoring if sharp bettors see value in the underdog.\n\n**Ethiopia's PM Succession: Smart Money is Sitting This Out**\n$9.4M is locked in Demeke Mekonnen (1%) and Belete Molla (1%) markets with near-zero conviction across either side. This isn't liquidity; it's a hedge fund parking lot. No new political developments reported, suggesting these are stale positions from when tensions were higher. Watch for institutional unwinding if either candidate gets a credible news catalyst\u2014or expect slow bleed as time value decays.\n\n**Trump WC Photo Market Shows Conviction (But Beware Tail Risk)**\n99% on Trump appearing in the Champions photo with $2.9M volume is the day's largest position. This is essentially a binary bet on U.S. World Cup success + Presidential optics. The market is pricing in near-certainty, leaving no hedge value. If USMNT exits early or Trump faces a scheduling conflict, this unwinds violently.\n\n---\n\n## Watch List\n\n1. **Strait of Hormuz Traffic (2% | $842K vol)** \u2014 Geopolitical tail risk market. If Iran tensions escalate before month-end, this reprices 50%+ intraday. Low liquidity means early movers get execution priority.\n\n2. **Harry Kane Ballon d'Or (37% | +20.6%)** \u2014 The only football narrative showing momentum today. Money is rotating *into* Kane (likely off World Cup performance expectations). If England's draw improves sentiment, this could hit 50%+ by Friday.\n\n3. **DRX vs BNK FEARX (82% | $394K)** \u2014 Lowest conviction of the LoL slate. If BNK shows any early map control in draft, sharp Korean bettors will scalp the gap. Best asymmetric entry point on the board.",
   "top_movers": [
     {
-      "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?",
-      "prob": 92,
-      "change": 51.0,
-      "vol24": "$1.3M",
-      "slug": "will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup"
+      "question": "LoL: DN SOOPers vs BNK FEARX (BO1) - KeSPA Cup Group Stage",
+      "prob": 99,
+      "change": 75.4,
+      "vol24": "$574K",
+      "slug": "lol-dnf-fox1-2026-07-20"
     },
     {
-      "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?",
-      "prob": 7,
-      "change": -50.0,
-      "vol24": "$2.0M",
-      "slug": "will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup"
+      "question": "LoL: Nongshim Red Force vs KT Rolster (BO1) - KeSPA Cup Group Stage",
+      "prob": 99,
+      "change": 67.5,
+      "vol24": "$1.0M",
+      "slug": "lol-ns-kt-2026-07-20"
     },
     {
-      "question": "Will LeBron James play for the Miami Heat in 2026-27?",
-      "prob": 47,
-      "change": 14.5,
-      "vol24": "$545K",
-      "slug": "will-lebron-james-play-for-the-miami-heat-in-2026-27"
+      "question": "Iasi Open: Mayar Sherif vs Paula Badosa",
+      "prob": 99,
+      "change": 63.4,
+      "vol24": "$738K",
+      "slug": "wta-sherif-badosa-2026-07-19"
     },
     {
-      "question": "Will France score the most goals at the 2026 FIFA World Cup?",
-      "prob": 1,
-      "change": -8.1,
-      "vol24": "$374K",
-      "slug": "will-france-score-the-most-goals-at-the-2026-fifa-world-cup"
+      "question": "LoL: Nongshim Red Force vs HANJIN BRION (BO1) - KeSPA Cup Group Stage",
+      "prob": 99,
+      "change": 43.5,
+      "vol24": "$619K",
+      "slug": "lol-ns-bro2-2026-07-20"
     },
     {
-      "question": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
-      "prob": 72,
-      "change": -5.7,
-      "vol24": "$281K",
-      "slug": "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026"
+      "question": "LoL: Kiwoom DRX vs BNK FEARX (BO1) - KeSPA Cup Group Stage",
+      "prob": 82,
+      "change": 43.5,
+      "vol24": "$394K",
+      "slug": "lol-drx-fox1-2026-07-20"
     }
   ],
   "top_vol": [
     {
-      "question": "Spain vs. Argentina: Team to Advance",
-      "prob": 59,
-      "change": -0.1,
-      "vol24": "$4.1M",
-      "slug": "fifwc-esp-arg-2026-07-19-team-to-advance"
+      "question": "Will Demeke Mekonnen be the next Prime Minister of Ethiopia?",
+      "prob": 1,
+      "change": 0.1,
+      "vol24": "$5.4M",
+      "slug": "will-demeke-mekonnen-be-the-next-prime-minister-of-ethiopia"
     },
     {
       "question": "Will Belete Molla be the next Prime Minister of Ethiopia?",
       "prob": 1,
       "change": 0,
-      "vol24": "$4.1M",
+      "vol24": "$4.0M",
       "slug": "will-belete-molla-be-the-next-prime-minister-of-ethiopia"
     },
     {
-      "question": "Exact Score: Spain 2 - 3 Argentina?",
-      "prob": 3,
-      "change": 0.3,
-      "vol24": "$3.4M",
-      "slug": "fifwc-esp-arg-2026-07-19-exact-score-2-3"
+      "question": "Will Trump be in the WC Champions Photo?",
+      "prob": 99,
+      "change": 36.4,
+      "vol24": "$2.9M",
+      "slug": "will-trump-be-in-the-wc-champions-photo-20260608152527021"
     }
   ]
 }
