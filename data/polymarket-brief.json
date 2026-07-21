@@ -1,65 +1,65 @@
 {
-  "date": "Monday July 20, 2026",
-  "generated": "2026-07-20T09:48:02.142403Z",
-  "brief": "# ZIMR Capital Daily Brief | Monday, July 20, 2026\n\n## Headline\n**Korea's LoL Dominance Priced In; Ethiopia Turmoil Absorbs $9.4M as Smart Money Waits**\n\n---\n\n## Market Intelligence\n\n**The KeSPA Sweep is Real, But Valuations Are Stretched**\nFour League of Legends matches are trading at 99% and 82%, with $574K-$1.0M each in volume. The narrative is clear: Korean teams are heavily favored in Cup play. However, the +75% single-day moves suggest retail FOMO rather than new information. DRX at 82% has room for contrarian positioning if BNK FEARX shows any momentum. The 1% pricing on DN SOOPers vs HANJIN BRION looks like capitulation selling\u2014worth monitoring if sharp bettors see value in the underdog.\n\n**Ethiopia's PM Succession: Smart Money is Sitting This Out**\n$9.4M is locked in Demeke Mekonnen (1%) and Belete Molla (1%) markets with near-zero conviction across either side. This isn't liquidity; it's a hedge fund parking lot. No new political developments reported, suggesting these are stale positions from when tensions were higher. Watch for institutional unwinding if either candidate gets a credible news catalyst\u2014or expect slow bleed as time value decays.\n\n**Trump WC Photo Market Shows Conviction (But Beware Tail Risk)**\n99% on Trump appearing in the Champions photo with $2.9M volume is the day's largest position. This is essentially a binary bet on U.S. World Cup success + Presidential optics. The market is pricing in near-certainty, leaving no hedge value. If USMNT exits early or Trump faces a scheduling conflict, this unwinds violently.\n\n---\n\n## Watch List\n\n1. **Strait of Hormuz Traffic (2% | $842K vol)** \u2014 Geopolitical tail risk market. If Iran tensions escalate before month-end, this reprices 50%+ intraday. Low liquidity means early movers get execution priority.\n\n2. **Harry Kane Ballon d'Or (37% | +20.6%)** \u2014 The only football narrative showing momentum today. Money is rotating *into* Kane (likely off World Cup performance expectations). If England's draw improves sentiment, this could hit 50%+ by Friday.\n\n3. **DRX vs BNK FEARX (82% | $394K)** \u2014 Lowest conviction of the LoL slate. If BNK shows any early map control in draft, sharp Korean bettors will scalp the gap. Best asymmetric entry point on the board.",
+  "date": "Tuesday July 21, 2026",
+  "generated": "2026-07-21T09:21:02.829609Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | Tuesday, July 21, 2026\n\n## Headline\n**Ballon d'Or Narrative Shifting: Kane Surges While Yamal Craters\u20142026 World Cup Performance Repricing in Real-Time**\n\n---\n\n## Market Intelligence\n\nThe market is mid-recalibration on who owns 2026's top individual award. Harry Kane's +4.3% surge to 41% signals smart money rotating *into* proven goal-scorers in tournament settings, particularly as World Cup performances crystallize. Lamine Yamal's sharp -11.6% dump (now 25%) is the inverse signal\u2014youth narrative fading fast against established contenders' current form. This isn't random churn; it's probabilistic repricing based on actual tournament data.\n\nMeanwhile, Bitcoin's 99% price ($60K+) continues its \"non-market\"\u2014$201K volume is essentially background noise on what should be binary certainty by now. The real action is in Ethereum dip positioning (25% on $1.5M dip to $1,250 by year-end), where late-cycle traders are hedging against macro tightening. That's directional conviction disguised as a technical trade.\n\nIran's Mojtaba Khamenei succession market (+1.7% to 76%) quietly posted $329K volume on seemingly low volatility\u2014suggests informed regional capital positioning ahead of end-of-quarter political clarity. Not a meme play. Philadelphia LeBron speculation (13%, +4.2%) remains retail noise; ignore unless cap dynamics shift dramatically.\n\n---\n\n## Watch List\n\n1. **Harry Kane vs. Mbapp\u00e9 spread (41% vs. 9%)** \u2014 That 32-point gap is *tight* for a Ballon d'Or market. If France's World Cup run accelerates, Mbapp\u00e9's 9% reprices violently upward. Monitor French match metrics daily.\n\n2. **Yamal floor (25%)** \u2014 Youth talent narratives in prediction markets are sticky until they're not. If he underperforms again mid-tournament, 15% becomes real.\n\n3. **Ethereum $1,250 dip** \u2014 Volume spike + positive drift suggests sophisticated players *want* that payout odds compressed. Watch for macro catalyst (Fed move, regulatory news) that could trigger capitulation.",
   "top_movers": [
     {
-      "question": "LoL: DN SOOPers vs BNK FEARX (BO1) - KeSPA Cup Group Stage",
-      "prob": 99,
-      "change": 75.4,
-      "vol24": "$574K",
-      "slug": "lol-dnf-fox1-2026-07-20"
+      "question": "Will Elon Musk post 140-159 tweets from July 14 to July 21, 2026?",
+      "prob": 26,
+      "change": -13.0,
+      "vol24": "$171K",
+      "slug": "elon-musk-of-tweets-july-14-july-21-140-159"
     },
     {
-      "question": "LoL: Nongshim Red Force vs KT Rolster (BO1) - KeSPA Cup Group Stage",
-      "prob": 99,
-      "change": 67.5,
-      "vol24": "$1.0M",
-      "slug": "lol-ns-kt-2026-07-20"
+      "question": "Will Lamine Yamal win the 2026 Ballon d'Or?",
+      "prob": 25,
+      "change": -11.6,
+      "vol24": "$354K",
+      "slug": "will-lamine-yamal-win-the-2026-ballon-dor"
     },
     {
-      "question": "Iasi Open: Mayar Sherif vs Paula Badosa",
-      "prob": 99,
-      "change": 63.4,
-      "vol24": "$738K",
-      "slug": "wta-sherif-badosa-2026-07-19"
+      "question": "Will Harry Kane win the 2026 Ballon d'Or?",
+      "prob": 41,
+      "change": 4.3,
+      "vol24": "$306K",
+      "slug": "will-harry-kane-win-the-2026-ballon-dor"
     },
     {
-      "question": "LoL: Nongshim Red Force vs HANJIN BRION (BO1) - KeSPA Cup Group Stage",
-      "prob": 99,
-      "change": 43.5,
-      "vol24": "$619K",
-      "slug": "lol-ns-bro2-2026-07-20"
+      "question": "Will LeBron James play for the Philadelphia 76ers in 2026-27?",
+      "prob": 13,
+      "change": 4.2,
+      "vol24": "$172K",
+      "slug": "will-lebron-james-play-for-the-philadelphia-76ers-in-2026-27"
     },
     {
-      "question": "LoL: Kiwoom DRX vs BNK FEARX (BO1) - KeSPA Cup Group Stage",
-      "prob": 82,
-      "change": 43.5,
-      "vol24": "$394K",
-      "slug": "lol-drx-fox1-2026-07-20"
+      "question": "Hamburg European Open: Katarzyna Kawa vs Paula Badosa",
+      "prob": 40,
+      "change": -2.0,
+      "vol24": "$263K",
+      "slug": "wta-kawa-badosa-2026-07-21"
     }
   ],
   "top_vol": [
     {
+      "question": "Will Trump be in the WC Champions Photo?",
+      "prob": 99,
+      "change": 0.2,
+      "vol24": "$5.0M",
+      "slug": "will-trump-be-in-the-wc-champions-photo-20260608152527021"
+    },
+    {
       "question": "Will Demeke Mekonnen be the next Prime Minister of Ethiopia?",
       "prob": 1,
-      "change": 0.1,
-      "vol24": "$5.4M",
+      "change": 0,
+      "vol24": "$2.3M",
       "slug": "will-demeke-mekonnen-be-the-next-prime-minister-of-ethiopia"
     },
     {
-      "question": "Will Belete Molla be the next Prime Minister of Ethiopia?",
+      "question": "Will Gretchen Whitmer win the 2028 US Presidential Election?",
       "prob": 1,
-      "change": 0,
-      "vol24": "$4.0M",
-      "slug": "will-belete-molla-be-the-next-prime-minister-of-ethiopia"
-    },
-    {
-      "question": "Will Trump be in the WC Champions Photo?",
-      "prob": 99,
-      "change": 36.4,
-      "vol24": "$2.9M",
-      "slug": "will-trump-be-in-the-wc-champions-photo-20260608152527021"
+      "change": 0.5,
+      "vol24": "$1.4M",
+      "slug": "will-gretchen-whitmer-win-the-2028-us-presidential-election"
     }
   ]
 }
