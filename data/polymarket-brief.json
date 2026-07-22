@@ -1,65 +1,65 @@
 {
-  "date": "Tuesday July 21, 2026",
-  "generated": "2026-07-21T09:21:02.829609Z",
-  "brief": "# ZIMR POLYMARKET BRIEFING | Tuesday, July 21, 2026\n\n## Headline\n**Ballon d'Or Narrative Shifting: Kane Surges While Yamal Craters\u20142026 World Cup Performance Repricing in Real-Time**\n\n---\n\n## Market Intelligence\n\nThe market is mid-recalibration on who owns 2026's top individual award. Harry Kane's +4.3% surge to 41% signals smart money rotating *into* proven goal-scorers in tournament settings, particularly as World Cup performances crystallize. Lamine Yamal's sharp -11.6% dump (now 25%) is the inverse signal\u2014youth narrative fading fast against established contenders' current form. This isn't random churn; it's probabilistic repricing based on actual tournament data.\n\nMeanwhile, Bitcoin's 99% price ($60K+) continues its \"non-market\"\u2014$201K volume is essentially background noise on what should be binary certainty by now. The real action is in Ethereum dip positioning (25% on $1.5M dip to $1,250 by year-end), where late-cycle traders are hedging against macro tightening. That's directional conviction disguised as a technical trade.\n\nIran's Mojtaba Khamenei succession market (+1.7% to 76%) quietly posted $329K volume on seemingly low volatility\u2014suggests informed regional capital positioning ahead of end-of-quarter political clarity. Not a meme play. Philadelphia LeBron speculation (13%, +4.2%) remains retail noise; ignore unless cap dynamics shift dramatically.\n\n---\n\n## Watch List\n\n1. **Harry Kane vs. Mbapp\u00e9 spread (41% vs. 9%)** \u2014 That 32-point gap is *tight* for a Ballon d'Or market. If France's World Cup run accelerates, Mbapp\u00e9's 9% reprices violently upward. Monitor French match metrics daily.\n\n2. **Yamal floor (25%)** \u2014 Youth talent narratives in prediction markets are sticky until they're not. If he underperforms again mid-tournament, 15% becomes real.\n\n3. **Ethereum $1,250 dip** \u2014 Volume spike + positive drift suggests sophisticated players *want* that payout odds compressed. Watch for macro catalyst (Fed move, regulatory news) that could trigger capitulation.",
+  "date": "Wednesday July 22, 2026",
+  "generated": "2026-07-22T09:19:35.965680Z",
+  "brief": "# POLYMARKET DAILY | WED JULY 22, 2026\n\n## **Fed Holds Steady; Oil & Geopolitics Spike as Market Recalibrates**\n\nThe market has spoken: no rate change from Powell's Fed is now priced at 86% confidence, with $2M in daily volume cementing this as the consensus trade. But the real action is elsewhere\u2014Syrskyi's near-certain removal (99%) and WTI's $90 breakout (69%) are dominating conversation, signaling traders are rotating hard into geopolitical and commodities risk.\n\nThe Elon tweet-count explosion (97% hit on 65-89 range, +90% in 24h) is pure noise relative to the macro moves, but it's worth flagging: when retail sentiment bleeds into mainstream markets this hard, it usually precedes volatility. Smart money appears to be stacking the Ukraine commander story\u2014a 35% move on near-certainty suggests either late-stage capitulation or asymmetric payoff expectations on regime instability. Oil's $90 target (+40% today) is less crowded than the $95 version (31%), indicating conviction splits: traders see near-term momentum but doubt the full breakout.\n\nLeBron's free agency situation (50/50 Heat vs 9% Sixers) is perfectly balanced chaos\u2014meaningless for macro, but watch it as a sentiment barometer for how retail money flows when genuine uncertainty exists.\n\n---\n\n## **WATCH LIST**\n\n**1. Fed Rate Decision Reaction** | 86% no-change is baked in. Monitor for any hawkish signaling language that could flip the 13% (25 bps hike) proposition. Volume ($2M) means any surprise reprices fast.\n\n**2. WTI $90 vs $95 Divergence** | $90 at 69%, $95 at 31%. Track crude spot price intraday\u2014if it clips $90 with conviction, the $95 target could compress the spread. Geopolitical risk premium is real here.\n\n**3. Syrskyi Follow-Through** | 99% is overdetermined. Any official announcement pushes this past resolution\u2014monitor for Ukrainian official statements that could trigger volatility cascades in related geo-risk markets.",
   "top_movers": [
     {
-      "question": "Will Elon Musk post 140-159 tweets from July 14 to July 21, 2026?",
-      "prob": 26,
-      "change": -13.0,
-      "vol24": "$171K",
-      "slug": "elon-musk-of-tweets-july-14-july-21-140-159"
+      "question": "Will Elon Musk post 65-89 tweets from July 20 to July 22, 2026?",
+      "prob": 97,
+      "change": 90.0,
+      "vol24": "$168K",
+      "slug": "elon-musk-of-tweets-july-20-july-22-65-89"
     },
     {
-      "question": "Will Lamine Yamal win the 2026 Ballon d'Or?",
-      "prob": 25,
-      "change": -11.6,
-      "vol24": "$354K",
-      "slug": "will-lamine-yamal-win-the-2026-ballon-dor"
+      "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?",
+      "prob": 69,
+      "change": 40.0,
+      "vol24": "$309K",
+      "slug": "will-wti-reach-90-in-july-2026-334"
     },
     {
-      "question": "Will Harry Kane win the 2026 Ballon d'Or?",
-      "prob": 41,
-      "change": 4.3,
-      "vol24": "$306K",
-      "slug": "will-harry-kane-win-the-2026-ballon-dor"
+      "question": "Will Oleksandr Syrskyi be out as Ukraine's Commander-in-Chief by July 31, 2026?",
+      "prob": 99,
+      "change": 35.1,
+      "vol24": "$178K",
+      "slug": "will-oleksandr-syrskyi-be-out-as-ukraines-commander-in-chief-by-july-31-2026-20260716215104507"
     },
     {
-      "question": "Will LeBron James play for the Philadelphia 76ers in 2026-27?",
-      "prob": 13,
-      "change": 4.2,
-      "vol24": "$172K",
-      "slug": "will-lebron-james-play-for-the-philadelphia-76ers-in-2026-27"
+      "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?",
+      "prob": 31,
+      "change": 14.1,
+      "vol24": "$175K",
+      "slug": "will-wti-reach-95-in-july-2026"
     },
     {
-      "question": "Hamburg European Open: Katarzyna Kawa vs Paula Badosa",
-      "prob": 40,
-      "change": -2.0,
-      "vol24": "$263K",
-      "slug": "wta-kawa-badosa-2026-07-21"
+      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "prob": 86,
+      "change": -7.3,
+      "vol24": "$2.0M",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting"
     }
   ],
   "top_vol": [
     {
       "question": "Will Trump be in the WC Champions Photo?",
       "prob": 99,
-      "change": 0.2,
-      "vol24": "$5.0M",
+      "change": 0.1,
+      "vol24": "$7.4M",
       "slug": "will-trump-be-in-the-wc-champions-photo-20260608152527021"
     },
     {
-      "question": "Will Demeke Mekonnen be the next Prime Minister of Ethiopia?",
-      "prob": 1,
-      "change": 0,
-      "vol24": "$2.3M",
-      "slug": "will-demeke-mekonnen-be-the-next-prime-minister-of-ethiopia"
+      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "prob": 86,
+      "change": -7.3,
+      "vol24": "$2.0M",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting"
     },
     {
-      "question": "Will Gretchen Whitmer win the 2028 US Presidential Election?",
+      "question": "Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?",
       "prob": 1,
-      "change": 0.5,
-      "vol24": "$1.4M",
-      "slug": "will-gretchen-whitmer-win-the-2028-us-presidential-election"
+      "change": 0.2,
+      "vol24": "$1.2M",
+      "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting"
     }
   ]
 }
