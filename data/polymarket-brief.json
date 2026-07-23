@@ -1,42 +1,42 @@
 {
-  "date": "Wednesday July 22, 2026",
-  "generated": "2026-07-22T09:19:35.965680Z",
-  "brief": "# POLYMARKET DAILY | WED JULY 22, 2026\n\n## **Fed Holds Steady; Oil & Geopolitics Spike as Market Recalibrates**\n\nThe market has spoken: no rate change from Powell's Fed is now priced at 86% confidence, with $2M in daily volume cementing this as the consensus trade. But the real action is elsewhere\u2014Syrskyi's near-certain removal (99%) and WTI's $90 breakout (69%) are dominating conversation, signaling traders are rotating hard into geopolitical and commodities risk.\n\nThe Elon tweet-count explosion (97% hit on 65-89 range, +90% in 24h) is pure noise relative to the macro moves, but it's worth flagging: when retail sentiment bleeds into mainstream markets this hard, it usually precedes volatility. Smart money appears to be stacking the Ukraine commander story\u2014a 35% move on near-certainty suggests either late-stage capitulation or asymmetric payoff expectations on regime instability. Oil's $90 target (+40% today) is less crowded than the $95 version (31%), indicating conviction splits: traders see near-term momentum but doubt the full breakout.\n\nLeBron's free agency situation (50/50 Heat vs 9% Sixers) is perfectly balanced chaos\u2014meaningless for macro, but watch it as a sentiment barometer for how retail money flows when genuine uncertainty exists.\n\n---\n\n## **WATCH LIST**\n\n**1. Fed Rate Decision Reaction** | 86% no-change is baked in. Monitor for any hawkish signaling language that could flip the 13% (25 bps hike) proposition. Volume ($2M) means any surprise reprices fast.\n\n**2. WTI $90 vs $95 Divergence** | $90 at 69%, $95 at 31%. Track crude spot price intraday\u2014if it clips $90 with conviction, the $95 target could compress the spread. Geopolitical risk premium is real here.\n\n**3. Syrskyi Follow-Through** | 99% is overdetermined. Any official announcement pushes this past resolution\u2014monitor for Ukrainian official statements that could trigger volatility cascades in related geo-risk markets.",
+  "date": "Thursday July 23, 2026",
+  "generated": "2026-07-23T09:16:09.874590Z",
+  "brief": "# POLYMARKET DAILY BRIEF | July 23, 2026\n\n## **Fed Hold Pricing Locks In; Energy Markets Sniff Out July Oil Spike**\n\nThe market has spoken: the Fed isn't moving in July. NO CHANGE is pricing at 76% with $1.3M in volume\u2014a clear consensus that's crystallized overnight. The 25bps hike probability actually *gained* ground to 24% (+10.7%), suggesting late-session positioning rather than conviction. This is baseline-setting capital at work before any post-meeting volatility.\n\nBut the real story is oil. WTI's climbing the probability ladder in real time: $90 (92%), $95 (50%), $100 (24%). The $251K volume on the $95 print and $183K on the $90 print show smart money is *actively trading* the bull case\u2014likely on supply concerns or demand resilience data hitting the tape. This isn't passive; someone's building a view here. The 18.4% jump in the $95 market in 24 hours is institutional movement, not retail noise.\n\nSports and esports comps are noisy (Cruzeiro hit 99% on a match result, typical for event certainty). But flag the Bitcoin sub-$68K market at 1% with $165K volume\u2014that's either a hedge or someone's extremely short-term bearish on the bounce. Worth monitoring for capitulation signals.\n\n---\n\n## **WATCH LIST**\n\n1. **Fed Rate Decision ($1.3M volume cluster)** \u2014 Hold the line at 76% or watch for a repricing if any surprise hawkish signals emerge. This is the day's macro anchor.\n\n2. **WTI $95 Print (VOL: $251K)** \u2014 Most active oil contract. A break through 50% pricing suggests real directional conviction. Track for energy sector spillover.\n\n3. **Bitcoin above $68K (1% | VOL: $165K)** \u2014 Extremely low probability with real volume. If this reprices upward quickly, it signals broader crypto risk-on sentiment returning.",
   "top_movers": [
     {
-      "question": "Will Elon Musk post 65-89 tweets from July 20 to July 22, 2026?",
-      "prob": 97,
-      "change": 90.0,
-      "vol24": "$168K",
-      "slug": "elon-musk-of-tweets-july-20-july-22-65-89"
+      "question": "Will Cruzeiro EC win on 2026-07-22?",
+      "prob": 99,
+      "change": 71.5,
+      "vol24": "$228K",
+      "slug": "bra-int-cru-2026-07-22-cru"
+    },
+    {
+      "question": "ODI Series Sri Lanka vs Pakistan, Women: Sri Lanka vs Pakistan",
+      "prob": 20,
+      "change": -42.0,
+      "vol24": "$153K",
+      "slug": "crint-lka3-pak3-2026-07-23"
+    },
+    {
+      "question": "Valorant: Global Esports vs FULL SENSE (BO3) - VCT Pacific Group Alpha",
+      "prob": 84,
+      "change": 38.0,
+      "vol24": "$165K",
+      "slug": "val-ge1-fs1-2026-07-23"
     },
     {
       "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?",
-      "prob": 69,
-      "change": 40.0,
-      "vol24": "$309K",
+      "prob": 92,
+      "change": 23.0,
+      "vol24": "$183K",
       "slug": "will-wti-reach-90-in-july-2026-334"
     },
     {
-      "question": "Will Oleksandr Syrskyi be out as Ukraine's Commander-in-Chief by July 31, 2026?",
-      "prob": 99,
-      "change": 35.1,
-      "vol24": "$178K",
-      "slug": "will-oleksandr-syrskyi-be-out-as-ukraines-commander-in-chief-by-july-31-2026-20260716215104507"
-    },
-    {
       "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?",
-      "prob": 31,
-      "change": 14.1,
-      "vol24": "$175K",
+      "prob": 50,
+      "change": 18.4,
+      "vol24": "$251K",
       "slug": "will-wti-reach-95-in-july-2026"
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "prob": 86,
-      "change": -7.3,
-      "vol24": "$2.0M",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting"
     }
   ],
   "top_vol": [
@@ -44,22 +44,22 @@
       "question": "Will Trump be in the WC Champions Photo?",
       "prob": 99,
       "change": 0.1,
-      "vol24": "$7.4M",
+      "vol24": "$9.3M",
       "slug": "will-trump-be-in-the-wc-champions-photo-20260608152527021"
     },
     {
-      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "prob": 86,
-      "change": -7.3,
-      "vol24": "$2.0M",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting"
+      "question": "Will Demeke Mekonnen be the next Prime Minister of Ethiopia?",
+      "prob": 1,
+      "change": 0.1,
+      "vol24": "$2.1M",
+      "slug": "will-demeke-mekonnen-be-the-next-prime-minister-of-ethiopia"
     },
     {
-      "question": "Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?",
-      "prob": 1,
-      "change": 0.2,
-      "vol24": "$1.2M",
-      "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting"
+      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "prob": 76,
+      "change": -9.9,
+      "vol24": "$1.3M",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting"
     }
   ]
 }
