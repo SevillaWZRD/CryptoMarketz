@@ -1,65 +1,65 @@
 {
-  "date": "Thursday July 23, 2026",
-  "generated": "2026-07-23T09:16:09.874590Z",
-  "brief": "# POLYMARKET DAILY BRIEF | July 23, 2026\n\n## **Fed Hold Pricing Locks In; Energy Markets Sniff Out July Oil Spike**\n\nThe market has spoken: the Fed isn't moving in July. NO CHANGE is pricing at 76% with $1.3M in volume\u2014a clear consensus that's crystallized overnight. The 25bps hike probability actually *gained* ground to 24% (+10.7%), suggesting late-session positioning rather than conviction. This is baseline-setting capital at work before any post-meeting volatility.\n\nBut the real story is oil. WTI's climbing the probability ladder in real time: $90 (92%), $95 (50%), $100 (24%). The $251K volume on the $95 print and $183K on the $90 print show smart money is *actively trading* the bull case\u2014likely on supply concerns or demand resilience data hitting the tape. This isn't passive; someone's building a view here. The 18.4% jump in the $95 market in 24 hours is institutional movement, not retail noise.\n\nSports and esports comps are noisy (Cruzeiro hit 99% on a match result, typical for event certainty). But flag the Bitcoin sub-$68K market at 1% with $165K volume\u2014that's either a hedge or someone's extremely short-term bearish on the bounce. Worth monitoring for capitulation signals.\n\n---\n\n## **WATCH LIST**\n\n1. **Fed Rate Decision ($1.3M volume cluster)** \u2014 Hold the line at 76% or watch for a repricing if any surprise hawkish signals emerge. This is the day's macro anchor.\n\n2. **WTI $95 Print (VOL: $251K)** \u2014 Most active oil contract. A break through 50% pricing suggests real directional conviction. Track for energy sector spillover.\n\n3. **Bitcoin above $68K (1% | VOL: $165K)** \u2014 Extremely low probability with real volume. If this reprices upward quickly, it signals broader crypto risk-on sentiment returning.",
+  "date": "Friday July 24, 2026",
+  "generated": "2026-07-24T09:13:07.426584Z",
+  "brief": "# ZIMR DAILY POLYMARKET BRIEF | Friday, July 24, 2026\n\n## Headline\n**Esports Consensus Hardening While Geopolitical Risk Softens; Fed Rate Stability Dominates Volume**\n\n## Market Intelligence\n\n**The Esports Sweep Is Real.** LGD Gaming markets are posting jaw-dropping conviction\u2014three separate Anyone's Legend matchups all hitting 99% with combined $1.98M volume today. The +43.5% surge in the handicap market signals sharp money got in early and is now collecting. This isn't retail noise; the consistency across Game 1, Game 2, and series outcomes suggests institutional-grade confidence in LGD's dominance. If you're seeing 99% on esports outcomes, execution risk is the only variable left.\n\n**Geopolitical De-Escalation Trade in Play.** Israel-Iran ceasefire markets are diverging intelligently\u2014the July 24 deadline now sits at 94% (+6.5%), but the July 31 extension dropped to 48% (-13.0%). Smart money is essentially saying: \"We'll get through today, but next week's a coin flip.\" The $337K combined volume reflects genuine uncertainty about medium-term stability, not algorithmic pricing. Watch for any weekend developments; this market is reactive and reprices fast.\n\n**Fed Rates = Crowded Stability Bet.** $1.2M in volume on \"no change\" at 76% is substantive. But notice the Strait of Hormuz \"normal traffic by July 31\" sits at 1% with $631K volume\u2014that's inverse correlation hedging. Smart money is long duration stability while buying tail risk on supply chains. The Ethiopia PM market ($1.6M, 1%) is pure information asymmetry play; retail piling into long-shot political outcomes.\n\n## Watch List\n\n**Israel x Iran Ceasefire through July 31 (48%)** \u2014 *Why:* The 46-point gap between today and the 31st is your real signal. Any escalation headlines spike this, any diplomatic murmurs push it lower. High sensitivity to news flow makes it tradeable intraday.\n\n**LoL: Game 1 Winner (99%)** \u2014 *Why:* Execution risk here is real. If Anyone's Legend pulls an upset, you're watching a multi-market cascade collapse. This is where convexity lives if you're contrarian-inclined.\n\n**Fed Rate No Change (76%)** \u2014 *Why:* With $1.2M backing this, repricing velocity could be violent if hawkish commentary emerges. Still 6 days out\u2014institutional positioning changes fast.\n\n---\n*Markets move on information. Information moves faster on Polymarket.*",
   "top_movers": [
     {
-      "question": "Will Cruzeiro EC win on 2026-07-22?",
+      "question": "Will Elon Musk post 180-199 tweets from July 17 to July 24, 2026?",
+      "prob": 1,
+      "change": -51.4,
+      "vol24": "$191K",
+      "slug": "elon-musk-of-tweets-july-17-july-24-180-199"
+    },
+    {
+      "question": "Game Handicap: AL (-1.5) vs LGD Gaming (+1.5)",
       "prob": 99,
-      "change": 71.5,
-      "vol24": "$228K",
-      "slug": "bra-int-cru-2026-07-22-cru"
+      "change": 43.5,
+      "vol24": "$200K",
+      "slug": "lol-al-lgd-2026-07-24-game-handicap-away-1pt5"
     },
     {
-      "question": "ODI Series Sri Lanka vs Pakistan, Women: Sri Lanka vs Pakistan",
-      "prob": 20,
-      "change": -42.0,
-      "vol24": "$153K",
-      "slug": "crint-lka3-pak3-2026-07-23"
+      "question": "LoL: Anyone's Legend vs LGD Gaming - Game 1 Winner",
+      "prob": 99,
+      "change": 35.4,
+      "vol24": "$593K",
+      "slug": "lol-al-lgd-2026-07-24-game1"
     },
     {
-      "question": "Valorant: Global Esports vs FULL SENSE (BO3) - VCT Pacific Group Alpha",
-      "prob": 84,
-      "change": 38.0,
-      "vol24": "$165K",
-      "slug": "val-ge1-fs1-2026-07-23"
+      "question": "LoL: Anyone's Legend vs LGD Gaming - Game 2 Winner",
+      "prob": 99,
+      "change": 31.4,
+      "vol24": "$775K",
+      "slug": "lol-al-lgd-2026-07-24-game2"
     },
     {
-      "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?",
-      "prob": 92,
-      "change": 23.0,
-      "vol24": "$183K",
-      "slug": "will-wti-reach-90-in-july-2026-334"
-    },
-    {
-      "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?",
-      "prob": 50,
+      "question": "LoL: Anyone's Legend vs LGD Gaming (BO3) - LPL Group Ascend",
+      "prob": 99,
       "change": 18.4,
-      "vol24": "$251K",
-      "slug": "will-wti-reach-95-in-july-2026"
+      "vol24": "$614K",
+      "slug": "lol-al-lgd-2026-07-24"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Trump be in the WC Champions Photo?",
-      "prob": 99,
-      "change": 0.1,
-      "vol24": "$9.3M",
-      "slug": "will-trump-be-in-the-wc-champions-photo-20260608152527021"
-    },
-    {
       "question": "Will Demeke Mekonnen be the next Prime Minister of Ethiopia?",
       "prob": 1,
-      "change": 0.1,
-      "vol24": "$2.1M",
+      "change": 0.9,
+      "vol24": "$1.6M",
       "slug": "will-demeke-mekonnen-be-the-next-prime-minister-of-ethiopia"
     },
     {
       "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
       "prob": 76,
-      "change": -9.9,
-      "vol24": "$1.3M",
+      "change": -0.2,
+      "vol24": "$1.2M",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting"
+    },
+    {
+      "question": "LoL: Anyone's Legend vs LGD Gaming - Game 2 Winner",
+      "prob": 99,
+      "change": 31.4,
+      "vol24": "$775K",
+      "slug": "lol-al-lgd-2026-07-24-game2"
     }
   ]
 }
