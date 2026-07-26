@@ -1,65 +1,65 @@
 {
-  "date": "Friday July 24, 2026",
-  "generated": "2026-07-24T09:13:07.426584Z",
-  "brief": "# ZIMR DAILY POLYMARKET BRIEF | Friday, July 24, 2026\n\n## Headline\n**Esports Consensus Hardening While Geopolitical Risk Softens; Fed Rate Stability Dominates Volume**\n\n## Market Intelligence\n\n**The Esports Sweep Is Real.** LGD Gaming markets are posting jaw-dropping conviction\u2014three separate Anyone's Legend matchups all hitting 99% with combined $1.98M volume today. The +43.5% surge in the handicap market signals sharp money got in early and is now collecting. This isn't retail noise; the consistency across Game 1, Game 2, and series outcomes suggests institutional-grade confidence in LGD's dominance. If you're seeing 99% on esports outcomes, execution risk is the only variable left.\n\n**Geopolitical De-Escalation Trade in Play.** Israel-Iran ceasefire markets are diverging intelligently\u2014the July 24 deadline now sits at 94% (+6.5%), but the July 31 extension dropped to 48% (-13.0%). Smart money is essentially saying: \"We'll get through today, but next week's a coin flip.\" The $337K combined volume reflects genuine uncertainty about medium-term stability, not algorithmic pricing. Watch for any weekend developments; this market is reactive and reprices fast.\n\n**Fed Rates = Crowded Stability Bet.** $1.2M in volume on \"no change\" at 76% is substantive. But notice the Strait of Hormuz \"normal traffic by July 31\" sits at 1% with $631K volume\u2014that's inverse correlation hedging. Smart money is long duration stability while buying tail risk on supply chains. The Ethiopia PM market ($1.6M, 1%) is pure information asymmetry play; retail piling into long-shot political outcomes.\n\n## Watch List\n\n**Israel x Iran Ceasefire through July 31 (48%)** \u2014 *Why:* The 46-point gap between today and the 31st is your real signal. Any escalation headlines spike this, any diplomatic murmurs push it lower. High sensitivity to news flow makes it tradeable intraday.\n\n**LoL: Game 1 Winner (99%)** \u2014 *Why:* Execution risk here is real. If Anyone's Legend pulls an upset, you're watching a multi-market cascade collapse. This is where convexity lives if you're contrarian-inclined.\n\n**Fed Rate No Change (76%)** \u2014 *Why:* With $1.2M backing this, repricing velocity could be violent if hawkish commentary emerges. Still 6 days out\u2014institutional positioning changes fast.\n\n---\n*Markets move on information. Information moves faster on Polymarket.*",
+  "date": "Sunday July 26, 2026",
+  "generated": "2026-07-26T09:06:18.364314Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | Sunday, July 26, 2026\n\n## Headline\n**Ceasefire Holds, Oil Risk Fades: Markets Price Out Mid-East Escalation as Geopolitical Premium Unwinds**\n\n---\n\n## Market Intelligence\n\nThe ceasefire story dominated Sunday flow. Israel-Iran stability through July 31 rallied to **86% (+14.0%)** on $453K volume, while broader US-Iran ceasefire odds jumped to **40% (+17.0%)**\u2014smart money is confidently rotating out of conflict hedges. The real tell: WTI crude's $95 July high probability collapsed to **22% (-26.2%)** on heavy $128K volume. This isn't noise. Traders are unwinding energy crisis positioning hard, signaling genuine belief that regional tensions have de-escalated from \"supply shock\" to \"managed standoff.\"\n\nWatch the Strait of Hormuz market at **16% ($603K volume)**\u2014it's the canary in the coal mine. If traffic doesn't normalize by August 31, that's your early warning that ceasefire confidence is premature. The sharp repricing in oil targets tells us institutional players got ahead of themselves on escalation risk in late July; we're now seeing position squaring.\n\nEthiopia's Abiebie PM prediction sits isolated at **1% ($1.7M volume)**\u2014thinnest liquidity-to-volume ratio on the board. Political outcomes this deep in tail risk typically reflect either informed insiders or desperate hedging. Flag it for follow-up.\n\n---\n\n## Watch List\n\n**1. Israel x Iran ceasefire through July 31 (86%)**  \nWatch for any headline breaks on Israeli strikes or Iranian retaliation. This market has baked in \"no surprises\" through month-end. One incident could unwind the entire geopolitical unwind.\n\n**2. Strait of Hormuz traffic normal by Aug 31 (16%)**  \nThe lagging indicator. If Hormuz remains disrupted while ceasefire holds, it signals structural damage to shipping patterns\u2014different trade for Aug positioning.\n\n**3. Fed 50+ bps rate cut post-July meeting (1%, $633K)**  \nDead money pricing, but volume tells you debate exists. Monitor any softening Fed commentary post-meeting; this is where contrarian value hides if inflation cools fast.",
   "top_movers": [
     {
-      "question": "Will Elon Musk post 180-199 tweets from July 17 to July 24, 2026?",
+      "question": "LoL: LNG Esports vs Ninjas in Pyjamas - Game 1 Winner",
       "prob": 1,
-      "change": -51.4,
-      "vol24": "$191K",
-      "slug": "elon-musk-of-tweets-july-17-july-24-180-199"
+      "change": -46.0,
+      "vol24": "$407K",
+      "slug": "lol-lng-nip-2026-07-26-game1"
     },
     {
-      "question": "Game Handicap: AL (-1.5) vs LGD Gaming (+1.5)",
-      "prob": 99,
-      "change": 43.5,
-      "vol24": "$200K",
-      "slug": "lol-al-lgd-2026-07-24-game-handicap-away-1pt5"
+      "question": "LoL: LNG Esports vs Ninjas in Pyjamas (BO3) - LPL Group Nirvana",
+      "prob": 1,
+      "change": -45.5,
+      "vol24": "$345K",
+      "slug": "lol-lng-nip-2026-07-26"
     },
     {
-      "question": "LoL: Anyone's Legend vs LGD Gaming - Game 1 Winner",
-      "prob": 99,
-      "change": 35.4,
-      "vol24": "$593K",
-      "slug": "lol-al-lgd-2026-07-24-game1"
+      "question": "LoL: LNG Esports vs Ninjas in Pyjamas - Game 2 Winner",
+      "prob": 1,
+      "change": -45.0,
+      "vol24": "$742K",
+      "slug": "lol-lng-nip-2026-07-26-game2"
     },
     {
-      "question": "LoL: Anyone's Legend vs LGD Gaming - Game 2 Winner",
-      "prob": 99,
-      "change": 31.4,
-      "vol24": "$775K",
-      "slug": "lol-al-lgd-2026-07-24-game2"
+      "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?",
+      "prob": 22,
+      "change": -26.2,
+      "vol24": "$128K",
+      "slug": "will-wti-reach-95-in-july-2026"
     },
     {
-      "question": "LoL: Anyone's Legend vs LGD Gaming (BO3) - LPL Group Ascend",
-      "prob": 99,
-      "change": 18.4,
-      "vol24": "$614K",
-      "slug": "lol-al-lgd-2026-07-24"
+      "question": "US x Iran Effective Ceasefire by July 24?",
+      "prob": 34,
+      "change": 22.8,
+      "vol24": "$474K",
+      "slug": "us-x-iran-effective-ceasfire-by-july-24-20260715194822044"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Demeke Mekonnen be the next Prime Minister of Ethiopia?",
+      "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
       "prob": 1,
-      "change": 0.9,
-      "vol24": "$1.6M",
-      "slug": "will-demeke-mekonnen-be-the-next-prime-minister-of-ethiopia"
+      "change": 0,
+      "vol24": "$1.7M",
+      "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia"
     },
     {
-      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "prob": 76,
-      "change": -0.2,
-      "vol24": "$1.2M",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting"
-    },
-    {
-      "question": "LoL: Anyone's Legend vs LGD Gaming - Game 2 Winner",
+      "question": "Israel x Iran ceasefire continues through July 25?",
       "prob": 99,
-      "change": 31.4,
-      "vol24": "$775K",
-      "slug": "lol-al-lgd-2026-07-24-game2"
+      "change": 2.6,
+      "vol24": "$919K",
+      "slug": "israel-x-iran-ceasefire-continues-through-july-25-20260716224448967-454"
+    },
+    {
+      "question": "LoL: LNG Esports vs Ninjas in Pyjamas - Game 2 Winner",
+      "prob": 1,
+      "change": -45.0,
+      "vol24": "$742K",
+      "slug": "lol-lng-nip-2026-07-26-game2"
     }
   ]
 }
