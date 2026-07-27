@@ -1,65 +1,65 @@
 {
-  "date": "Sunday July 26, 2026",
-  "generated": "2026-07-26T09:06:18.364314Z",
-  "brief": "# ZIMR POLYMARKET BRIEFING | Sunday, July 26, 2026\n\n## Headline\n**Ceasefire Holds, Oil Risk Fades: Markets Price Out Mid-East Escalation as Geopolitical Premium Unwinds**\n\n---\n\n## Market Intelligence\n\nThe ceasefire story dominated Sunday flow. Israel-Iran stability through July 31 rallied to **86% (+14.0%)** on $453K volume, while broader US-Iran ceasefire odds jumped to **40% (+17.0%)**\u2014smart money is confidently rotating out of conflict hedges. The real tell: WTI crude's $95 July high probability collapsed to **22% (-26.2%)** on heavy $128K volume. This isn't noise. Traders are unwinding energy crisis positioning hard, signaling genuine belief that regional tensions have de-escalated from \"supply shock\" to \"managed standoff.\"\n\nWatch the Strait of Hormuz market at **16% ($603K volume)**\u2014it's the canary in the coal mine. If traffic doesn't normalize by August 31, that's your early warning that ceasefire confidence is premature. The sharp repricing in oil targets tells us institutional players got ahead of themselves on escalation risk in late July; we're now seeing position squaring.\n\nEthiopia's Abiebie PM prediction sits isolated at **1% ($1.7M volume)**\u2014thinnest liquidity-to-volume ratio on the board. Political outcomes this deep in tail risk typically reflect either informed insiders or desperate hedging. Flag it for follow-up.\n\n---\n\n## Watch List\n\n**1. Israel x Iran ceasefire through July 31 (86%)**  \nWatch for any headline breaks on Israeli strikes or Iranian retaliation. This market has baked in \"no surprises\" through month-end. One incident could unwind the entire geopolitical unwind.\n\n**2. Strait of Hormuz traffic normal by Aug 31 (16%)**  \nThe lagging indicator. If Hormuz remains disrupted while ceasefire holds, it signals structural damage to shipping patterns\u2014different trade for Aug positioning.\n\n**3. Fed 50+ bps rate cut post-July meeting (1%, $633K)**  \nDead money pricing, but volume tells you debate exists. Monitor any softening Fed commentary post-meeting; this is where contrarian value hides if inflation cools fast.",
+  "date": "Monday July 27, 2026",
+  "generated": "2026-07-27T10:30:27.295800Z",
+  "brief": "# ZIMR CAPITAL MARKET BRIEFING | Monday, July 27, 2026\n\n## Headline\n**Korean Esports Sentiment Whipsaws as T1 Academy Solidifies, While Fed Rate Hold Locks in at 80%**\n\n---\n\n## Market Intelligence\n\n**The Signal:** Korean League of Legends markets are experiencing violent repricing ahead of KeSPA Cup matchups. KT Rolster vs Gen.G (BO1) collapsed 61.5% to 1% overnight despite $1.1M in volume\u2014classic late-hour capitulation that suggests sharp money exited long positions. Conversely, T1 Academy swept both Game 1 and Game 2 winner markets hard upward (+40.5% and +59.5%), now pricing the academy team as near-certain victors in their BO3 series (76% probability). This bifurcation is telling: bettors are rotating confidence *away* from legacy powerhouses (KT, Gen.G, Dplus KIA) and *toward* T1's farm system.\n\n**What Smart Money Is Doing:** The Fed rate hold (80% probability, $1.1M volume) is essentially priced to certainty\u2014this is a park-your-capital trade, not a conviction play. The real action is in esports and geopolitics. On Iran, ceasefire odds have ticked up 14% to 56% while halt-in-offensive fell 16.5% to 38%. Smart traders are pricing a *de-escalation narrative* as more likely than full pause, suggesting incremental diplomatic moves are being factored in. The Adanech Abiebie PM market ($2M volume, 1% odds) remains a low-probability tail-risk hedge for Ethiopian political traders.\n\n**Mispricing Alert:** T1 Academy at 76% in a BO3 looks *tight*. While momentum is real, that's near-elimination odds for Nongshim Esports Academy despite being the incumbent LCK Challengers squad. The market may be overweighting recent form. Conversely, Hanwha Life vs Kiwoom DRX locked at 99% is a red flag\u2014no BO1 should ever be that certain. Likely a technical mismatch or liquidity crunch, not edge.\n\n---\n\n## Watch List\n\n1. **KT Rolster vs Gen.G (KeSPA Cup)** \u2013 *Why:* Down to 1% after violent 61.5% selloff. If this is a Gen.G backlash play, watch for contrarian volume inflows near match time. Sharp money may be building a recovery position.\n\n2. **US x Iran Effective Ceasefire by July 31** \u2013 *Why:* Now at 56% (+14% today). Geopolitical markets are liquidity-sensitive and mean-reverting. Any headline from State Dept or UN will cause immediate repricing. This has room to swing 10-15% either direction on news.\n\n3. **Fed Rate Cut 50+ bps post-July meeting** \u2013 *Why:* At 1% ($899K volume), this is the *true* tail risk. If inflation data disappoints this week, this could spike to 5-8%. Asymmetric risk for macro traders hedging rate surprise.\n\n---\n\n**ZIMR Capital | Polymarket Intelligence**",
   "top_movers": [
     {
-      "question": "LoL: LNG Esports vs Ninjas in Pyjamas - Game 1 Winner",
+      "question": "LoL: KT Rolster vs Gen.G (BO1) - KeSPA Cup Group Stage",
       "prob": 1,
-      "change": -46.0,
-      "vol24": "$407K",
-      "slug": "lol-lng-nip-2026-07-26-game1"
+      "change": -61.5,
+      "vol24": "$1.1M",
+      "slug": "lol-kt-gen-2026-07-27"
     },
     {
-      "question": "LoL: LNG Esports vs Ninjas in Pyjamas (BO3) - LPL Group Nirvana",
+      "question": "LoL: T1 Academy vs Nongshim Esports Academy - Game 2 Winner",
       "prob": 1,
-      "change": -45.5,
-      "vol24": "$345K",
-      "slug": "lol-lng-nip-2026-07-26"
+      "change": -59.5,
+      "vol24": "$216K",
+      "slug": "lol-t1a-nsea-2026-07-27-game2"
     },
     {
-      "question": "LoL: LNG Esports vs Ninjas in Pyjamas - Game 2 Winner",
-      "prob": 1,
-      "change": -45.0,
-      "vol24": "$742K",
-      "slug": "lol-lng-nip-2026-07-26-game2"
+      "question": "LoL: Hanwha Life Esports vs Kiwoom DRX (BO1) - KeSPA Cup Group Stage",
+      "prob": 99,
+      "change": 55.5,
+      "vol24": "$716K",
+      "slug": "lol-hle1-drx-2026-07-27"
     },
     {
-      "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?",
-      "prob": 22,
-      "change": -26.2,
-      "vol24": "$128K",
-      "slug": "will-wti-reach-95-in-july-2026"
+      "question": "LoL: T1 Academy vs Nongshim Esports Academy - Game 1 Winner",
+      "prob": 99,
+      "change": 40.5,
+      "vol24": "$143K",
+      "slug": "lol-t1a-nsea-2026-07-27-game1"
     },
     {
-      "question": "US x Iran Effective Ceasefire by July 24?",
-      "prob": 34,
-      "change": 22.8,
-      "vol24": "$474K",
-      "slug": "us-x-iran-effective-ceasfire-by-july-24-20260715194822044"
+      "question": "Counter-Strike: CYBERSHOKE Esports vs Team Comanche (BO3) - CIS LAN Championship Group A",
+      "prob": 50,
+      "change": -40.0,
+      "vol24": "$162K",
+      "slug": "cs2-cs1-tc2-2026-07-27"
     }
   ],
   "top_vol": [
     {
       "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
       "prob": 1,
-      "change": 0,
-      "vol24": "$1.7M",
+      "change": 0.1,
+      "vol24": "$2.0M",
       "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia"
     },
     {
-      "question": "Israel x Iran ceasefire continues through July 25?",
-      "prob": 99,
-      "change": 2.6,
-      "vol24": "$919K",
-      "slug": "israel-x-iran-ceasefire-continues-through-july-25-20260716224448967-454"
+      "question": "LoL: KT Rolster vs Gen.G (BO1) - KeSPA Cup Group Stage",
+      "prob": 1,
+      "change": -61.5,
+      "vol24": "$1.1M",
+      "slug": "lol-kt-gen-2026-07-27"
     },
     {
-      "question": "LoL: LNG Esports vs Ninjas in Pyjamas - Game 2 Winner",
-      "prob": 1,
-      "change": -45.0,
-      "vol24": "$742K",
-      "slug": "lol-lng-nip-2026-07-26-game2"
+      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "prob": 80,
+      "change": 0.6,
+      "vol24": "$1.1M",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting"
     }
   ]
 }
