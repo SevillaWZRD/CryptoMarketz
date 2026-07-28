@@ -1,65 +1,65 @@
 {
-  "date": "Monday July 27, 2026",
-  "generated": "2026-07-27T10:30:27.295800Z",
-  "brief": "# ZIMR CAPITAL MARKET BRIEFING | Monday, July 27, 2026\n\n## Headline\n**Korean Esports Sentiment Whipsaws as T1 Academy Solidifies, While Fed Rate Hold Locks in at 80%**\n\n---\n\n## Market Intelligence\n\n**The Signal:** Korean League of Legends markets are experiencing violent repricing ahead of KeSPA Cup matchups. KT Rolster vs Gen.G (BO1) collapsed 61.5% to 1% overnight despite $1.1M in volume\u2014classic late-hour capitulation that suggests sharp money exited long positions. Conversely, T1 Academy swept both Game 1 and Game 2 winner markets hard upward (+40.5% and +59.5%), now pricing the academy team as near-certain victors in their BO3 series (76% probability). This bifurcation is telling: bettors are rotating confidence *away* from legacy powerhouses (KT, Gen.G, Dplus KIA) and *toward* T1's farm system.\n\n**What Smart Money Is Doing:** The Fed rate hold (80% probability, $1.1M volume) is essentially priced to certainty\u2014this is a park-your-capital trade, not a conviction play. The real action is in esports and geopolitics. On Iran, ceasefire odds have ticked up 14% to 56% while halt-in-offensive fell 16.5% to 38%. Smart traders are pricing a *de-escalation narrative* as more likely than full pause, suggesting incremental diplomatic moves are being factored in. The Adanech Abiebie PM market ($2M volume, 1% odds) remains a low-probability tail-risk hedge for Ethiopian political traders.\n\n**Mispricing Alert:** T1 Academy at 76% in a BO3 looks *tight*. While momentum is real, that's near-elimination odds for Nongshim Esports Academy despite being the incumbent LCK Challengers squad. The market may be overweighting recent form. Conversely, Hanwha Life vs Kiwoom DRX locked at 99% is a red flag\u2014no BO1 should ever be that certain. Likely a technical mismatch or liquidity crunch, not edge.\n\n---\n\n## Watch List\n\n1. **KT Rolster vs Gen.G (KeSPA Cup)** \u2013 *Why:* Down to 1% after violent 61.5% selloff. If this is a Gen.G backlash play, watch for contrarian volume inflows near match time. Sharp money may be building a recovery position.\n\n2. **US x Iran Effective Ceasefire by July 31** \u2013 *Why:* Now at 56% (+14% today). Geopolitical markets are liquidity-sensitive and mean-reverting. Any headline from State Dept or UN will cause immediate repricing. This has room to swing 10-15% either direction on news.\n\n3. **Fed Rate Cut 50+ bps post-July meeting** \u2013 *Why:* At 1% ($899K volume), this is the *true* tail risk. If inflation data disappoints this week, this could spike to 5-8%. Asymmetric risk for macro traders hedging rate surprise.\n\n---\n\n**ZIMR Capital | Polymarket Intelligence**",
+  "date": "Tuesday July 28, 2026",
+  "generated": "2026-07-28T09:29:06.668480Z",
+  "brief": "# Market's Screaming: Iran Peace + Apple Coronation + Fed Hold\n\n**The Signal:** Polymarket is pricing in a near-certain US-Iran ceasefire announcement by July 31 (99%), with mega-volume rotation into Apple dominance over NVIDIA by month-end. The Fed appears locked into a hold, but there's still real uncertainty baked into rate cut odds\u2014smart money isn't fully convinced the hawkish line holds.\n\n**What Smart Money Is Doing:** The Iran trades are screaming geopolitical de-escalation\u2014$2.7M flooded the July 31 cessation market in 24 hours with a +63.9% pump, suggesting either genuine intel or coordinated positioning ahead of an announcement. Meanwhile, the NVIDIA collapse (-58% on the \"largest company\" bet) paired with Apple's +56% surge signals conviction that the AI trade's valuation peak is in the rearview mirror. This isn't noise\u2014it's a structural rotation call. The Fed deck looks stacked for a hold (73%), but the 26% on a 25bp increase whispers that inflation concerns haven't fully died; don't sleep on a surprise hawkish pivot.\n\n**The Mispricing:** Bitcoin volatility is the tell. $62.5K dip is 66% (realistic), but $67.5K by July 31 is criminally underpriced at 7%. Given we're seeing capital flee high-valuation tech, BTC should be a natural beneficiary. Risk/reward favors Bitcoin strength here.\n\n---\n\n## WATCH LIST\n\n**1. US Announces Halt in Iran Offensive Operations by July 31 (99%)**\n- *Why:* This has all the hallmarks of a pre-announced deal. 99% pricing leaves almost no margin for error. Watch for official statements or diplomatic leaks\u2014if this breaks below 95%, it signals something spooked the market badly.\n\n**2. Will Apple Be Largest Company by July 31 (79%)**\n- *Why:* NVIDIA's collapse into this trade is meaningful. Track Apple/NVIDIA market cap spread intraday. A reversal here could signal mean reversion in mega-cap AI narratives.\n\n**3. Will Bitcoin Reach $67,500 in July (7%)**\n- *Why:* Severely underpriced given capital flows out of tech. Only 4 days left in July\u2014if BTC breaks $66K, this moves fast. Best risk/reward bet on the board.",
   "top_movers": [
     {
-      "question": "LoL: KT Rolster vs Gen.G (BO1) - KeSPA Cup Group Stage",
-      "prob": 1,
-      "change": -61.5,
-      "vol24": "$1.1M",
-      "slug": "lol-kt-gen-2026-07-27"
-    },
-    {
-      "question": "LoL: T1 Academy vs Nongshim Esports Academy - Game 2 Winner",
-      "prob": 1,
-      "change": -59.5,
-      "vol24": "$216K",
-      "slug": "lol-t1a-nsea-2026-07-27-game2"
-    },
-    {
-      "question": "LoL: Hanwha Life Esports vs Kiwoom DRX (BO1) - KeSPA Cup Group Stage",
+      "question": "US announces halt in Iran offensive operations by July 31?",
       "prob": 99,
-      "change": 55.5,
-      "vol24": "$716K",
-      "slug": "lol-hle1-drx-2026-07-27"
+      "change": 63.9,
+      "vol24": "$2.7M",
+      "slug": "will-the-us-announce-an-iran-ceasefire-by-july-31-20260718000915875"
     },
     {
-      "question": "LoL: T1 Academy vs Nongshim Esports Academy - Game 1 Winner",
-      "prob": 99,
-      "change": 40.5,
+      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
+      "prob": 20,
+      "change": -58.0,
       "vol24": "$143K",
-      "slug": "lol-t1a-nsea-2026-07-27-game1"
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841"
     },
     {
-      "question": "Counter-Strike: CYBERSHOKE Esports vs Team Comanche (BO3) - CIS LAN Championship Group A",
-      "prob": 50,
-      "change": -40.0,
-      "vol24": "$162K",
-      "slug": "cs2-cs1-tc2-2026-07-27"
+      "question": "Will Apple be the largest company in the world by market cap on July 31?",
+      "prob": 79,
+      "change": 56.0,
+      "vol24": "$123K",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843"
+    },
+    {
+      "question": "US announces halt in Iran offensive operations by August 15?",
+      "prob": 99,
+      "change": 42.4,
+      "vol24": "$133K",
+      "slug": "us-announces-halt-in-iran-offensive-operations-by-august-15"
+    },
+    {
+      "question": "Will Bitcoin dip to $62,500 in July?",
+      "prob": 66,
+      "change": 40.4,
+      "vol24": "$173K",
+      "slug": "will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
+      "question": "Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?",
       "prob": 1,
-      "change": 0.1,
-      "vol24": "$2.0M",
-      "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia"
+      "change": 0,
+      "vol24": "$3.3M",
+      "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-july-2026-meeting"
     },
     {
-      "question": "LoL: KT Rolster vs Gen.G (BO1) - KeSPA Cup Group Stage",
-      "prob": 1,
-      "change": -61.5,
-      "vol24": "$1.1M",
-      "slug": "lol-kt-gen-2026-07-27"
+      "question": "US announces halt in Iran offensive operations by July 31?",
+      "prob": 99,
+      "change": 63.9,
+      "vol24": "$2.7M",
+      "slug": "will-the-us-announce-an-iran-ceasefire-by-july-31-20260718000915875"
     },
     {
-      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "prob": 80,
-      "change": 0.6,
-      "vol24": "$1.1M",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting"
+      "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "prob": 26,
+      "change": 6.8,
+      "vol24": "$2.4M",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting"
     }
   ]
 }
