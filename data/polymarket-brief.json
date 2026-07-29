@@ -1,65 +1,65 @@
 {
-  "date": "Tuesday July 28, 2026",
-  "generated": "2026-07-28T09:29:06.668480Z",
-  "brief": "# Market's Screaming: Iran Peace + Apple Coronation + Fed Hold\n\n**The Signal:** Polymarket is pricing in a near-certain US-Iran ceasefire announcement by July 31 (99%), with mega-volume rotation into Apple dominance over NVIDIA by month-end. The Fed appears locked into a hold, but there's still real uncertainty baked into rate cut odds\u2014smart money isn't fully convinced the hawkish line holds.\n\n**What Smart Money Is Doing:** The Iran trades are screaming geopolitical de-escalation\u2014$2.7M flooded the July 31 cessation market in 24 hours with a +63.9% pump, suggesting either genuine intel or coordinated positioning ahead of an announcement. Meanwhile, the NVIDIA collapse (-58% on the \"largest company\" bet) paired with Apple's +56% surge signals conviction that the AI trade's valuation peak is in the rearview mirror. This isn't noise\u2014it's a structural rotation call. The Fed deck looks stacked for a hold (73%), but the 26% on a 25bp increase whispers that inflation concerns haven't fully died; don't sleep on a surprise hawkish pivot.\n\n**The Mispricing:** Bitcoin volatility is the tell. $62.5K dip is 66% (realistic), but $67.5K by July 31 is criminally underpriced at 7%. Given we're seeing capital flee high-valuation tech, BTC should be a natural beneficiary. Risk/reward favors Bitcoin strength here.\n\n---\n\n## WATCH LIST\n\n**1. US Announces Halt in Iran Offensive Operations by July 31 (99%)**\n- *Why:* This has all the hallmarks of a pre-announced deal. 99% pricing leaves almost no margin for error. Watch for official statements or diplomatic leaks\u2014if this breaks below 95%, it signals something spooked the market badly.\n\n**2. Will Apple Be Largest Company by July 31 (79%)**\n- *Why:* NVIDIA's collapse into this trade is meaningful. Track Apple/NVIDIA market cap spread intraday. A reversal here could signal mean reversion in mega-cap AI narratives.\n\n**3. Will Bitcoin Reach $67,500 in July (7%)**\n- *Why:* Severely underpriced given capital flows out of tech. Only 4 days left in July\u2014if BTC breaks $66K, this moves fast. Best risk/reward bet on the board.",
+  "date": "Wednesday July 29, 2026",
+  "generated": "2026-07-29T09:30:59.923693Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | Wednesday, July 29, 2026\n\n## Headline\n**Fed Holds Firm: Markets Price Out Rate Cuts as Powell Signals Patience**\n\n---\n\n## The Signal\n\nThe Fed decision looms, and the market has spoken decisively. No-change odds sit at 79% (+6.6% today, $3.2M volume), while rate-cut scenarios have collapsed to 1% each despite massive liquidity ($4.6M on 25bps cut alone). This isn't noise\u2014it's conviction. The 78-point spread between holding and cutting suggests traders have already priced in Powell's hawkish guidance, likely from recent communications signaling inflation concerns persist.\n\nSmart money is rotating hard out of dovish scenarios. The volume spike in rate-cut contracts paired with their compression to penny prices indicates liquidation, not accumulation. Expect this to anchor crypto\u2014BTC's failure to dip below $60K (now only 6% likely, down 10% today) sits in a constrained range pending Fed clarity, but a hold decision could unlock upside volatility into month-end.\n\n**The Mispricing:** Iran ceasefire odds are cratering (36% \u2192 41% for July 31 window) on modest volume. Geopolitical tail-risk is mispriced lower than typical VIX futures imply\u2014if there's a surprise escalation, these contracts could gap hard higher.\n\n---\n\n## Watch List\n\n1. **Will the Fed decrease interest rates by 25 bps? (1%, $4.6M vol)** \u2014 Highest liquidity contract. A surprise cut would trigger immediate cascading liquidations in USD/risk-on trades. Monitor any pre-meeting commentary drift.\n\n2. **US x Iran Effective Ceasefire by July 31? (41%, $323K vol)** \u2014 Low liquidity, high conviction short. Could be asymmetric upside if negotiations accelerate; watch for overnight geopolitical wires.\n\n3. **Los Cabos Open: Svrcina vs Walton (99%, +62.5% rip)** \u2014 Likely decided match now priced for near-certainty. Only contrarian value if Walton pulls off upset; monitor injury/late scratches before close.",
   "top_movers": [
     {
-      "question": "US announces halt in Iran offensive operations by July 31?",
+      "question": "Los Cabos Open: Dalibor Svrcina vs Adam Walton",
       "prob": 99,
-      "change": 63.9,
-      "vol24": "$2.7M",
-      "slug": "will-the-us-announce-an-iran-ceasefire-by-july-31-20260718000915875"
+      "change": 62.5,
+      "vol24": "$1.3M",
+      "slug": "atp-svrcina-walton-2026-07-27"
     },
     {
-      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
-      "prob": 20,
-      "change": -58.0,
-      "vol24": "$143K",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841"
+      "question": "LoL: Kiwoom DRX vs Nongshim Red Force - Game 2 Winner",
+      "prob": 1,
+      "change": -41.4,
+      "vol24": "$1.1M",
+      "slug": "lol-drx-ns-2026-07-29-game2"
     },
     {
-      "question": "Will Apple be the largest company in the world by market cap on July 31?",
-      "prob": 79,
-      "change": 56.0,
-      "vol24": "$123K",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843"
+      "question": "LoL: Kiwoom DRX vs Nongshim Red Force - Game 1 Winner",
+      "prob": 1,
+      "change": -41.4,
+      "vol24": "$882K",
+      "slug": "lol-drx-ns-2026-07-29-game1"
     },
     {
-      "question": "US announces halt in Iran offensive operations by August 15?",
-      "prob": 99,
-      "change": 42.4,
-      "vol24": "$133K",
-      "slug": "us-announces-halt-in-iran-offensive-operations-by-august-15"
+      "question": "LoL: Kiwoom DRX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+      "prob": 1,
+      "change": -37.0,
+      "vol24": "$747K",
+      "slug": "lol-drx-ns-2026-07-29"
     },
     {
-      "question": "Will Bitcoin dip to $62,500 in July?",
-      "prob": 66,
-      "change": 40.4,
-      "vol24": "$173K",
-      "slug": "will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14"
+      "question": "Will Elon Musk post <40 tweets from July 27 to July 29, 2026?",
+      "prob": 1,
+      "change": -18.9,
+      "vol24": "$151K",
+      "slug": "elon-musk-of-tweets-july-27-july-29-0-39"
     }
   ],
   "top_vol": [
     {
-      "question": "Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?",
+      "question": "Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?",
       "prob": 1,
       "change": 0,
+      "vol24": "$4.6M",
+      "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-july-2026-meeting"
+    },
+    {
+      "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
+      "prob": 1,
+      "change": 0.1,
+      "vol24": "$4.5M",
+      "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia"
+    },
+    {
+      "question": "Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?",
+      "prob": 1,
+      "change": -0.3,
       "vol24": "$3.3M",
-      "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-july-2026-meeting"
-    },
-    {
-      "question": "US announces halt in Iran offensive operations by July 31?",
-      "prob": 99,
-      "change": 63.9,
-      "vol24": "$2.7M",
-      "slug": "will-the-us-announce-an-iran-ceasefire-by-july-31-20260718000915875"
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-      "prob": 26,
-      "change": 6.8,
-      "vol24": "$2.4M",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting"
+      "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting"
     }
   ]
 }
