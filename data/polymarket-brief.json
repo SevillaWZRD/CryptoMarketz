@@ -1,65 +1,65 @@
 {
-  "date": "Wednesday July 29, 2026",
-  "generated": "2026-07-29T09:30:59.923693Z",
-  "brief": "# ZIMR POLYMARKET BRIEFING | Wednesday, July 29, 2026\n\n## Headline\n**Fed Holds Firm: Markets Price Out Rate Cuts as Powell Signals Patience**\n\n---\n\n## The Signal\n\nThe Fed decision looms, and the market has spoken decisively. No-change odds sit at 79% (+6.6% today, $3.2M volume), while rate-cut scenarios have collapsed to 1% each despite massive liquidity ($4.6M on 25bps cut alone). This isn't noise\u2014it's conviction. The 78-point spread between holding and cutting suggests traders have already priced in Powell's hawkish guidance, likely from recent communications signaling inflation concerns persist.\n\nSmart money is rotating hard out of dovish scenarios. The volume spike in rate-cut contracts paired with their compression to penny prices indicates liquidation, not accumulation. Expect this to anchor crypto\u2014BTC's failure to dip below $60K (now only 6% likely, down 10% today) sits in a constrained range pending Fed clarity, but a hold decision could unlock upside volatility into month-end.\n\n**The Mispricing:** Iran ceasefire odds are cratering (36% \u2192 41% for July 31 window) on modest volume. Geopolitical tail-risk is mispriced lower than typical VIX futures imply\u2014if there's a surprise escalation, these contracts could gap hard higher.\n\n---\n\n## Watch List\n\n1. **Will the Fed decrease interest rates by 25 bps? (1%, $4.6M vol)** \u2014 Highest liquidity contract. A surprise cut would trigger immediate cascading liquidations in USD/risk-on trades. Monitor any pre-meeting commentary drift.\n\n2. **US x Iran Effective Ceasefire by July 31? (41%, $323K vol)** \u2014 Low liquidity, high conviction short. Could be asymmetric upside if negotiations accelerate; watch for overnight geopolitical wires.\n\n3. **Los Cabos Open: Svrcina vs Walton (99%, +62.5% rip)** \u2014 Likely decided match now priced for near-certainty. Only contrarian value if Walton pulls off upset; monitor injury/late scratches before close.",
+  "date": "Thursday July 30, 2026",
+  "generated": "2026-07-30T09:23:27.090031Z",
+  "brief": "# ZIMR CAPITAL MARKET INTELLIGENCE\n## Thursday, July 30, 2026\n\n---\n\n## HEADLINE\n**Ninjas in Pyjamas Hype Machine Hits Absurdity: 99% Prices Are Efficiency Killer, Not Signal**\n\n---\n\n## THE SIGNAL\n\nThe LoL market is experiencing a classic bubble collapse in real-time. NiP vs Weibo Gaming has hit 99% across three related markets (series, Game 1, Game 2) with massive volume ($595K-$709K per contract). This isn't conviction\u2014it's a liquidity trap. When binary sports outcomes trade above 95%, you're watching momentum-chasing retail, not information discovery. The inverse signal is sharper: **DK Challengers vs T1 Academy Game 2 is priced 1% despite $173K volume today**, suggesting forced liquidations or serious contrarian positioning from smart money dumping exposure.\n\n**What this means:** The $1M+ volume in geopolitical markets (Ethiopia PM race, Iran conflict scenarios, Fed rates) shows serious money is rotating OUT of gaming verticals and INTO macro uncertainty. Volume in \"no change Fed rates September\" at 38% / $1.3M is the real tell\u2014institutions are hedging for policy shock. The Iran ceasefire collapsing from 30%+ to 20% (-20.5% today) is the morning's most important move.\n\n**The mispricing:** Bitcoin reaching $67.5K in July is 2% with $220K volume. It's July 30. If we're not there by EOD tomorrow, this is free money for anyone who bought at 2%. Either BTC pumps 6%+ in 24 hours or this resolves NO. That's not a prediction market, that's a liquidation event.\n\n---\n\n## WATCH LIST\n\n1. **US x Iran Effective Ceasefire by July 31** (20%, -20.5%) \u2014 Down hard today. If escalation headlines drop tonight, this could swing 5-10%. Smart money is clearly de-risking. Monitor for any diplomatic statements at 2-6pm UTC.\n\n2. **Bitcoin $67.5K by July 31** (2%) \u2014 Market-implied move is 6%+. With 24 hours left, this is either a joke price or there's genuine concern about BTC getting trapped below $63.5K into month-end. Arb opportunity if you have conviction on spot holdings.\n\n3. **Fed No-Change September** (38%, $1.3M volume) \u2014 Highest macro volume of the day. Each 1% move here represents ~$13M notional risk. Watch for any PCE/employment surprises that could shift this 5-7 points by EOD.\n\n---\n\n*ZIMR Capital | Markets don't lie, but 99% odds usually do.*",
   "top_movers": [
     {
-      "question": "Los Cabos Open: Dalibor Svrcina vs Adam Walton",
+      "question": "LoL: Ninjas in Pyjamas vs Weibo Gaming (BO3) - LPL Group Nirvana",
       "prob": 99,
       "change": 62.5,
-      "vol24": "$1.3M",
-      "slug": "atp-svrcina-walton-2026-07-27"
+      "vol24": "$595K",
+      "slug": "lol-nip-wb-2026-07-30"
     },
     {
-      "question": "LoL: Kiwoom DRX vs Nongshim Red Force - Game 2 Winner",
-      "prob": 1,
-      "change": -41.4,
-      "vol24": "$1.1M",
-      "slug": "lol-drx-ns-2026-07-29-game2"
+      "question": "LoL: Ninjas in Pyjamas vs Weibo Gaming - Game 1 Winner",
+      "prob": 99,
+      "change": 61.5,
+      "vol24": "$709K",
+      "slug": "lol-nip-wb-2026-07-30-game1"
     },
     {
-      "question": "LoL: Kiwoom DRX vs Nongshim Red Force - Game 1 Winner",
-      "prob": 1,
-      "change": -41.4,
-      "vol24": "$882K",
-      "slug": "lol-drx-ns-2026-07-29-game1"
+      "question": "LoL: Ninjas in Pyjamas vs Weibo Gaming - Game 2 Winner",
+      "prob": 99,
+      "change": 60.5,
+      "vol24": "$535K",
+      "slug": "lol-nip-wb-2026-07-30-game2"
     },
     {
-      "question": "LoL: Kiwoom DRX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
-      "prob": 1,
-      "change": -37.0,
-      "vol24": "$747K",
-      "slug": "lol-drx-ns-2026-07-29"
+      "question": "LoL: Dplus KIA Challengers vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+      "prob": 99,
+      "change": 60.0,
+      "vol24": "$300K",
+      "slug": "lol-dkc-t1a-2026-07-30"
     },
     {
-      "question": "Will Elon Musk post <40 tweets from July 27 to July 29, 2026?",
+      "question": "LoL: Dplus KIA Challengers vs T1 Academy - Game 2 Winner",
       "prob": 1,
-      "change": -18.9,
-      "vol24": "$151K",
-      "slug": "elon-musk-of-tweets-july-27-july-29-0-39"
+      "change": -43.5,
+      "vol24": "$173K",
+      "slug": "lol-dkc-t1a-2026-07-30-game2"
     }
   ],
   "top_vol": [
     {
-      "question": "Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?",
+      "question": "Will Berhanu Nega be the next Prime Minister of Ethiopia?",
       "prob": 1,
-      "change": 0,
-      "vol24": "$4.6M",
-      "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-july-2026-meeting"
+      "change": 0.1,
+      "vol24": "$8.4M",
+      "slug": "will-berhanu-nega-be-the-next-prime-minister-of-ethiopia"
     },
     {
       "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
       "prob": 1,
       "change": 0.1,
-      "vol24": "$4.5M",
+      "vol24": "$2.0M",
       "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia"
     },
     {
-      "question": "Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?",
-      "prob": 1,
-      "change": -0.3,
-      "vol24": "$3.3M",
-      "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting"
+      "question": "Will the U.S. invade Iran before 2027?",
+      "prob": 26,
+      "change": 3.0,
+      "vol24": "$1.4M",
+      "slug": "will-the-us-invade-iran-before-2027"
     }
   ]
 }
