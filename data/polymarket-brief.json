@@ -1,65 +1,65 @@
 {
-  "date": "Thursday July 30, 2026",
-  "generated": "2026-07-30T09:23:27.090031Z",
-  "brief": "# ZIMR CAPITAL MARKET INTELLIGENCE\n## Thursday, July 30, 2026\n\n---\n\n## HEADLINE\n**Ninjas in Pyjamas Hype Machine Hits Absurdity: 99% Prices Are Efficiency Killer, Not Signal**\n\n---\n\n## THE SIGNAL\n\nThe LoL market is experiencing a classic bubble collapse in real-time. NiP vs Weibo Gaming has hit 99% across three related markets (series, Game 1, Game 2) with massive volume ($595K-$709K per contract). This isn't conviction\u2014it's a liquidity trap. When binary sports outcomes trade above 95%, you're watching momentum-chasing retail, not information discovery. The inverse signal is sharper: **DK Challengers vs T1 Academy Game 2 is priced 1% despite $173K volume today**, suggesting forced liquidations or serious contrarian positioning from smart money dumping exposure.\n\n**What this means:** The $1M+ volume in geopolitical markets (Ethiopia PM race, Iran conflict scenarios, Fed rates) shows serious money is rotating OUT of gaming verticals and INTO macro uncertainty. Volume in \"no change Fed rates September\" at 38% / $1.3M is the real tell\u2014institutions are hedging for policy shock. The Iran ceasefire collapsing from 30%+ to 20% (-20.5% today) is the morning's most important move.\n\n**The mispricing:** Bitcoin reaching $67.5K in July is 2% with $220K volume. It's July 30. If we're not there by EOD tomorrow, this is free money for anyone who bought at 2%. Either BTC pumps 6%+ in 24 hours or this resolves NO. That's not a prediction market, that's a liquidation event.\n\n---\n\n## WATCH LIST\n\n1. **US x Iran Effective Ceasefire by July 31** (20%, -20.5%) \u2014 Down hard today. If escalation headlines drop tonight, this could swing 5-10%. Smart money is clearly de-risking. Monitor for any diplomatic statements at 2-6pm UTC.\n\n2. **Bitcoin $67.5K by July 31** (2%) \u2014 Market-implied move is 6%+. With 24 hours left, this is either a joke price or there's genuine concern about BTC getting trapped below $63.5K into month-end. Arb opportunity if you have conviction on spot holdings.\n\n3. **Fed No-Change September** (38%, $1.3M volume) \u2014 Highest macro volume of the day. Each 1% move here represents ~$13M notional risk. Watch for any PCE/employment surprises that could shift this 5-7 points by EOD.\n\n---\n\n*ZIMR Capital | Markets don't lie, but 99% odds usually do.*",
+  "date": "Friday July 31, 2026",
+  "generated": "2026-07-31T09:35:25.159143Z",
+  "brief": "# NVIDIA's Coronation Complete\u2014But Apple Collapse Raises Red Flags\n\n## THE SIGNAL\n\nNVIDIA has effectively locked in the largest-company-by-market-cap crown, with the Yes side rocketing from 4% to 90% in 24 hours on $629K volume. The corresponding Apple collapse (-86.5%) confirms this isn't noise\u2014it's a market repricing on a material catalyst. We're likely looking at earnings, acquisition chatter, or a broader AI narrative reassertion. The symmetry is too clean to ignore. Traders are rotating hard into the \"NVIDIA dominance\" thesis heading into month-end.\n\n## WHAT'S MOVING THE MONEY\n\nSmart money appears to have gotten ahead of Thursday's close. The $525K inflow into Apple's No camp suggests someone with size saw the NVIDIA momentum and cut Apple's odds surgically rather than probabilistically. This is institutional positioning, not retail panic. The real tell: no one's questioning NVIDIA's 90% anymore\u2014it's now priced-in baseline. Watch for profit-taking if the market opens flat.\n\n## THE MISPRICING\n\n**Hamas disarmament at 90%** is the outlier. A +47.5% spike on $364K volume smells like a single large bet or breaking news we haven't triangulated yet. This is underinforming\u2014check your Reuters feed before market open. Meanwhile, **Fed rate cut odds at 3%** on $920K volume looks crushed; traders are pricing in stronger July inflation data than consensus expects.\n\n---\n\n## WATCH LIST\n\n1. **NVIDIA market cap lead (90%)** \u2013 Watch for profit-taking or confirmation breakout at open. $629K volume is real; any reversal below 75% signals a fakeout.\n\n2. **Hamas disarmament (90%, +47.5%)** \u2013 Volume/catalyst mismatch demands clarification. If this holds above 80%, there's geopolitical news priced in you're missing.\n\n3. **Fed rate cut probability (3%)** \u2013 Historically depressed for a September meeting 6 weeks out. If this dips below 2%, the market is pricing in a 50+ bps hiking cycle. Track Treasury futures.",
   "top_movers": [
     {
-      "question": "LoL: Ninjas in Pyjamas vs Weibo Gaming (BO3) - LPL Group Nirvana",
-      "prob": 99,
-      "change": 62.5,
-      "vol24": "$595K",
-      "slug": "lol-nip-wb-2026-07-30"
+      "question": "Will Apple be the largest company in the world by market cap on July 31?",
+      "prob": 10,
+      "change": -86.5,
+      "vol24": "$525K",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843"
     },
     {
-      "question": "LoL: Ninjas in Pyjamas vs Weibo Gaming - Game 1 Winner",
-      "prob": 99,
-      "change": 61.5,
-      "vol24": "$709K",
-      "slug": "lol-nip-wb-2026-07-30-game1"
+      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
+      "prob": 90,
+      "change": 86.2,
+      "vol24": "$629K",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841"
     },
     {
-      "question": "LoL: Ninjas in Pyjamas vs Weibo Gaming - Game 2 Winner",
-      "prob": 99,
-      "change": 60.5,
-      "vol24": "$535K",
-      "slug": "lol-nip-wb-2026-07-30-game2"
-    },
-    {
-      "question": "LoL: Dplus KIA Challengers vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
-      "prob": 99,
-      "change": 60.0,
-      "vol24": "$300K",
-      "slug": "lol-dkc-t1a-2026-07-30"
-    },
-    {
-      "question": "LoL: Dplus KIA Challengers vs T1 Academy - Game 2 Winner",
+      "question": "LoL: Gen.G vs T1 - Game 1 Winner",
       "prob": 1,
-      "change": -43.5,
-      "vol24": "$173K",
-      "slug": "lol-dkc-t1a-2026-07-30-game2"
+      "change": -57.5,
+      "vol24": "$965K",
+      "slug": "lol-gen-t1-2026-07-31-game1"
+    },
+    {
+      "question": "LoL: KT Rolster Challengers vs DN SOOPers Challengers - Game 2 Winner",
+      "prob": 1,
+      "change": -54.4,
+      "vol24": "$165K",
+      "slug": "lol-ktc-dnsc-2026-07-31-game2"
+    },
+    {
+      "question": "Will Hamas agree to disarm by December 31?",
+      "prob": 90,
+      "change": 47.5,
+      "vol24": "$364K",
+      "slug": "will-hamas-agree-to-disarm-by-december-31"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Berhanu Nega be the next Prime Minister of Ethiopia?",
-      "prob": 1,
-      "change": 0.1,
-      "vol24": "$8.4M",
-      "slug": "will-berhanu-nega-be-the-next-prime-minister-of-ethiopia"
-    },
-    {
       "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
       "prob": 1,
-      "change": 0.1,
-      "vol24": "$2.0M",
+      "change": -0.1,
+      "vol24": "$15.6M",
       "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia"
     },
     {
-      "question": "Will the U.S. invade Iran before 2027?",
-      "prob": 26,
-      "change": 3.0,
-      "vol24": "$1.4M",
-      "slug": "will-the-us-invade-iran-before-2027"
+      "question": "LoL: Gen.G vs T1 - Game 1 Winner",
+      "prob": 1,
+      "change": -57.5,
+      "vol24": "$965K",
+      "slug": "lol-gen-t1-2026-07-31-game1"
+    },
+    {
+      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+      "prob": 3,
+      "change": -0.1,
+      "vol24": "$920K",
+      "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586"
     }
   ]
 }
