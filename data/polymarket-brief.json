@@ -1,65 +1,65 @@
 {
-  "date": "Friday July 31, 2026",
-  "generated": "2026-07-31T09:35:25.159143Z",
-  "brief": "# NVIDIA's Coronation Complete\u2014But Apple Collapse Raises Red Flags\n\n## THE SIGNAL\n\nNVIDIA has effectively locked in the largest-company-by-market-cap crown, with the Yes side rocketing from 4% to 90% in 24 hours on $629K volume. The corresponding Apple collapse (-86.5%) confirms this isn't noise\u2014it's a market repricing on a material catalyst. We're likely looking at earnings, acquisition chatter, or a broader AI narrative reassertion. The symmetry is too clean to ignore. Traders are rotating hard into the \"NVIDIA dominance\" thesis heading into month-end.\n\n## WHAT'S MOVING THE MONEY\n\nSmart money appears to have gotten ahead of Thursday's close. The $525K inflow into Apple's No camp suggests someone with size saw the NVIDIA momentum and cut Apple's odds surgically rather than probabilistically. This is institutional positioning, not retail panic. The real tell: no one's questioning NVIDIA's 90% anymore\u2014it's now priced-in baseline. Watch for profit-taking if the market opens flat.\n\n## THE MISPRICING\n\n**Hamas disarmament at 90%** is the outlier. A +47.5% spike on $364K volume smells like a single large bet or breaking news we haven't triangulated yet. This is underinforming\u2014check your Reuters feed before market open. Meanwhile, **Fed rate cut odds at 3%** on $920K volume looks crushed; traders are pricing in stronger July inflation data than consensus expects.\n\n---\n\n## WATCH LIST\n\n1. **NVIDIA market cap lead (90%)** \u2013 Watch for profit-taking or confirmation breakout at open. $629K volume is real; any reversal below 75% signals a fakeout.\n\n2. **Hamas disarmament (90%, +47.5%)** \u2013 Volume/catalyst mismatch demands clarification. If this holds above 80%, there's geopolitical news priced in you're missing.\n\n3. **Fed rate cut probability (3%)** \u2013 Historically depressed for a September meeting 6 weeks out. If this dips below 2%, the market is pricing in a 50+ bps hiking cycle. Track Treasury futures.",
+  "date": "Saturday August 01, 2026",
+  "generated": "2026-08-01T08:58:37.729010Z",
+  "brief": "# ZIMR DAILY BRIEFING | Saturday, August 1, 2026\n\n## Headline\n**Gaming Markets Priced to Perfection; Bitcoin Capitulation Real or Trap?**\n\n---\n\n## The Signal\n\nThe market is telling two contradictory stories today. **LoL esports** is running *aggressively hot*\u2014Anyone's Legend vs ThunderTalk Gaming trades at 99% across both Game 1 and Game 2, with $1.6M combined volume. Nongshim Red Force similarly at 99% for Game 1. These aren't just confident; they're *certainty trades*. Either the matchups are genuinely lopsided, or liquidity providers are pricing in heavy institutional backing. Watch for capitulation if underdogs land a single map.\n\n**Bitcoin tells a different story.** The $64K price target crashed 41.8% overnight\u2014now sitting at just 4%\u2014yet the \"Bitcoin Up or Down\" contract surged to 92%. This is the tell: traders confidently expect *any upside* by midnight UTC but are heavily hedging against breaking $64K specifically. Smart money may be positioning for a bounce into weekend close without conviction on magnitude. The $160K volume on the $64K level suggests real liquidation risk below $63.5K.\n\nThe massive $1.1M dump into the anti-cartel operation market (now 1%) is a capitulation unwind. This was either meme-priced at 50% or someone closed a large position. Low signal here\u2014check back Monday for real clarity.\n\n---\n\n## Watch List\n\n1. **Bitcoin $64K Level** \u2014 $160K volume + 41.8% dump = capitulation confirmation. If BTC holds $62.8K-$63.2K through Asian hours, expect retest of $64.5K. If it breaks $62.5K, 92% \"Up or Down\" contract reverses hard.\n\n2. **Hamas Disarmament (66%, -24%)** \u2014 Volume ($570K) suggests real flows. 24% pullback on a geopolitical binary is either profit-taking or new ceasefire intel. Monitor Al Jazeera / Reuters feeds closely.\n\n3. **LoL Anyone's Legend G1** \u2014 At 99%, any upset victory pays 50:1. Risk/reward is asymmetric but execution risk is real. Early game intel from pro streams will move this 5-10% in final 2 hours before lockup.",
   "top_movers": [
     {
-      "question": "Will Apple be the largest company in the world by market cap on July 31?",
-      "prob": 10,
-      "change": -86.5,
-      "vol24": "$525K",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843"
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
-      "prob": 90,
-      "change": 86.2,
-      "vol24": "$629K",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841"
-    },
-    {
-      "question": "LoL: Gen.G vs T1 - Game 1 Winner",
+      "question": "U.S. anti-cartel operation outside of the U.S. by July 31?",
       "prob": 1,
-      "change": -57.5,
-      "vol24": "$965K",
-      "slug": "lol-gen-t1-2026-07-31-game1"
+      "change": -72.5,
+      "vol24": "$1.1M",
+      "slug": "uptspt-anti-cartel-operation-outside-of-the-uptspt-by-july-31-20260616215440524"
     },
     {
-      "question": "LoL: KT Rolster Challengers vs DN SOOPers Challengers - Game 2 Winner",
-      "prob": 1,
-      "change": -54.4,
-      "vol24": "$165K",
-      "slug": "lol-ktc-dnsc-2026-07-31-game2"
+      "question": "LoL: Nongshim Red Force vs BNK FEARX - Game 1 Winner",
+      "prob": 99,
+      "change": 55.5,
+      "vol24": "$780K",
+      "slug": "lol-ns-fox1-2026-08-01-game1"
     },
     {
-      "question": "Will Hamas agree to disarm by December 31?",
-      "prob": 90,
-      "change": 47.5,
-      "vol24": "$364K",
-      "slug": "will-hamas-agree-to-disarm-by-december-31"
+      "question": "Game Handicap: AL (-1.5) vs ThunderTalk Gaming (+1.5)",
+      "prob": 99,
+      "change": 44.0,
+      "vol24": "$358K",
+      "slug": "lol-al-tt-2026-08-01-game-handicap-away-1pt5"
+    },
+    {
+      "question": "Will the price of Bitcoin be above $64,000 on August 1?",
+      "prob": 4,
+      "change": -41.8,
+      "vol24": "$160K",
+      "slug": "bitcoin-above-64k-on-august-1-2026"
+    },
+    {
+      "question": "Bitcoin Up or Down on August 1?",
+      "prob": 92,
+      "change": 41.5,
+      "vol24": "$136K",
+      "slug": "bitcoin-up-or-down-on-august-1-2026"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
+      "question": "U.S. anti-cartel operation outside of the U.S. by July 31?",
       "prob": 1,
-      "change": -0.1,
-      "vol24": "$15.6M",
-      "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia"
+      "change": -72.5,
+      "vol24": "$1.1M",
+      "slug": "uptspt-anti-cartel-operation-outside-of-the-uptspt-by-july-31-20260616215440524"
     },
     {
-      "question": "LoL: Gen.G vs T1 - Game 1 Winner",
-      "prob": 1,
-      "change": -57.5,
-      "vol24": "$965K",
-      "slug": "lol-gen-t1-2026-07-31-game1"
+      "question": "LoL: Anyone's Legend vs ThunderTalk Gaming - Game 1 Winner",
+      "prob": 99,
+      "change": 29.4,
+      "vol24": "$873K",
+      "slug": "lol-al-tt-2026-08-01-game1"
     },
     {
-      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-      "prob": 3,
-      "change": -0.1,
-      "vol24": "$920K",
-      "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586"
+      "question": "LoL: Nongshim Red Force vs BNK FEARX - Game 1 Winner",
+      "prob": 99,
+      "change": 55.5,
+      "vol24": "$780K",
+      "slug": "lol-ns-fox1-2026-08-01-game1"
     }
   ]
 }
