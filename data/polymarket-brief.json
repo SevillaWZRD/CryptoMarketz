@@ -1,65 +1,65 @@
 {
-  "date": "Saturday August 01, 2026",
-  "generated": "2026-08-01T08:58:37.729010Z",
-  "brief": "# ZIMR DAILY BRIEFING | Saturday, August 1, 2026\n\n## Headline\n**Gaming Markets Priced to Perfection; Bitcoin Capitulation Real or Trap?**\n\n---\n\n## The Signal\n\nThe market is telling two contradictory stories today. **LoL esports** is running *aggressively hot*\u2014Anyone's Legend vs ThunderTalk Gaming trades at 99% across both Game 1 and Game 2, with $1.6M combined volume. Nongshim Red Force similarly at 99% for Game 1. These aren't just confident; they're *certainty trades*. Either the matchups are genuinely lopsided, or liquidity providers are pricing in heavy institutional backing. Watch for capitulation if underdogs land a single map.\n\n**Bitcoin tells a different story.** The $64K price target crashed 41.8% overnight\u2014now sitting at just 4%\u2014yet the \"Bitcoin Up or Down\" contract surged to 92%. This is the tell: traders confidently expect *any upside* by midnight UTC but are heavily hedging against breaking $64K specifically. Smart money may be positioning for a bounce into weekend close without conviction on magnitude. The $160K volume on the $64K level suggests real liquidation risk below $63.5K.\n\nThe massive $1.1M dump into the anti-cartel operation market (now 1%) is a capitulation unwind. This was either meme-priced at 50% or someone closed a large position. Low signal here\u2014check back Monday for real clarity.\n\n---\n\n## Watch List\n\n1. **Bitcoin $64K Level** \u2014 $160K volume + 41.8% dump = capitulation confirmation. If BTC holds $62.8K-$63.2K through Asian hours, expect retest of $64.5K. If it breaks $62.5K, 92% \"Up or Down\" contract reverses hard.\n\n2. **Hamas Disarmament (66%, -24%)** \u2014 Volume ($570K) suggests real flows. 24% pullback on a geopolitical binary is either profit-taking or new ceasefire intel. Monitor Al Jazeera / Reuters feeds closely.\n\n3. **LoL Anyone's Legend G1** \u2014 At 99%, any upset victory pays 50:1. Risk/reward is asymmetric but execution risk is real. Early game intel from pro streams will move this 5-10% in final 2 hours before lockup.",
+  "date": "Sunday August 02, 2026",
+  "generated": "2026-08-02T09:03:27.173717Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | SUNDAY, AUGUST 2, 2026\n\n## Headline\n**Ceasefire Holds, Iran Invasion Odds Crater\u2014But Trump-Carlson Bet Smells Like Resolved Noise**\n\n---\n\n## Market Signal\n\nThe geopolitical complex is pricing hard into a sustained Israel-Iran deescalation. The ceasefire-through-August-31 market jumped to 70% (+24h), while the even-money US invasion question sits at just 20% despite $2.7M in volume\u2014smart money is clearly off the doomsday trade. The $1.1M in \"effective ceasefire by July 31\" volume at 57% suggests some positioning hasn't fully caught up to the August 2 reality; expect that to compress hard if nothing breaks overnight.\n\n**Watch the Trump-Carlson insult bet carefully.** At 99% with $489K daily volume and +91% moves, this screams post-resolution noise or a technical glitch. The resolution criteria matter enormously here\u2014if it's already expired or hinges on a specific definition of \"public insult,\" you're watching players exit a dead market, not genuine price discovery. This isn't alpha; it's liquidity being pulled out.\n\nThe LoL markets are moving on event outcomes (games finishing 99% one way, then flipping to 1% the next series). High volume but zero signal for macro traders\u2014pure esports execution risk. Ignore unless you're arb-ing the book.\n\n---\n\n## Watch List\n\n**1. Israel x Iran ceasefire through August 15 (84%, $149K vol)**  \nThe most tradeable geopolitical market today. Only 13 days out; any escalation news hits hard and fast. Volume's thin relative to importance\u2014means wide bid-ask spreads but outsized moves on catalysts.\n\n**2. US invades Iran before 2027 (20%, $2.7M vol)**  \nThe heavyweight. Heavy volume but tepid odds = consensus has de-risked invasion. Watch for any Iran provocation or US rhetoric shift to catch contrarian value if this reprices north of 25%.\n\n**3. Trump-Macron insult by July 31 (1%, $663K vol)**  \nInverted cousin to the Carlson bet. At 1% it's essentially dead, but if this hasn't resolved yet, the resolution mechanics are worth understanding. Could be a litmus test for how ambiguous \"insult\" definitions get priced.",
   "top_movers": [
     {
-      "question": "U.S. anti-cartel operation outside of the U.S. by July 31?",
-      "prob": 1,
-      "change": -72.5,
+      "question": "Will Donald Trump publicly insult Tucker Carlson by July 31, 2026?",
+      "prob": 99,
+      "change": 91.0,
+      "vol24": "$489K",
+      "slug": "will-donald-trump-publicly-insult-tucker-carlson-by-july-31-2026-20260626210612710"
+    },
+    {
+      "question": "LoL: DN SOOPers vs HANJIN BRION - Game 1 Winner",
+      "prob": 99,
+      "change": 66.5,
+      "vol24": "$725K",
+      "slug": "lol-dnf-bro2-2026-08-02-game1"
+    },
+    {
+      "question": "LoL: ThunderTalk Gaming vs Team WE - Game 1 Winner",
+      "prob": 99,
+      "change": 60.5,
+      "vol24": "$1.0M",
+      "slug": "lol-tt-we-2026-08-02-game1"
+    },
+    {
+      "question": "US x Iran Effective Ceasefire by July 31?",
+      "prob": 57,
+      "change": 47.5,
       "vol24": "$1.1M",
-      "slug": "uptspt-anti-cartel-operation-outside-of-the-uptspt-by-july-31-20260616215440524"
+      "slug": "us-x-iran-effective-ceasfire-by-july-31-20260715194822045"
     },
     {
-      "question": "LoL: Nongshim Red Force vs BNK FEARX - Game 1 Winner",
-      "prob": 99,
-      "change": 55.5,
-      "vol24": "$780K",
-      "slug": "lol-ns-fox1-2026-08-01-game1"
-    },
-    {
-      "question": "Game Handicap: AL (-1.5) vs ThunderTalk Gaming (+1.5)",
-      "prob": 99,
-      "change": 44.0,
-      "vol24": "$358K",
-      "slug": "lol-al-tt-2026-08-01-game-handicap-away-1pt5"
-    },
-    {
-      "question": "Will the price of Bitcoin be above $64,000 on August 1?",
-      "prob": 4,
-      "change": -41.8,
-      "vol24": "$160K",
-      "slug": "bitcoin-above-64k-on-august-1-2026"
-    },
-    {
-      "question": "Bitcoin Up or Down on August 1?",
-      "prob": 92,
-      "change": 41.5,
-      "vol24": "$136K",
-      "slug": "bitcoin-up-or-down-on-august-1-2026"
+      "question": "LoL: ThunderTalk Gaming vs Team WE - Game 2 Winner",
+      "prob": 1,
+      "change": -39.5,
+      "vol24": "$898K",
+      "slug": "lol-tt-we-2026-08-02-game2"
     }
   ],
   "top_vol": [
     {
-      "question": "U.S. anti-cartel operation outside of the U.S. by July 31?",
-      "prob": 1,
-      "change": -72.5,
+      "question": "Will the U.S. invade Iran before 2027?",
+      "prob": 20,
+      "change": -5.0,
+      "vol24": "$2.7M",
+      "slug": "will-the-us-invade-iran-before-2027"
+    },
+    {
+      "question": "Israel x Iran ceasefire continues through August 2?",
+      "prob": 98,
+      "change": 17.9,
+      "vol24": "$1.6M",
+      "slug": "israel-x-iran-ceasefire-continues-through-august-2-20260727170555149"
+    },
+    {
+      "question": "Israel x Iran ceasefire continues through August 1?",
+      "prob": 99,
+      "change": 5.3,
       "vol24": "$1.1M",
-      "slug": "uptspt-anti-cartel-operation-outside-of-the-uptspt-by-july-31-20260616215440524"
-    },
-    {
-      "question": "LoL: Anyone's Legend vs ThunderTalk Gaming - Game 1 Winner",
-      "prob": 99,
-      "change": 29.4,
-      "vol24": "$873K",
-      "slug": "lol-al-tt-2026-08-01-game1"
-    },
-    {
-      "question": "LoL: Nongshim Red Force vs BNK FEARX - Game 1 Winner",
-      "prob": 99,
-      "change": 55.5,
-      "vol24": "$780K",
-      "slug": "lol-ns-fox1-2026-08-01-game1"
+      "slug": "israel-x-iran-ceasefire-continues-through-august-1"
     }
   ]
 }
