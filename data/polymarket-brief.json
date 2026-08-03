@@ -1,65 +1,65 @@
 {
-  "date": "Sunday August 02, 2026",
-  "generated": "2026-08-02T09:03:27.173717Z",
-  "brief": "# ZIMR POLYMARKET BRIEFING | SUNDAY, AUGUST 2, 2026\n\n## Headline\n**Ceasefire Holds, Iran Invasion Odds Crater\u2014But Trump-Carlson Bet Smells Like Resolved Noise**\n\n---\n\n## Market Signal\n\nThe geopolitical complex is pricing hard into a sustained Israel-Iran deescalation. The ceasefire-through-August-31 market jumped to 70% (+24h), while the even-money US invasion question sits at just 20% despite $2.7M in volume\u2014smart money is clearly off the doomsday trade. The $1.1M in \"effective ceasefire by July 31\" volume at 57% suggests some positioning hasn't fully caught up to the August 2 reality; expect that to compress hard if nothing breaks overnight.\n\n**Watch the Trump-Carlson insult bet carefully.** At 99% with $489K daily volume and +91% moves, this screams post-resolution noise or a technical glitch. The resolution criteria matter enormously here\u2014if it's already expired or hinges on a specific definition of \"public insult,\" you're watching players exit a dead market, not genuine price discovery. This isn't alpha; it's liquidity being pulled out.\n\nThe LoL markets are moving on event outcomes (games finishing 99% one way, then flipping to 1% the next series). High volume but zero signal for macro traders\u2014pure esports execution risk. Ignore unless you're arb-ing the book.\n\n---\n\n## Watch List\n\n**1. Israel x Iran ceasefire through August 15 (84%, $149K vol)**  \nThe most tradeable geopolitical market today. Only 13 days out; any escalation news hits hard and fast. Volume's thin relative to importance\u2014means wide bid-ask spreads but outsized moves on catalysts.\n\n**2. US invades Iran before 2027 (20%, $2.7M vol)**  \nThe heavyweight. Heavy volume but tepid odds = consensus has de-risked invasion. Watch for any Iran provocation or US rhetoric shift to catch contrarian value if this reprices north of 25%.\n\n**3. Trump-Macron insult by July 31 (1%, $663K vol)**  \nInverted cousin to the Carlson bet. At 1% it's essentially dead, but if this hasn't resolved yet, the resolution mechanics are worth understanding. Could be a litmus test for how ambiguous \"insult\" definitions get priced.",
+  "date": "Monday August 03, 2026",
+  "generated": "2026-08-03T10:30:23.335955Z",
+  "brief": "# ZIMR Daily Briefing | Monday, August 3, 2026\n\n## \"Esports Liquidation Event: Gen.G Collapse Signals Sharp Recalibration\"\n\nThe market is unwinding a massive esports overweight. Gen.G's KeSPA Cup qualifier against Hanwha Life crashed 44% overnight\u2014$777K in volume\u2014suggesting coordinated position closing rather than new information. This mirrors the Nongshim Red Force bet (+33.5%, $386K) which is the market's attempt to find safety in perceived stronger teams. The scale of selling ($777K single market) indicates institutional or large retail exits, not organic trading.\n\nSimultaneously, dated political bets are getting flushed. \"Trump-Macron July call\" at 1% (-47.3%) is simply expiring dead\u2014money finally leaving the table after missing its event window. This is cleansing, not insight. The real tell: **high-conviction markets are holding firm**. Pegula (-80% implied, $1.6M volume) remains sticky despite volatility, suggesting money sees genuine edge in tennis markets over esports variance.\n\nSmart money is rotating *out* of esports completely and into higher-signal markets. The $491K volume on the Macron trade was all panic selling of already-dead positions. Watch whether the Strait of Hormuz geopolitical bet ($616K, 12% implied) breaks down next\u2014another calendar-dependent market with execution risk.\n\n---\n\n## Watch List\n\n**1. Mubadala Citi DC Open: Pegula vs Eala (80%)** | $1.6M vol | Sticky price despite chaos = real edge. Monitor for sharp movements; if this holds 75%+ through market close, it signals confidence in tennis fundamentals.\n\n**2. KeSPA Cup Gen.G line (1%)** | Watch the rebound. If smart money starts buying this dip at <1%, it's a tell that the crash was purely liquidity-driven. If it stays dead, the esports market itself may be signaling deteriorating event quality.\n\n**3. Strait of Hormuz (12%)** | $616K vol | Geopolitical bets rarely this liquid. Any Tuesday news spike will test conviction\u2014this is where macro traders are hiding right now.",
   "top_movers": [
     {
-      "question": "Will Donald Trump publicly insult Tucker Carlson by July 31, 2026?",
+      "question": "LoL: HANJIN BRION Challengers vs BNK FearX Youth - Game 2 Winner",
       "prob": 99,
-      "change": 91.0,
-      "vol24": "$489K",
-      "slug": "will-donald-trump-publicly-insult-tucker-carlson-by-july-31-2026-20260626210612710"
+      "change": 62.0,
+      "vol24": "$217K",
+      "slug": "lol-bro1-foxy-2026-08-03-game2"
     },
     {
-      "question": "LoL: DN SOOPers vs HANJIN BRION - Game 1 Winner",
-      "prob": 99,
-      "change": 66.5,
-      "vol24": "$725K",
-      "slug": "lol-dnf-bro2-2026-08-02-game1"
-    },
-    {
-      "question": "LoL: ThunderTalk Gaming vs Team WE - Game 1 Winner",
-      "prob": 99,
-      "change": 60.5,
-      "vol24": "$1.0M",
-      "slug": "lol-tt-we-2026-08-02-game1"
-    },
-    {
-      "question": "US x Iran Effective Ceasefire by July 31?",
-      "prob": 57,
-      "change": 47.5,
-      "vol24": "$1.1M",
-      "slug": "us-x-iran-effective-ceasfire-by-july-31-20260715194822045"
-    },
-    {
-      "question": "LoL: ThunderTalk Gaming vs Team WE - Game 2 Winner",
+      "question": "Will Trump speak to Emmanuel Macron in July?",
       "prob": 1,
-      "change": -39.5,
-      "vol24": "$898K",
-      "slug": "lol-tt-we-2026-08-02-game2"
+      "change": -47.3,
+      "vol24": "$491K",
+      "slug": "will-trump-speak-to-emmanuel-macron-in-july-20260626154217431"
+    },
+    {
+      "question": "LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner",
+      "prob": 1,
+      "change": -45.0,
+      "vol24": "$360K",
+      "slug": "lol-gen-hle1-2026-08-03-game2"
+    },
+    {
+      "question": "LoL: Gen.G vs Hanwha Life Esports (BO3) - KeSPA Cup Last Chance Qualifier",
+      "prob": 1,
+      "change": -44.0,
+      "vol24": "$777K",
+      "slug": "lol-gen-hle1-2026-08-03"
+    },
+    {
+      "question": "LoL: Gen.G vs Hanwha Life Esports - Game 1 Winner",
+      "prob": 1,
+      "change": -43.5,
+      "vol24": "$343K",
+      "slug": "lol-gen-hle1-2026-08-03-game1"
     }
   ],
   "top_vol": [
     {
-      "question": "Will the U.S. invade Iran before 2027?",
-      "prob": 20,
-      "change": -5.0,
-      "vol24": "$2.7M",
-      "slug": "will-the-us-invade-iran-before-2027"
-    },
-    {
-      "question": "Israel x Iran ceasefire continues through August 2?",
-      "prob": 98,
-      "change": 17.9,
+      "question": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
+      "prob": 80,
+      "change": 21.0,
       "vol24": "$1.6M",
-      "slug": "israel-x-iran-ceasefire-continues-through-august-2-20260727170555149"
+      "slug": "wta-pegula-eala-2026-08-02"
     },
     {
-      "question": "Israel x Iran ceasefire continues through August 1?",
-      "prob": 99,
-      "change": 5.3,
-      "vol24": "$1.1M",
-      "slug": "israel-x-iran-ceasefire-continues-through-august-1"
+      "question": "Will Tucker Carlson win the 2028 Republican presidential nomination?",
+      "prob": 2,
+      "change": -0.1,
+      "vol24": "$800K",
+      "slug": "will-tucker-carlson-win-the-2028-republican-presidential-nomination"
+    },
+    {
+      "question": "LoL: Gen.G vs Hanwha Life Esports (BO3) - KeSPA Cup Last Chance Qualifier",
+      "prob": 1,
+      "change": -44.0,
+      "vol24": "$777K",
+      "slug": "lol-gen-hle1-2026-08-03"
     }
   ]
 }
