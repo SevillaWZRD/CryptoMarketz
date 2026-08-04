@@ -1,65 +1,65 @@
 {
-  "date": "Monday August 03, 2026",
-  "generated": "2026-08-03T10:30:23.335955Z",
-  "brief": "# ZIMR Daily Briefing | Monday, August 3, 2026\n\n## \"Esports Liquidation Event: Gen.G Collapse Signals Sharp Recalibration\"\n\nThe market is unwinding a massive esports overweight. Gen.G's KeSPA Cup qualifier against Hanwha Life crashed 44% overnight\u2014$777K in volume\u2014suggesting coordinated position closing rather than new information. This mirrors the Nongshim Red Force bet (+33.5%, $386K) which is the market's attempt to find safety in perceived stronger teams. The scale of selling ($777K single market) indicates institutional or large retail exits, not organic trading.\n\nSimultaneously, dated political bets are getting flushed. \"Trump-Macron July call\" at 1% (-47.3%) is simply expiring dead\u2014money finally leaving the table after missing its event window. This is cleansing, not insight. The real tell: **high-conviction markets are holding firm**. Pegula (-80% implied, $1.6M volume) remains sticky despite volatility, suggesting money sees genuine edge in tennis markets over esports variance.\n\nSmart money is rotating *out* of esports completely and into higher-signal markets. The $491K volume on the Macron trade was all panic selling of already-dead positions. Watch whether the Strait of Hormuz geopolitical bet ($616K, 12% implied) breaks down next\u2014another calendar-dependent market with execution risk.\n\n---\n\n## Watch List\n\n**1. Mubadala Citi DC Open: Pegula vs Eala (80%)** | $1.6M vol | Sticky price despite chaos = real edge. Monitor for sharp movements; if this holds 75%+ through market close, it signals confidence in tennis fundamentals.\n\n**2. KeSPA Cup Gen.G line (1%)** | Watch the rebound. If smart money starts buying this dip at <1%, it's a tell that the crash was purely liquidity-driven. If it stays dead, the esports market itself may be signaling deteriorating event quality.\n\n**3. Strait of Hormuz (12%)** | $616K vol | Geopolitical bets rarely this liquid. Any Tuesday news spike will test conviction\u2014this is where macro traders are hiding right now.",
+  "date": "Tuesday August 04, 2026",
+  "generated": "2026-08-04T09:31:22.933014Z",
+  "brief": "# BITCOIN BREAKS HIGHER AS IRAN TENSIONS STABILIZE\u2014BUT GEOPOLITICAL PREMIUM STILL PRICED IN\n\nThe market is sending a clear signal: BTC above $62K is *done*, and traders have moved on. The 97% probability on the $62K floor (up 25.8% today) reflects capitulation among shorts and confirmation that the $60-62K range is structural support heading into Q4. Volume ($350K combined on the two BTC markets) is heavy but orderly\u2014this isn't panic buying, it's smart money rotating into conviction.\n\nThe real tell is Iran. The US-Iran ceasefire market (56% by July 31, 66% by August 14) has barely budged despite the 5% and 3% daily moves. The narrow range suggests the market has already priced in a soft resolution\u2014blockade removal odds are only 22%, suggesting traders don't expect dramatic de-escalation announcements imminently. Meanwhile, Strait of Hormuz traffic returning to normal is trading 2% (Vol: $929K)\u2014a *massive* disconnect. If Iran tensions are cooling, why is shipping gridlock pricing in at 98%? This is either a mispricing or the market knows something about enforcement duration we don't.\n\n**Watch the Elon tweet range bleed.** The 200-219 bracket (34%) vs. 260-279 (1%) shows extreme confidence in lower posting activity. But this is a week-long window with no hard floor\u2014if he goes on a tweetstorm on geopolitics or market moves, expect violent repricing. Fed rate hold (55%) is also sitting in the danger zone of consensus\u2014Jackson Hole is looming.\n\n---\n\n## WATCH LIST\n\n1. **US x Iran Blockade (22%)** \u2014 Highest conviction play if you're bullish on diplomatic momentum. Watch for any Biden admin officials signaling relief measures.\n\n2. **Strait of Hormuz Normal Traffic (2%)** \u2014 This is either free money or a trap. Re-examine if fresh sanctions get announced.\n\n3. **Elon Tweet Ranges** \u2014 The 200-219 bracket is liquid and cheap. Any geopolitical escalation or market volatility could spike his posting. Monitor his timeline at 8-9 AM EST.",
   "top_movers": [
     {
-      "question": "LoL: HANJIN BRION Challengers vs BNK FearX Youth - Game 2 Winner",
+      "question": "T20 Series Sri Lanka vs Pakistan, Women: Sri Lanka vs Pakistan",
+      "prob": 1,
+      "change": -64.5,
+      "vol24": "$106K",
+      "slug": "crint-lka3-pak3-2026-08-04"
+    },
+    {
+      "question": "Will the price of Bitcoin be above $62,000 on August 4?",
+      "prob": 97,
+      "change": 25.8,
+      "vol24": "$203K",
+      "slug": "bitcoin-above-62k-on-august-4-2026"
+    },
+    {
+      "question": "US x Iran Effective Ceasefire by July 31?",
+      "prob": 56,
+      "change": -5.0,
+      "vol24": "$747K",
+      "slug": "us-x-iran-effective-ceasfire-by-july-31-20260715194822045"
+    },
+    {
+      "question": "Will the price of Bitcoin be above $60,000 on August 4?",
       "prob": 99,
-      "change": 62.0,
-      "vol24": "$217K",
-      "slug": "lol-bro1-foxy-2026-08-03-game2"
+      "change": 4.3,
+      "vol24": "$147K",
+      "slug": "bitcoin-above-60k-on-august-4-2026"
     },
     {
-      "question": "Will Trump speak to Emmanuel Macron in July?",
-      "prob": 1,
-      "change": -47.3,
-      "vol24": "$491K",
-      "slug": "will-trump-speak-to-emmanuel-macron-in-july-20260626154217431"
-    },
-    {
-      "question": "LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner",
-      "prob": 1,
-      "change": -45.0,
-      "vol24": "$360K",
-      "slug": "lol-gen-hle1-2026-08-03-game2"
-    },
-    {
-      "question": "LoL: Gen.G vs Hanwha Life Esports (BO3) - KeSPA Cup Last Chance Qualifier",
-      "prob": 1,
-      "change": -44.0,
-      "vol24": "$777K",
-      "slug": "lol-gen-hle1-2026-08-03"
-    },
-    {
-      "question": "LoL: Gen.G vs Hanwha Life Esports - Game 1 Winner",
-      "prob": 1,
-      "change": -43.5,
-      "vol24": "$343K",
-      "slug": "lol-gen-hle1-2026-08-03-game1"
+      "question": "Will Elon Musk post 200-219 tweets from July 28 to August 4, 2026?",
+      "prob": 34,
+      "change": 4.2,
+      "vol24": "$135K",
+      "slug": "elon-musk-of-tweets-july-28-august-4-200-219"
     }
   ],
   "top_vol": [
     {
-      "question": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
-      "prob": 80,
-      "change": 21.0,
-      "vol24": "$1.6M",
-      "slug": "wta-pegula-eala-2026-08-02"
+      "question": "LoL: T1 vs Hanwha Life Esports (BO3) - KeSPA Cup Last Chance Qualifier",
+      "prob": 99,
+      "change": 0,
+      "vol24": "$1.2M",
+      "slug": "lol-t1-hle1-2026-08-04"
     },
     {
-      "question": "Will Tucker Carlson win the 2028 Republican presidential nomination?",
+      "question": "Will the U.S. invade Iran before 2027?",
+      "prob": 22,
+      "change": 1.0,
+      "vol24": "$940K",
+      "slug": "will-the-us-invade-iran-before-2027"
+    },
+    {
+      "question": "Strait of Hormuz traffic returns to normal by August 15?",
       "prob": 2,
-      "change": -0.1,
-      "vol24": "$800K",
-      "slug": "will-tucker-carlson-win-the-2028-republican-presidential-nomination"
-    },
-    {
-      "question": "LoL: Gen.G vs Hanwha Life Esports (BO3) - KeSPA Cup Last Chance Qualifier",
-      "prob": 1,
-      "change": -44.0,
-      "vol24": "$777K",
-      "slug": "lol-gen-hle1-2026-08-03"
+      "change": 0.3,
+      "vol24": "$929K",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-15-20260727171036148"
     }
   ]
 }
