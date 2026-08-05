@@ -1,65 +1,65 @@
 {
-  "date": "Tuesday August 04, 2026",
-  "generated": "2026-08-04T09:31:22.933014Z",
-  "brief": "# BITCOIN BREAKS HIGHER AS IRAN TENSIONS STABILIZE\u2014BUT GEOPOLITICAL PREMIUM STILL PRICED IN\n\nThe market is sending a clear signal: BTC above $62K is *done*, and traders have moved on. The 97% probability on the $62K floor (up 25.8% today) reflects capitulation among shorts and confirmation that the $60-62K range is structural support heading into Q4. Volume ($350K combined on the two BTC markets) is heavy but orderly\u2014this isn't panic buying, it's smart money rotating into conviction.\n\nThe real tell is Iran. The US-Iran ceasefire market (56% by July 31, 66% by August 14) has barely budged despite the 5% and 3% daily moves. The narrow range suggests the market has already priced in a soft resolution\u2014blockade removal odds are only 22%, suggesting traders don't expect dramatic de-escalation announcements imminently. Meanwhile, Strait of Hormuz traffic returning to normal is trading 2% (Vol: $929K)\u2014a *massive* disconnect. If Iran tensions are cooling, why is shipping gridlock pricing in at 98%? This is either a mispricing or the market knows something about enforcement duration we don't.\n\n**Watch the Elon tweet range bleed.** The 200-219 bracket (34%) vs. 260-279 (1%) shows extreme confidence in lower posting activity. But this is a week-long window with no hard floor\u2014if he goes on a tweetstorm on geopolitics or market moves, expect violent repricing. Fed rate hold (55%) is also sitting in the danger zone of consensus\u2014Jackson Hole is looming.\n\n---\n\n## WATCH LIST\n\n1. **US x Iran Blockade (22%)** \u2014 Highest conviction play if you're bullish on diplomatic momentum. Watch for any Biden admin officials signaling relief measures.\n\n2. **Strait of Hormuz Normal Traffic (2%)** \u2014 This is either free money or a trap. Re-examine if fresh sanctions get announced.\n\n3. **Elon Tweet Ranges** \u2014 The 200-219 bracket is liquid and cheap. Any geopolitical escalation or market volatility could spike his posting. Monitor his timeline at 8-9 AM EST.",
+  "date": "Wednesday August 05, 2026",
+  "generated": "2026-08-05T09:28:38.574777Z",
+  "brief": "# ZIMR DAILY BRIEFING | August 5, 2026\n\n## Markets Pricing Iran De-Escalation, But Timing Consensus Fracturing\n\n**The Signal:** Polymarket is pricing rapid Iran resolution\u2014ceasefire at 78%, blockade end by Aug 15 at 70%\u2014but notice the tell: Aug 7 deadline only at 46%. Smart money is betting *eventual* de-escalation while hedging against missed near-term deadlines. The +$1.5B combined volume on Iran/Hormuz markets suggests institutional players are positioning ahead of weekend developments.\n\n**Where It Gets Interesting:** The Clarity Act (H.R. 3633) collapse to 14% (-12% today, $676K vol) is your misdirection. If Iran talks are actually progressing, why is crypto regulation confidence *falling*? This suggests traders think either (a) Iran news is priced in and sentiment is rotating, or (b) ceasefire talks are masking deeper structural issues that keep US policy gridlocked. The divergence between geopolitical optimism and regulatory pessimism is the real trade.\n\n**The Red Flag:** Hormuz traffic \"normal by Aug 15\" is sitting at only 3% despite 70% odds on blockade ending. That's not math\u2014that's fear. Even if Iran stops enforcing fees, reopening shipping arteries takes 2-3 weeks minimum. Smart money isn't buying the quick-fix narrative. Vol's nearly $1B; this market knows something about execution risk.\n\n---\n\n## WATCH LIST\n\n1. **US announces end of Iranian blockade by August 7** (46%) \u2014 Closes in 48 hours. If this doesn't move to 70%+ by EOD tomorrow, the market is calling out Aug 7 as a missed deadline. Shorts will pile in Wednesday night.\n\n2. **Strait of Hormuz traffic returns to normal by August 15** (3%) \u2014 The market's actual belief. Track this as the *real* Iran resolution indicator. A move to 15-20% would signal genuine de-escalation confidence; staying sub-5% = traders think it's theater.\n\n3. **Will the U.S. invade Iran before 2027?** (16%, $1.0M) \u2014 Inverse Iran recovery. Watch for correlation breaks. If ceasefire odds spike but invasion odds don't drop proportionally, someone knows something about secondary escalation risks.",
   "top_movers": [
     {
-      "question": "T20 Series Sri Lanka vs Pakistan, Women: Sri Lanka vs Pakistan",
-      "prob": 1,
-      "change": -64.5,
-      "vol24": "$106K",
-      "slug": "crint-lka3-pak3-2026-08-04"
+      "question": "LoL: HANJIN BRION vs Nongshim Red Force - Game 1 Winner",
+      "prob": 99,
+      "change": 60.5,
+      "vol24": "$1.2M",
+      "slug": "lol-bro2-ns-2026-08-05-game1"
     },
     {
-      "question": "Will the price of Bitcoin be above $62,000 on August 4?",
-      "prob": 97,
-      "change": 25.8,
-      "vol24": "$203K",
-      "slug": "bitcoin-above-62k-on-august-4-2026"
+      "question": "LoL: Dplus KIA Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+      "prob": 99,
+      "change": 43.1,
+      "vol24": "$292K",
+      "slug": "lol-dkc-nsea-2026-08-05"
+    },
+    {
+      "question": "LoL: BNK FearX Youth vs Kiwoom DRX Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
+      "prob": 1,
+      "change": -41.4,
+      "vol24": "$212K",
+      "slug": "lol-foxy-drxc-2026-08-05"
+    },
+    {
+      "question": "US announces end of Iranian blockade by August 7, 2026?",
+      "prob": 46,
+      "change": 23.8,
+      "vol24": "$472K",
+      "slug": "us-announces-end-of-iranian-blockade-by-august-7-2026-20260727171523690"
     },
     {
       "question": "US x Iran Effective Ceasefire by July 31?",
-      "prob": 56,
-      "change": -5.0,
-      "vol24": "$747K",
+      "prob": 78,
+      "change": 23.0,
+      "vol24": "$538K",
       "slug": "us-x-iran-effective-ceasfire-by-july-31-20260715194822045"
-    },
-    {
-      "question": "Will the price of Bitcoin be above $60,000 on August 4?",
-      "prob": 99,
-      "change": 4.3,
-      "vol24": "$147K",
-      "slug": "bitcoin-above-60k-on-august-4-2026"
-    },
-    {
-      "question": "Will Elon Musk post 200-219 tweets from July 28 to August 4, 2026?",
-      "prob": 34,
-      "change": 4.2,
-      "vol24": "$135K",
-      "slug": "elon-musk-of-tweets-july-28-august-4-200-219"
     }
   ],
   "top_vol": [
     {
-      "question": "LoL: T1 vs Hanwha Life Esports (BO3) - KeSPA Cup Last Chance Qualifier",
+      "question": "Will Abdul El-Sayed win the 2026 Michigan Democratic Primary?",
       "prob": 99,
+      "change": 1.6,
+      "vol24": "$1.5M",
+      "slug": "will-abdul-el-sayed-win-the-2026-michigan-democratic-primary"
+    },
+    {
+      "question": "Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs",
+      "prob": 43,
       "change": 0,
+      "vol24": "$1.4M",
+      "slug": "dota2-1win-bb4-2026-08-05"
+    },
+    {
+      "question": "LoL: HANJIN BRION vs Nongshim Red Force - Game 1 Winner",
+      "prob": 99,
+      "change": 60.5,
       "vol24": "$1.2M",
-      "slug": "lol-t1-hle1-2026-08-04"
-    },
-    {
-      "question": "Will the U.S. invade Iran before 2027?",
-      "prob": 22,
-      "change": 1.0,
-      "vol24": "$940K",
-      "slug": "will-the-us-invade-iran-before-2027"
-    },
-    {
-      "question": "Strait of Hormuz traffic returns to normal by August 15?",
-      "prob": 2,
-      "change": 0.3,
-      "vol24": "$929K",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-15-20260727171036148"
+      "slug": "lol-bro2-ns-2026-08-05-game1"
     }
   ]
 }
