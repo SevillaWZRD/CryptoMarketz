@@ -1,65 +1,65 @@
 {
-  "date": "Saturday August 08, 2026",
-  "generated": "2026-08-08T07:38:18.348534Z",
-  "brief": "# ZIMR CAPITAL MARKET BRIEF | Saturday, August 8, 2026\n\n## Headline\n**Bitcoin Certainty Meets Fed Uncertainty: Market Pricing Soft Landing, But Rate Volatility Tells Different Story**\n\n---\n\n## Market Intelligence\n\nThe market is sending a split signal on macro outlook. Bitcoin's 99% probability of staying above $64K today\u2014up 34% overnight on $105K volume\u2014looks like price confirmation rather than prediction. But zoom out: the Fed rate complex is fracturing. September rate-hold odds just hit 62% (+14%), while rate-hike probability crashed to 36% (-12%). The real story? Peak positioning ahead of data. With $622K churning through the 2026 rate-hike market, smart money is rotating *out* of tightening narratives and into baseline scenarios. That 55% \"hike in 2026\" probability is well-supported by volume, but volatility suggests conviction is thin.\n\nSpider-Man's domestic gross ($900M threshold) imploded 36% today, now at 41%. The $161K in volume is light, but the directional move signals either fresh box-office reality or late-stage rerating. This isn't macro-relevant, but it's a tell: speculative markets are correcting hard on data.\n\nIran geopolitics is quietly shifting. \"No change in leadership by year-end\" compressed 6.8% to 76%, while the \"effective ceasefire\" market popped 6% to 88%. $332K in ceasefire volume + the spread between these two suggests market-makers are pricing de-escalation risk seriously. Watch for secondary confirmation.\n\n---\n\n## Watch List\n\n1. **Fed Rate Hike in 2026 (55%, $622K vol)** \u2014 Highest conviction market. The 19-point gap between \"no change\" (62%) and \"25bp hike\" (36%) is mathematically suspicious. If September data disappoints, expect 50bp+ probability to spike. Pin this.\n\n2. **US-Iran Effective Ceasefire (88%, +6%)** \u2014 Illiquidity + monodirectional move = trapped shorts or fresh intel. Monitor for reversal; any geopolitical shock could crack this in seconds.\n\n3. **T1 vs Hanwha Life Esports (46%, $727K vol)** \u2014 Highest-vol non-macro market. LCK depth and betting sophistication here. Track as sentiment proxy for Asian risk appetite.\n\n---\n\n*ZIMR Capital \u2022 Markets don't lie, but thin liquidity does.*",
+  "date": "Sunday August 09, 2026",
+  "generated": "2026-08-09T07:42:33.426987Z",
+  "brief": "# ZIMR CAPITAL MARKET INTELLIGENCE\n## Sunday, August 9, 2026\n\n---\n\n## HEADLINE\n**Iran Blockade Bets Crater as August 9 Deadline Passes; Geopolitical Risk Repriced Sharply Lower**\n\n---\n\n## MARKET SIGNAL\n\nThe Iranian blockade resolution market just experienced a harsh reality check. The August 9 deadline expired with zero announcement, tanking the \"by Aug 9\" contract from 20% to just 4%\u2014a brutal -16% move that signals traders fundamentally mispriced the timeline. More telling: the August 15 deadline contract collapsed -29% to 28%, suggesting the market is now pricing in either significant negotiation delays or a fundamental shift in US policy calculus. This isn't noise\u2014it's capitulation.\n\nSmart money is rotating skepticism into the **Strait of Hormuz normalization** play, where both the 31-day and 30-Sept contracts took -6% hits at extraordinarily high volume ($1.1M on the near-term). At just 6% probability for August 31 normalization, that contract is either a gift or a trap. The volume concentration suggests institutional players are hedging geopolitical tail risk, not buying dip relief.\n\n**The real mispricing?** The Israel-Iran ceasefire contract (86%, +3%) is holding steady despite blockade dovishness. Either the market believes the ceasefire survives regardless of blockade resolution, or traders are anchored to old positioning. Watch for divergence here\u2014if blockade odds continue falling, ceasefire stability should get repriced harder.\n\n---\n\n## WATCH LIST\n\n1. **US announces end of Iranian blockade by August 15** (28%, -29%)  \n   Next major inflection point. Any official statement moves this 15-30% in hours. Track State Department calendar and Reuters/AP for surprise announcements.\n\n2. **Strait of Hormuz traffic returns to normal by August 31** (6%, $1.1M vol)  \n   Liquidity monster at fire-sale odds. If blockade resolution stalls further, this could compress to 2-3%. If there's a surprise breakthrough, 6% is free money.\n\n3. **Israel x Iran ceasefire continues through August 31** (86%, +3%)  \n   The stubborn one. Disconnect from blockade deterioration suggests either false stability or decoupling thesis. Watch for Iranian rhetoric shifts or IDF activity as leading indicators.\n\n---\n\n*ZIMR Capital | Market-Driven Intelligence*",
   "top_movers": [
     {
-      "question": "Will the total domestic gross for Spider-Man: Brand New Day be at least 900m by August 31?",
-      "prob": 41,
-      "change": -36.2,
-      "vol24": "$161K",
-      "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-at-least-900m-by-august-31-20260717232947960"
-    },
-    {
-      "question": "Will the price of Bitcoin be above $64,000 on August 8?",
+      "question": "Will Los Angeles FC win on 2026-08-08?",
       "prob": 99,
-      "change": 34.2,
-      "vol24": "$105K",
-      "slug": "bitcoin-above-64k-on-august-8-2026"
+      "change": 64.5,
+      "vol24": "$154K",
+      "slug": "lec-tol-laf-2026-08-08-laf"
     },
     {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "prob": 62,
-      "change": 14.0,
-      "vol24": "$453K",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615"
+      "question": "US announces end of Iranian blockade by August 15, 2026?",
+      "prob": 28,
+      "change": -29.0,
+      "vol24": "$205K",
+      "slug": "us-announces-end-of-iranian-blockade-by-august-15-2026-20260713152715083-347-987-697-628-574-676"
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "prob": 36,
-      "change": -12.0,
-      "vol24": "$546K",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649"
+      "question": "LoL: Invictus Gaming vs LNG Esports - Game 1 Winner",
+      "prob": 90,
+      "change": 19.5,
+      "vol24": "$253K",
+      "slug": "lol-ig1-lng-2026-08-09-game1"
     },
     {
-      "question": "Bitcoin Up or Down on August 8?",
-      "prob": 62,
-      "change": 12.0,
-      "vol24": "$96K",
-      "slug": "bitcoin-up-or-down-on-august-8-2026"
+      "question": "US announces end of Iranian blockade by August 9, 2026?",
+      "prob": 4,
+      "change": -16.0,
+      "vol24": "$357K",
+      "slug": "us-announces-end-of-iranian-blockade-by-august-9-2026"
+    },
+    {
+      "question": "LoL: Invictus Gaming vs LNG Esports (BO3) - LPL Group Nirvana",
+      "prob": 91,
+      "change": 12.5,
+      "vol24": "$169K",
+      "slug": "lol-ig1-lng-2026-08-09"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Berhanu Nega be the next Prime Minister of Ethiopia?",
-      "prob": 1,
-      "change": -0.4,
-      "vol24": "$2.1M",
-      "slug": "will-berhanu-nega-be-the-next-prime-minister-of-ethiopia"
-    },
-    {
-      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-      "prob": 2,
-      "change": 0,
-      "vol24": "$736K",
-      "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586"
-    },
-    {
-      "question": "LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
-      "prob": 46,
+      "question": "Dota 2: Amaru Gaming vs Team Jenz - Game 1 Winner",
+      "prob": 50,
       "change": 1.0,
-      "vol24": "$727K",
-      "slug": "lol-t1-hle1-2026-08-08"
+      "vol24": "$1.6M",
+      "slug": "dota2-amaru-jenz-2026-07-28-game1"
+    },
+    {
+      "question": "Strait of Hormuz traffic returns to normal by August 31?",
+      "prob": 6,
+      "change": -6.0,
+      "vol24": "$1.1M",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320"
+    },
+    {
+      "question": "Will Tom Cotton win the 2028 US Presidential Election?",
+      "prob": 1,
+      "change": 0,
+      "vol24": "$1.1M",
+      "slug": "will-tom-cotton-win-the-2028-us-presidential-election"
     }
   ]
 }
