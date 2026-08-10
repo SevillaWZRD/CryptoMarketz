@@ -1,65 +1,65 @@
 {
-  "date": "Sunday August 09, 2026",
-  "generated": "2026-08-09T07:42:33.426987Z",
-  "brief": "# ZIMR CAPITAL MARKET INTELLIGENCE\n## Sunday, August 9, 2026\n\n---\n\n## HEADLINE\n**Iran Blockade Bets Crater as August 9 Deadline Passes; Geopolitical Risk Repriced Sharply Lower**\n\n---\n\n## MARKET SIGNAL\n\nThe Iranian blockade resolution market just experienced a harsh reality check. The August 9 deadline expired with zero announcement, tanking the \"by Aug 9\" contract from 20% to just 4%\u2014a brutal -16% move that signals traders fundamentally mispriced the timeline. More telling: the August 15 deadline contract collapsed -29% to 28%, suggesting the market is now pricing in either significant negotiation delays or a fundamental shift in US policy calculus. This isn't noise\u2014it's capitulation.\n\nSmart money is rotating skepticism into the **Strait of Hormuz normalization** play, where both the 31-day and 30-Sept contracts took -6% hits at extraordinarily high volume ($1.1M on the near-term). At just 6% probability for August 31 normalization, that contract is either a gift or a trap. The volume concentration suggests institutional players are hedging geopolitical tail risk, not buying dip relief.\n\n**The real mispricing?** The Israel-Iran ceasefire contract (86%, +3%) is holding steady despite blockade dovishness. Either the market believes the ceasefire survives regardless of blockade resolution, or traders are anchored to old positioning. Watch for divergence here\u2014if blockade odds continue falling, ceasefire stability should get repriced harder.\n\n---\n\n## WATCH LIST\n\n1. **US announces end of Iranian blockade by August 15** (28%, -29%)  \n   Next major inflection point. Any official statement moves this 15-30% in hours. Track State Department calendar and Reuters/AP for surprise announcements.\n\n2. **Strait of Hormuz traffic returns to normal by August 31** (6%, $1.1M vol)  \n   Liquidity monster at fire-sale odds. If blockade resolution stalls further, this could compress to 2-3%. If there's a surprise breakthrough, 6% is free money.\n\n3. **Israel x Iran ceasefire continues through August 31** (86%, +3%)  \n   The stubborn one. Disconnect from blockade deterioration suggests either false stability or decoupling thesis. Watch for Iranian rhetoric shifts or IDF activity as leading indicators.\n\n---\n\n*ZIMR Capital | Market-Driven Intelligence*",
+  "date": "Monday August 10, 2026",
+  "generated": "2026-08-10T08:18:46.472404Z",
+  "brief": "# ZIMR Daily Polymarket Brief | Monday, August 10, 2026\n\n## Headline\n**Iran Blockade Prayers Answered, Gen.G Consensus Hardens\u2014Smart Money Retreating From Near-Term Ceasefire Calls**\n\n---\n\n## Market Intelligence\n\nThe Iranian blockade complex is repricing toward reality. All near-term resolution dates (Aug 10-15) have collapsed to penny-stock territory, with Aug 10 hitting 1% after shedding 7.5% today. Meanwhile, Aug 31 dropped 20% to 38%\u2014a meaningful bearish signal that traders are abandoning \"quick deal\" narratives. Volume persists ($248-330K per bucket), suggesting institutional liquidation rather than speculative exhaustion.\n\nSmart money is doing two things: (1) **shorting timeframes, going long duration**\u2014notice the Aug 31 still has ~800bps of \"hope premium\" versus the Aug 15 bucket. A tactical short here makes sense if you believe resolution takes until September+. (2) **Rotating into soft-signal markets**\u2014Mojtaba Khamenei public appearance jumped +7% on light volume ($110K), suggesting someone's positioning for a \"signs of normalcy\" narrative later in the year.\n\nThe wildcard: Gen.G is trading 99% to win Game 2 after dropping to 1% on Game 1. This 98-point swing in 24h with $1.1M BO3 volume signals sharp public capitulation post-Game 1 loss. If Gen.G drops Game 2, the series is done (1-1 likely means Gen.G advances on seeding). Watch if this reprices further or locks\u2014it'll tell you whether esports bettors are overreacting or reading the meta correctly.\n\n---\n\n## Watch List\n\n1. **Strait of Hormuz by Aug 15 (1%, $736K vol)** \u2013 Highest volume in the complex, lowest price. This is either a screaming buy for Iran-hawks or confirmation that markets see multi-week standoff minimum. Track for capitulation signal.\n\n2. **Hanwha vs Gen.G BO3 (46%, $1.1M vol)** \u2013 Hits today. If Gen.G loses Game 2 and falls to <30%, it's a forced liquidation moment. If Gen.G holds >55%, narrative flips to \"Gen.G was always favored.\" Clean binary, real cash moving.\n\n3. **Ceasefire by July 31 (92%, +5% today)** \u2013 This one should be *dead* (deadline passed). Its persistence at 92% suggests either illiquid order book or sophisticated long-dated arb. First sign of sub-85% means smart money sees durability issues.",
   "top_movers": [
     {
-      "question": "Will Los Angeles FC win on 2026-08-08?",
+      "question": "LoL: Hanwha Life Esports vs Gen.G - Game 1 Winner",
+      "prob": 1,
+      "change": -50.0,
+      "vol24": "$487K",
+      "slug": "lol-hle1-gen-2026-08-10-game1"
+    },
+    {
+      "question": "LoL: Hanwha Life Esports vs Gen.G - Game 2 Winner",
       "prob": 99,
-      "change": 64.5,
-      "vol24": "$154K",
-      "slug": "lec-tol-laf-2026-08-08-laf"
+      "change": 45.5,
+      "vol24": "$802K",
+      "slug": "lol-hle1-gen-2026-08-10-game2"
+    },
+    {
+      "question": "US announces end of Iranian blockade by August 31, 2026?",
+      "prob": 38,
+      "change": -20.0,
+      "vol24": "$248K",
+      "slug": "us-announces-end-of-iranian-blockade-by-august-31-2026-20260713152715084-642-513-584-641-939-632-729"
     },
     {
       "question": "US announces end of Iranian blockade by August 15, 2026?",
-      "prob": 28,
-      "change": -29.0,
-      "vol24": "$205K",
+      "prob": 14,
+      "change": -14.0,
+      "vol24": "$330K",
       "slug": "us-announces-end-of-iranian-blockade-by-august-15-2026-20260713152715083-347-987-697-628-574-676"
     },
     {
-      "question": "LoL: Invictus Gaming vs LNG Esports - Game 1 Winner",
-      "prob": 90,
-      "change": 19.5,
-      "vol24": "$253K",
-      "slug": "lol-ig1-lng-2026-08-09-game1"
-    },
-    {
-      "question": "US announces end of Iranian blockade by August 9, 2026?",
-      "prob": 4,
-      "change": -16.0,
-      "vol24": "$357K",
-      "slug": "us-announces-end-of-iranian-blockade-by-august-9-2026"
-    },
-    {
-      "question": "LoL: Invictus Gaming vs LNG Esports (BO3) - LPL Group Nirvana",
-      "prob": 91,
-      "change": 12.5,
-      "vol24": "$169K",
-      "slug": "lol-ig1-lng-2026-08-09"
+      "question": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
+      "prob": 46,
+      "change": -9.5,
+      "vol24": "$1.1M",
+      "slug": "lol-hle1-gen-2026-08-10"
     }
   ],
   "top_vol": [
     {
-      "question": "Dota 2: Amaru Gaming vs Team Jenz - Game 1 Winner",
-      "prob": 50,
-      "change": 1.0,
-      "vol24": "$1.6M",
-      "slug": "dota2-amaru-jenz-2026-07-28-game1"
-    },
-    {
-      "question": "Strait of Hormuz traffic returns to normal by August 31?",
-      "prob": 6,
-      "change": -6.0,
+      "question": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
+      "prob": 46,
+      "change": -9.5,
       "vol24": "$1.1M",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320"
+      "slug": "lol-hle1-gen-2026-08-10"
     },
     {
-      "question": "Will Tom Cotton win the 2028 US Presidential Election?",
+      "question": "LoL: Hanwha Life Esports vs Gen.G - Game 2 Winner",
+      "prob": 99,
+      "change": 45.5,
+      "vol24": "$802K",
+      "slug": "lol-hle1-gen-2026-08-10-game2"
+    },
+    {
+      "question": "Strait of Hormuz traffic returns to normal by August 15?",
       "prob": 1,
-      "change": 0,
-      "vol24": "$1.1M",
-      "slug": "will-tom-cotton-win-the-2028-us-presidential-election"
+      "change": -0.1,
+      "vol24": "$736K",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-15-20260727171036148"
     }
   ]
 }
