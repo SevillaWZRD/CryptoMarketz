@@ -1,65 +1,65 @@
 {
-  "date": "Monday August 10, 2026",
-  "generated": "2026-08-10T08:18:46.472404Z",
-  "brief": "# ZIMR Daily Polymarket Brief | Monday, August 10, 2026\n\n## Headline\n**Iran Blockade Prayers Answered, Gen.G Consensus Hardens\u2014Smart Money Retreating From Near-Term Ceasefire Calls**\n\n---\n\n## Market Intelligence\n\nThe Iranian blockade complex is repricing toward reality. All near-term resolution dates (Aug 10-15) have collapsed to penny-stock territory, with Aug 10 hitting 1% after shedding 7.5% today. Meanwhile, Aug 31 dropped 20% to 38%\u2014a meaningful bearish signal that traders are abandoning \"quick deal\" narratives. Volume persists ($248-330K per bucket), suggesting institutional liquidation rather than speculative exhaustion.\n\nSmart money is doing two things: (1) **shorting timeframes, going long duration**\u2014notice the Aug 31 still has ~800bps of \"hope premium\" versus the Aug 15 bucket. A tactical short here makes sense if you believe resolution takes until September+. (2) **Rotating into soft-signal markets**\u2014Mojtaba Khamenei public appearance jumped +7% on light volume ($110K), suggesting someone's positioning for a \"signs of normalcy\" narrative later in the year.\n\nThe wildcard: Gen.G is trading 99% to win Game 2 after dropping to 1% on Game 1. This 98-point swing in 24h with $1.1M BO3 volume signals sharp public capitulation post-Game 1 loss. If Gen.G drops Game 2, the series is done (1-1 likely means Gen.G advances on seeding). Watch if this reprices further or locks\u2014it'll tell you whether esports bettors are overreacting or reading the meta correctly.\n\n---\n\n## Watch List\n\n1. **Strait of Hormuz by Aug 15 (1%, $736K vol)** \u2013 Highest volume in the complex, lowest price. This is either a screaming buy for Iran-hawks or confirmation that markets see multi-week standoff minimum. Track for capitulation signal.\n\n2. **Hanwha vs Gen.G BO3 (46%, $1.1M vol)** \u2013 Hits today. If Gen.G loses Game 2 and falls to <30%, it's a forced liquidation moment. If Gen.G holds >55%, narrative flips to \"Gen.G was always favored.\" Clean binary, real cash moving.\n\n3. **Ceasefire by July 31 (92%, +5% today)** \u2013 This one should be *dead* (deadline passed). Its persistence at 92% suggests either illiquid order book or sophisticated long-dated arb. First sign of sub-85% means smart money sees durability issues.",
+  "date": "Tuesday August 11, 2026",
+  "generated": "2026-08-11T08:00:19.137980Z",
+  "brief": "# ZIMR DAILY BRIEF | August 11, 2026\n\n## Fed Holds Middle Ground as Markets Debate September Pivot\n\nThe market is pricing a 56% probability of NO rate change in September\u2014a meaningful shift from hawkish positioning. Today's +7% pop on the 25bp hike scenario (now 42%) reveals genuine uncertainty, not conviction. This is smart money hedging, not rotating.\n\n**What's happening:** The Fed futures complex is doing exactly what it should\u2014spreading risk across outcomes. Volume concentration ($1.1M on the hike, $699K on cuts) shows institutional players aren't committed to either direction. Translation: September data will matter more than forward guidance. Watch CPI and employment figures like they're earnings reports. The 1% probability on 50bp+ hikes is noise\u2014real traders aren't betting on panic moves.\n\n**The real signal:** Bitcoin's 1% probability of staying above $66K today is a capitulation marker. Down 21.9% overnight suggests a break below that level already priced in or occurred. If crypto is this weak into potential rate stability, that's a warning flag for equities heading into economic data season.\n\n---\n\n## WATCH LIST\n\n**1. Fed Rate Scenarios (Sep 2026) \u2014 $1.1M volume**  \nFollow the spreads. If \"no change\" drifts above 60%, that's a relief rally signal for equities. Track through Wednesday's job openings data.\n\n**2. WTI Crude $95 by month-end \u2014 Vol $166K, +22.5% today**  \nOil's bounce into this call is geopolitical-driven (Iranian blockade odds fell 12%). Watch for OPEC commentary or Middle East headlines\u2014this market is thin on volume but directional.\n\n**3. Bitcoin above $66K EOD \u2014 1% probability**  \nAlready functionally called. Use this as a macro stress gauge. If it recovers above $67K, rotation back into risk assets is live. If not, expect more deleveraging into Fed decision.",
   "top_movers": [
     {
-      "question": "LoL: Hanwha Life Esports vs Gen.G - Game 1 Winner",
-      "prob": 1,
-      "change": -50.0,
-      "vol24": "$487K",
-      "slug": "lol-hle1-gen-2026-08-10-game1"
+      "question": "Will Elon Musk post 160-179 tweets from August 4 to August 11, 2026?",
+      "prob": 86,
+      "change": 53.0,
+      "vol24": "$102K",
+      "slug": "elon-musk-of-tweets-august-4-august-11-160-179"
     },
     {
-      "question": "LoL: Hanwha Life Esports vs Gen.G - Game 2 Winner",
-      "prob": 99,
-      "change": 45.5,
-      "vol24": "$802K",
-      "slug": "lol-hle1-gen-2026-08-10-game2"
+      "question": "Yabloko Effectively Banned From 2026 Russian Elections by September 17?",
+      "prob": 97,
+      "change": 31.2,
+      "vol24": "$187K",
+      "slug": "yabloko-effectively-banned-from-2026-russian-elections-by-september-17-20260807161302974"
     },
     {
-      "question": "US announces end of Iranian blockade by August 31, 2026?",
-      "prob": 38,
-      "change": -20.0,
-      "vol24": "$248K",
-      "slug": "us-announces-end-of-iranian-blockade-by-august-31-2026-20260713152715084-642-513-584-641-939-632-729"
+      "question": "Brownsburg: Ugo Blanchet vs Rei Sakamoto",
+      "prob": 59,
+      "change": 29.5,
+      "vol24": "$100K",
+      "slug": "atp-blanche-sakamot-2026-08-10"
     },
     {
-      "question": "US announces end of Iranian blockade by August 15, 2026?",
-      "prob": 14,
-      "change": -14.0,
-      "vol24": "$330K",
-      "slug": "us-announces-end-of-iranian-blockade-by-august-15-2026-20260713152715083-347-987-697-628-574-676"
+      "question": "Astana: Amir Omarkhanov vs Beibit Zhukayev",
+      "prob": 21,
+      "change": -28.0,
+      "vol24": "$116K",
+      "slug": "atp-omarkha-zhukaye-2026-08-10"
     },
     {
-      "question": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
-      "prob": 46,
-      "change": -9.5,
-      "vol24": "$1.1M",
-      "slug": "lol-hle1-gen-2026-08-10"
+      "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in August?",
+      "prob": 36,
+      "change": 22.5,
+      "vol24": "$166K",
+      "slug": "will-wti-reach-95-in-august-2026"
     }
   ],
   "top_vol": [
     {
-      "question": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
-      "prob": 46,
-      "change": -9.5,
+      "question": "National Bank Open: Rafael Jodar vs Arthur Fils",
+      "prob": 57,
+      "change": 4.0,
       "vol24": "$1.1M",
-      "slug": "lol-hle1-gen-2026-08-10"
+      "slug": "atp-jodar-fils-2026-08-11"
     },
     {
-      "question": "LoL: Hanwha Life Esports vs Gen.G - Game 2 Winner",
-      "prob": 99,
-      "change": 45.5,
-      "vol24": "$802K",
-      "slug": "lol-hle1-gen-2026-08-10-game2"
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "prob": 42,
+      "change": 7.0,
+      "vol24": "$1.1M",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649"
     },
     {
-      "question": "Strait of Hormuz traffic returns to normal by August 15?",
-      "prob": 1,
+      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+      "prob": 2,
       "change": -0.1,
-      "vol24": "$736K",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-15-20260727171036148"
+      "vol24": "$699K",
+      "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586"
     }
   ]
 }
