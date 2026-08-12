@@ -1,65 +1,65 @@
 {
-  "date": "Tuesday August 11, 2026",
-  "generated": "2026-08-11T08:00:19.137980Z",
-  "brief": "# ZIMR DAILY BRIEF | August 11, 2026\n\n## Fed Holds Middle Ground as Markets Debate September Pivot\n\nThe market is pricing a 56% probability of NO rate change in September\u2014a meaningful shift from hawkish positioning. Today's +7% pop on the 25bp hike scenario (now 42%) reveals genuine uncertainty, not conviction. This is smart money hedging, not rotating.\n\n**What's happening:** The Fed futures complex is doing exactly what it should\u2014spreading risk across outcomes. Volume concentration ($1.1M on the hike, $699K on cuts) shows institutional players aren't committed to either direction. Translation: September data will matter more than forward guidance. Watch CPI and employment figures like they're earnings reports. The 1% probability on 50bp+ hikes is noise\u2014real traders aren't betting on panic moves.\n\n**The real signal:** Bitcoin's 1% probability of staying above $66K today is a capitulation marker. Down 21.9% overnight suggests a break below that level already priced in or occurred. If crypto is this weak into potential rate stability, that's a warning flag for equities heading into economic data season.\n\n---\n\n## WATCH LIST\n\n**1. Fed Rate Scenarios (Sep 2026) \u2014 $1.1M volume**  \nFollow the spreads. If \"no change\" drifts above 60%, that's a relief rally signal for equities. Track through Wednesday's job openings data.\n\n**2. WTI Crude $95 by month-end \u2014 Vol $166K, +22.5% today**  \nOil's bounce into this call is geopolitical-driven (Iranian blockade odds fell 12%). Watch for OPEC commentary or Middle East headlines\u2014this market is thin on volume but directional.\n\n**3. Bitcoin above $66K EOD \u2014 1% probability**  \nAlready functionally called. Use this as a macro stress gauge. If it recovers above $67K, rotation back into risk assets is live. If not, expect more deleveraging into Fed decision.",
+  "date": "Wednesday August 12, 2026",
+  "generated": "2026-08-12T08:07:04.221917Z",
+  "brief": "# ZIMR Daily Polymarket Brief | Wednesday, August 12, 2026\n\n## Wisconsin Democrats Just Settled\u2014Crowley's Primary to Lose\n\nThe Wisconsin Governor Democratic primary market collapsed into certainty overnight. Francesca Hong dropped 95.7% on $1.6M volume\u2014the day's largest single-market move\u2014while David Crowley soared to 99%. This isn't volatility; it's capitulation. Someone with real information just closed a massive position.\n\n**What smart money sees:** Crowley's near-certain nomination reflects either a decisive polling shift, endorsement cascade, or internal campaign intelligence leaking into prediction markets before public announcement. The $2.9M combined volume suggests institutional money finally committing after weeks of uncertainty. This is how markets work before news hits\u2014they price reality first, headlines follow.\n\n**The misprice to watch:** South Carolina GOP Senate remains wildly loose. Darline Graham Nordone sits at 72% to be the nominee despite 99% odds to win round one. That 27-point gap screams inefficiency\u2014either the special primary mechanics aren't baked in, or Round 1 victory doesn't guarantee nomination. With only $176K volume, this feels like retail confusion. If she clears Round 1 as expected, that 72% becomes a knife-edge arb.\n\n---\n\n## Watch List\n\n1. **Fed September Rate Hold (62%, +6.0%)** \u2014 Hit 6% today on $506K volume. If this keeps climbing toward 70%+, it signals trader conviction on \"no cut\" messaging. Correlation play with duration markets.\n\n2. **Kai & Speed Minecraft Challenge (32%, +14.0%)** \u2014 Oddly jumped on lighter $614K volume. Track this for signal exhaustion or new content drops. These creator markets move on social media momentum, not fundamentals.\n\n3. **Strait of Hormuz Normal Traffic (4%, $629K vol)** \u2014 Massive volume on a 4% prop is bearish sentiment confirmation. If this somehow ticks up past 8%, it's your canary for de-escalation news.",
   "top_movers": [
     {
-      "question": "Will Elon Musk post 160-179 tweets from August 4 to August 11, 2026?",
-      "prob": 86,
-      "change": 53.0,
-      "vol24": "$102K",
-      "slug": "elon-musk-of-tweets-august-4-august-11-160-179"
+      "question": "Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?",
+      "prob": 1,
+      "change": -95.7,
+      "vol24": "$1.6M",
+      "slug": "will-francesca-hong-win-the-2026-wisconsin-governor-democratic-primary-election"
     },
     {
-      "question": "Yabloko Effectively Banned From 2026 Russian Elections by September 17?",
-      "prob": 97,
-      "change": 31.2,
-      "vol24": "$187K",
-      "slug": "yabloko-effectively-banned-from-2026-russian-elections-by-september-17-20260807161302974"
+      "question": "Will David Crowley win the 2026 Wisconsin Governor Democratic primary election?",
+      "prob": 99,
+      "change": 95.7,
+      "vol24": "$1.3M",
+      "slug": "will-david-crowley-win-the-2026-wisconsin-governor-democratic-primary-election"
     },
     {
-      "question": "Brownsburg: Ugo Blanchet vs Rei Sakamoto",
-      "prob": 59,
-      "change": 29.5,
-      "vol24": "$100K",
-      "slug": "atp-blanche-sakamot-2026-08-10"
+      "question": "Will Tigres de la UANL win on 2026-08-11?",
+      "prob": 1,
+      "change": -68.5,
+      "vol24": "$244K",
+      "slug": "lec-tig-vwh-2026-08-11-tig"
     },
     {
-      "question": "Astana: Amir Omarkhanov vs Beibit Zhukayev",
-      "prob": 21,
-      "change": -28.0,
-      "vol24": "$116K",
-      "slug": "atp-omarkha-zhukaye-2026-08-10"
+      "question": "LoL: HANJIN BRION Challengers vs Hanwha Life Esports Challengers - Game 1 Winner",
+      "prob": 99,
+      "change": 54.4,
+      "vol24": "$135K",
+      "slug": "lol-bro1-hle-2026-08-12-game1"
     },
     {
-      "question": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in August?",
-      "prob": 36,
-      "change": 22.5,
-      "vol24": "$166K",
-      "slug": "will-wti-reach-95-in-august-2026"
+      "question": "LoL: HANJIN BRION Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
+      "prob": 1,
+      "change": -43.5,
+      "vol24": "$308K",
+      "slug": "lol-bro1-hle-2026-08-12"
     }
   ],
   "top_vol": [
     {
-      "question": "National Bank Open: Rafael Jodar vs Arthur Fils",
-      "prob": 57,
-      "change": 4.0,
-      "vol24": "$1.1M",
-      "slug": "atp-jodar-fils-2026-08-11"
+      "question": "Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?",
+      "prob": 1,
+      "change": -95.7,
+      "vol24": "$1.6M",
+      "slug": "will-francesca-hong-win-the-2026-wisconsin-governor-democratic-primary-election"
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "prob": 42,
-      "change": 7.0,
-      "vol24": "$1.1M",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649"
+      "question": "Will David Crowley win the 2026 Wisconsin Governor Democratic primary election?",
+      "prob": 99,
+      "change": 95.7,
+      "vol24": "$1.3M",
+      "slug": "will-david-crowley-win-the-2026-wisconsin-governor-democratic-primary-election"
     },
     {
-      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-      "prob": 2,
-      "change": -0.1,
-      "vol24": "$699K",
-      "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586"
+      "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
+      "prob": 1,
+      "change": 0.1,
+      "vol24": "$760K",
+      "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia"
     }
   ]
 }
