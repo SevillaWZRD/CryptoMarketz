@@ -1,65 +1,65 @@
 {
-  "date": "Wednesday August 12, 2026",
-  "generated": "2026-08-12T08:07:04.221917Z",
-  "brief": "# ZIMR Daily Polymarket Brief | Wednesday, August 12, 2026\n\n## Wisconsin Democrats Just Settled\u2014Crowley's Primary to Lose\n\nThe Wisconsin Governor Democratic primary market collapsed into certainty overnight. Francesca Hong dropped 95.7% on $1.6M volume\u2014the day's largest single-market move\u2014while David Crowley soared to 99%. This isn't volatility; it's capitulation. Someone with real information just closed a massive position.\n\n**What smart money sees:** Crowley's near-certain nomination reflects either a decisive polling shift, endorsement cascade, or internal campaign intelligence leaking into prediction markets before public announcement. The $2.9M combined volume suggests institutional money finally committing after weeks of uncertainty. This is how markets work before news hits\u2014they price reality first, headlines follow.\n\n**The misprice to watch:** South Carolina GOP Senate remains wildly loose. Darline Graham Nordone sits at 72% to be the nominee despite 99% odds to win round one. That 27-point gap screams inefficiency\u2014either the special primary mechanics aren't baked in, or Round 1 victory doesn't guarantee nomination. With only $176K volume, this feels like retail confusion. If she clears Round 1 as expected, that 72% becomes a knife-edge arb.\n\n---\n\n## Watch List\n\n1. **Fed September Rate Hold (62%, +6.0%)** \u2014 Hit 6% today on $506K volume. If this keeps climbing toward 70%+, it signals trader conviction on \"no cut\" messaging. Correlation play with duration markets.\n\n2. **Kai & Speed Minecraft Challenge (32%, +14.0%)** \u2014 Oddly jumped on lighter $614K volume. Track this for signal exhaustion or new content drops. These creator markets move on social media momentum, not fundamentals.\n\n3. **Strait of Hormuz Normal Traffic (4%, $629K vol)** \u2014 Massive volume on a 4% prop is bearish sentiment confirmation. If this somehow ticks up past 8%, it's your canary for de-escalation news.",
+  "date": "Thursday August 13, 2026",
+  "generated": "2026-08-13T08:08:57.174078Z",
+  "brief": "# DOTA 2 DOMINANCE: THE INTERNATIONAL IS EATING POLYMARKET'S LUNCH\n\n## THE BRIEF\n\nThe International 2026 is printing volume and conviction simultaneously. Dota 2 markets are pulling $5.2M in daily volume with multiple favorites sitting at 99% while still attracting fresh capital\u2014a pattern that typically signals either institutional backing or sharp consensus forming ahead of live play. Team Liquid vs Vici Gaming (Game 1) is the volume king at $1.6M, and the +19% move on Game 2 suggests money is already confident in a sweep narrative.\n\nThe real signal: esports betting is cannibalizing crypto-native gaming markets. That Minecraft death counter hitting 99% on an $114K move is a contrarian red flag\u2014when niche novelty bets go parabolic on thin volume, retail has already positioned. Meanwhile, the LoL Weibo/NiP matchup is collapsing (down 46.5% on $643K volume), telling us the market was massively wrong on that line and smart money shorted it hard.\n\nMacro seeping in: Fed rate cut odds still trading at 1% with $803K committed, suggesting genuine disagreement on September's decision. Not a signal trade, but relevant if you're hedging esports exposure against macro surprise.\n\n## WATCH LIST\n\n**1. Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner (90%, $209K vol)**\nGame 1 is essentially priced as a formality. If Liquid drops Game 1, this flips to 40-50% fast. Watch the live odds during match; if they're moving toward 70%, it signals sharp money hedging for a Game 3.\n\n**2. Weibo Gaming vs NiPs (BO3) - 22% on $373K**\nDown 25% today = capitulation sellers. If this holds above 20%, contrarians might be loading the dip. Track the match thread sentiment; LPL teams have surprise momentum against Western teams in 2026.\n\n**3. Fed September Rate Cut - 1% on $803K**\nSticky low volume at 1% usually means one side isn't showing up. If this touches 3% before FOMC, it's a real vol signal. Correlation play if crypto markets tank mid-tournament.",
   "top_movers": [
     {
-      "question": "Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?",
+      "question": "Will Kai and Speed have between 30 and 49 total in-game deaths during their Minecraft marathon?",
+      "prob": 99,
+      "change": 82.9,
+      "vol24": "$114K",
+      "slug": "will-kai-and-speed-have-between-30-and-49-total-in-game-deaths-during-their-minecraft-marathon-20260807054442842"
+    },
+    {
+      "question": "Game Handicap: FLC (-1.5) vs LGD Gaming (+1.5)",
       "prob": 1,
-      "change": -95.7,
+      "change": -56.5,
+      "vol24": "$175K",
+      "slug": "dota2-flc-lgd-2026-08-12-game-handicap-away-1pt5"
+    },
+    {
+      "question": "LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 1 Winner",
+      "prob": 1,
+      "change": -46.5,
+      "vol24": "$643K",
+      "slug": "lol-wb-nip-2026-08-13-game1"
+    },
+    {
+      "question": "Brownsburg: Joel Schwaerzler vs Andres Andrade",
+      "prob": 24,
+      "change": -36.0,
+      "vol24": "$132K",
+      "slug": "atp-schwaer-andrade-2026-08-10"
+    },
+    {
+      "question": "Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner",
+      "prob": 99,
+      "change": 29.4,
       "vol24": "$1.6M",
-      "slug": "will-francesca-hong-win-the-2026-wisconsin-governor-democratic-primary-election"
-    },
-    {
-      "question": "Will David Crowley win the 2026 Wisconsin Governor Democratic primary election?",
-      "prob": 99,
-      "change": 95.7,
-      "vol24": "$1.3M",
-      "slug": "will-david-crowley-win-the-2026-wisconsin-governor-democratic-primary-election"
-    },
-    {
-      "question": "Will Tigres de la UANL win on 2026-08-11?",
-      "prob": 1,
-      "change": -68.5,
-      "vol24": "$244K",
-      "slug": "lec-tig-vwh-2026-08-11-tig"
-    },
-    {
-      "question": "LoL: HANJIN BRION Challengers vs Hanwha Life Esports Challengers - Game 1 Winner",
-      "prob": 99,
-      "change": 54.4,
-      "vol24": "$135K",
-      "slug": "lol-bro1-hle-2026-08-12-game1"
-    },
-    {
-      "question": "LoL: HANJIN BRION Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
-      "prob": 1,
-      "change": -43.5,
-      "vol24": "$308K",
-      "slug": "lol-bro1-hle-2026-08-12"
+      "slug": "dota2-liquid-vg-2026-08-13-game1"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?",
-      "prob": 1,
-      "change": -95.7,
-      "vol24": "$1.6M",
-      "slug": "will-francesca-hong-win-the-2026-wisconsin-governor-democratic-primary-election"
-    },
-    {
-      "question": "Will David Crowley win the 2026 Wisconsin Governor Democratic primary election?",
+      "question": "Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner",
       "prob": 99,
-      "change": 95.7,
-      "vol24": "$1.3M",
-      "slug": "will-david-crowley-win-the-2026-wisconsin-governor-democratic-primary-election"
+      "change": 29.4,
+      "vol24": "$1.6M",
+      "slug": "dota2-liquid-vg-2026-08-13-game1"
     },
     {
-      "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
-      "prob": 1,
-      "change": 0.1,
-      "vol24": "$760K",
-      "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia"
+      "question": "Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage",
+      "prob": 99,
+      "change": 17.4,
+      "vol24": "$1.4M",
+      "slug": "dota2-flc-lgd-2026-08-12"
+    },
+    {
+      "question": "Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage",
+      "prob": 72,
+      "change": 3.0,
+      "vol24": "$1.1M",
+      "slug": "dota2-ts8-xtreme-2026-08-13"
     }
   ]
 }
