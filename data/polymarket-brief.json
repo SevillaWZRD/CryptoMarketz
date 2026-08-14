@@ -1,65 +1,65 @@
 {
-  "date": "Thursday August 13, 2026",
-  "generated": "2026-08-13T08:08:57.174078Z",
-  "brief": "# DOTA 2 DOMINANCE: THE INTERNATIONAL IS EATING POLYMARKET'S LUNCH\n\n## THE BRIEF\n\nThe International 2026 is printing volume and conviction simultaneously. Dota 2 markets are pulling $5.2M in daily volume with multiple favorites sitting at 99% while still attracting fresh capital\u2014a pattern that typically signals either institutional backing or sharp consensus forming ahead of live play. Team Liquid vs Vici Gaming (Game 1) is the volume king at $1.6M, and the +19% move on Game 2 suggests money is already confident in a sweep narrative.\n\nThe real signal: esports betting is cannibalizing crypto-native gaming markets. That Minecraft death counter hitting 99% on an $114K move is a contrarian red flag\u2014when niche novelty bets go parabolic on thin volume, retail has already positioned. Meanwhile, the LoL Weibo/NiP matchup is collapsing (down 46.5% on $643K volume), telling us the market was massively wrong on that line and smart money shorted it hard.\n\nMacro seeping in: Fed rate cut odds still trading at 1% with $803K committed, suggesting genuine disagreement on September's decision. Not a signal trade, but relevant if you're hedging esports exposure against macro surprise.\n\n## WATCH LIST\n\n**1. Dota 2: Team Liquid vs Vici Gaming - Game 2 Winner (90%, $209K vol)**\nGame 1 is essentially priced as a formality. If Liquid drops Game 1, this flips to 40-50% fast. Watch the live odds during match; if they're moving toward 70%, it signals sharp money hedging for a Game 3.\n\n**2. Weibo Gaming vs NiPs (BO3) - 22% on $373K**\nDown 25% today = capitulation sellers. If this holds above 20%, contrarians might be loading the dip. Track the match thread sentiment; LPL teams have surprise momentum against Western teams in 2026.\n\n**3. Fed September Rate Cut - 1% on $803K**\nSticky low volume at 1% usually means one side isn't showing up. If this touches 3% before FOMC, it's a real vol signal. Correlation play if crypto markets tank mid-tournament.",
+  "date": "Friday August 14, 2026",
+  "generated": "2026-08-14T08:05:12.398199Z",
+  "brief": "# FARAGE'S LANDSLIDE LOCKED IN; MUSK TWEET SURGE SIGNALS ACTIVITY SPIKE\n\n**The Market's Message**\n\nThe Clacton by-election has crystallized into a certainty trade. Farage's 60-70% outcome sits at 99% after a 62.6% volume spike ($555K), while higher vote-share brackets have collapsed to 1%. This isn't prediction\u2014it's price discovery on a done deal. Simultaneously, the Musk tweet contract (180-199 posts in 8 days) has exploded to 94% on massive conviction buying (+82%, $181K volume). Both signals point to the same thesis: major political/personality events are being heavily capitalized by informed players ahead of confirmation.\n\n**Smart Money Moves**\n\nThe volume clustering tells the story. Real capital is exiting uncertainty on Farage (consolidating probability into the 60-70% band) and *entering* conviction on Musk activity. The tweet surge is notable\u2014suggests either direct Musk social graph intel, algorithmic pattern recognition on his posting cadence, or pre-event information on his plans. The Venezuela-Israel recognition contract crashed 66.5% to 12%, suggesting either geopolitical developments or realization that December deadline creates diminishing odds. This is contrarian positioning shaking out weak hands.\n\n**The Mispricing Watch**\n\nGaming markets (LoL, Dota) are deeply inefficient at 1% pricing on competitive matchups\u2014classic liquidity traps. Ignore unless you have real intel. The Ethiopia PM market ($1.2M volume) at 1% suggests either consensus that Abiebie won't be next, or a technical rejection of the market mechanics itself. Worth monitoring if volume spikes unexpectedly.\n\n**Watch List:**\n\n1. **Musk tweets (180-199, 8/7-8/14)** \u2014 Resolve in 24-48 hours. If it prints below 180, expect sharp repricing on future activity expectations. High conviction current pricing could reverse violently.\n\n2. **Farage Clacton result** \u2014 Imminent. The 60-70% band at 99% is the market saying \"locked in.\" Watch for any late polling shifts; massive imbalance suggests one-way flow if uncertainty returns.\n\n3. **Venezuela-Israel recognition** \u2014 Contrarian contrarian play. 12% might be too low if backchannels are moving. Monitor regional news for any normalization signals through November/December.",
   "top_movers": [
     {
-      "question": "Will Kai and Speed have between 30 and 49 total in-game deaths during their Minecraft marathon?",
+      "question": "Will Elon Musk post 180-199 tweets from August 7 to August 14, 2026?",
+      "prob": 94,
+      "change": 82.0,
+      "vol24": "$181K",
+      "slug": "elon-musk-of-tweets-august-7-august-14-180-199"
+    },
+    {
+      "question": "Will Venezuela recognize Israel by December 31?",
+      "prob": 12,
+      "change": -66.5,
+      "vol24": "$171K",
+      "slug": "will-venezuela-recognize-israel-by-december-31"
+    },
+    {
+      "question": "Will Nigel Farage win 60\u201370% of votes in the Clacton parliamentary by-election?",
       "prob": 99,
-      "change": 82.9,
-      "vol24": "$114K",
-      "slug": "will-kai-and-speed-have-between-30-and-49-total-in-game-deaths-during-their-minecraft-marathon-20260807054442842"
+      "change": 62.6,
+      "vol24": "$555K",
+      "slug": "will-nigel-farage-win-6070-of-votes-in-the-clacton-parliamentary-by-election-20260708151424124"
     },
     {
-      "question": "Game Handicap: FLC (-1.5) vs LGD Gaming (+1.5)",
+      "question": "LoL: BNK FearX Youth vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
       "prob": 1,
-      "change": -56.5,
-      "vol24": "$175K",
-      "slug": "dota2-flc-lgd-2026-08-12-game-handicap-away-1pt5"
+      "change": -60.5,
+      "vol24": "$183K",
+      "slug": "lol-foxy-bro1-2026-08-14"
     },
     {
-      "question": "LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 1 Winner",
+      "question": "LoL: BNK FearX Youth vs HANJIN BRION Challengers - Game 2 Winner",
       "prob": 1,
-      "change": -46.5,
-      "vol24": "$643K",
-      "slug": "lol-wb-nip-2026-08-13-game1"
-    },
-    {
-      "question": "Brownsburg: Joel Schwaerzler vs Andres Andrade",
-      "prob": 24,
-      "change": -36.0,
-      "vol24": "$132K",
-      "slug": "atp-schwaer-andrade-2026-08-10"
-    },
-    {
-      "question": "Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner",
-      "prob": 99,
-      "change": 29.4,
-      "vol24": "$1.6M",
-      "slug": "dota2-liquid-vg-2026-08-13-game1"
+      "change": -54.9,
+      "vol24": "$176K",
+      "slug": "lol-foxy-bro1-2026-08-14-game2"
     }
   ],
   "top_vol": [
     {
-      "question": "Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner",
-      "prob": 99,
-      "change": 29.4,
-      "vol24": "$1.6M",
-      "slug": "dota2-liquid-vg-2026-08-13-game1"
+      "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
+      "prob": 1,
+      "change": 0.1,
+      "vol24": "$1.2M",
+      "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia"
     },
     {
-      "question": "Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage",
-      "prob": 99,
-      "change": 17.4,
-      "vol24": "$1.4M",
-      "slug": "dota2-flc-lgd-2026-08-12"
+      "question": "Dota 2: BoomBoys vs TEAM VISION - Game 2 Winner",
+      "prob": 1,
+      "change": 0,
+      "vol24": "$1.0M",
+      "slug": "dota2-boombo-vsn2-2026-08-14-game2"
     },
     {
-      "question": "Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage",
-      "prob": 72,
-      "change": 3.0,
-      "vol24": "$1.1M",
-      "slug": "dota2-ts8-xtreme-2026-08-13"
+      "question": "LoL: EDward Gaming vs LGD Gaming - Game 1 Winner",
+      "prob": 1,
+      "change": -42.4,
+      "vol24": "$1.0M",
+      "slug": "lol-edg-lgd-2026-08-14-game1"
     }
   ]
 }
