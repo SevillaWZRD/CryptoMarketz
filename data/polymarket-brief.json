@@ -1,65 +1,65 @@
 {
-  "date": "Friday August 14, 2026",
-  "generated": "2026-08-14T08:05:12.398199Z",
-  "brief": "# FARAGE'S LANDSLIDE LOCKED IN; MUSK TWEET SURGE SIGNALS ACTIVITY SPIKE\n\n**The Market's Message**\n\nThe Clacton by-election has crystallized into a certainty trade. Farage's 60-70% outcome sits at 99% after a 62.6% volume spike ($555K), while higher vote-share brackets have collapsed to 1%. This isn't prediction\u2014it's price discovery on a done deal. Simultaneously, the Musk tweet contract (180-199 posts in 8 days) has exploded to 94% on massive conviction buying (+82%, $181K volume). Both signals point to the same thesis: major political/personality events are being heavily capitalized by informed players ahead of confirmation.\n\n**Smart Money Moves**\n\nThe volume clustering tells the story. Real capital is exiting uncertainty on Farage (consolidating probability into the 60-70% band) and *entering* conviction on Musk activity. The tweet surge is notable\u2014suggests either direct Musk social graph intel, algorithmic pattern recognition on his posting cadence, or pre-event information on his plans. The Venezuela-Israel recognition contract crashed 66.5% to 12%, suggesting either geopolitical developments or realization that December deadline creates diminishing odds. This is contrarian positioning shaking out weak hands.\n\n**The Mispricing Watch**\n\nGaming markets (LoL, Dota) are deeply inefficient at 1% pricing on competitive matchups\u2014classic liquidity traps. Ignore unless you have real intel. The Ethiopia PM market ($1.2M volume) at 1% suggests either consensus that Abiebie won't be next, or a technical rejection of the market mechanics itself. Worth monitoring if volume spikes unexpectedly.\n\n**Watch List:**\n\n1. **Musk tweets (180-199, 8/7-8/14)** \u2014 Resolve in 24-48 hours. If it prints below 180, expect sharp repricing on future activity expectations. High conviction current pricing could reverse violently.\n\n2. **Farage Clacton result** \u2014 Imminent. The 60-70% band at 99% is the market saying \"locked in.\" Watch for any late polling shifts; massive imbalance suggests one-way flow if uncertainty returns.\n\n3. **Venezuela-Israel recognition** \u2014 Contrarian contrarian play. 12% might be too low if backchannels are moving. Monitor regional news for any normalization signals through November/December.",
+  "date": "Saturday August 15, 2026",
+  "generated": "2026-08-15T07:19:46.493765Z",
+  "brief": "# POLYMARKET DAILY | Saturday, August 15, 2026\n\n## Fed Holds Steady, Bitcoin Rips\u2014Market Pricing Confidence in September Pause\n\nThe market is calling a September Fed hold with conviction. No-rate-change odds climbed to 74% (+3.0%), while the 25bps hike contract cratered to 24% (-3.0%), suggesting traders have priced in dovish guidance or cooling inflation data this week. Bitcoin surged 25% on the back of this\u2014a textbook risk-on move betting on lower-for-longer rates. The two-rate-cut scenario remains a statistical ghost at 4%, meaning the market isn't yet pricing a 2026 pivot, just a pause.\n\n**Smart money signal:** The +$265K volume flooding into the no-change contract is institutional positioning ahead of any mid-week Fed speak. This isn't retail FOMO\u2014it's conviction.\n\nIran negotiations are deteriorating. The 60-day extension odds dropped 6.5% to 16%, while the \"blockade ends by August 31\" contract cratered to 20% (-4.0%). The $185K+ combined volume suggests serious geopolitical traders are rotating out, implying behind-the-scenes talks have stalled. If negotiations collapse entirely, expect a sharp repricing in Strait of Hormuz traffic (currently 2%, $595K vol)\u2014a potential misprice if tensions escalate this month.\n\n---\n\n## WATCH LIST\n\n**1. US-Iran 60-day extension | 16% | $185K vol**\nMarket is capitulating. If this drops below 10% today, watch for a corresponding spike in energy futures and Hormuz volatility. Contrarian opportunity if you believe talks survive the weekend.\n\n**2. Will 2 Fed rate cuts happen in 2026? | 4% | $176K vol**\nThis is *severely* underpriced if Powell signals a September cut. Currently pricing zero probability of easing\u2014asymmetric risk if labor data disappoints this week.\n\n**3. Bitcoin Up or Down on August 15? | 76% | $173K vol**\nAlready up 25%\u2014watch for profit-taking into close. The 76% implies additional upside priced in; if volume dries up, it's a fade.",
   "top_movers": [
     {
-      "question": "Will Elon Musk post 180-199 tweets from August 7 to August 14, 2026?",
-      "prob": 94,
-      "change": 82.0,
-      "vol24": "$181K",
-      "slug": "elon-musk-of-tweets-august-7-august-14-180-199"
+      "question": "Bitcoin Up or Down on August 15?",
+      "prob": 76,
+      "change": 25.0,
+      "vol24": "$173K",
+      "slug": "bitcoin-up-or-down-on-august-15-2026"
     },
     {
-      "question": "Will Venezuela recognize Israel by December 31?",
-      "prob": 12,
-      "change": -66.5,
-      "vol24": "$171K",
-      "slug": "will-venezuela-recognize-israel-by-december-31"
+      "question": "UFC 330: Jalin Turner vs. Kau\u00ea Fernandes (Lightweight, Prelims)",
+      "prob": 50,
+      "change": -8.0,
+      "vol24": "$172K",
+      "slug": "ufc-jal-kau-2026-08-15"
     },
     {
-      "question": "Will Nigel Farage win 60\u201370% of votes in the Clacton parliamentary by-election?",
-      "prob": 99,
-      "change": 62.6,
-      "vol24": "$555K",
-      "slug": "will-nigel-farage-win-6070-of-votes-in-the-clacton-parliamentary-by-election-20260708151424124"
+      "question": "US-Iran 60 day negotiation period extended?",
+      "prob": 16,
+      "change": -6.5,
+      "vol24": "$185K",
+      "slug": "us-iran-60-day-negotiation-period-extended-20260624044855448"
     },
     {
-      "question": "LoL: BNK FearX Youth vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
-      "prob": 1,
-      "change": -60.5,
-      "vol24": "$183K",
-      "slug": "lol-foxy-bro1-2026-08-14"
+      "question": "LoL: Hanwha Life Esports vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
+      "prob": 74,
+      "change": 5.0,
+      "vol24": "$298K",
+      "slug": "lol-hle1-kt-2026-08-15"
     },
     {
-      "question": "LoL: BNK FearX Youth vs HANJIN BRION Challengers - Game 2 Winner",
-      "prob": 1,
-      "change": -54.9,
-      "vol24": "$176K",
-      "slug": "lol-foxy-bro1-2026-08-14-game2"
+      "question": "US announces end of Iranian blockade by August 31, 2026?",
+      "prob": 20,
+      "change": -4.0,
+      "vol24": "$156K",
+      "slug": "us-announces-end-of-iranian-blockade-by-august-31-2026-20260713152715084-642-513-584-641-939-632-729"
     }
   ],
   "top_vol": [
     {
       "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
       "prob": 1,
-      "change": 0.1,
-      "vol24": "$1.2M",
+      "change": -0.2,
+      "vol24": "$1.9M",
       "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia"
     },
     {
-      "question": "Dota 2: BoomBoys vs TEAM VISION - Game 2 Winner",
-      "prob": 1,
+      "question": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - The International Group Stage",
+      "prob": 99,
       "change": 0,
-      "vol24": "$1.0M",
-      "slug": "dota2-boombo-vsn2-2026-08-14-game2"
+      "vol24": "$1.5M",
+      "slug": "dota2-lgd-xtreme-2026-08-14"
     },
     {
-      "question": "LoL: EDward Gaming vs LGD Gaming - Game 1 Winner",
-      "prob": 1,
-      "change": -42.4,
-      "vol24": "$1.0M",
-      "slug": "lol-edg-lgd-2026-08-14-game1"
+      "question": "Dota 2: Nigma Galaxy vs Vici Gaming - Game 1 Winner",
+      "prob": 99,
+      "change": 0,
+      "vol24": "$719K",
+      "slug": "dota2-ngx-vg-2026-08-15-game1"
     }
   ]
 }
