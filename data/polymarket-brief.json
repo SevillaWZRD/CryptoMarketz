@@ -1,65 +1,65 @@
 {
-  "date": "Saturday August 15, 2026",
-  "generated": "2026-08-15T07:19:46.493765Z",
-  "brief": "# POLYMARKET DAILY | Saturday, August 15, 2026\n\n## Fed Holds Steady, Bitcoin Rips\u2014Market Pricing Confidence in September Pause\n\nThe market is calling a September Fed hold with conviction. No-rate-change odds climbed to 74% (+3.0%), while the 25bps hike contract cratered to 24% (-3.0%), suggesting traders have priced in dovish guidance or cooling inflation data this week. Bitcoin surged 25% on the back of this\u2014a textbook risk-on move betting on lower-for-longer rates. The two-rate-cut scenario remains a statistical ghost at 4%, meaning the market isn't yet pricing a 2026 pivot, just a pause.\n\n**Smart money signal:** The +$265K volume flooding into the no-change contract is institutional positioning ahead of any mid-week Fed speak. This isn't retail FOMO\u2014it's conviction.\n\nIran negotiations are deteriorating. The 60-day extension odds dropped 6.5% to 16%, while the \"blockade ends by August 31\" contract cratered to 20% (-4.0%). The $185K+ combined volume suggests serious geopolitical traders are rotating out, implying behind-the-scenes talks have stalled. If negotiations collapse entirely, expect a sharp repricing in Strait of Hormuz traffic (currently 2%, $595K vol)\u2014a potential misprice if tensions escalate this month.\n\n---\n\n## WATCH LIST\n\n**1. US-Iran 60-day extension | 16% | $185K vol**\nMarket is capitulating. If this drops below 10% today, watch for a corresponding spike in energy futures and Hormuz volatility. Contrarian opportunity if you believe talks survive the weekend.\n\n**2. Will 2 Fed rate cuts happen in 2026? | 4% | $176K vol**\nThis is *severely* underpriced if Powell signals a September cut. Currently pricing zero probability of easing\u2014asymmetric risk if labor data disappoints this week.\n\n**3. Bitcoin Up or Down on August 15? | 76% | $173K vol**\nAlready up 25%\u2014watch for profit-taking into close. The 76% implies additional upside priced in; if volume dries up, it's a fade.",
+  "date": "Sunday August 16, 2026",
+  "generated": "2026-08-16T07:20:33.714566Z",
+  "brief": "# ZIMR Capital Markets Daily Brief | Sunday, August 16, 2026\n\n## HEADLINE\n**Esports Money Flooding In; Soccer Certainty Pricing Invites Sharp Action**\n\n---\n\n## THE SIGNAL\n\nSunday's action tells a clear story: retail confidence in predetermined outcomes is collapsing into dangerous extremes. San Diego FC and Atlas FC both hit 99% after massive 80%+ moves\u2014textbook signs of late-stage euphoria in matches already played. The inverse is equally telling: Tigres crashed to 1% (-43.5%), suggesting heavy sharp money dumping pre-game positions ahead of execution.\n\n**What Smart Money Is Doing:** The real volume is flooding into esports, not soccer. Dota 2 markets (Aurora, Team Spirit) are commanding $1.2-1.3M each\u2014serious institutional-scale liquidity. T1 Academy's 99% price on the BO3 (+32.5%) paired with Game 2 at 99% (+36.4%) suggests the match is locked in and professionals are already positioning for follow-on narratives. Gaming markets are pricing certainty; traditional sports markets are *absorbing* it.\n\n**The Mispricing:** Bitcoin at 1% ($64K by Aug 16) feels like panic shorts taking losses. With 24 hours remaining and spot trading, this is either capitulation at extremes or evidence the market knows something about overnight volatility. The Iranian blockade at 8% (down 5.5%) is the real sleeper\u2014geopolitical uncertainty shouldn't compress this cleanly without fresh headlines.\n\n---\n\n## WATCH LIST\n\n1. **Dota 2: Aurora vs BoomBoys (Games 1 & 2)** | $1.3M volume each | *Why:* Mirrored 1% pricing suggests both games are preresolve bets. Watch for arbitrage opportunities if one game resolves before the other.\n\n2. **Team Spirit vs Team Resilience BO3** | $1.2M volume, 74% | *Why:* Healthiest pricing structure of the day. Smart money here is actual match uncertainty. This is where real traders are, not the 99% junk.\n\n3. **Bitcoin $64K by Aug 16** | 1% price | *Why:* 24-hour clock. Watch for any Asia-session dumps or Fed chatter that could trigger a sharp reversal. This price feels like a capitulation bottom.\n\n---\n\n**ZIMR View:** Sunday's soccer markets are digital theater\u2014don't chase certainty that's already baked. Esports and macro bets remain where actual edge lives.",
   "top_movers": [
     {
-      "question": "Bitcoin Up or Down on August 15?",
-      "prob": 76,
-      "change": 25.0,
-      "vol24": "$173K",
-      "slug": "bitcoin-up-or-down-on-august-15-2026"
+      "question": "Will San Diego FC win on 2026-08-15?",
+      "prob": 99,
+      "change": 80.5,
+      "vol24": "$179K",
+      "slug": "mls-laf-sdg-2026-08-15-sdg"
     },
     {
-      "question": "UFC 330: Jalin Turner vs. Kau\u00ea Fernandes (Lightweight, Prelims)",
-      "prob": 50,
-      "change": -8.0,
-      "vol24": "$172K",
-      "slug": "ufc-jal-kau-2026-08-15"
+      "question": "Will Atlas FC win on 2026-08-15?",
+      "prob": 99,
+      "change": 72.5,
+      "vol24": "$201K",
+      "slug": "mex-atl-tig-2026-08-15-atl"
     },
     {
-      "question": "US-Iran 60 day negotiation period extended?",
-      "prob": 16,
-      "change": -6.5,
-      "vol24": "$185K",
-      "slug": "us-iran-60-day-negotiation-period-extended-20260624044855448"
+      "question": "LoL: T1 Academy vs DN SOOPers Challengers - Game 1 Winner",
+      "prob": 1,
+      "change": -62.5,
+      "vol24": "$134K",
+      "slug": "lol-t1a-dnsc-2026-08-15-game1"
     },
     {
-      "question": "LoL: Hanwha Life Esports vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
-      "prob": 74,
-      "change": 5.0,
-      "vol24": "$298K",
-      "slug": "lol-hle1-kt-2026-08-15"
+      "question": "Will Tigres de la UANL win on 2026-08-15?",
+      "prob": 1,
+      "change": -43.5,
+      "vol24": "$221K",
+      "slug": "mex-atl-tig-2026-08-15-tig"
     },
     {
-      "question": "US announces end of Iranian blockade by August 31, 2026?",
-      "prob": 20,
-      "change": -4.0,
-      "vol24": "$156K",
-      "slug": "us-announces-end-of-iranian-blockade-by-august-31-2026-20260713152715084-642-513-584-641-939-632-729"
+      "question": "Tottenham Hotspur vs. TSG Hoffenheim: Tottenham Hotspur O/U 0.5",
+      "prob": 95,
+      "change": 42.9,
+      "vol24": "$168K",
+      "slug": "clf-tot-tsg-2026-08-16-team-total-home-0pt5"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
+      "question": "Dota 2: Aurora vs BoomBoys - Game 1 Winner",
       "prob": 1,
-      "change": -0.2,
-      "vol24": "$1.9M",
-      "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia"
+      "change": 0,
+      "vol24": "$1.3M",
+      "slug": "dota2-aur1-boombo-2026-08-15-game1"
     },
     {
-      "question": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - The International Group Stage",
-      "prob": 99,
+      "question": "Dota 2: Aurora vs BoomBoys - Game 2 Winner",
+      "prob": 1,
       "change": 0,
-      "vol24": "$1.5M",
-      "slug": "dota2-lgd-xtreme-2026-08-14"
+      "vol24": "$1.3M",
+      "slug": "dota2-aur1-boombo-2026-08-15-game2"
     },
     {
-      "question": "Dota 2: Nigma Galaxy vs Vici Gaming - Game 1 Winner",
-      "prob": 99,
+      "question": "Dota 2: Team Spirit vs Team Resilience (BO3) - The International Elimination Round",
+      "prob": 74,
       "change": 0,
-      "vol24": "$719K",
-      "slug": "dota2-ngx-vg-2026-08-15-game1"
+      "vol24": "$1.2M",
+      "slug": "dota2-ts8-tr7-2026-08-16"
     }
   ]
 }
