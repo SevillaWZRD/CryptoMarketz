@@ -1,65 +1,65 @@
 {
-  "date": "Sunday August 16, 2026",
-  "generated": "2026-08-16T07:20:33.714566Z",
-  "brief": "# ZIMR Capital Markets Daily Brief | Sunday, August 16, 2026\n\n## HEADLINE\n**Esports Money Flooding In; Soccer Certainty Pricing Invites Sharp Action**\n\n---\n\n## THE SIGNAL\n\nSunday's action tells a clear story: retail confidence in predetermined outcomes is collapsing into dangerous extremes. San Diego FC and Atlas FC both hit 99% after massive 80%+ moves\u2014textbook signs of late-stage euphoria in matches already played. The inverse is equally telling: Tigres crashed to 1% (-43.5%), suggesting heavy sharp money dumping pre-game positions ahead of execution.\n\n**What Smart Money Is Doing:** The real volume is flooding into esports, not soccer. Dota 2 markets (Aurora, Team Spirit) are commanding $1.2-1.3M each\u2014serious institutional-scale liquidity. T1 Academy's 99% price on the BO3 (+32.5%) paired with Game 2 at 99% (+36.4%) suggests the match is locked in and professionals are already positioning for follow-on narratives. Gaming markets are pricing certainty; traditional sports markets are *absorbing* it.\n\n**The Mispricing:** Bitcoin at 1% ($64K by Aug 16) feels like panic shorts taking losses. With 24 hours remaining and spot trading, this is either capitulation at extremes or evidence the market knows something about overnight volatility. The Iranian blockade at 8% (down 5.5%) is the real sleeper\u2014geopolitical uncertainty shouldn't compress this cleanly without fresh headlines.\n\n---\n\n## WATCH LIST\n\n1. **Dota 2: Aurora vs BoomBoys (Games 1 & 2)** | $1.3M volume each | *Why:* Mirrored 1% pricing suggests both games are preresolve bets. Watch for arbitrage opportunities if one game resolves before the other.\n\n2. **Team Spirit vs Team Resilience BO3** | $1.2M volume, 74% | *Why:* Healthiest pricing structure of the day. Smart money here is actual match uncertainty. This is where real traders are, not the 99% junk.\n\n3. **Bitcoin $64K by Aug 16** | 1% price | *Why:* 24-hour clock. Watch for any Asia-session dumps or Fed chatter that could trigger a sharp reversal. This price feels like a capitulation bottom.\n\n---\n\n**ZIMR View:** Sunday's soccer markets are digital theater\u2014don't chase certainty that's already baked. Esports and macro bets remain where actual edge lives.",
+  "date": "Monday August 17, 2026",
+  "generated": "2026-08-17T07:41:03.715179Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | Monday, August 17, 2026\n\n## \"Bitcoin Holding the Line as Iran Tensions Cool\"\n\n**The Signal:** Markets are pricing geopolitical de-escalation. The US-Iran negotiation extension cratered 8.3% overnight\u2014smart money is betting the 60-day clock doesn't restart, meaning the blockade stays resolved. Meanwhile, Bitcoin's refusing to crack $62K despite the Iran uncertainty, suggesting traders see the conflict as priced in. That's confidence.\n\n**Smart Money Moves:** The Club Tijuana match already concluded (99% confidence, +70.5% today), so that's pure tail-chase volume. Real action is in the Iran complex\u2014$93K flowing into the negotiation market while the blockade-by-August-31 bet sits at just 14% with $190K volume. The asymmetry suggests institutional players see the diplomatic window closing faster than retail expects. Strait of Hormuz traffic at only 10% suggests the same crowd doesn't believe in a quick \"return to normal.\"\n\n**The Mispricing:** Elon's tweet count is trading at 9% for 140-159 posts (Aug 11-18). That's absurdly low given his recent activity patterns and the market's historical overestimation of his silence. Even accounting for a quiet period, 9% feels like free money for contrarians\u2014$94K volume means liquidity to work with.\n\n---\n\n## TODAY'S WATCH LIST\n\n1. **US-Iran Negotiation Extension (4%)** \u2014 Watch the bid-ask spread. If it tightens below 3%, that's capitulation; above 5%, fresh selling. This is the linchpin for Hormuz traffic and oil sentiment.\n\n2. **T1 vs DN SOOPers (48%)** \u2014 Rare toss-up in esports with $350K volume. This match determines momentum in Korean LoL betting; watch for late-market sharp money moving the line toward either side post-match start.\n\n3. **Bitcoin $64K by EOD (17%)** \u2014 The $62K level held. $64K at only 17% odds is a tell\u2014market sees resistance real. If BTC pumps through $63.2K today, expect a short-squeeze into that contract.",
   "top_movers": [
     {
-      "question": "Will San Diego FC win on 2026-08-15?",
+      "question": "Will Club Tijuana win on 2026-08-16?",
       "prob": 99,
-      "change": 80.5,
-      "vol24": "$179K",
-      "slug": "mls-laf-sdg-2026-08-15-sdg"
+      "change": 70.5,
+      "vol24": "$300K",
+      "slug": "mex-tij-caz-2026-08-16-tij"
     },
     {
-      "question": "Will Atlas FC win on 2026-08-15?",
+      "question": "US-Iran 60 day negotiation period extended?",
+      "prob": 4,
+      "change": -8.3,
+      "vol24": "$93K",
+      "slug": "us-iran-60-day-negotiation-period-extended-20260624044855448"
+    },
+    {
+      "question": "Will Team Falcons Win the CS2 EWC 2026?",
+      "prob": 19,
+      "change": -7.5,
+      "vol24": "$173K",
+      "slug": "will-team-falcons-win-the-cs2-ewc-2026-20260810160005085"
+    },
+    {
+      "question": "Will the price of Bitcoin be above $62,000 on August 17?",
       "prob": 99,
-      "change": 72.5,
-      "vol24": "$201K",
-      "slug": "mex-atl-tig-2026-08-15-atl"
+      "change": 7.4,
+      "vol24": "$132K",
+      "slug": "bitcoin-above-62k-on-august-17-2026"
     },
     {
-      "question": "LoL: T1 Academy vs DN SOOPers Challengers - Game 1 Winner",
-      "prob": 1,
-      "change": -62.5,
-      "vol24": "$134K",
-      "slug": "lol-t1a-dnsc-2026-08-15-game1"
-    },
-    {
-      "question": "Will Tigres de la UANL win on 2026-08-15?",
-      "prob": 1,
-      "change": -43.5,
-      "vol24": "$221K",
-      "slug": "mex-atl-tig-2026-08-15-tig"
-    },
-    {
-      "question": "Tottenham Hotspur vs. TSG Hoffenheim: Tottenham Hotspur O/U 0.5",
-      "prob": 95,
-      "change": 42.9,
-      "vol24": "$168K",
-      "slug": "clf-tot-tsg-2026-08-16-team-total-home-0pt5"
+      "question": "Will Elon Musk post 140-159 tweets from August 11 to August 18, 2026?",
+      "prob": 9,
+      "change": 7.3,
+      "vol24": "$94K",
+      "slug": "elon-musk-of-tweets-august-11-august-18-140-159"
     }
   ],
   "top_vol": [
     {
-      "question": "Dota 2: Aurora vs BoomBoys - Game 1 Winner",
+      "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
       "prob": 1,
-      "change": 0,
-      "vol24": "$1.3M",
-      "slug": "dota2-aur1-boombo-2026-08-15-game1"
+      "change": 0.1,
+      "vol24": "$1.0M",
+      "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia"
     },
     {
-      "question": "Dota 2: Aurora vs BoomBoys - Game 2 Winner",
+      "question": "Will Pablo Mar\u00e7al win the 2026 Brazilian presidential election?",
       "prob": 1,
       "change": 0,
-      "vol24": "$1.3M",
-      "slug": "dota2-aur1-boombo-2026-08-15-game2"
+      "vol24": "$745K",
+      "slug": "will-pablo-marcal-win-the-2026-brazilian-presidential-election"
     },
     {
-      "question": "Dota 2: Team Spirit vs Team Resilience (BO3) - The International Elimination Round",
-      "prob": 74,
+      "question": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "prob": 1,
       "change": 0,
-      "vol24": "$1.2M",
-      "slug": "dota2-ts8-tr7-2026-08-16"
+      "vol24": "$419K",
+      "slug": "will-shakhtar-donetsk-win-the-2026-27-uefa-champions-league-championship-20260701202025578"
     }
   ]
 }
