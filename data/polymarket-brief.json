@@ -1,65 +1,65 @@
 {
-  "date": "Monday August 17, 2026",
-  "generated": "2026-08-17T07:41:03.715179Z",
-  "brief": "# ZIMR POLYMARKET BRIEFING | Monday, August 17, 2026\n\n## \"Bitcoin Holding the Line as Iran Tensions Cool\"\n\n**The Signal:** Markets are pricing geopolitical de-escalation. The US-Iran negotiation extension cratered 8.3% overnight\u2014smart money is betting the 60-day clock doesn't restart, meaning the blockade stays resolved. Meanwhile, Bitcoin's refusing to crack $62K despite the Iran uncertainty, suggesting traders see the conflict as priced in. That's confidence.\n\n**Smart Money Moves:** The Club Tijuana match already concluded (99% confidence, +70.5% today), so that's pure tail-chase volume. Real action is in the Iran complex\u2014$93K flowing into the negotiation market while the blockade-by-August-31 bet sits at just 14% with $190K volume. The asymmetry suggests institutional players see the diplomatic window closing faster than retail expects. Strait of Hormuz traffic at only 10% suggests the same crowd doesn't believe in a quick \"return to normal.\"\n\n**The Mispricing:** Elon's tweet count is trading at 9% for 140-159 posts (Aug 11-18). That's absurdly low given his recent activity patterns and the market's historical overestimation of his silence. Even accounting for a quiet period, 9% feels like free money for contrarians\u2014$94K volume means liquidity to work with.\n\n---\n\n## TODAY'S WATCH LIST\n\n1. **US-Iran Negotiation Extension (4%)** \u2014 Watch the bid-ask spread. If it tightens below 3%, that's capitulation; above 5%, fresh selling. This is the linchpin for Hormuz traffic and oil sentiment.\n\n2. **T1 vs DN SOOPers (48%)** \u2014 Rare toss-up in esports with $350K volume. This match determines momentum in Korean LoL betting; watch for late-market sharp money moving the line toward either side post-match start.\n\n3. **Bitcoin $64K by EOD (17%)** \u2014 The $62K level held. $64K at only 17% odds is a tell\u2014market sees resistance real. If BTC pumps through $63.2K today, expect a short-squeeze into that contract.",
+  "date": "Tuesday August 18, 2026",
+  "generated": "2026-08-18T07:27:13.149516Z",
+  "brief": "# ZIMR CAPITAL MARKET INTELLIGENCE | TUESDAY, AUGUST 18, 2026\n\n## **Fed Rate Hike Odds Creeping Up\u2014Markets Pricing In Hawkish Surprise**\n\nThe market is quietly rotating into higher rate expectations. The 25 bps increase contract just hit 28% (+4% today) on $621K volume\u2014the single highest-volume market on the platform\u2014while the \"no change\" contract dropped 3 points. This isn't panic; it's conviction. Smart money is positioning ahead of September's FOMC decision, suggesting recent inflation data or Fed communication has shifted baseline assumptions. Watch for the narrative flip: if this breaks 35%, institutional hedging likely just began.\n\nBitcoin's 64% \"up\" probability with +14.5% daily movement signals technical strength, but the gain looks front-run on light macro news. This is classic retail momentum into a \"safe\" directional bet while macro volatility elsewhere keeps capital nervous. The move lacks conviction volume relative to the Fed markets\u2014suggests retail chasing, not institutional repositioning.\n\nThe Strait of Hormuz traffic recovery is pricing in 36% odds by year-end, down 6 points today. If geopolitical risk premium is finally deflating here, expect capital to rotate into \"normalization\" trades across energy and shipping. Conversely, if this continues sliding, it signals markets are pricing in prolonged tensions\u2014a key macro tell.\n\n---\n\n## **WATCH LIST**\n\n1. **Fed Rate Hike (25 bps) - 28% | $621K volume** \u2014 *The tell.* If this breaks 32% by EOD, September is shaping up hawkish. Track against USD strength and real yields.\n\n2. **Strait of Hormuz Recovery - 36% | Down 6 points** \u2014 *Geopolitical inflection point.* Further drops suggest risk-off; stabilization = priced-in normalcy. Correlates with oil volatility.\n\n3. **Bitcoin Up Aug 18 - 64% | +14.5% momentum** \u2014 *Retail heat vs. macro gravity.* Low volume relative to conviction. Watch if it holds 60% into Asian hours or gets shaken on macro headlines.",
   "top_movers": [
     {
-      "question": "Will Club Tijuana win on 2026-08-16?",
+      "question": "Will Club Puebla win on 2026-08-17?",
       "prob": 99,
-      "change": 70.5,
-      "vol24": "$300K",
-      "slug": "mex-tij-caz-2026-08-16-tij"
-    },
-    {
-      "question": "US-Iran 60 day negotiation period extended?",
-      "prob": 4,
-      "change": -8.3,
-      "vol24": "$93K",
-      "slug": "us-iran-60-day-negotiation-period-extended-20260624044855448"
-    },
-    {
-      "question": "Will Team Falcons Win the CS2 EWC 2026?",
-      "prob": 19,
-      "change": -7.5,
-      "vol24": "$173K",
-      "slug": "will-team-falcons-win-the-cs2-ewc-2026-20260810160005085"
-    },
-    {
-      "question": "Will the price of Bitcoin be above $62,000 on August 17?",
-      "prob": 99,
-      "change": 7.4,
-      "vol24": "$132K",
-      "slug": "bitcoin-above-62k-on-august-17-2026"
+      "change": 86.5,
+      "vol24": "$294K",
+      "slug": "mex-pac-pue-2026-08-17-pue"
     },
     {
       "question": "Will Elon Musk post 140-159 tweets from August 11 to August 18, 2026?",
-      "prob": 9,
-      "change": 7.3,
-      "vol24": "$94K",
+      "prob": 44,
+      "change": 34.8,
+      "vol24": "$189K",
       "slug": "elon-musk-of-tweets-august-11-august-18-140-159"
+    },
+    {
+      "question": "Bitcoin Up or Down on August 18?",
+      "prob": 64,
+      "change": 14.5,
+      "vol24": "$221K",
+      "slug": "bitcoin-up-or-down-on-august-18-2026"
+    },
+    {
+      "question": "Strait of Hormuz traffic returns to normal by December 31?",
+      "prob": 36,
+      "change": -6.0,
+      "vol24": "$293K",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31"
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "prob": 28,
+      "change": 4.0,
+      "vol24": "$621K",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
-      "prob": 1,
-      "change": 0.1,
-      "vol24": "$1.0M",
-      "slug": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia"
-    },
-    {
       "question": "Will Pablo Mar\u00e7al win the 2026 Brazilian presidential election?",
       "prob": 1,
-      "change": 0,
-      "vol24": "$745K",
+      "change": 0.1,
+      "vol24": "$655K",
       "slug": "will-pablo-marcal-win-the-2026-brazilian-presidential-election"
     },
     {
-      "question": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "prob": 28,
+      "change": 4.0,
+      "vol24": "$621K",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649"
+    },
+    {
+      "question": "Will James Fishback be the Republican nominee for Florida Governor?",
       "prob": 1,
-      "change": 0,
-      "vol24": "$419K",
-      "slug": "will-shakhtar-donetsk-win-the-2026-27-uefa-champions-league-championship-20260701202025578"
+      "change": 0.1,
+      "vol24": "$613K",
+      "slug": "will-james-fishback-be-the-republican-nominee-for-florida-governor"
     }
   ]
 }
