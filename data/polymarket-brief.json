@@ -1,65 +1,65 @@
 {
-  "date": "Tuesday August 18, 2026",
-  "generated": "2026-08-18T07:27:13.149516Z",
-  "brief": "# ZIMR CAPITAL MARKET INTELLIGENCE | TUESDAY, AUGUST 18, 2026\n\n## **Fed Rate Hike Odds Creeping Up\u2014Markets Pricing In Hawkish Surprise**\n\nThe market is quietly rotating into higher rate expectations. The 25 bps increase contract just hit 28% (+4% today) on $621K volume\u2014the single highest-volume market on the platform\u2014while the \"no change\" contract dropped 3 points. This isn't panic; it's conviction. Smart money is positioning ahead of September's FOMC decision, suggesting recent inflation data or Fed communication has shifted baseline assumptions. Watch for the narrative flip: if this breaks 35%, institutional hedging likely just began.\n\nBitcoin's 64% \"up\" probability with +14.5% daily movement signals technical strength, but the gain looks front-run on light macro news. This is classic retail momentum into a \"safe\" directional bet while macro volatility elsewhere keeps capital nervous. The move lacks conviction volume relative to the Fed markets\u2014suggests retail chasing, not institutional repositioning.\n\nThe Strait of Hormuz traffic recovery is pricing in 36% odds by year-end, down 6 points today. If geopolitical risk premium is finally deflating here, expect capital to rotate into \"normalization\" trades across energy and shipping. Conversely, if this continues sliding, it signals markets are pricing in prolonged tensions\u2014a key macro tell.\n\n---\n\n## **WATCH LIST**\n\n1. **Fed Rate Hike (25 bps) - 28% | $621K volume** \u2014 *The tell.* If this breaks 32% by EOD, September is shaping up hawkish. Track against USD strength and real yields.\n\n2. **Strait of Hormuz Recovery - 36% | Down 6 points** \u2014 *Geopolitical inflection point.* Further drops suggest risk-off; stabilization = priced-in normalcy. Correlates with oil volatility.\n\n3. **Bitcoin Up Aug 18 - 64% | +14.5% momentum** \u2014 *Retail heat vs. macro gravity.* Low volume relative to conviction. Watch if it holds 60% into Asian hours or gets shaken on macro headlines.",
+  "date": "Wednesday August 19, 2026",
+  "generated": "2026-08-19T07:27:47.198879Z",
+  "brief": "# ZIMR CAPITAL DAILY BRIEFING | Wednesday, August 19, 2026\n\n## HEADLINE\n**Elon's Tweet Counter Explodes to 98% While Geopolitical Risk Reshuffles: Smart Money Rotates Into Hormuz Volatility**\n\n---\n\n## MARKET INTELLIGENCE\n\n**The Musk Anomaly:** The Elon tweet volume market (+93.2%) is now pricing near certainty (98%) that he'll post 65-89 tweets in a 72-hour window. This isn't normal behavior pricing\u2014it's capitulation. Either smart money has fresh data on Musk activity patterns, or we're seeing late-stage euphoria on a binary that historically struggles with prediction accuracy. Watch for pullback signals if volume dries up.\n\n**Geopolitical Recalibration:** Russia-Kostyantynivka (99%, +13.8%) and the two Hormuz markets are dominating volume ($1.2M+ combined), but there's a pricing inconsistency worth noting. The broader Hormuz-by-September-30 sits at 6% with $612K volume\u2014deeply underpriced relative to the August-31 version at 1% ($663K). Smart money appears confident in *extended* disruption (betting against Sept 30 normalization), suggesting escalation scenarios aren't priced in. This is where real geopolitical alpha lives.\n\n**Sports Books Diverge:** The KT Rolster/T1 Academy LoL match cratered 41% overnight to 1%, while Onion Team/BRUTE stabilized at 46%. Market internals suggest institutional money moved early on clearer information (likely scrims or lineup news). The LoL scene is thin enough that +$270K moves represent genuine conviction, not noise.\n\n---\n\n## WATCH LIST TODAY\n\n1. **Hormuz August 31 (1% | $663K vol)** \u2013 Could be the most mispriced market on the board if tensions escalate even marginally. Asymmetric upside if new news breaks.\n\n2. **Elon Tweet 65-89 (98% | Vol spike incoming?)** \u2013 Monitor whether volume sustains above $150K or crashes. Capitulation at 98% historically precedes reversals; entry point for contrarians emerges if vol collapses.\n\n3. **Fishback Florida Governor <10% (1% | -48% today)** \u2013 Extreme move in one direction often signals model disagreement. Check if new polling data just dropped or if this is liquidity-driven.\n\n---\n\n**ZIMR Capital** | *Market signals, not sentiment*",
   "top_movers": [
     {
-      "question": "Will Club Puebla win on 2026-08-17?",
+      "question": "Will Elon Musk post 65-89 tweets from August 17 to August 19, 2026?",
+      "prob": 98,
+      "change": 93.2,
+      "vol24": "$132K",
+      "slug": "elon-musk-of-tweets-august-17-august-19-65-89"
+    },
+    {
+      "question": "Cancun: Pablo Llamas Ruiz vs Francisco Comesana",
       "prob": 99,
-      "change": 86.5,
-      "vol24": "$294K",
-      "slug": "mex-pac-pue-2026-08-17-pue"
+      "change": 48.9,
+      "vol24": "$198K",
+      "slug": "atp-ruiz-comesan-2026-08-18"
     },
     {
-      "question": "Will Elon Musk post 140-159 tweets from August 11 to August 18, 2026?",
-      "prob": 44,
-      "change": 34.8,
-      "vol24": "$189K",
-      "slug": "elon-musk-of-tweets-august-11-august-18-140-159"
+      "question": "Will James Fishback win less than 10% of votes in the Florida Republican Governor primary?",
+      "prob": 1,
+      "change": -48.0,
+      "vol24": "$135K",
+      "slug": "will-james-fishback-win-less-than-10-of-votes-in-the-florida-republican-governor-primary-20260701154239340"
     },
     {
-      "question": "Bitcoin Up or Down on August 18?",
-      "prob": 64,
-      "change": 14.5,
-      "vol24": "$221K",
-      "slug": "bitcoin-up-or-down-on-august-18-2026"
+      "question": "LoL: KT Rolster Challengers vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+      "prob": 1,
+      "change": -41.4,
+      "vol24": "$271K",
+      "slug": "lol-ktc-t1a-2026-08-19"
     },
     {
-      "question": "Strait of Hormuz traffic returns to normal by December 31?",
-      "prob": 36,
-      "change": -6.0,
-      "vol24": "$293K",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31"
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "prob": 28,
-      "change": 4.0,
-      "vol24": "$621K",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649"
+      "question": "Bitcoin Up or Down on August 19?",
+      "prob": 12,
+      "change": -38.0,
+      "vol24": "$186K",
+      "slug": "bitcoin-up-or-down-on-august-19-2026"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Pablo Mar\u00e7al win the 2026 Brazilian presidential election?",
+      "question": "Strait of Hormuz traffic returns to normal by August 31?",
       "prob": 1,
-      "change": 0.1,
-      "vol24": "$655K",
-      "slug": "will-pablo-marcal-win-the-2026-brazilian-presidential-election"
+      "change": -0.5,
+      "vol24": "$663K",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320"
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "prob": 28,
-      "change": 4.0,
-      "vol24": "$621K",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649"
+      "question": "Strait of Hormuz traffic returns to normal by September 30?",
+      "prob": 6,
+      "change": -3.0,
+      "vol24": "$612K",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440"
     },
     {
-      "question": "Will James Fishback be the Republican nominee for Florida Governor?",
-      "prob": 1,
-      "change": 0.1,
-      "vol24": "$613K",
-      "slug": "will-james-fishback-be-the-republican-nominee-for-florida-governor"
+      "question": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs",
+      "prob": 72,
+      "change": -6.0,
+      "vol24": "$470K",
+      "slug": "dota2-vsn2-boombo-2026-08-20"
     }
   ]
 }
