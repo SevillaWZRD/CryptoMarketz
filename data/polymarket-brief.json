@@ -1,65 +1,65 @@
 {
-  "date": "Wednesday August 19, 2026",
-  "generated": "2026-08-19T07:27:47.198879Z",
-  "brief": "# ZIMR CAPITAL DAILY BRIEFING | Wednesday, August 19, 2026\n\n## HEADLINE\n**Elon's Tweet Counter Explodes to 98% While Geopolitical Risk Reshuffles: Smart Money Rotates Into Hormuz Volatility**\n\n---\n\n## MARKET INTELLIGENCE\n\n**The Musk Anomaly:** The Elon tweet volume market (+93.2%) is now pricing near certainty (98%) that he'll post 65-89 tweets in a 72-hour window. This isn't normal behavior pricing\u2014it's capitulation. Either smart money has fresh data on Musk activity patterns, or we're seeing late-stage euphoria on a binary that historically struggles with prediction accuracy. Watch for pullback signals if volume dries up.\n\n**Geopolitical Recalibration:** Russia-Kostyantynivka (99%, +13.8%) and the two Hormuz markets are dominating volume ($1.2M+ combined), but there's a pricing inconsistency worth noting. The broader Hormuz-by-September-30 sits at 6% with $612K volume\u2014deeply underpriced relative to the August-31 version at 1% ($663K). Smart money appears confident in *extended* disruption (betting against Sept 30 normalization), suggesting escalation scenarios aren't priced in. This is where real geopolitical alpha lives.\n\n**Sports Books Diverge:** The KT Rolster/T1 Academy LoL match cratered 41% overnight to 1%, while Onion Team/BRUTE stabilized at 46%. Market internals suggest institutional money moved early on clearer information (likely scrims or lineup news). The LoL scene is thin enough that +$270K moves represent genuine conviction, not noise.\n\n---\n\n## WATCH LIST TODAY\n\n1. **Hormuz August 31 (1% | $663K vol)** \u2013 Could be the most mispriced market on the board if tensions escalate even marginally. Asymmetric upside if new news breaks.\n\n2. **Elon Tweet 65-89 (98% | Vol spike incoming?)** \u2013 Monitor whether volume sustains above $150K or crashes. Capitulation at 98% historically precedes reversals; entry point for contrarians emerges if vol collapses.\n\n3. **Fishback Florida Governor <10% (1% | -48% today)** \u2013 Extreme move in one direction often signals model disagreement. Check if new polling data just dropped or if this is liquidity-driven.\n\n---\n\n**ZIMR Capital** | *Market signals, not sentiment*",
+  "date": "Thursday August 20, 2026",
+  "generated": "2026-08-20T07:30:45.433360Z",
+  "brief": "# ZIMR CAPITAL MARKET BRIEF | Thursday, August 20, 2026\n\n## Bitcoin Breaks North, Market Pricing a Rally Above $68K\n\nThe crypto complex is running hot. BTC sentiment has undergone a sharp repricing overnight, with the $68K threshold now trading at 96% probability\u2014up nearly 96% in 24 hours. The $66K and $64K floors are practically locked in (99% and 99% respectively), suggesting institutional confidence in a floor-hold. Meanwhile, the $72.5K ceiling sits at just 48%, indicating real disagreement on upside extension.\n\n**Smart money signal:** The dramatic move in the $68K contract alongside heavy volume in the $70K market (36% prob, +35.8%) suggests traders are positioning for a bounce but remaining cautious on sustained breakout. The \"Bitcoin Up/Down\" market at 88% is the most bullish single indicator, but the gap between $68K conviction (96%) and $70K conviction (36%) reveals a sharp confidence cliff\u2014typical of momentum reversal or profit-taking zones. The killer trade: shorts got trapped; longs are taking chips off the table.\n\n**Potential mispricing:** \"Bitcoin dips to $62.5K in August\" collapsed to 9% (down 45.6%), pricing out tail risk entirely. With only 11 days left in August, this is likely correct, but the speed of repricing suggests panic covering rather than fundamental reassessment. Watch for a re-test if today's rally stalls.\n\n---\n\n## WATCH LIST\n\n1. **Will Bitcoin reach $72,500 in August? (48%)** \u2014 This is the real tell. If it crosses 65% today, we're in genuine bull mode. Below 40% means the rally is corrective, not structural.\n\n2. **Will the Fed decrease rates by 25bps in September? (1%, Vol: $1.0M)** \u2014 Completely disconnected from crypto moves. If this reprices higher, it's a macro risk-off event that could crater BTC. Monitor for any Fed speak today.\n\n3. **Dota 2: TEAM VISION vs BoomBoys Game 1 (98%, Vol: $1.6M)** \u2014 The volume here is massive and odds are tight. High-conviction markets often mean sharp reversals. Use as a liquidity proxy for how sentiment can flip fast.\n\n---\n\n**ZIMR** | *Markets don't lie. They just change their minds fast.*",
   "top_movers": [
     {
-      "question": "Will Elon Musk post 65-89 tweets from August 17 to August 19, 2026?",
-      "prob": 98,
-      "change": 93.2,
-      "vol24": "$132K",
-      "slug": "elon-musk-of-tweets-august-17-august-19-65-89"
+      "question": "Will the price of Bitcoin be above $68,000 on August 20?",
+      "prob": 96,
+      "change": 95.8,
+      "vol24": "$174K",
+      "slug": "bitcoin-above-68k-on-august-20-2026"
     },
     {
-      "question": "Cancun: Pablo Llamas Ruiz vs Francisco Comesana",
+      "question": "Will the price of Bitcoin be above $66,000 on August 20?",
       "prob": 99,
-      "change": 48.9,
-      "vol24": "$198K",
-      "slug": "atp-ruiz-comesan-2026-08-18"
+      "change": 95.1,
+      "vol24": "$161K",
+      "slug": "bitcoin-above-66k-on-august-20-2026"
     },
     {
-      "question": "Will James Fishback win less than 10% of votes in the Florida Republican Governor primary?",
-      "prob": 1,
-      "change": -48.0,
-      "vol24": "$135K",
-      "slug": "will-james-fishback-win-less-than-10-of-votes-in-the-florida-republican-governor-primary-20260701154239340"
+      "question": "LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers - Game 2 Winner",
+      "prob": 99,
+      "change": 64.5,
+      "vol24": "$147K",
+      "slug": "lol-bro1-drxc-2026-08-20-game2"
     },
     {
-      "question": "LoL: KT Rolster Challengers vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
-      "prob": 1,
-      "change": -41.4,
-      "vol24": "$271K",
-      "slug": "lol-ktc-t1a-2026-08-19"
+      "question": "LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
+      "prob": 92,
+      "change": 61.5,
+      "vol24": "$154K",
+      "slug": "lol-bro1-drxc-2026-08-20"
     },
     {
-      "question": "Bitcoin Up or Down on August 19?",
-      "prob": 12,
-      "change": -38.0,
-      "vol24": "$186K",
-      "slug": "bitcoin-up-or-down-on-august-19-2026"
+      "question": "Will Portland Timbers win on 2026-08-19?",
+      "prob": 99,
+      "change": 54.4,
+      "vol24": "$246K",
+      "slug": "mls-por-sdg-2026-08-19-por"
     }
   ],
   "top_vol": [
     {
-      "question": "Strait of Hormuz traffic returns to normal by August 31?",
+      "question": "Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner",
+      "prob": 98,
+      "change": 33.9,
+      "vol24": "$1.6M",
+      "slug": "dota2-vsn2-boombo-2026-08-20-game1"
+    },
+    {
+      "question": "Will Belete Molla be the next Prime Minister of Ethiopia?",
       "prob": 1,
-      "change": -0.5,
-      "vol24": "$663K",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320"
+      "change": 0.1,
+      "vol24": "$1.0M",
+      "slug": "will-belete-molla-be-the-next-prime-minister-of-ethiopia"
     },
     {
-      "question": "Strait of Hormuz traffic returns to normal by September 30?",
-      "prob": 6,
-      "change": -3.0,
-      "vol24": "$612K",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440"
-    },
-    {
-      "question": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs",
-      "prob": 72,
-      "change": -6.0,
-      "vol24": "$470K",
-      "slug": "dota2-vsn2-boombo-2026-08-20"
+      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+      "prob": 1,
+      "change": 0.3,
+      "vol24": "$1.0M",
+      "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586"
     }
   ]
 }
