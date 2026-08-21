@@ -1,64 +1,64 @@
 {
-  "date": "Thursday August 20, 2026",
-  "generated": "2026-08-20T07:30:45.433360Z",
-  "brief": "# ZIMR CAPITAL MARKET BRIEF | Thursday, August 20, 2026\n\n## Bitcoin Breaks North, Market Pricing a Rally Above $68K\n\nThe crypto complex is running hot. BTC sentiment has undergone a sharp repricing overnight, with the $68K threshold now trading at 96% probability\u2014up nearly 96% in 24 hours. The $66K and $64K floors are practically locked in (99% and 99% respectively), suggesting institutional confidence in a floor-hold. Meanwhile, the $72.5K ceiling sits at just 48%, indicating real disagreement on upside extension.\n\n**Smart money signal:** The dramatic move in the $68K contract alongside heavy volume in the $70K market (36% prob, +35.8%) suggests traders are positioning for a bounce but remaining cautious on sustained breakout. The \"Bitcoin Up/Down\" market at 88% is the most bullish single indicator, but the gap between $68K conviction (96%) and $70K conviction (36%) reveals a sharp confidence cliff\u2014typical of momentum reversal or profit-taking zones. The killer trade: shorts got trapped; longs are taking chips off the table.\n\n**Potential mispricing:** \"Bitcoin dips to $62.5K in August\" collapsed to 9% (down 45.6%), pricing out tail risk entirely. With only 11 days left in August, this is likely correct, but the speed of repricing suggests panic covering rather than fundamental reassessment. Watch for a re-test if today's rally stalls.\n\n---\n\n## WATCH LIST\n\n1. **Will Bitcoin reach $72,500 in August? (48%)** \u2014 This is the real tell. If it crosses 65% today, we're in genuine bull mode. Below 40% means the rally is corrective, not structural.\n\n2. **Will the Fed decrease rates by 25bps in September? (1%, Vol: $1.0M)** \u2014 Completely disconnected from crypto moves. If this reprices higher, it's a macro risk-off event that could crater BTC. Monitor for any Fed speak today.\n\n3. **Dota 2: TEAM VISION vs BoomBoys Game 1 (98%, Vol: $1.6M)** \u2014 The volume here is massive and odds are tight. High-conviction markets often mean sharp reversals. Use as a liquidity proxy for how sentiment can flip fast.\n\n---\n\n**ZIMR** | *Markets don't lie. They just change their minds fast.*",
+  "date": "Friday August 21, 2026",
+  "generated": "2026-08-21T07:32:33.644336Z",
+  "brief": "# ZIMR CAPITAL MARKET BRIEF | Friday, August 21, 2026\n\n## \"Bitcoin Shorts Getting Liquidated: Market Priced $72K Confirmation at 98%\"\n\n**THE SIGNAL**\nBTC is having a decisive day. The $72K confirmation (98%) ripped 87% overnight while the $77.5K target jumped 75%. This isn't random\u2014it's capitulation. When binary options on spot price spike this hard on the confirmation level, it typically means either (a) stops were triggered below, forcing shorts to cover, or (b) institutional buyers stepped in ahead of a known catalyst. The volume spike ($150-247K on the top two markets) is meaningful but not enough to be *only* retail FOMO.\n\n**THE MISDIRECTION**\nNotice what's collapsing: the $80K and $82.5K markets are UP (+46%, +25%) but trading at only 52% and 27% respectively. This is a classic ladder-liquidation pattern. Smart money is willing to 3x their BTC position on $77.5K but refuses to commit much capital above that. The market is saying \"we'll push to $77.5K but $80K is the real resistance.\" The $55K December dip bet (-14% today, still at 26%) suggests longer-dated shorts are bleeding out.\n\n**WHAT WE'RE WATCHING**\nThe Fed rate cut market (1% on 25bps in September) is a ghost town ($1.6M vol but 1% price). That's either massive complacency or a tell that macro players have already positioned. If BTC sustains above $74K through EOD, watch for rotation into those low-probability Fed markets\u2014they'll reprrice fast.\n\n---\n\n## WATCH LIST\n\n**1. Will Bitcoin reach $77,500 in August? (85% | $247K vol)**\nThis is the line. If it breaks 87%, you're watching an extended squeeze. If it rolls over to 80%, that's your sell signal for the day trade. Track it hourly.\n\n**2. Dota 2: Team Spirit vs TEAM VISION (36% | $1.9M vol)**\nHighest conviction hedge in the book right now. Spirit at 36% is underpriced relative to their playoff seeding. This is where smart money *isn't* following the BTC momentum\u2014textbook diversification.\n\n**3. Will Bitcoin dip to $55,000 by December 31? (26% | -14% today)**\nThis is your macro sentiment barometer. When this crosses below 20%, conviction traders are gone. Watch it as an inverse indicator for longer-dated longs.",
   "top_movers": [
     {
-      "question": "Will the price of Bitcoin be above $68,000 on August 20?",
-      "prob": 96,
-      "change": 95.8,
-      "vol24": "$174K",
-      "slug": "bitcoin-above-68k-on-august-20-2026"
+      "question": "Will the price of Bitcoin be above $72,000 on August 21?",
+      "prob": 98,
+      "change": 87.0,
+      "vol24": "$150K",
+      "slug": "bitcoin-above-72k-on-august-21-2026"
     },
     {
-      "question": "Will the price of Bitcoin be above $66,000 on August 20?",
+      "question": "Will Bitcoin reach $77,500 in August?",
+      "prob": 85,
+      "change": 74.6,
+      "vol24": "$247K",
+      "slug": "will-bitcoin-reach-77pt5k-in-august-2026"
+    },
+    {
+      "question": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
       "prob": 99,
-      "change": 95.1,
-      "vol24": "$161K",
-      "slug": "bitcoin-above-66k-on-august-20-2026"
+      "change": 57.5,
+      "vol24": "$315K",
+      "slug": "lol-nsea-t1a-2026-08-21"
     },
     {
-      "question": "LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers - Game 2 Winner",
-      "prob": 99,
-      "change": 64.5,
-      "vol24": "$147K",
-      "slug": "lol-bro1-drxc-2026-08-20-game2"
+      "question": "Will Bitcoin reach $80,000 in August?",
+      "prob": 52,
+      "change": 46.4,
+      "vol24": "$193K",
+      "slug": "will-bitcoin-reach-80k-in-august-2026"
     },
     {
-      "question": "LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
-      "prob": 92,
-      "change": 61.5,
-      "vol24": "$154K",
-      "slug": "lol-bro1-drxc-2026-08-20"
-    },
-    {
-      "question": "Will Portland Timbers win on 2026-08-19?",
-      "prob": 99,
-      "change": 54.4,
-      "vol24": "$246K",
-      "slug": "mls-por-sdg-2026-08-19-por"
+      "question": "LoL: Nongshim Esports Academy vs T1 Academy - Game 2 Winner",
+      "prob": 1,
+      "change": -44.5,
+      "vol24": "$151K",
+      "slug": "lol-nsea-t1a-2026-08-21-game2"
     }
   ],
   "top_vol": [
     {
-      "question": "Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner",
-      "prob": 98,
-      "change": 33.9,
-      "vol24": "$1.6M",
-      "slug": "dota2-vsn2-boombo-2026-08-20-game1"
+      "question": "Dota 2: Team Liquid vs Team Falcons - Game 1 Winner",
+      "prob": 1,
+      "change": 0,
+      "vol24": "$2.5M",
+      "slug": "dota2-liquid-flc-2026-08-21-game1"
     },
     {
-      "question": "Will Belete Molla be the next Prime Minister of Ethiopia?",
-      "prob": 1,
-      "change": 0.1,
-      "vol24": "$1.0M",
-      "slug": "will-belete-molla-be-the-next-prime-minister-of-ethiopia"
+      "question": "Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs",
+      "prob": 36,
+      "change": 0,
+      "vol24": "$1.9M",
+      "slug": "dota2-ts8-vsn2-2026-08-21"
     },
     {
       "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
       "prob": 1,
-      "change": 0.3,
-      "vol24": "$1.0M",
+      "change": -0.1,
+      "vol24": "$1.6M",
       "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586"
     }
   ]
