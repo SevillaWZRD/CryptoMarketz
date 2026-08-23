@@ -1,65 +1,65 @@
 {
-  "date": "Saturday August 22, 2026",
-  "generated": "2026-08-22T07:21:18.045913Z",
-  "brief": "# BITCOIN CONFIDENCE SURGES AS FED PIVOT BETS INTENSIFY\n\n**The market is pricing in a sustained rally above $80K and betting the Fed blinks first.**\n\nBTC's August push is looking increasingly inevitable. The $80K contract hit 62% (up 12% today) while the $82.5K variant climbed to 38%\u2014smart money isn't just betting on $80K, they're already positioning for the breakout. Volume concentration ($401K on August hit) suggests institutional accumulation ahead of potential macro catalysts. The real tell: $72K is now 99% priced as a floor, meaning traders have essentially already capitulated on downside scenarios.\n\nWhat's sharper is the Fed rate divergence in massive volume. The $1.5M in Sep meeting flow is split between \"no change\" (68%, sensible) and extreme tails\u201450bp hikes and 25bp cuts both trading at 1% with $1.3-1.5M each. This isn't confusion; it's smart money hedging tail risk on both sides while the consensus sits comfortably at hold. The +6% move on \"Fed hike in 2026\" suggests macro traders are reconsidering the soft-landing narrative *today*.\n\n**The mispricing:** Tottenham down 6% to 30% while Brentford holds 46% on the same Saturday fixture suggests one of these lines is overcooked. Sinner's 1% (down 35%) looks like pure panic-selling unless there's late-breaking injury news. Worth a contrarian sniff if you're tracking tennis vol.\n\n---\n\n## WATCH LIST\n\n**1. Fed Sep Meeting Flow ($1.5M+ vol)**  \nMassive two-sided hedging here. Watch if the extreme tails (rate cuts/hikes) consolidate toward consensus or if one side capitulates. This will likely signal broader risk-on/off sentiment before Monday opens.\n\n**2. Bitcoin $82.5K vs $80K spreads**  \nIf August $80K pops through, does smart money immediately reprrice $82.5K higher? Currently only 24pp apart. A decisive move past $80K today would tell you whether we're range-holding or accelerating.\n\n**3. Brentford/Tottenham arb**  \nOne of these overreacted. Check team news, injury lists, and Vegas lines before kickoff. $745K volume on Brentford alone is substantial\u2014follow the depth.",
+  "date": "Sunday August 23, 2026",
+  "generated": "2026-08-23T07:22:54.542884Z",
+  "brief": "# ZIMR DAILY BRIEFING | August 23, 2026\n\n## Headline\n**Dota Believers Losing Faith: Team Spirit Surges While Vision Craters Ahead of TI Playoffs**\n\n---\n\n## Market Intelligence\n\n**The Signal:** Team Spirit just printed a massive +40% move to 59% while their direct opponent Team Vision collapsed -21.5% to 42%. This isn't noise\u2014it's a $7.1M mega-pool ($2B+ implied market cap on Game 1 alone) repricing the playoff matchup in real-time. Smart money is confident Spirit has superior form heading into the BO5. The Vision fade suggests late-week intel (scrim results, roster conditioning, meta reads) shifted conviction hard.\n\n**Crypto Capitulation Setting In:** Bitcoin's down/up market tanked -29% (now 22%), while both $80K and $82.5K August targets got hammered (-15.7%, -12.2%). The August expiry is 8 days out\u2014if we haven't broken $80K by now, the market is pricing sub-5% odds of a 10%+ pump in a dying month. This is rational but worth watching for mean-reversion plays if spot BTC shows any Sunday evening pump on Asian open.\n\n**Geopolitical Repricing:** Iran ceasefire markets are *sticky strong* at 92% (up 6bps) while the blockade-end probability sits modest at 34% (+7.5%). This spread suggests markets believe the status quo holds through August but doubt formal negotiations conclude by Sept 30\u2014realistic positioning given the weekend talking-head churn.\n\n---\n\n## Watch List\n\n1. **Dota 2: TEAM VISION vs Team Spirit (BO5) | 40% Vision | $7.1M vol**  \n   Core market of the day. Team Spirit's momentum is real but Vision at 40% might be oversold if they have a pocket meta pick. Watch for any coach/analyst commentary or practice clips pre-match.\n\n2. **Bitcoin Up or Down on August 23? | 22% | $144K vol**  \n   Contrarian angle: 22% is *extremely* low for a binary daily. If Asia pushes spot above $40.3K Sunday evening UTC, expect sharp repricing. Good scalp zone.\n\n3. **Will the Fed decrease rates 25 bps after September 2026 meeting? | 1% | $584K vol**  \n   Absurdly low odds despite massive volume. CPI/PCE prints this week will move this hard. If inflation data surprises soft, this reprices 10x+. Monitor Monday's data flow.\n\n---\n\n*ZIMR Capital | Markets don't lie, but they do reprice fast.*",
   "top_movers": [
     {
-      "question": "Will Jannik Sinner win the 2026 Men's US Open?",
-      "prob": 1,
-      "change": -35.4,
+      "question": "Will Team Spirit Win The International 2026?",
+      "prob": 59,
+      "change": 40.0,
+      "vol24": "$214K",
+      "slug": "will-team-spirit-win-the-international-2026-20260629212053621"
+    },
+    {
+      "question": "Bitcoin Up or Down on August 23?",
+      "prob": 22,
+      "change": -29.0,
       "vol24": "$144K",
-      "slug": "will-jannik-sinner-win-the-2026-mens-us-open"
+      "slug": "bitcoin-up-or-down-on-august-23-2026"
+    },
+    {
+      "question": "Will TEAM VISION Win The International 2026?",
+      "prob": 42,
+      "change": -21.5,
+      "vol24": "$425K",
+      "slug": "will-team-vision-win-the-international-2026-20260629212053622"
     },
     {
       "question": "Will Bitcoin reach $80,000 in August?",
-      "prob": 62,
-      "change": 12.1,
-      "vol24": "$401K",
+      "prob": 46,
+      "change": -15.7,
+      "vol24": "$117K",
       "slug": "will-bitcoin-reach-80k-in-august-2026"
     },
     {
-      "question": "Will Bitcoin reach $82,500 in August?",
-      "prob": 38,
-      "change": 10.4,
-      "vol24": "$244K",
-      "slug": "will-bitcoin-reach-82pt5k-in-august-2026"
-    },
-    {
-      "question": "Will Bitcoin reach $80,000 by December 31, 2026?",
-      "prob": 86,
-      "change": 9.0,
-      "vol24": "$136K",
-      "slug": "will-bitcoin-reach-80000-by-december-31-2026-from-june-8"
-    },
-    {
-      "question": "Will Brentford FC win on 2026-08-22?",
-      "prob": 46,
-      "change": 6.0,
-      "vol24": "$745K",
-      "slug": "epl-bre-tot-2026-08-22-bre"
+      "question": "LoL: ThunderTalk Gaming vs LGD Gaming (BO3) - LPL Group Ascend",
+      "prob": 30,
+      "change": -15.0,
+      "vol24": "$134K",
+      "slug": "lol-tt-lgd-2026-08-23"
     }
   ],
   "top_vol": [
     {
-      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-      "prob": 1,
-      "change": -0.1,
-      "vol24": "$1.5M",
-      "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586"
+      "question": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
+      "prob": 40,
+      "change": 0,
+      "vol24": "$7.1M",
+      "slug": "dota2-vsn2-ts8-2026-08-23"
     },
     {
-      "question": "Dota 2: Nigma Galaxy vs BoomBoys - Game 2 Winner",
-      "prob": 99,
+      "question": "Dota 2: TEAM VISION vs Team Spirit - Game 1 Winner",
+      "prob": 6,
       "change": 0,
-      "vol24": "$1.5M",
-      "slug": "dota2-ngx-boombo-2026-08-22-game2"
+      "vol24": "$2.0M",
+      "slug": "dota2-vsn2-ts8-2026-08-23-game1"
     },
     {
-      "question": "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?",
+      "question": "Will Josh Stein win the 2028 Democratic presidential nomination?",
       "prob": 1,
-      "change": 0,
-      "vol24": "$1.3M",
-      "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664"
+      "change": 0.1,
+      "vol24": "$712K",
+      "slug": "will-josh-stein-win-the-2028-democratic-presidential-nomination"
     }
   ]
 }
