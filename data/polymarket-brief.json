@@ -1,65 +1,65 @@
 {
-  "date": "Tuesday August 25, 2026",
-  "generated": "2026-08-25T07:33:56.583263Z",
-  "brief": "# BITCOIN MOMENTUM CRUSHES AUGUST CEILING BETS\u2014MARKET PRICING IN BREAKOUT\n\n**The Signal:** Bitcoin traders are violently repricing August upside. The 24-hour surge in $82.5K (+33.4%) and $85K (+20.3%) targets signals conviction that spot price is *already* tracking toward the high end. The 86% probability on \"Bitcoin Up Today\" isn't noise\u2014it's real directional flow. Meanwhile, longer-dated December targets ($85K at 80%, $90K at 59%) are climbing steadily, suggesting the move isn't seen as a dead-cat bounce but structural momentum.\n\n**What Smart Money Sees:** There's a critical arbitrage emerging between August ceiling plays and year-end targets. If $82.5K hits (highly probable now), the $85K+ chain breaks. The $87.5K longshot (21% odds) is badly mispriced relative to that momentum\u2014either it's genuinely unlikely, or it's a whale accumulation trade before a final August push. The collapse in the $75K dip bet (-34%) is the real tell: nobody's hedging downside anymore. That's either peak greed or genuine macro tailwinds.\n\n**The Cautionary Flag:** The Clarity Act's 18% odds on *$1.9M volume* dwarfs all Bitcoin trades. Regulatory clarity could be a shock catalyst. Watch for any August 25 legislative movement\u2014a surprise passage would reprice crypto markets instantly and could cap this August rally hard.\n\n---\n\n## WATCH LIST\n\n1. **Bitcoin $85K in August (41% \u2192 track intraday)**  \n   This is the fulcrum. If it breaks, expect cascade buying into $87.5K. If it fails here, the entire momentum narrative reverses.\n\n2. **Clarity Act vote/movement (18% | $1.9M vol)**  \n   Institutional capital is parked here. Any news flow will bleed into spot price action within minutes.\n\n3. **Bitcoin $90K by Dec 31 (59% | +10.5%)**  \n   The \"smart money\" position. This is where serious traders are hedging their August conviction\u2014betting the move extends.",
+  "date": "Wednesday August 26, 2026",
+  "generated": "2026-08-26T07:34:57.923655Z",
+  "brief": "# ZIMR POLYMARKET DAILY | Wednesday, August 26, 2026\n\n## Headline\n**Iran De-Escalation Priced as Done Deal\u2014But the Hormuz Blockade Tells a Different Story**\n\n---\n\n## The Signal\n\nMarkets are pricing a ceasefire victory lap. Cubs-Diamondbacks ($637K vol) and Club Le\u00f3n ($132K vol) dominated yesterday's action, but the real money flow is telling a geopolitical story: Iran de-escalation now trades at 84-90% confidence through mid-September, yet only 12% of traders believe Strait of Hormuz traffic normalizes by month-end. That's a massive contradiction.\n\nThe smart money is **hedging the ceasefire narrative**. Notice the volume divergence: $348K flowed into \"blockade ends by Sept 30\" (40% odds) while the Hormuz recovery market ($890K total vol, only 12% priced in) screams structural skepticism. Traders are betting on *announcement theater* without believing in operational reality. The spread between ceasefire duration (high conviction) and actual trade restoration (low conviction) suggests institutional players expect a negotiated pause, not a genuine reset.\n\n**Potential mispricing**: Gentner Drummond's Oklahoma GOP primary at 1% is a snooze, but watch it as a volatility indicator\u2014if it spikes, it signals broader uncertainty about Republican primary dynamics that could ripple across downstream political markets. The Clarity Act at 14% on $1M volume looks sticky; that's either truly dead or someone knows something about a surprise push.\n\n---\n\n## Watch List\n\n1. **Strait of Hormuz @ 12%** \u2014 This is the canary. If blockade-end markets rally but Hormuz stays depressed, you've got a crowded \"peace theater\" trade ready to unwind. Monitor for any shipping data or Iranian statements.\n\n2. **US Blockade End by Sept 7 vs. Sept 30 (16% vs. 40%)** \u2014 The 24-point spread is too wide for a sequential event. Arbitrage opportunity or smart money frontrunning a Sept 7 announcement? Track for mean reversion.\n\n3. **Cubs-Diamondbacks @ 87%** \u2014 Game hasn't happened yet. 35% single-day move on $637K vol is whale activity. Check injury reports and pitching matchups for sharp reversals.",
   "top_movers": [
     {
-      "question": "Will Donald Trump publicly insult someone on August 23, 2026?",
-      "prob": 7,
-      "change": -40.6,
-      "vol24": "$373K",
-      "slug": "will-donald-trump-publicly-insult-someone-on-august-23-2026-20260724221849654"
+      "question": "Chicago Cubs vs. Arizona Diamondbacks",
+      "prob": 87,
+      "change": 35.1,
+      "vol24": "$637K",
+      "slug": "mlb-chc-ari-2026-08-25"
     },
     {
-      "question": "Bitcoin Up or Down on August 25?",
-      "prob": 86,
-      "change": 36.0,
-      "vol24": "$152K",
-      "slug": "bitcoin-up-or-down-on-august-25-2026"
+      "question": "Will Club Le\u00f3n FC win on 2026-08-25?",
+      "prob": 64,
+      "change": 34.0,
+      "vol24": "$132K",
+      "slug": "lec-leo-rsl-2026-08-25-leo"
     },
     {
-      "question": "Will Bitcoin dip to $75,000 in August?",
-      "prob": 26,
-      "change": -34.0,
-      "vol24": "$161K",
-      "slug": "will-bitcoin-dip-to-75k-in-august-2026"
+      "question": "Cleveland Guardians vs. Los Angeles Angels",
+      "prob": 34,
+      "change": -22.5,
+      "vol24": "$493K",
+      "slug": "mlb-cle-laa-2026-08-25"
     },
     {
-      "question": "Will Bitcoin reach $82,500 in August?",
-      "prob": 71,
-      "change": 33.4,
-      "vol24": "$219K",
-      "slug": "will-bitcoin-reach-82pt5k-in-august-2026"
+      "question": "Will Gentner Drummond win the 2026 Oklahoma Governor Republican primary election?",
+      "prob": 1,
+      "change": -22.4,
+      "vol24": "$257K",
+      "slug": "will-genter-drummond-win-the-2026-oklahoma-governor-republican-primary-election"
     },
     {
-      "question": "Will Bitcoin reach $85,000 in August?",
-      "prob": 41,
-      "change": 20.3,
-      "vol24": "$149K",
-      "slug": "will-bitcoin-reach-85k-in-august-2026"
+      "question": "US announces end of Iranian blockade by September 30, 2026?",
+      "prob": 40,
+      "change": 11.0,
+      "vol24": "$348K",
+      "slug": "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831"
     }
   ],
   "top_vol": [
     {
       "question": "Clarity Act (H.R.3633) signed into law in 2026?",
-      "prob": 18,
-      "change": -6.0,
-      "vol24": "$1.9M",
+      "prob": 14,
+      "change": -4.0,
+      "vol24": "$1.0M",
       "slug": "clarity-act-signed-into-law-in-2026"
     },
     {
-      "question": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
-      "prob": 1,
-      "change": 0,
-      "vol24": "$867K",
-      "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-september-2026-meeting-863"
+      "question": "Strait of Hormuz traffic returns to normal by September 30?",
+      "prob": 12,
+      "change": 6.0,
+      "vol24": "$890K",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440"
     },
     {
-      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-      "prob": 1,
-      "change": 0,
-      "vol24": "$737K",
-      "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586"
+      "question": "Chicago Cubs vs. Arizona Diamondbacks",
+      "prob": 87,
+      "change": 35.1,
+      "vol24": "$637K",
+      "slug": "mlb-chc-ari-2026-08-25"
     }
   ]
 }
