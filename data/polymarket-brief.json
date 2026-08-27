@@ -1,65 +1,65 @@
 {
-  "date": "Wednesday August 26, 2026",
-  "generated": "2026-08-26T07:34:57.923655Z",
-  "brief": "# ZIMR POLYMARKET DAILY | Wednesday, August 26, 2026\n\n## Headline\n**Iran De-Escalation Priced as Done Deal\u2014But the Hormuz Blockade Tells a Different Story**\n\n---\n\n## The Signal\n\nMarkets are pricing a ceasefire victory lap. Cubs-Diamondbacks ($637K vol) and Club Le\u00f3n ($132K vol) dominated yesterday's action, but the real money flow is telling a geopolitical story: Iran de-escalation now trades at 84-90% confidence through mid-September, yet only 12% of traders believe Strait of Hormuz traffic normalizes by month-end. That's a massive contradiction.\n\nThe smart money is **hedging the ceasefire narrative**. Notice the volume divergence: $348K flowed into \"blockade ends by Sept 30\" (40% odds) while the Hormuz recovery market ($890K total vol, only 12% priced in) screams structural skepticism. Traders are betting on *announcement theater* without believing in operational reality. The spread between ceasefire duration (high conviction) and actual trade restoration (low conviction) suggests institutional players expect a negotiated pause, not a genuine reset.\n\n**Potential mispricing**: Gentner Drummond's Oklahoma GOP primary at 1% is a snooze, but watch it as a volatility indicator\u2014if it spikes, it signals broader uncertainty about Republican primary dynamics that could ripple across downstream political markets. The Clarity Act at 14% on $1M volume looks sticky; that's either truly dead or someone knows something about a surprise push.\n\n---\n\n## Watch List\n\n1. **Strait of Hormuz @ 12%** \u2014 This is the canary. If blockade-end markets rally but Hormuz stays depressed, you've got a crowded \"peace theater\" trade ready to unwind. Monitor for any shipping data or Iranian statements.\n\n2. **US Blockade End by Sept 7 vs. Sept 30 (16% vs. 40%)** \u2014 The 24-point spread is too wide for a sequential event. Arbitrage opportunity or smart money frontrunning a Sept 7 announcement? Track for mean reversion.\n\n3. **Cubs-Diamondbacks @ 87%** \u2014 Game hasn't happened yet. 35% single-day move on $637K vol is whale activity. Check injury reports and pitching matchups for sharp reversals.",
+  "date": "Thursday August 27, 2026",
+  "generated": "2026-08-27T17:56:41.710565Z",
+  "brief": "# ZIMR CAPITAL MARKET INTELLIGENCE | Thursday, August 27, 2026\n\n## Headline\n**Esports Confidence Peaks While Baseball Bettors Get Cold Feet\u2014Bitcoin Struggles to Find Conviction**\n\n---\n\n## Market Signal Analysis\n\nThe Counter-Strike market is *screaming* conviction today. Legacy vs FUT at 99% with $5.6M volume is the clearest signal we're seeing\u2014this isn't casual action, it's informed money piling in. The Map 2 Winner follow-up at 99% (+48.4%) suggests the market has already digested the series outcome. What's notable: this isn't late-breaking news; these are sustained 99% positions, indicating either heavy algorithmic accumulation or sharp syndicates with non-public intel from the BLAST circuit.\n\nCrypto is the interesting contradiction. Bitcoin's daily direction market sits at 99% but only moved +40.5%\u2014substantial, but trailing the esports movers. More telling: the \"$82.5K by end-August\" market is only 55% and gained +26.3%. **This divergence screams uncertainty.** If smart money truly believed in a directional move, we'd expect tighter correlations. Instead, the market is pricing in volatility and event risk through August 31st.\n\nBaseball is where we see real value dislocation. Rockies-Nationals at 27% has *declined* 21.5% in 24h despite $2.5M volume\u2014classic sign of sharp money fading retail consensus. This warrants deep diving into home/away splits and recent rotation matchups.\n\n---\n\n## WATCH LIST\n\n**1. Counter-Strike: Legacy vs FUT Esports (BO3) - 99%**\n- **Why:** $5.6M volume at 99% is unsustainable. Either the market snaps back to 95%+ after map results confirm the outcome, or we see a shocking upset. Map-by-map granularity gives you re-entry points.\n\n**2. Bitcoin $82.5K by August 31 - 55%**\n- **Why:** This is the real crypto signal. At 55%, the market is hedge-pricing a major move either direction. Watch for capital inflows/outflows and Fed commentary\u2014the range between current price and $82.5K is your volatility playbook.\n\n**3. Rockies vs Nationals - 27% (Nationals favored)**\n- **Why:** Sharp money just dumped 21.5%. Check: Is this pitching matchup data (recent stats)? Ballpark factors? This reversion tells us retail overweighted something\u2014find it, then fade it or double down with conviction.\n\n---\n\n*ZIMR Capital | Markets move on information asymmetry. Find it first.*",
   "top_movers": [
     {
-      "question": "Chicago Cubs vs. Arizona Diamondbacks",
-      "prob": 87,
-      "change": 35.1,
-      "vol24": "$637K",
-      "slug": "mlb-chc-ari-2026-08-25"
+      "question": "Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B",
+      "prob": 99,
+      "change": 52.4,
+      "vol24": "$5.6M",
+      "slug": "cs2-lgc-fut-2026-08-27"
     },
     {
-      "question": "Will Club Le\u00f3n FC win on 2026-08-25?",
-      "prob": 64,
-      "change": 34.0,
-      "vol24": "$132K",
-      "slug": "lec-leo-rsl-2026-08-25-leo"
+      "question": "LoL: BIG vs G2 NORD - Game 1 Winner",
+      "prob": 99,
+      "change": 51.9,
+      "vol24": "$185K",
+      "slug": "lol-big1-g2nord-2026-08-27-game1"
     },
     {
-      "question": "Cleveland Guardians vs. Los Angeles Angels",
-      "prob": 34,
-      "change": -22.5,
-      "vol24": "$493K",
-      "slug": "mlb-cle-laa-2026-08-25"
+      "question": "Will Kuopion PS win on 2026-08-27?",
+      "prob": 99,
+      "change": 51.4,
+      "vol24": "$259K",
+      "slug": "col-kps-shr-2026-08-27-kps"
     },
     {
-      "question": "Will Gentner Drummond win the 2026 Oklahoma Governor Republican primary election?",
-      "prob": 1,
-      "change": -22.4,
-      "vol24": "$257K",
-      "slug": "will-genter-drummond-win-the-2026-oklahoma-governor-republican-primary-election"
+      "question": "Counter-Strike: Legacy vs FUT Esports - Map 2 Winner",
+      "prob": 99,
+      "change": 48.4,
+      "vol24": "$695K",
+      "slug": "cs2-lgc-fut-2026-08-27-game2"
     },
     {
-      "question": "US announces end of Iranian blockade by September 30, 2026?",
-      "prob": 40,
-      "change": 11.0,
-      "vol24": "$348K",
-      "slug": "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831"
+      "question": "Bitcoin Up or Down on August 27?",
+      "prob": 99,
+      "change": 40.5,
+      "vol24": "$202K",
+      "slug": "bitcoin-up-or-down-on-august-27-2026"
     }
   ],
   "top_vol": [
     {
-      "question": "Clarity Act (H.R.3633) signed into law in 2026?",
-      "prob": 14,
-      "change": -4.0,
-      "vol24": "$1.0M",
-      "slug": "clarity-act-signed-into-law-in-2026"
+      "question": "Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B",
+      "prob": 99,
+      "change": 52.4,
+      "vol24": "$5.6M",
+      "slug": "cs2-lgc-fut-2026-08-27"
     },
     {
-      "question": "Strait of Hormuz traffic returns to normal by September 30?",
-      "prob": 12,
-      "change": 6.0,
-      "vol24": "$890K",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440"
+      "question": "Colorado Rockies vs. Washington Nationals",
+      "prob": 27,
+      "change": -21.5,
+      "vol24": "$2.5M",
+      "slug": "mlb-col-wsh-2026-08-27"
     },
     {
-      "question": "Chicago Cubs vs. Arizona Diamondbacks",
-      "prob": 87,
-      "change": 35.1,
-      "vol24": "$637K",
-      "slug": "mlb-chc-ari-2026-08-25"
+      "question": "Counter-Strike: Team Falcons vs Lynn Vision - Map 1 Winner",
+      "prob": 99,
+      "change": 23.4,
+      "vol24": "$2.5M",
+      "slug": "cs2-fal2-lvg-2026-08-27-game1"
     }
   ]
 }
