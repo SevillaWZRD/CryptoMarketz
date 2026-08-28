@@ -1,65 +1,65 @@
 {
-  "date": "Thursday August 27, 2026",
-  "generated": "2026-08-27T17:56:41.710565Z",
-  "brief": "# ZIMR CAPITAL MARKET INTELLIGENCE | Thursday, August 27, 2026\n\n## Headline\n**Esports Confidence Peaks While Baseball Bettors Get Cold Feet\u2014Bitcoin Struggles to Find Conviction**\n\n---\n\n## Market Signal Analysis\n\nThe Counter-Strike market is *screaming* conviction today. Legacy vs FUT at 99% with $5.6M volume is the clearest signal we're seeing\u2014this isn't casual action, it's informed money piling in. The Map 2 Winner follow-up at 99% (+48.4%) suggests the market has already digested the series outcome. What's notable: this isn't late-breaking news; these are sustained 99% positions, indicating either heavy algorithmic accumulation or sharp syndicates with non-public intel from the BLAST circuit.\n\nCrypto is the interesting contradiction. Bitcoin's daily direction market sits at 99% but only moved +40.5%\u2014substantial, but trailing the esports movers. More telling: the \"$82.5K by end-August\" market is only 55% and gained +26.3%. **This divergence screams uncertainty.** If smart money truly believed in a directional move, we'd expect tighter correlations. Instead, the market is pricing in volatility and event risk through August 31st.\n\nBaseball is where we see real value dislocation. Rockies-Nationals at 27% has *declined* 21.5% in 24h despite $2.5M volume\u2014classic sign of sharp money fading retail consensus. This warrants deep diving into home/away splits and recent rotation matchups.\n\n---\n\n## WATCH LIST\n\n**1. Counter-Strike: Legacy vs FUT Esports (BO3) - 99%**\n- **Why:** $5.6M volume at 99% is unsustainable. Either the market snaps back to 95%+ after map results confirm the outcome, or we see a shocking upset. Map-by-map granularity gives you re-entry points.\n\n**2. Bitcoin $82.5K by August 31 - 55%**\n- **Why:** This is the real crypto signal. At 55%, the market is hedge-pricing a major move either direction. Watch for capital inflows/outflows and Fed commentary\u2014the range between current price and $82.5K is your volatility playbook.\n\n**3. Rockies vs Nationals - 27% (Nationals favored)**\n- **Why:** Sharp money just dumped 21.5%. Check: Is this pitching matchup data (recent stats)? Ballpark factors? This reversion tells us retail overweighted something\u2014find it, then fade it or double down with conviction.\n\n---\n\n*ZIMR Capital | Markets move on information asymmetry. Find it first.*",
+  "date": "Friday August 28, 2026",
+  "generated": "2026-08-28T19:06:55.189869Z",
+  "brief": "# ZIMR CAPITAL | POLYMARKET DAILY BRIEF\n**Friday, August 28, 2026**\n\n---\n\n## HEADLINE\n**Soccer Certainty vs. Macro Confusion: Market Pricing Lopsided Conviction Ahead of Fed Call**\n\n---\n\n## THE SIGNAL\n\nToday's tape shows a clean bifurcation: European soccer markets are trading at terminal conviction (Real Racing Club 99%, Osnabr\u00fcck 99%) with massive volume ($2.5M on Real Racing alone), while macro traders are genuinely split on September Fed policy. The 50/50 split between rate hold and 25bps cut\u2014with combined $3.8M volume\u2014signals genuine uncertainty about economic data trajectory, not indecision.\n\n**What's moving the money:** Real Racing at 99% is absorbing $2.5M in volume at the top of the range, suggesting late institutional positioning. This isn't retail FOMO\u2014it's tactical accumulation on what appears to be a one-sided matchup. Meanwhile, smart money is *conspicuously* split on Fed action, refusing to break the 50/50 hold/cut dichotomy despite $3.8M flowing through.\n\n**The potential mispricing:** Vitality-Fnatic (BO3) trades at 98% with $814K volume, yet Game 1 Winner sits at only 1% for Vitality. Either Game 1 odds are being artificially suppressed (punters overshooting on Fnatic's single-map strength), or there's genuine edge in backing the 1% if you have conviction on Vitality's series adaptability.\n\n---\n\n## WATCH LIST\n\n1. **Real Racing Club win (2026-08-28) | 99% | $2.5M vol**  \n   *Why:* Liquidity at extremes invites sharp movement if pre-match data shifts. Monitor team news 2-3 hours pre-kickoff; late injuries crater certainty prices faster than you'd expect.\n\n2. **Fed Rate Hold (Sept 2026) | 50% | $2.1M vol**  \n   *Why:* This is macro's real battleground. Any PCE data surprise or yield curve move today resets the entire spread. Current 50/50 is lazy pricing\u2014watch for smart money rotation if economic data releases shift expectations.\n\n3. **Vitality vs Fnatic Game 1 | 1% | $612K vol**  \n   *Why:* Asymmetric value if the series line (98% Vitality) is right but Game 1 overweighting Fnatic's map pool. Contrarian entry with defined risk.\n\n---\n\n*ZIMR Capital | Market Intelligence | Not financial advice*",
   "top_movers": [
     {
-      "question": "Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B",
+      "question": "Will VfL Osnabr\u00fcck win on 2026-08-28?",
       "prob": 99,
-      "change": 52.4,
-      "vol24": "$5.6M",
-      "slug": "cs2-lgc-fut-2026-08-27"
+      "change": 80.5,
+      "vol24": "$204K",
+      "slug": "bl2-boc-vfl-2026-08-28-vfl"
     },
     {
-      "question": "LoL: BIG vs G2 NORD - Game 1 Winner",
+      "question": "Dota 2: DYNASTY vs Inner Circle (BO3) - EPL Masters Play-In Group A",
       "prob": 99,
-      "change": 51.9,
-      "vol24": "$185K",
-      "slug": "lol-big1-g2nord-2026-08-27-game1"
+      "change": 77.5,
+      "vol24": "$280K",
+      "slug": "dota2-dynast1-ic-2026-08-28"
     },
     {
-      "question": "Will Kuopion PS win on 2026-08-27?",
-      "prob": 99,
-      "change": 51.4,
-      "vol24": "$259K",
-      "slug": "col-kps-shr-2026-08-27-kps"
+      "question": "LoL: Team Vitality vs Fnatic - Game 1 Winner",
+      "prob": 1,
+      "change": -56.5,
+      "vol24": "$612K",
+      "slug": "lol-vit-fnc-2026-08-28-game1"
     },
     {
-      "question": "Counter-Strike: Legacy vs FUT Esports - Map 2 Winner",
+      "question": "Will Real Racing Club win on 2026-08-28?",
       "prob": 99,
-      "change": 48.4,
-      "vol24": "$695K",
-      "slug": "cs2-lgc-fut-2026-08-27-game2"
+      "change": 54.4,
+      "vol24": "$2.5M",
+      "slug": "lal-rrc-elc-2026-08-28-rrc"
     },
     {
-      "question": "Bitcoin Up or Down on August 27?",
+      "question": "LoL: Team Vitality vs Fnatic - Game 2 Winner",
       "prob": 99,
-      "change": 40.5,
-      "vol24": "$202K",
-      "slug": "bitcoin-up-or-down-on-august-27-2026"
+      "change": 43.5,
+      "vol24": "$623K",
+      "slug": "lol-vit-fnc-2026-08-28-game2"
     }
   ],
   "top_vol": [
     {
-      "question": "Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B",
+      "question": "Will Real Racing Club win on 2026-08-28?",
       "prob": 99,
-      "change": 52.4,
-      "vol24": "$5.6M",
-      "slug": "cs2-lgc-fut-2026-08-27"
+      "change": 54.4,
+      "vol24": "$2.5M",
+      "slug": "lal-rrc-elc-2026-08-28-rrc"
     },
     {
-      "question": "Colorado Rockies vs. Washington Nationals",
-      "prob": 27,
-      "change": -21.5,
+      "question": "Will Manchester City FC win on 2026-08-28?",
+      "prob": 58,
+      "change": 0,
       "vol24": "$2.5M",
-      "slug": "mlb-col-wsh-2026-08-27"
+      "slug": "epl-cry-mac-2026-08-28-mac"
     },
     {
-      "question": "Counter-Strike: Team Falcons vs Lynn Vision - Map 1 Winner",
-      "prob": 99,
-      "change": 23.4,
-      "vol24": "$2.5M",
-      "slug": "cs2-fal2-lvg-2026-08-27-game1"
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "prob": 50,
+      "change": -18.0,
+      "vol24": "$2.1M",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615"
     }
   ]
 }
