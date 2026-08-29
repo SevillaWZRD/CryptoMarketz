@@ -1,65 +1,65 @@
 {
-  "date": "Friday August 28, 2026",
-  "generated": "2026-08-28T19:06:55.189869Z",
-  "brief": "# ZIMR CAPITAL | POLYMARKET DAILY BRIEF\n**Friday, August 28, 2026**\n\n---\n\n## HEADLINE\n**Soccer Certainty vs. Macro Confusion: Market Pricing Lopsided Conviction Ahead of Fed Call**\n\n---\n\n## THE SIGNAL\n\nToday's tape shows a clean bifurcation: European soccer markets are trading at terminal conviction (Real Racing Club 99%, Osnabr\u00fcck 99%) with massive volume ($2.5M on Real Racing alone), while macro traders are genuinely split on September Fed policy. The 50/50 split between rate hold and 25bps cut\u2014with combined $3.8M volume\u2014signals genuine uncertainty about economic data trajectory, not indecision.\n\n**What's moving the money:** Real Racing at 99% is absorbing $2.5M in volume at the top of the range, suggesting late institutional positioning. This isn't retail FOMO\u2014it's tactical accumulation on what appears to be a one-sided matchup. Meanwhile, smart money is *conspicuously* split on Fed action, refusing to break the 50/50 hold/cut dichotomy despite $3.8M flowing through.\n\n**The potential mispricing:** Vitality-Fnatic (BO3) trades at 98% with $814K volume, yet Game 1 Winner sits at only 1% for Vitality. Either Game 1 odds are being artificially suppressed (punters overshooting on Fnatic's single-map strength), or there's genuine edge in backing the 1% if you have conviction on Vitality's series adaptability.\n\n---\n\n## WATCH LIST\n\n1. **Real Racing Club win (2026-08-28) | 99% | $2.5M vol**  \n   *Why:* Liquidity at extremes invites sharp movement if pre-match data shifts. Monitor team news 2-3 hours pre-kickoff; late injuries crater certainty prices faster than you'd expect.\n\n2. **Fed Rate Hold (Sept 2026) | 50% | $2.1M vol**  \n   *Why:* This is macro's real battleground. Any PCE data surprise or yield curve move today resets the entire spread. Current 50/50 is lazy pricing\u2014watch for smart money rotation if economic data releases shift expectations.\n\n3. **Vitality vs Fnatic Game 1 | 1% | $612K vol**  \n   *Why:* Asymmetric value if the series line (98% Vitality) is right but Game 1 overweighting Fnatic's map pool. Contrarian entry with defined risk.\n\n---\n\n*ZIMR Capital | Market Intelligence | Not financial advice*",
+  "date": "Saturday August 29, 2026",
+  "generated": "2026-08-29T12:51:20.147651Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | Saturday, August 29, 2026\n\n## HEADLINE\n**Esports Confidence Surge Masks Macro Uncertainty as Fed Rate Bets Remain Deadlocked**\n\n---\n\n## THE SIGNAL\n\nTop Esports is running the table on League of Legends today\u2014three consecutive game wins priced at 99%, collectively pulling $2.7M in volume. This isn't casual action. The consistency across Games 2, 3, and 4 suggests coordinated sharp money or legitimate technical dominance. Meanwhile, esports overall is absorbing $4M+ in daily volume, indicating retail confidence is rotating into gaming outcomes as traditional macro remains choppy.\n\nThe macro picture is fractured. Fed rate expectations are perfectly split: 56% odds of no change vs. 44% odds of a 25bp increase\u2014a $4.9M stalemate suggesting genuine uncertainty ahead of September's FOMC. Bitcoin's 3% odds of closing higher today (down 47.7%) signals late-stage capitulation selling, possibly wash trades or leverage liquidations. Watch for panic reversals if Asian markets open strong.\n\n**The mispricing:** Liverpool at 24% to win against a sub-50% Nottingham Forest is lazy pricing. Pool's recent form doesn't justify 76-to-24 odds against a mid-table side\u2014this feels like American money still asleep on summer fixtures. Spread at 7% is even softer.\n\n---\n\n## WATCH LIST\n\n**1. Will there be no change in Fed interest rates after the September 2026 meeting?**\n- **Why:** $2.7M volume but perfect 56/44 split suggests this resolves *intraday* based on a single datapoint (FOMC minutes, inflation print, etc.). First major catalyst moves the needle here.\n\n**2. Will Liverpool FC win on 2026-08-29?**\n- **Why:** $2.4M volume on what should be a lower-liquidity domestic league match. Sharp betting action possible on team sheet or line-up news. Monitor for odds movement in next 2 hours.\n\n**3. LoL: Top Esports vs LGD Gaming - Game 1 Winner**\n- **Why:** Missing from top movers but this is the *entry* game. If Games 2-4 are indeed 99% (series already decided), Game 1 odds should telegraph the pattern. Check if it's still underpriced.\n\n---\n\n*ZIMR Capital | Market-driven intelligence for traders who move fast.*",
   "top_movers": [
     {
-      "question": "Will VfL Osnabr\u00fcck win on 2026-08-28?",
+      "question": "UFC Fight Night: Song Yadong vs. Umar Nurmagomedov (Bantamweight, Main Card)",
       "prob": 99,
-      "change": 80.5,
-      "vol24": "$204K",
-      "slug": "bl2-boc-vfl-2026-08-28-vfl"
+      "change": 82.0,
+      "vol24": "$560K",
+      "slug": "ufc-son-uma-2026-08-29"
     },
     {
-      "question": "Dota 2: DYNASTY vs Inner Circle (BO3) - EPL Masters Play-In Group A",
-      "prob": 99,
-      "change": 77.5,
-      "vol24": "$280K",
-      "slug": "dota2-dynast1-ic-2026-08-28"
-    },
-    {
-      "question": "LoL: Team Vitality vs Fnatic - Game 1 Winner",
+      "question": "LoL: Top Esports vs LGD Gaming - Game 2 Winner",
       "prob": 1,
-      "change": -56.5,
-      "vol24": "$612K",
-      "slug": "lol-vit-fnc-2026-08-28-game1"
+      "change": -61.0,
+      "vol24": "$963K",
+      "slug": "lol-tes-lgd-2026-08-29-game2"
     },
     {
-      "question": "Will Real Racing Club win on 2026-08-28?",
+      "question": "Dota 2: MOUZ vs Yellow Submarine - Game 1 Winner",
       "prob": 99,
-      "change": 54.4,
-      "vol24": "$2.5M",
-      "slug": "lal-rrc-elc-2026-08-28-rrc"
+      "change": 50.0,
+      "vol24": "$245K",
+      "slug": "dota2-mouz-yes-2026-08-29-game1"
     },
     {
-      "question": "LoL: Team Vitality vs Fnatic - Game 2 Winner",
+      "question": "Bitcoin Up or Down on August 29?",
+      "prob": 3,
+      "change": -47.7,
+      "vol24": "$176K",
+      "slug": "bitcoin-up-or-down-on-august-29-2026"
+    },
+    {
+      "question": "LoL: Top Esports vs LGD Gaming - Game 4 Winner",
       "prob": 99,
-      "change": 43.5,
-      "vol24": "$623K",
-      "slug": "lol-vit-fnc-2026-08-28-game2"
+      "change": 41.9,
+      "vol24": "$964K",
+      "slug": "lol-tes-lgd-2026-08-29-game4"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Real Racing Club win on 2026-08-28?",
-      "prob": 99,
-      "change": 54.4,
-      "vol24": "$2.5M",
-      "slug": "lal-rrc-elc-2026-08-28-rrc"
-    },
-    {
-      "question": "Will Manchester City FC win on 2026-08-28?",
-      "prob": 58,
-      "change": 0,
-      "vol24": "$2.5M",
-      "slug": "epl-cry-mac-2026-08-28-mac"
-    },
-    {
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "prob": 50,
-      "change": -18.0,
-      "vol24": "$2.1M",
+      "prob": 56,
+      "change": -13.0,
+      "vol24": "$2.7M",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615"
+    },
+    {
+      "question": "Will Liverpool FC win on 2026-08-29?",
+      "prob": 24,
+      "change": -39.0,
+      "vol24": "$2.4M",
+      "slug": "epl-liv-not-2026-08-29-liv"
+    },
+    {
+      "question": "LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs",
+      "prob": 99,
+      "change": 0,
+      "vol24": "$2.3M",
+      "slug": "lol-t1-fox1-2026-08-29"
     }
   ]
 }
