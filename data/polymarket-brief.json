@@ -1,65 +1,65 @@
 {
-  "date": "Saturday August 29, 2026",
-  "generated": "2026-08-29T12:51:20.147651Z",
-  "brief": "# ZIMR POLYMARKET BRIEFING | Saturday, August 29, 2026\n\n## HEADLINE\n**Esports Confidence Surge Masks Macro Uncertainty as Fed Rate Bets Remain Deadlocked**\n\n---\n\n## THE SIGNAL\n\nTop Esports is running the table on League of Legends today\u2014three consecutive game wins priced at 99%, collectively pulling $2.7M in volume. This isn't casual action. The consistency across Games 2, 3, and 4 suggests coordinated sharp money or legitimate technical dominance. Meanwhile, esports overall is absorbing $4M+ in daily volume, indicating retail confidence is rotating into gaming outcomes as traditional macro remains choppy.\n\nThe macro picture is fractured. Fed rate expectations are perfectly split: 56% odds of no change vs. 44% odds of a 25bp increase\u2014a $4.9M stalemate suggesting genuine uncertainty ahead of September's FOMC. Bitcoin's 3% odds of closing higher today (down 47.7%) signals late-stage capitulation selling, possibly wash trades or leverage liquidations. Watch for panic reversals if Asian markets open strong.\n\n**The mispricing:** Liverpool at 24% to win against a sub-50% Nottingham Forest is lazy pricing. Pool's recent form doesn't justify 76-to-24 odds against a mid-table side\u2014this feels like American money still asleep on summer fixtures. Spread at 7% is even softer.\n\n---\n\n## WATCH LIST\n\n**1. Will there be no change in Fed interest rates after the September 2026 meeting?**\n- **Why:** $2.7M volume but perfect 56/44 split suggests this resolves *intraday* based on a single datapoint (FOMC minutes, inflation print, etc.). First major catalyst moves the needle here.\n\n**2. Will Liverpool FC win on 2026-08-29?**\n- **Why:** $2.4M volume on what should be a lower-liquidity domestic league match. Sharp betting action possible on team sheet or line-up news. Monitor for odds movement in next 2 hours.\n\n**3. LoL: Top Esports vs LGD Gaming - Game 1 Winner**\n- **Why:** Missing from top movers but this is the *entry* game. If Games 2-4 are indeed 99% (series already decided), Game 1 odds should telegraph the pattern. Check if it's still underpriced.\n\n---\n\n*ZIMR Capital | Market-driven intelligence for traders who move fast.*",
+  "date": "Sunday August 30, 2026",
+  "generated": "2026-08-30T12:20:41.197506Z",
+  "brief": "# ZIMR DAILY BRIEF | August 30, 2026\n\n## Headline\n**Team WE is Dismantling JD Gaming\u2014Market Pricing Game 4 All Wrong**\n\n---\n\n## Market Intelligence\n\n**The Signal**: Team WE has crushed JD Gaming through three games with such dominance that Game 3 winner sits at 99%, yet Game 4 is still priced at 33% for JD. This is a classic overvaluation of \"bounce-back\" psychology. The BO5 series itself has collapsed to 20% JD odds, meaning smart money has already called the sweep. The $1.4M volume into WE Game 3 at 99% wasn't panic buying\u2014it was capitulation. When a team is being systematically dismantled across map control, draft, and execution, the fourth game isn't a reset. It's a formality.\n\n**What Smart Money Is Doing**: The sharp action today flowed *into* WE across all remaining games while the early JD backers got liquidated (-62% on Games 1-2). Notice the PSV/Utrecht market: +40-51% moves on heavy volume suggest recreational bettors chasing yesterday's winners into today's matches. The Fed rate hike market (+4%) is absorbing late-August positioning ahead of September\u2014institutional players are hedging, not conviction trading.\n\n**The Mispricing**: Game 4 at 33% JD is a gift. If you believe the series narrative (and the data strongly suggests WE is the superior team), you're getting 2:1 odds on a likely Team WE victory. The market is anchoring to \"BO5 comebacks happen,\" but not when one team outclasses the other this decisively. Sunderland AFC at 42% is also worth examination\u20141.3M in volume suggests this is real money, not algorithm noise.\n\n---\n\n## Watch List\n\n1. **LoL: Game 4 Winner (33% JD)** \u2014 Peak arbitrage opportunity if WE closes out the series. If Team WE wins Game 4, the entire BO5 collapses to near-zero JD odds retroactively. Execution risk is minimal; team skill differential is massive.\n\n2. **FC Utrecht vs PSV O/U 3.5 (99%)** \u2014 This extreme pricing on a single match is fragile. One early goal swings it hard. Monitor pre-match team news; injuries or last-minute lineup changes could offer 5-10% edge here.\n\n3. **Fed Rate Hike September Meeting (48%)** \u2014 Tracking this into Labor Day week. Economic data drops Tuesday-Wednesday could shift this 5-7 points either direction. Currently balanced; watch for inflation surprises or employment weakness.",
   "top_movers": [
     {
-      "question": "UFC Fight Night: Song Yadong vs. Umar Nurmagomedov (Bantamweight, Main Card)",
-      "prob": 99,
-      "change": 82.0,
-      "vol24": "$560K",
-      "slug": "ufc-son-uma-2026-08-29"
-    },
-    {
-      "question": "LoL: Top Esports vs LGD Gaming - Game 2 Winner",
+      "question": "LoL: JD Gaming vs Team WE - Game 1 Winner",
       "prob": 1,
-      "change": -61.0,
-      "vol24": "$963K",
-      "slug": "lol-tes-lgd-2026-08-29-game2"
+      "change": -62.0,
+      "vol24": "$1.3M",
+      "slug": "lol-jdg-we-2026-08-30-game1"
     },
     {
-      "question": "Dota 2: MOUZ vs Yellow Submarine - Game 1 Winner",
+      "question": "LoL: JD Gaming vs Team WE - Game 2 Winner",
+      "prob": 1,
+      "change": -62.0,
+      "vol24": "$848K",
+      "slug": "lol-jdg-we-2026-08-30-game2"
+    },
+    {
+      "question": "FC Utrecht vs. PSV: O/U 3.5",
       "prob": 99,
-      "change": 50.0,
-      "vol24": "$245K",
-      "slug": "dota2-mouz-yes-2026-08-29-game1"
+      "change": 51.4,
+      "vol24": "$251K",
+      "slug": "ere-utr-psv-2026-08-30-total-3pt5"
     },
     {
-      "question": "Bitcoin Up or Down on August 29?",
-      "prob": 3,
-      "change": -47.7,
-      "vol24": "$176K",
-      "slug": "bitcoin-up-or-down-on-august-29-2026"
+      "question": "LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs",
+      "prob": 20,
+      "change": -48.2,
+      "vol24": "$884K",
+      "slug": "lol-jdg-we-2026-08-30"
     },
     {
-      "question": "LoL: Top Esports vs LGD Gaming - Game 4 Winner",
+      "question": "Will PSV win on 2026-08-30?",
       "prob": 99,
-      "change": 41.9,
-      "vol24": "$964K",
-      "slug": "lol-tes-lgd-2026-08-29-game4"
+      "change": 40.5,
+      "vol24": "$264K",
+      "slug": "ere-utr-psv-2026-08-30-psv"
     }
   ],
   "top_vol": [
     {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "prob": 56,
-      "change": -13.0,
-      "vol24": "$2.7M",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615"
-    },
-    {
-      "question": "Will Liverpool FC win on 2026-08-29?",
-      "prob": 24,
-      "change": -39.0,
-      "vol24": "$2.4M",
-      "slug": "epl-liv-not-2026-08-29-liv"
-    },
-    {
-      "question": "LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs",
+      "question": "LoL: JD Gaming vs Team WE - Game 3 Winner",
       "prob": 99,
-      "change": 0,
-      "vol24": "$2.3M",
-      "slug": "lol-t1-fox1-2026-08-29"
+      "change": 39.0,
+      "vol24": "$1.4M",
+      "slug": "lol-jdg-we-2026-08-30-game3"
+    },
+    {
+      "question": "LoL: JD Gaming vs Team WE - Game 1 Winner",
+      "prob": 1,
+      "change": -62.0,
+      "vol24": "$1.3M",
+      "slug": "lol-jdg-we-2026-08-30-game1"
+    },
+    {
+      "question": "Will Sunderland AFC win on 2026-08-30?",
+      "prob": 42,
+      "change": 3.0,
+      "vol24": "$1.3M",
+      "slug": "epl-sun-ful-2026-08-30-sun"
     }
   ]
 }
