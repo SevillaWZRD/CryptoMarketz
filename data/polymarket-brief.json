@@ -1,65 +1,65 @@
 {
-  "date": "Sunday August 30, 2026",
-  "generated": "2026-08-30T12:20:41.197506Z",
-  "brief": "# ZIMR DAILY BRIEF | August 30, 2026\n\n## Headline\n**Team WE is Dismantling JD Gaming\u2014Market Pricing Game 4 All Wrong**\n\n---\n\n## Market Intelligence\n\n**The Signal**: Team WE has crushed JD Gaming through three games with such dominance that Game 3 winner sits at 99%, yet Game 4 is still priced at 33% for JD. This is a classic overvaluation of \"bounce-back\" psychology. The BO5 series itself has collapsed to 20% JD odds, meaning smart money has already called the sweep. The $1.4M volume into WE Game 3 at 99% wasn't panic buying\u2014it was capitulation. When a team is being systematically dismantled across map control, draft, and execution, the fourth game isn't a reset. It's a formality.\n\n**What Smart Money Is Doing**: The sharp action today flowed *into* WE across all remaining games while the early JD backers got liquidated (-62% on Games 1-2). Notice the PSV/Utrecht market: +40-51% moves on heavy volume suggest recreational bettors chasing yesterday's winners into today's matches. The Fed rate hike market (+4%) is absorbing late-August positioning ahead of September\u2014institutional players are hedging, not conviction trading.\n\n**The Mispricing**: Game 4 at 33% JD is a gift. If you believe the series narrative (and the data strongly suggests WE is the superior team), you're getting 2:1 odds on a likely Team WE victory. The market is anchoring to \"BO5 comebacks happen,\" but not when one team outclasses the other this decisively. Sunderland AFC at 42% is also worth examination\u20141.3M in volume suggests this is real money, not algorithm noise.\n\n---\n\n## Watch List\n\n1. **LoL: Game 4 Winner (33% JD)** \u2014 Peak arbitrage opportunity if WE closes out the series. If Team WE wins Game 4, the entire BO5 collapses to near-zero JD odds retroactively. Execution risk is minimal; team skill differential is massive.\n\n2. **FC Utrecht vs PSV O/U 3.5 (99%)** \u2014 This extreme pricing on a single match is fragile. One early goal swings it hard. Monitor pre-match team news; injuries or last-minute lineup changes could offer 5-10% edge here.\n\n3. **Fed Rate Hike September Meeting (48%)** \u2014 Tracking this into Labor Day week. Economic data drops Tuesday-Wednesday could shift this 5-7 points either direction. Currently balanced; watch for inflation surprises or employment weakness.",
+  "date": "Monday August 31, 2026",
+  "generated": "2026-08-31T14:31:02.118717Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | Monday, August 31, 2026\n\n## Headline\n**Fed Rate Anxiety Peaks as September Meeting Looms\u2014Bitcoin Capitulation Complete**\n\n---\n\n## Market Intelligence\n\nThe smart money is already pricing in Fed divergence ahead of next month's decision. The rate-cut market sits at just 1% (25bp decrease), while rate-hold is commanding 44% and the hike scenario 56%\u2014a clear signal traders expect hawkish messaging or data before the September meeting. This explains yesterday's crypto capitulation: Bitcoin's $80K August goal collapsed (-41.5%), and spot BTC direction (-48.5%) suggests institutional positioning has shifted defensive.\n\nThe real tell? Counter-Strike esports and tennis markets are absorbing $3M+ volume while macro trades at $3.4M combined\u2014retail is rotating hard into event betting as uncertainty peaks. Emma Navarro's match (95% implied) is the only high-conviction play getting real money; everything else is fragmented. The \"China vs. Lebanon\" market at 99% is noise (geopolitical binary with thin liquidity).\n\n**The mispricing:** Fed rate futures are overweighting a 56% hike scenario that contradicts most consensus forecasts. If inflation data moderates this week, you'll see violent repricing. Watch for any PCE print or Fed speaker commentary\u2014currently baked-in hawkishness looks stretched.\n\n---\n\n## Watch List\n\n1. **Will the Fed decrease interest rates by 25 bps after September 2026 meeting?** (1%) \u2014 Dead money now, but any soft CPI/PCE data could spark a 300%+ move. Position sizing matters here.\n\n2. **Will there be no change in Fed interest rates after the September 2026 meeting?** (44%, $890K) \u2014 The real battleground. This is where macro traders should be active; holds are underpriced vs. cuts.\n\n3. **Bitcoin Up or Down on August 31?** (5%, -48.5%) \u2014 Late-session volatility play. Close-of-day directional moves often reverse overnight sentiment; monitor for 4-hour candle patterns into Asian open.",
   "top_movers": [
     {
-      "question": "LoL: JD Gaming vs Team WE - Game 1 Winner",
+      "question": "Plovdiv 3: Gabriele Piraino vs Dusan Obradovic",
       "prob": 1,
-      "change": -62.0,
-      "vol24": "$1.3M",
-      "slug": "lol-jdg-we-2026-08-30-game1"
+      "change": -73.0,
+      "vol24": "$256K",
+      "slug": "atp-piraino-obradov-2026-08-31"
     },
     {
-      "question": "LoL: JD Gaming vs Team WE - Game 2 Winner",
-      "prob": 1,
-      "change": -62.0,
-      "vol24": "$848K",
-      "slug": "lol-jdg-we-2026-08-30-game2"
+      "question": "US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino",
+      "prob": 8,
+      "change": -62.5,
+      "vol24": "$824K",
+      "slug": "atp-tirante-mannari-2026-08-30"
     },
     {
-      "question": "FC Utrecht vs. PSV: O/U 3.5",
+      "question": "Bitcoin Up or Down on August 31?",
+      "prob": 5,
+      "change": -48.5,
+      "vol24": "$146K",
+      "slug": "bitcoin-up-or-down-on-august-31-2026"
+    },
+    {
+      "question": "Will Bitcoin reach $80,000 in August?",
+      "prob": 6,
+      "change": -41.5,
+      "vol24": "$171K",
+      "slug": "will-bitcoin-reach-80k-in-august-2026-from-august-28"
+    },
+    {
+      "question": "China vs. Lebanon",
       "prob": 99,
-      "change": 51.4,
-      "vol24": "$251K",
-      "slug": "ere-utr-psv-2026-08-30-total-3pt5"
-    },
-    {
-      "question": "LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs",
-      "prob": 20,
-      "change": -48.2,
-      "vol24": "$884K",
-      "slug": "lol-jdg-we-2026-08-30"
-    },
-    {
-      "question": "Will PSV win on 2026-08-30?",
-      "prob": 99,
-      "change": 40.5,
-      "vol24": "$264K",
-      "slug": "ere-utr-psv-2026-08-30-psv"
+      "change": 29.4,
+      "vol24": "$179K",
+      "slug": "bkfibaqas-chi-leb-2026-08-31"
     }
   ],
   "top_vol": [
     {
-      "question": "LoL: JD Gaming vs Team WE - Game 3 Winner",
-      "prob": 99,
-      "change": 39.0,
-      "vol24": "$1.4M",
-      "slug": "lol-jdg-we-2026-08-30-game3"
-    },
-    {
-      "question": "LoL: JD Gaming vs Team WE - Game 1 Winner",
+      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
       "prob": 1,
-      "change": -62.0,
-      "vol24": "$1.3M",
-      "slug": "lol-jdg-we-2026-08-30-game1"
+      "change": -0.2,
+      "vol24": "$1.6M",
+      "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586"
     },
     {
-      "question": "Will Sunderland AFC win on 2026-08-30?",
-      "prob": 42,
-      "change": 3.0,
+      "question": "Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
+      "prob": 72,
+      "change": 13.5,
       "vol24": "$1.3M",
-      "slug": "epl-sun-ful-2026-08-30-sun"
+      "slug": "cs2-g2-aur1-2026-08-31"
+    },
+    {
+      "question": "Counter-Strike: G2 vs Aurora Gaming - Map 2 Winner",
+      "prob": 99,
+      "change": 0,
+      "vol24": "$1.2M",
+      "slug": "cs2-g2-aur1-2026-08-31-game2"
     }
   ]
 }
