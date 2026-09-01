@@ -1,65 +1,65 @@
 {
-  "date": "Monday August 31, 2026",
-  "generated": "2026-08-31T14:31:02.118717Z",
-  "brief": "# ZIMR POLYMARKET BRIEFING | Monday, August 31, 2026\n\n## Headline\n**Fed Rate Anxiety Peaks as September Meeting Looms\u2014Bitcoin Capitulation Complete**\n\n---\n\n## Market Intelligence\n\nThe smart money is already pricing in Fed divergence ahead of next month's decision. The rate-cut market sits at just 1% (25bp decrease), while rate-hold is commanding 44% and the hike scenario 56%\u2014a clear signal traders expect hawkish messaging or data before the September meeting. This explains yesterday's crypto capitulation: Bitcoin's $80K August goal collapsed (-41.5%), and spot BTC direction (-48.5%) suggests institutional positioning has shifted defensive.\n\nThe real tell? Counter-Strike esports and tennis markets are absorbing $3M+ volume while macro trades at $3.4M combined\u2014retail is rotating hard into event betting as uncertainty peaks. Emma Navarro's match (95% implied) is the only high-conviction play getting real money; everything else is fragmented. The \"China vs. Lebanon\" market at 99% is noise (geopolitical binary with thin liquidity).\n\n**The mispricing:** Fed rate futures are overweighting a 56% hike scenario that contradicts most consensus forecasts. If inflation data moderates this week, you'll see violent repricing. Watch for any PCE print or Fed speaker commentary\u2014currently baked-in hawkishness looks stretched.\n\n---\n\n## Watch List\n\n1. **Will the Fed decrease interest rates by 25 bps after September 2026 meeting?** (1%) \u2014 Dead money now, but any soft CPI/PCE data could spark a 300%+ move. Position sizing matters here.\n\n2. **Will there be no change in Fed interest rates after the September 2026 meeting?** (44%, $890K) \u2014 The real battleground. This is where macro traders should be active; holds are underpriced vs. cuts.\n\n3. **Bitcoin Up or Down on August 31?** (5%, -48.5%) \u2014 Late-session volatility play. Close-of-day directional moves often reverse overnight sentiment; monitor for 4-hour candle patterns into Asian open.",
+  "date": "Tuesday September 01, 2026",
+  "generated": "2026-09-01T12:10:02.052461Z",
+  "brief": "# Fed Rate Pause Now Favored as Market Reprices September Expectations\n\nThe fixed income complex is shifting. After today's moves, the market is pricing a 56% probability of a 25bps rate *increase* in September\u2014up 4%\u2014while the no-change scenario has dropped to 42%. This isn't random drift. With $1.9M flowing into the pause trade, smart money is hedging recession fears against sticky inflation prints. The signal: Fed messaging last week rattled hawkish expectations, but growth concerns are winning the narrative today.\n\nBitcoin's bifurcated pricing tells the real story. The spot market is screaming conviction (98% probability BTC stays above $76K), yet the directional \"Up or Down\" contract collapsed -32% to just 18%. This is classic deleveraging fear ahead of FOMC week\u2014traders locking in gains rather than taking directional bets. The $155K volume in the directional contract is anemic compared to the spot-level certainty, suggesting smart money prefers defined-risk plays (spreads, collars) to outright long exposure here.\n\nGeopolitical tail risks are priced as done. Israel-Iran ceasefire through August 31 sits at 99% with minimal slippage (+1.4%), signaling no new catalysts expected before month-end. This is a low-information market. The real watch: whether FOMC commentary this week re-inflames Middle East risk premium or keeps it dormant.\n\n---\n\n## Watch List\n\n1. **Fed rate hike probability (70% currently)** \u2014 Track any pre-FOMC Fed speakers or inflation data. The 14pt spread between \"hike\" and \"no change\" markets suggests consensus is fragile. A hot PCE print could spark a quick repricing.\n\n2. **Bitcoin directional contract vs. spot conviction gap** \u2014 The -32% dump in \"Up or Down\" while spot probability sits at 98% is your mismatch signal. If this tightens, expect post-FOMC volatility trade unwinding. Watch for $155K volume to spike or stay dead.\n\n3. **Elon tweet volume (20%, +13.9%)** \u2014 Noise trade with real leverage if it hits. Vol pickup (+13.9%) suggests smart money testing short positions ahead of the Sept 1 deadline. Track if this inverts; sudden buying could signal insider positioning around Tesla earnings.",
   "top_movers": [
     {
-      "question": "Plovdiv 3: Gabriele Piraino vs Dusan Obradovic",
-      "prob": 1,
-      "change": -73.0,
-      "vol24": "$256K",
-      "slug": "atp-piraino-obradov-2026-08-31"
+      "question": "Bitcoin Up or Down on September 1?",
+      "prob": 18,
+      "change": -32.0,
+      "vol24": "$155K",
+      "slug": "bitcoin-up-or-down-on-september-1-2026"
     },
     {
-      "question": "US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino",
-      "prob": 8,
-      "change": -62.5,
-      "vol24": "$824K",
-      "slug": "atp-tirante-mannari-2026-08-30"
+      "question": "Will Elon Musk post 140-159 tweets from August 25 to September 1, 2026?",
+      "prob": 20,
+      "change": 13.9,
+      "vol24": "$126K",
+      "slug": "elon-musk-of-tweets-august-25-september-1-2026-140-159"
     },
     {
-      "question": "Bitcoin Up or Down on August 31?",
-      "prob": 5,
-      "change": -48.5,
-      "vol24": "$146K",
-      "slug": "bitcoin-up-or-down-on-august-31-2026"
+      "question": "Will Carlos Alcaraz win the 2026 Men's US Open?",
+      "prob": 34,
+      "change": 6.5,
+      "vol24": "$157K",
+      "slug": "will-carlos-alcaraz-win-the-2026-mens-us-open"
     },
     {
-      "question": "Will Bitcoin reach $80,000 in August?",
-      "prob": 6,
-      "change": -41.5,
-      "vol24": "$171K",
-      "slug": "will-bitcoin-reach-80k-in-august-2026-from-august-28"
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "prob": 42,
+      "change": -5.0,
+      "vol24": "$1.9M",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615"
     },
     {
-      "question": "China vs. Lebanon",
-      "prob": 99,
-      "change": 29.4,
-      "vol24": "$179K",
-      "slug": "bkfibaqas-chi-leb-2026-08-31"
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "prob": 56,
+      "change": 4.0,
+      "vol24": "$1.3M",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649"
     }
   ],
   "top_vol": [
     {
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "prob": 42,
+      "change": -5.0,
+      "vol24": "$1.9M",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615"
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "prob": 56,
+      "change": 4.0,
+      "vol24": "$1.3M",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649"
+    },
+    {
       "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
       "prob": 1,
-      "change": -0.2,
-      "vol24": "$1.6M",
+      "change": -0.1,
+      "vol24": "$1.0M",
       "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586"
-    },
-    {
-      "question": "Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
-      "prob": 72,
-      "change": 13.5,
-      "vol24": "$1.3M",
-      "slug": "cs2-g2-aur1-2026-08-31"
-    },
-    {
-      "question": "Counter-Strike: G2 vs Aurora Gaming - Map 2 Winner",
-      "prob": 99,
-      "change": 0,
-      "vol24": "$1.2M",
-      "slug": "cs2-g2-aur1-2026-08-31-game2"
     }
   ]
 }
