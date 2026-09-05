@@ -1,65 +1,65 @@
 {
-  "date": "Friday September 04, 2026",
-  "generated": "2026-09-04T11:48:57.006565Z",
-  "brief": "# ZIMR DAILY BRIEFING | Friday, September 4, 2026\n\n## Headline\n**Bitcoin Bulls Own the Day: Market Prices 90% Odds BTC Stays Above $80K, Fed Traders Flip to \"Hold\" Narrative**\n\n---\n\n## Market Intelligence\n\nThe crypto complex is running hot. Bitcoin's $80K floor is now priced at 90% probability\u2014a massive +79% move in 24 hours\u2014signaling institutional conviction that support holds despite macro noise. The September $82.5K binary (86% odds) and the softer $82K call (only 25%) reveal asymmetric upside appetite: traders see $80-82K as floor/base-building, but hesitate on pushing higher into expiration. Volume clustering ($182K-$157K) suggests real money positioning, not retail noise.\n\nWhat's most striking: the Fed market has pivoted hard. \"No change\" in September just flipped to 60% (+11% today), gutting the rate-hike probability from 40% to effectively nothing. The 25bp hike scenario collapsed while the 50bp+ tail risk vanished entirely. This rebalancing is *not* crypto-specific\u2014it's broad macro de-risking ahead of next week's FOMC decision. Smart money is frontrunning a \"data dependent, probably dovish\" signal.\n\nThe LoL esports arb is worth a glance: Anyone's Legend is essentially written off (1% on Game 1 winner, 99% on Games 2/3), implying a 0-2 sweep is already priced in. If there's any volatility surprise in that series, Game 1 is severely mispriced. Counter-Strike's HOTU/Eternal Fire sits at 48% (down 10%)\u2014tight, liquid, and live-action sensitive for day traders hunting theta decay.\n\n---\n\n## Watch List\n\n1. **BTC $82K Binary (86% \u2192 ?)** | Highest risk/reward pair today. If Bitcoin rallies through $81.5K intraday, expect aggressive repricing toward 95%+. If macro data drops or Fed speakers jawbone, this corrects sharply. Tight stop-loss territory.\n\n2. **Fed \"No Change\" September (60% \u2194 55-65%)** | Core macro exposure. Every PCE print, jobless claims number, and Fed speaker comment this week reprices this. Crypto traders should use this as macro hedge signal: if it dips below 50%, expect risk-off in alts.\n\n3. **LoL Game 1 (1% \u2192 3-5%?)** | Mispriced tail risk. LGD is clearly favored, but 1% odds on LPL Game 1 is casino-level extreme. Any coaching adjustment or player injury tilts this 300-400%. Speculative edge for esports-literate traders.\n\n---\n\n*ZIMR Capital | Markets moving faster than narratives catch up.*",
+  "date": "Saturday September 05, 2026",
+  "generated": "2026-09-05T10:58:34.401139Z",
+  "brief": "# ZIMR Daily Polymarket Brief \u2014 Saturday, September 5, 2026\n\n## \"Fed Holds Firm; Esports Bettors Rewrite the Script\"\n\nThe market is screaming one message loud and clear: the Fed isn't cutting rates in September. Both the 25bps and 50bps cut markets are trading at 1%, despite $7.7M in combined volume\u2014this isn't apathy, it's conviction. Smart money has been absolutely ruthless pushing these into the basement, and the lack of any real bid suggests data into the meeting has already sealed the narrative. Rate hold is the crowded trade, but that's where the probabilities are justified.\n\nMeanwhile, Korean and Chinese esports are sending mixed signals that suggest sharp bettors are hunting edges in game-level markets. Gen.G vs Hanwha is priced at 78% to win the series, but individual game winners are trading 99%\u2014a classic arbitrage setup that's seen $5.1M chase it today. The real tell: Game 1 cratered to 1% (down -57.5%), implying either reverse sweep positioning or that sharp syndicates already know the result. Invictus Gaming's BO5 sits at 99% with $2.3M volume, but Game 4 is stranded at 1%\u2014pure hedge buying from confident series backers.\n\nThe Israel airspace closure market (66% odds, +57.5% today, $527K volume) is worth monitoring for macro cross-currents, but liquidity is thin. This screams directional bets rather than balanced positioning.\n\n---\n\n## Watch List\n\n1. **Fed Rate Cut Markets** ($7.7M combined) \u2014 Track the bid/ask spreads into market close. If 25bps tightens even 1-2%, it signals late institutional repositioning. Current 1% is likely the floor.\n\n2. **Gen.G Game 1 Winner (1%)** \u2014 This is a smell test. That -57.5% move on low relative volume suggests information asymmetry. Monitor if it bounces post-match or stays pinned; will tell you if \"sharps knew\" narrative holds.\n\n3. **Vitality vs G2 Game 1 (10%)** \u2014 Cleanest European entry point today. Down -24%, still liquid at $308K. If EU esports betting is lagging KR/CN, mispricing likely persists here.",
   "top_movers": [
     {
-      "question": "Will the price of Bitcoin be above $80,000 on September 4?",
-      "prob": 90,
-      "change": 79.0,
-      "vol24": "$182K",
-      "slug": "bitcoin-above-80k-on-september-4-2026"
-    },
-    {
-      "question": "LoL: Anyone's Legend vs LGD Gaming - Game 1 Winner",
+      "question": "LoL: Gen.G vs Hanwha Life Esports - Game 1 Winner",
       "prob": 1,
-      "change": -61.5,
-      "vol24": "$501K",
-      "slug": "lol-al-lgd-2026-09-04-game1"
+      "change": -57.5,
+      "vol24": "$1.3M",
+      "slug": "lol-gen-hle1-2026-09-05-game1"
     },
     {
-      "question": "LoL: Anyone's Legend vs LGD Gaming - Game 3 Winner",
+      "question": "Israel closes its airspace by September 30?",
+      "prob": 66,
+      "change": 57.5,
+      "vol24": "$527K",
+      "slug": "israel-closes-its-airspace-by-september-30"
+    },
+    {
+      "question": "LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs",
       "prob": 99,
-      "change": 39.0,
-      "vol24": "$480K",
-      "slug": "lol-al-lgd-2026-09-04-game3"
+      "change": 53.4,
+      "vol24": "$2.3M",
+      "slug": "lol-ig1-tes-2026-09-05"
     },
     {
-      "question": "LoL: Anyone's Legend vs LGD Gaming - Game 2 Winner",
+      "question": "LoL: Invictus Gaming vs Top Esports - Game 3 Winner",
       "prob": 99,
-      "change": 38.5,
-      "vol24": "$589K",
-      "slug": "lol-al-lgd-2026-09-04-game2"
+      "change": 51.9,
+      "vol24": "$1.0M",
+      "slug": "lol-ig1-tes-2026-09-05-game3"
     },
     {
-      "question": "Will Bitcoin reach $82,500 in September?",
-      "prob": 86,
-      "change": 35.0,
-      "vol24": "$157K",
-      "slug": "will-bitcoin-reach-82pt5k-in-september-2026"
+      "question": "LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner",
+      "prob": 99,
+      "change": 45.0,
+      "vol24": "$1.7M",
+      "slug": "lol-gen-hle1-2026-09-05-game2"
     }
   ],
   "top_vol": [
     {
-      "question": "LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs",
-      "prob": 1,
-      "change": 0,
-      "vol24": "$2.3M",
-      "slug": "lol-kt-dk-2026-09-04"
-    },
-    {
       "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
       "prob": 1,
-      "change": 0.1,
-      "vol24": "$2.0M",
+      "change": -0.3,
+      "vol24": "$5.6M",
       "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586"
     },
     {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "prob": 60,
-      "change": 11.0,
-      "vol24": "$2.0M",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615"
+      "question": "LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs",
+      "prob": 99,
+      "change": 53.4,
+      "vol24": "$2.3M",
+      "slug": "lol-ig1-tes-2026-09-05"
+    },
+    {
+      "question": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
+      "prob": 1,
+      "change": 0,
+      "vol24": "$2.1M",
+      "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-september-2026-meeting-863"
     }
   ]
 }
