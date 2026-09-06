@@ -1,65 +1,65 @@
 {
-  "date": "Saturday September 05, 2026",
-  "generated": "2026-09-05T10:58:34.401139Z",
-  "brief": "# ZIMR Daily Polymarket Brief \u2014 Saturday, September 5, 2026\n\n## \"Fed Holds Firm; Esports Bettors Rewrite the Script\"\n\nThe market is screaming one message loud and clear: the Fed isn't cutting rates in September. Both the 25bps and 50bps cut markets are trading at 1%, despite $7.7M in combined volume\u2014this isn't apathy, it's conviction. Smart money has been absolutely ruthless pushing these into the basement, and the lack of any real bid suggests data into the meeting has already sealed the narrative. Rate hold is the crowded trade, but that's where the probabilities are justified.\n\nMeanwhile, Korean and Chinese esports are sending mixed signals that suggest sharp bettors are hunting edges in game-level markets. Gen.G vs Hanwha is priced at 78% to win the series, but individual game winners are trading 99%\u2014a classic arbitrage setup that's seen $5.1M chase it today. The real tell: Game 1 cratered to 1% (down -57.5%), implying either reverse sweep positioning or that sharp syndicates already know the result. Invictus Gaming's BO5 sits at 99% with $2.3M volume, but Game 4 is stranded at 1%\u2014pure hedge buying from confident series backers.\n\nThe Israel airspace closure market (66% odds, +57.5% today, $527K volume) is worth monitoring for macro cross-currents, but liquidity is thin. This screams directional bets rather than balanced positioning.\n\n---\n\n## Watch List\n\n1. **Fed Rate Cut Markets** ($7.7M combined) \u2014 Track the bid/ask spreads into market close. If 25bps tightens even 1-2%, it signals late institutional repositioning. Current 1% is likely the floor.\n\n2. **Gen.G Game 1 Winner (1%)** \u2014 This is a smell test. That -57.5% move on low relative volume suggests information asymmetry. Monitor if it bounces post-match or stays pinned; will tell you if \"sharps knew\" narrative holds.\n\n3. **Vitality vs G2 Game 1 (10%)** \u2014 Cleanest European entry point today. Down -24%, still liquid at $308K. If EU esports betting is lagging KR/CN, mispricing likely persists here.",
+  "date": "Sunday September 06, 2026",
+  "generated": "2026-09-06T11:23:56.646555Z",
+  "brief": "# ZIMR Daily Polymarket Brief | Sunday, Sept 6, 2026\n\n## Headline\n**T1's LCK Dominance Priced In\u2014But Game 2 Collapse Signal Suggests Series Volatility**\n\n---\n\n## Market Intel\n\nThe League of Legends markets are screaming conflicting narratives. T1 sits at 68% to win the BO5 series, but the individual game odds reveal dangerous confidence creep: Games 1 and 3 are both 99%, while Game 2 has cratered to just 1%. This isn't efficient pricing\u2014it's panic liquidation on Game 2 after likely T1 underperformance. Smart money is capitalizing on the mispricing: $2.0M flowed into Game 2 today as contrarians see value on a potential DK upset leg.\n\nThe concerning signal: a 54.4% overnight dump on Game 2 suggests either sharp action recognizing vulnerability in T1's mid-game (worth investigating VOD evidence), or structural betting on \"bet it all or nothing\" sequences. Game 4 at 36% (+/- 15.5% volatility) is the real tell\u2014it's priced as potential clincher territory, but the wild swings indicate uncertainty about series trajectory. If T1 drops even one game they \"should\" win, liquidity will spike violently.\n\nOutside esports, the Man United 48% line on today's match is neutral-to-slightly-bullish (tiny +3% move on $1.3M vol), suggesting sharp consensus around a draw. Alcaraz's US Open trajectory remains bid at 48%, with Tommy Paul underdog play gaining traction\u2014slight inefficiency there given recent form data in September hard-court conditions.\n\n---\n\n## Watch List\n\n1. **LoL: T1 vs DK Game 4** (36%, $433K) \u2014 If Games 1-3 go as priced (T1 sweeping), Game 4 becomes a \"fade the favorite\" arbitrage opportunity. Monitor stream sentiment pre-match for signs of T1 fatigue or meta shifts.\n\n2. **Man United vs [Opponent] Today** (48%, $1.3M) \u2014 The flatness is suspect. If team news breaks (injuries, lineup), this could snap hard. Sharp money positioning for late-day movement.\n\n3. **Alcaraz US Open 2026** (48%, $131K) \u2014 Dead even odds on a top-3 player in a slam feels underpriced relative to historical seeding conversion. Light volume = opportunity if sentiment shifts on bracket draw updates.\n\n---\n\n*ZIMR tracks >2,500 markets daily. This brief reflects real-time positioning as of 06:45 UTC.*",
   "top_movers": [
     {
-      "question": "LoL: Gen.G vs Hanwha Life Esports - Game 1 Winner",
+      "question": "LoL: T1 vs Dplus KIA - Game 2 Winner",
       "prob": 1,
-      "change": -57.5,
-      "vol24": "$1.3M",
-      "slug": "lol-gen-hle1-2026-09-05-game1"
+      "change": -54.4,
+      "vol24": "$2.0M",
+      "slug": "lol-t1-dk-2026-09-06-game2"
     },
     {
-      "question": "Israel closes its airspace by September 30?",
-      "prob": 66,
-      "change": 57.5,
-      "vol24": "$527K",
-      "slug": "israel-closes-its-airspace-by-september-30"
-    },
-    {
-      "question": "LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs",
+      "question": "LoL: T1 vs Dplus KIA - Game 3 Winner",
       "prob": 99,
-      "change": 53.4,
-      "vol24": "$2.3M",
-      "slug": "lol-ig1-tes-2026-09-05"
+      "change": 46.0,
+      "vol24": "$1.8M",
+      "slug": "lol-t1-dk-2026-09-06-game3"
     },
     {
-      "question": "LoL: Invictus Gaming vs Top Esports - Game 3 Winner",
+      "question": "LoL: T1 vs Dplus KIA - Game 1 Winner",
       "prob": 99,
-      "change": 51.9,
-      "vol24": "$1.0M",
-      "slug": "lol-ig1-tes-2026-09-05-game3"
+      "change": 46.0,
+      "vol24": "$1.5M",
+      "slug": "lol-t1-dk-2026-09-06-game1"
     },
     {
-      "question": "LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner",
-      "prob": 99,
-      "change": 45.0,
-      "vol24": "$1.7M",
-      "slug": "lol-gen-hle1-2026-09-05-game2"
+      "question": "Will MOUZ Win the BLAST Open Porto 2026?",
+      "prob": 38,
+      "change": 20.0,
+      "vol24": "$156K",
+      "slug": "will-mouz-win-the-blast-open-porto-2026-20260806201117427"
+    },
+    {
+      "question": "LoL: T1 vs Dplus KIA - Game 4 Winner",
+      "prob": 36,
+      "change": -15.5,
+      "vol24": "$433K",
+      "slug": "lol-t1-dk-2026-09-06-game4"
     }
   ],
   "top_vol": [
     {
-      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+      "question": "LoL: T1 vs Dplus KIA - Game 2 Winner",
       "prob": 1,
-      "change": -0.3,
-      "vol24": "$5.6M",
-      "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586"
+      "change": -54.4,
+      "vol24": "$2.0M",
+      "slug": "lol-t1-dk-2026-09-06-game2"
     },
     {
-      "question": "LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs",
+      "question": "LoL: T1 vs Dplus KIA - Game 3 Winner",
       "prob": 99,
-      "change": 53.4,
-      "vol24": "$2.3M",
-      "slug": "lol-ig1-tes-2026-09-05"
+      "change": 46.0,
+      "vol24": "$1.8M",
+      "slug": "lol-t1-dk-2026-09-06-game3"
     },
     {
-      "question": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
-      "prob": 1,
-      "change": 0,
-      "vol24": "$2.1M",
-      "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-september-2026-meeting-863"
+      "question": "LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs",
+      "prob": 68,
+      "change": 10.0,
+      "vol24": "$1.7M",
+      "slug": "lol-t1-dk-2026-09-06"
     }
   ]
 }
