@@ -1,65 +1,65 @@
 {
-  "date": "Sunday September 06, 2026",
-  "generated": "2026-09-06T11:23:56.646555Z",
-  "brief": "# ZIMR Daily Polymarket Brief | Sunday, Sept 6, 2026\n\n## Headline\n**T1's LCK Dominance Priced In\u2014But Game 2 Collapse Signal Suggests Series Volatility**\n\n---\n\n## Market Intel\n\nThe League of Legends markets are screaming conflicting narratives. T1 sits at 68% to win the BO5 series, but the individual game odds reveal dangerous confidence creep: Games 1 and 3 are both 99%, while Game 2 has cratered to just 1%. This isn't efficient pricing\u2014it's panic liquidation on Game 2 after likely T1 underperformance. Smart money is capitalizing on the mispricing: $2.0M flowed into Game 2 today as contrarians see value on a potential DK upset leg.\n\nThe concerning signal: a 54.4% overnight dump on Game 2 suggests either sharp action recognizing vulnerability in T1's mid-game (worth investigating VOD evidence), or structural betting on \"bet it all or nothing\" sequences. Game 4 at 36% (+/- 15.5% volatility) is the real tell\u2014it's priced as potential clincher territory, but the wild swings indicate uncertainty about series trajectory. If T1 drops even one game they \"should\" win, liquidity will spike violently.\n\nOutside esports, the Man United 48% line on today's match is neutral-to-slightly-bullish (tiny +3% move on $1.3M vol), suggesting sharp consensus around a draw. Alcaraz's US Open trajectory remains bid at 48%, with Tommy Paul underdog play gaining traction\u2014slight inefficiency there given recent form data in September hard-court conditions.\n\n---\n\n## Watch List\n\n1. **LoL: T1 vs DK Game 4** (36%, $433K) \u2014 If Games 1-3 go as priced (T1 sweeping), Game 4 becomes a \"fade the favorite\" arbitrage opportunity. Monitor stream sentiment pre-match for signs of T1 fatigue or meta shifts.\n\n2. **Man United vs [Opponent] Today** (48%, $1.3M) \u2014 The flatness is suspect. If team news breaks (injuries, lineup), this could snap hard. Sharp money positioning for late-day movement.\n\n3. **Alcaraz US Open 2026** (48%, $131K) \u2014 Dead even odds on a top-3 player in a slam feels underpriced relative to historical seeding conversion. Light volume = opportunity if sentiment shifts on bracket draw updates.\n\n---\n\n*ZIMR tracks >2,500 markets daily. This brief reflects real-time positioning as of 06:45 UTC.*",
+  "date": "Monday September 07, 2026",
+  "generated": "2026-09-07T13:05:12.308811Z",
+  "brief": "# ZIMR DAILY BRIEFING | Monday, September 7, 2026\n\n## Headline\n**LoL Chalice Imploding: $3.8M in Oriental Esports Getting Torched as Favorites Crater**\n\n---\n\n## Market Intelligence\n\nThe Anyone's Legend vs Bilibili Gaming matchup is experiencing coordinated capitulation across all three game markets\u2014each down 23-35% in 24 hours despite holding 1% odds. This isn't normal variance. The $2.8M combined volume across the series suggests institutional positioning has reversed hard, likely triggered by new scrim data or roster intel leaking before the LPL playoffs. Smart money is either (1) closing profitable underdog bets ahead of perceived line compression, or (2) front-running known information that moves these heavily-traded exotics.\n\nThe DRX Challengers market shows identical mechanics\u201436.4% collapse on 1% odds with $303K volume. Pattern recognition screams information asymmetry. These aren't retail panic dumps; the surgical precision and volume concentration indicate professionals are redistributing exposure *before* market-moving events happen.\n\n**The mispricing signal:** BLG (-1.5) Game Handicap sits at 99% after a +41.4% run. This is overcorrection territory. If the market was properly pricing 99% certainty on a handicap, you don't see that kind of intraday volatility. Watch for mean reversion once volatility premia settle.\n\n---\n\n## Watch List\n\n1. **Anyone's Legend vs Bilibili Gaming (Full Series) \u2014 $868K vol** | Monitor the BO5 line for stabilization. If Game 2/3 continue bleeding down, the series odds will follow. First game action is the tell.\n\n2. **Sinners vs Phantom CS:GO \u2014 80% / +33.0% run** | Counter-Strike qualifier showing bullish momentum (opposite of the LoL carnage). Could indicate sharp money rotating out of esports volatility into perceived \"cleaner\" BO3 matchups.\n\n3. **Fed Rate Cut September Meeting \u2014 $522K vol** | Macro bleed-through into esports markets. Monitor correlation; risk-off moves here typically precede wider Polymarket liquidations.",
   "top_movers": [
     {
-      "question": "LoL: T1 vs Dplus KIA - Game 2 Winner",
+      "question": "Tulln: Maxim Mrva vs Marvin Moeller",
       "prob": 1,
-      "change": -54.4,
-      "vol24": "$2.0M",
-      "slug": "lol-t1-dk-2026-09-06-game2"
+      "change": -56.5,
+      "vol24": "$110K",
+      "slug": "atp-mrva-moelle-2026-09-07"
     },
     {
-      "question": "LoL: T1 vs Dplus KIA - Game 3 Winner",
+      "question": "Shanghai: Yosuke Watanuki vs Marat Sharipov",
+      "prob": 12,
+      "change": -45.0,
+      "vol24": "$172K",
+      "slug": "atp-watanuk-sharipo-2026-09-06"
+    },
+    {
+      "question": "Game Handicap: BLG (-1.5) vs Anyone's Legend (+1.5)",
       "prob": 99,
-      "change": 46.0,
-      "vol24": "$1.8M",
-      "slug": "lol-t1-dk-2026-09-06-game3"
+      "change": 41.4,
+      "vol24": "$154K",
+      "slug": "lol-al-blg-2026-09-07-game-handicap-home-1pt5"
     },
     {
-      "question": "LoL: T1 vs Dplus KIA - Game 1 Winner",
-      "prob": 99,
-      "change": 46.0,
-      "vol24": "$1.5M",
-      "slug": "lol-t1-dk-2026-09-06-game1"
+      "question": "LoL: Kiwoom DRX Challengers vs DN SOOPers Challengers - Game 3 Winner",
+      "prob": 1,
+      "change": -36.4,
+      "vol24": "$303K",
+      "slug": "lol-drxc-dnsc-2026-09-07-game3"
     },
     {
-      "question": "Will MOUZ Win the BLAST Open Porto 2026?",
-      "prob": 38,
-      "change": 20.0,
-      "vol24": "$156K",
-      "slug": "will-mouz-win-the-blast-open-porto-2026-20260806201117427"
-    },
-    {
-      "question": "LoL: T1 vs Dplus KIA - Game 4 Winner",
-      "prob": 36,
-      "change": -15.5,
-      "vol24": "$433K",
-      "slug": "lol-t1-dk-2026-09-06-game4"
+      "question": "LoL: Anyone's Legend vs Bilibili Gaming - Game 2 Winner",
+      "prob": 1,
+      "change": -35.4,
+      "vol24": "$935K",
+      "slug": "lol-al-blg-2026-09-07-game2"
     }
   ],
   "top_vol": [
     {
-      "question": "LoL: T1 vs Dplus KIA - Game 2 Winner",
+      "question": "LoL: Anyone's Legend vs Bilibili Gaming - Game 3 Winner",
       "prob": 1,
-      "change": -54.4,
-      "vol24": "$2.0M",
-      "slug": "lol-t1-dk-2026-09-06-game2"
+      "change": -34.4,
+      "vol24": "$1.0M",
+      "slug": "lol-al-blg-2026-09-07-game3"
     },
     {
-      "question": "LoL: T1 vs Dplus KIA - Game 3 Winner",
-      "prob": 99,
-      "change": 46.0,
-      "vol24": "$1.8M",
-      "slug": "lol-t1-dk-2026-09-06-game3"
+      "question": "LoL: Anyone's Legend vs Bilibili Gaming - Game 2 Winner",
+      "prob": 1,
+      "change": -35.4,
+      "vol24": "$935K",
+      "slug": "lol-al-blg-2026-09-07-game2"
     },
     {
-      "question": "LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs",
-      "prob": 68,
-      "change": 10.0,
-      "vol24": "$1.7M",
-      "slug": "lol-t1-dk-2026-09-06"
+      "question": "LoL: Anyone's Legend vs Bilibili Gaming (BO5) - LPL Playoffs",
+      "prob": 1,
+      "change": -23.4,
+      "vol24": "$868K",
+      "slug": "lol-al-blg-2026-09-07"
     }
   ]
 }
