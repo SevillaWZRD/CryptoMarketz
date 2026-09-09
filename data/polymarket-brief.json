@@ -1,65 +1,65 @@
 {
-  "date": "Tuesday September 08, 2026",
-  "generated": "2026-09-08T11:49:10.665771Z",
-  "brief": "# ZIMR Capital Market Intelligence | Tuesday, September 8, 2026\n\n## Headline\n**iG's Dominance Prints Money in LPL Finals; Esports Volatility Signals Weak Risk Management Across Asian Gaming Markets**\n\n---\n\n## Market Signals\n\nThe Invictus Gaming sweep narrative is *printing*\u2014$2.2M flowing into the BO5 market at 99%, with individual game contracts hitting $1.4M volume at identical odds. This isn't confidence; it's capitulation. When this much size moves into 99-cent contracts on a best-of-five, you're watching smart money hedge or retail chasing momentum post-Game 1. LGD is functionally removed from pricing.\n\nThe real tell? Game-by-game volatility. LCK Challengers markets show the exact inverse pattern: DK Challengers Game 1 cratered -51.4% *while* the series contract only climbed to 78%. This suggests sharp bettors are taking shots on map reversions (BO5 series stability holding at 78%) while layering tactical bets against chalk in individual games. It's sophisticated two-way trading on asymmetric information.\n\n**The mispricing:** Counter-Strike BIG contracts at 1% feel artificially depressed given $311K volume in the BO3. Heavy underdog positioning in CS typically corrects 4-6 hours pre-match. Watch for reversion toward 3-5% if BetBoom's recent form data hits public forums.\n\n---\n\n## Watch List Today\n\n1. **LoL: iG vs LGD Game 2 (99%, $1.4M vol)** \u2014 If this hits 97% before series play, it's a dump signal. Institutional books need LGD props for portfolio balancing; watch for Game 2 odds compression as a leading indicator of sharp repositioning ahead of Game 3.\n\n2. **\"Fed Cuts 25bps Post-September Meeting\" (1%, $1.2M vol)** \u2014 Macro bleed into Polymarket. This 1% pricing on a non-zero probability event is where macro traders go to reduce tail risk. If this moves above 3%, it signals major repricing in TradFi expectations bleeding into crypto.\n\n3. **BIG vs BetBoom Map 2 (1%, $189K)** \u2014 Classic underdog arbitrage. If full-series odds drift above 5%, individual map props should follow. The 4-point spread between BO3 (-47%) and Map 2 (-45%) is tightening\u2014preparation move.",
+  "date": "Wednesday September 09, 2026",
+  "generated": "2026-09-09T12:00:18.392162Z",
+  "brief": "# ZIMR Daily Polymarket Brief | Wednesday, Sept 9, 2026\n\n## Headline\n**US Open favorites reshuffling as Shelton momentum builds; geopolitical risk repricing as Iran ceasefire optimism fades**\n\n---\n\n## Market Intelligence\n\n**The Big Move:** Ben Shelton's US Open odds surged 27.4% overnight to 36%\u2014the sharpest single-day jump among major sports contracts. This isn't noise; $231K in fresh volume suggests informed money positioning ahead of today's matches. Tiafoe's 10% price (up only 5.1%) now looks undervalued relative to Shelton, creating a potential value arbitrage for contrarian bettors who believe the market's overcorrected.\n\n**Geopolitical Repricing:** The Iran ceasefire contract (Sept 4 deadline already passed) collapsed 23% to 44%, a brutal reality check. Simultaneously, Strait of Hormuz normalization by year-end dropped 3% to just 20%\u2014the market is pricing a prolonged standoff. Smart money is rotating OUT of peace-dependent energy/shipping plays and INTO regional hedges. Watch this space for spillover effects into oil markets and emerging market volatility indices.\n\n**Macro Signal Hidden in the Noise:** Fed rate-hold expectations at 46% ($665K volume\u2014highest on the board) suggests traders are pricing in a pause rather than a cut. This is meaningful. Combined with Lula's Brazilian election odds declining 3% to 52%, we're seeing emerging market weakness consensus build. Real traders are front-running EM currency depreciation plays off-chain.\n\n---\n\n## Watch List\n\n1. **Arsenal FC vs [opponent] (60%, +4.0% today, $195K)** \u2014 Wednesday matches are liquidity tests. If this moves >5% intraday, it signals whether European football betting is shifting toward pre-game efficiency or remaining retail-heavy.\n\n2. **Fed September Rate Decision (46%, $665K volume)** \u2014 The highest volume contract today. Any news cycle volatility here bleeds into crypto. Track this as a real-time fear gauge for macro traders hedging equity exposure.\n\n3. **Sporting CP (56%, +3.0%, $554K)** \u2014 Second-highest volume market. Portuguese soccer is thin-book territory; unusual conviction this high suggests coordinated smart money. Perfect indicator of whether institutional players are testing Polymarket depth today.",
   "top_movers": [
     {
-      "question": "LoL: Dplus KIA Challengers vs Nongshim Esports Academy - Game 2 Winner",
+      "question": "Tulln: Marvin Moeller vs Matias Soto",
       "prob": 1,
-      "change": -51.4,
-      "vol24": "$196K",
-      "slug": "lol-dkc-nsea-2026-09-08-game2"
+      "change": -60.5,
+      "vol24": "$178K",
+      "slug": "atp-moelle-soto-2026-09-09"
     },
     {
-      "question": "LoL: Dplus KIA Challengers vs Nongshim Esports Academy - Game 1 Winner",
-      "prob": 99,
-      "change": 48.4,
-      "vol24": "$152K",
-      "slug": "lol-dkc-nsea-2026-09-08-game1"
+      "question": "Will Ben Shelton win the 2026 Men's US Open?",
+      "prob": 36,
+      "change": 27.4,
+      "vol24": "$231K",
+      "slug": "will-ben-shelton-win-the-2026-mens-us-open"
     },
     {
-      "question": "Counter-Strike: BIG vs BetBoom Team (BO3) - FISSURE PLAYGROUND Group A",
-      "prob": 1,
-      "change": -47.4,
-      "vol24": "$311K",
-      "slug": "cs2-big5-bb3-2026-09-08"
+      "question": "US x Iran Effective Ceasefire by September 4?",
+      "prob": 44,
+      "change": -23.0,
+      "vol24": "$306K",
+      "slug": "us-x-iran-effective-ceasefire-by-september-4"
     },
     {
-      "question": "Counter-Strike: BIG vs BetBoom Team - Map 2 Winner",
-      "prob": 1,
-      "change": -45.5,
-      "vol24": "$189K",
-      "slug": "cs2-big5-bb3-2026-09-08-game2"
+      "question": "Counter-Strike: B8 vs BET-M 33 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
+      "prob": 88,
+      "change": 10.0,
+      "vol24": "$282K",
+      "slug": "cs2-b8-33-2026-09-09"
     },
     {
-      "question": "LoL: Invictus Gaming vs LGD Gaming - Game 1 Winner",
-      "prob": 99,
-      "change": 43.0,
-      "vol24": "$858K",
-      "slug": "lol-ig1-lgd-2026-09-08-game1"
+      "question": "Spread: Paris Saint-Germain FC (-3.5)",
+      "prob": 52,
+      "change": 7.0,
+      "vol24": "$151K",
+      "slug": "ucl-psg-sba-2026-09-09-spread-home-3pt5"
     }
   ],
   "top_vol": [
     {
-      "question": "LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs",
-      "prob": 99,
-      "change": 36.4,
-      "vol24": "$2.2M",
-      "slug": "lol-ig1-lgd-2026-09-08"
-    },
-    {
-      "question": "LoL: Invictus Gaming vs LGD Gaming - Game 2 Winner",
-      "prob": 99,
-      "change": 42.4,
-      "vol24": "$1.4M",
-      "slug": "lol-ig1-lgd-2026-09-08-game2"
-    },
-    {
-      "question": "Genoa: Thiago Seyboth Wild vs Francesco Ferrari",
-      "prob": 54,
+      "question": "Counter-Strike: BIG vs G2 (BO3) - FISSURE PLAYGROUND Group A",
+      "prob": 1,
       "change": 0,
-      "vol24": "$1.4M",
-      "slug": "atp-wild-ferrar-2026-09-08"
+      "vol24": "$950K",
+      "slug": "cs2-big5-g2-2026-09-09"
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "prob": 46,
+      "change": -2.0,
+      "vol24": "$665K",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615"
+    },
+    {
+      "question": "Counter-Strike: TYLOO vs GamerLegion (BO3) - FISSURE PLAYGROUND Group B",
+      "prob": 92,
+      "change": 0,
+      "vol24": "$647K",
+      "slug": "cs2-tyloo-gl1-2026-09-09"
     }
   ]
 }
