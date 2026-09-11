@@ -1,65 +1,65 @@
 {
-  "date": "Thursday September 10, 2026",
-  "generated": "2026-09-10T11:54:31.159644Z",
-  "brief": "# ZIMR DAILY BRIEF \u2014 Thursday, Sept 10, 2026\n\n## HEADLINE\n**T1 Academy Sweep Priced In; LAPTOP Token Hype Hits Reality Check as FDV Ceiling Collapses**\n\n---\n\n## MARKET INTELLIGENCE\n\n**The LoL Blowout Nobody's Betting Against**\nT1 Academy has effectively won the LCK Challengers BO5 in the market's mind\u2014every remaining game outcome is trading at 99% or 1%, creating a binary collapse that suggests either the series is over or the market has severe information asymmetry. The +55.5% move in Game 4 Winner indicates late money piling in *hard*. Volume concentration ($248K on the series outcome vs. $390K scattered across individual games) suggests sharp money moved early and retail followed. Red flag: this kind of consensus usually means either (a) the upset is already priced out or (b) one team's withdrawal/DQ risk exists off-chain.\n\n**LAPTOP Token: The $500M Question Is Already Dead**\nThree related FDV markets launched simultaneously, and they're telling different stories. The $250M and $100M thresholds are *extremely* overbought (97%, 99%) while the $1B market sits at a realistic 22%\u2014profit-taking is happening at the mid-tiers. Smart money likely loaded $250M yesterday and is trimming into today's euphoria. The $500M market's 84% shows where consensus broke: that's where technical resistance or actual supply dynamics kicked in. Watch for a waterfall if $500M doesn't hold within hours.\n\n**Fed Pricing Stays Hawkish Despite Rate Cut Whispers**\nThe 52/48 split between +25bps and no change (combined $2.3M volume) is *tight*\u2014textbook uncertainty. But the complete collapse of the +50bps scenario (1%, $936K vol) tells us tail-risk hedging has dried up. Market is pricing a terminal decision point: either the Fed pauses or hikes once, but refuses to anticipate aggressive tightening. This consensus feels vulnerable if inflation data leaks CPI-hot before the decision.\n\n---\n\n## WATCH LIST\n\n**1. Fed Rate Decision Markets (52% on +25bps)**  \n$2.3M volume suggests institutional positioning is locked. Watch for any pre-decision data releases (jobless claims, inflation prints) that could flip the binary. If volume spikes above $3M today, someone's hedging hard.\n\n**2. LAPTOP FDV $500M (84%, -$677K vol day)**  \nThe resistance level. If this drops below 80% by EOD, the hype narrative breaks and $250M becomes the real ceiling. Position accordingly.\n\n**3. Bod\u00f8/Glimt (3% to win, $906K vol)**  \nMassive volume on a 3% outcome screams either a locked-in upset or a line mispricing. Real money doesn't usually hammer 97:1 underdog action unless there's nonpublic information. Worth monitoring pregame for late line movement.",
+  "date": "Friday September 11, 2026",
+  "generated": "2026-09-11T11:53:24.245564Z",
+  "brief": "# ZIMR DAILY BRIEFING | Friday, September 11, 2026\n\n## \"Fed Rate Hike Priced In; LoL Sweep Signals Dominant Favorite\"\n\nThe market is calling a 25bp rate increase today with 60% conviction against a 40% no-change scenario\u2014a 20-point spread that reveals consensus but not certainty. Meanwhile, esports markets are exhibiting extreme confidence bordering on arrogance: KT Rolster's BO5 series sits at 99%, with Game 4 specifically priced as a near-certainty despite being 0-0 in series state. This suggests either ruthless KT dominance in practice or illiquidity amplifying small position builds into extreme odds.\n\n**Smart money signals:** The Fed pair ($2.0M+ combined volume) is the day's real battleground\u2014rate hike vol nearly matches rate-hold vol, indicating genuine disagreement among sophisticated traders despite the headline skew. The Elon tweet volume ($487K on a 1% underdog) and Bitcoin sub-$80K positioning ($162K, 4%) suggest macro uncertainty is filtering down even into micro-markets. Traders are hedging broader volatility concerns.\n\n**Mispricing radar:** Game 3 and Game 4 at 1% and 99% respectively in the same BO5 reek of sequential cascade betting rather than independent analysis. If KT wins Game 3, Game 4 odds should barely move\u2014they're not independent events. Counter-Strike FURIA/G2 at 1% with $2M volume is worth watching for line manipulation signals typical of esports.\n\n---\n\n## WATCH LIST\n\n1. **Fed Rate Decision (60% hike, $1.6M vol)** \u2014 Closes today. This is the session's macro linchpin; a surprise hold explodes the 40% underdog. Track sentiment shifts in final hours.\n\n2. **KT Rolster BO5 series trajectory** \u2014 If KT drops even one game, Game 4 odds will crater violently, creating arbitrage. Series odds at 99% with Game-level odds at 1-99 is textbook liquidity trap.\n\n3. **Bitcoin $80K breach** \u2014 Currently 4% only; if Fed hikes, watch for sharp downward repricing. This is a leveraged macro play masquerading as a price prediction.",
   "top_movers": [
     {
-      "question": "LoL: T1 Academy vs Dplus KIA Challengers - Game 4 Winner",
-      "prob": 99,
-      "change": 55.5,
-      "vol24": "$298K",
-      "slug": "lol-t1a-dkc-2026-09-10-game4"
-    },
-    {
-      "question": "LAPTOP FDV above $500M one day after launch?",
-      "prob": 84,
-      "change": 53.0,
-      "vol24": "$677K",
-      "slug": "laptop-fdv-above-500m-one-day-after-launch"
-    },
-    {
-      "question": "LoL: T1 Academy vs Dplus KIA Challengers - Game 2 Winner",
+      "question": "LoL: KT Rolster Challengers vs DN SOOPers Challengers - Game 3 Winner",
       "prob": 1,
-      "change": -52.4,
-      "vol24": "$390K",
-      "slug": "lol-t1a-dkc-2026-09-10-game2"
+      "change": -67.0,
+      "vol24": "$312K",
+      "slug": "lol-ktc-dnsc-2026-09-11-game3"
     },
     {
-      "question": "LAPTOP FDV above $250M one day after launch?",
-      "prob": 97,
-      "change": 48.8,
-      "vol24": "$368K",
-      "slug": "laptop-fdv-above-250m-one-day-after-launch"
-    },
-    {
-      "question": "LoL: T1 Academy vs Dplus KIA Challengers - Game 3 Winner",
+      "question": "LoL: KT Rolster Challengers vs DN SOOPers Challengers - Game 4 Winner",
       "prob": 99,
-      "change": 45.0,
-      "vol24": "$276K",
-      "slug": "lol-t1a-dkc-2026-09-10-game3"
+      "change": 46.5,
+      "vol24": "$355K",
+      "slug": "lol-ktc-dnsc-2026-09-11-game4"
+    },
+    {
+      "question": "Istanbul 3: Francesco Maestrelli vs Maks Kasnikowski",
+      "prob": 1,
+      "change": -44.0,
+      "vol24": "$236K",
+      "slug": "atp-maestre-kasniko-2026-09-11"
+    },
+    {
+      "question": "Will Kashiwa Reysol win on 2026-09-11?",
+      "prob": 89,
+      "change": 37.5,
+      "vol24": "$151K",
+      "slug": "jap-kyo-rey-2026-09-11-rey"
+    },
+    {
+      "question": "LoL: KT Rolster Challengers vs DN SOOPers Challengers (BO5) - LCK Challengers League Playoffs",
+      "prob": 99,
+      "change": 35.4,
+      "vol24": "$241K",
+      "slug": "lol-ktc-dnsc-2026-09-11"
     }
   ],
   "top_vol": [
     {
+      "question": "Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
+      "prob": 1,
+      "change": 0,
+      "vol24": "$2.0M",
+      "slug": "cs2-furia-g2-2026-09-11"
+    },
+    {
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "prob": 48,
-      "change": 1.0,
-      "vol24": "$1.3M",
+      "prob": 40,
+      "change": -8.0,
+      "vol24": "$2.0M",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615"
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "prob": 52,
+      "question": "Will Abigail Spanberger win the 2028 Democratic presidential nomination?",
+      "prob": 1,
       "change": 0,
-      "vol24": "$1.2M",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649"
-    },
-    {
-      "question": "LAPTOP FDV above $1B one day after launch?",
-      "prob": 22,
-      "change": 10.5,
-      "vol24": "$1.2M",
-      "slug": "laptop-fdv-above-1b-one-day-after-launch"
+      "vol24": "$1.6M",
+      "slug": "will-abigail-spanberger-win-the-2028-democratic-presidential-nomination"
     }
   ]
 }
