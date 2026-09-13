@@ -1,65 +1,65 @@
 {
-  "date": "Saturday September 12, 2026",
-  "generated": "2026-09-12T11:20:04.047174Z",
-  "brief": "# POLYMARKET DAILY BRIEF | Saturday, September 12, 2026\n\n## Fed Hawkishness Priced In, But 25bps Consensus Could Be Trap\n\nThe market has decisively shifted toward a September rate hike, with 78% odds on a 25bps increase now commanding $5.6M in volume. This represents an 18% move higher today, suggesting late institutional positioning ahead of the FOMC decision. The no-change scenario has cratered from ~40% to just 20%, shedding $7.2M in volume\u2014real money rotating out of the dovish trade.\n\n**The signal**: Smart money is pricing certainty where uncertainty likely remains. A 78/20 split on hike vs. hold leaves almost no room for the Fed to surprise with a pause\u2014yet economic data from early September remains mixed. Watch for any last-minute pivot; this market could be vulnerable to a sharp reversal if hawkish guidance softens before announcement.\n\nThe LoL esports action (Anyone's Legend vs. Invictus Gaming BO5) is a sideshow\u2014Game 2 at 99% is an execution market, not an insight opportunity. Bitcoin's collapse from 78K+ to sub-2% odds on $78K close is more interesting: spot trading has likely moved below that threshold already, making this a monitor rather than a trade.\n\n## WATCH LIST\n\n**1. Will the Fed increase interest rates by 25 bps after the September 2026 meeting?** (78%, $5.6M)\nWhy: Liquidity is here. Any FOMC shift toward pause/cut could cascade into quick reversals. Set alerts if this dips below 70%.\n\n**2. Will there be no change in Fed interest rates after the September 2026 meeting?** (20%, $7.2M)\nWhy: The 20% \"no hike\" floor is where contrarians live. If dovish rhetoric emerges, this catches a 3-4x move fast.\n\n**3. LoL: Anyone's Legend vs Invictus Gaming (BO5)** (60%, $1.6M)\nWhy: Series odds (60%) vs. individual games reveal arbitrage gaps. Game 3 at 68% suggests market uncertainty about series length\u2014exploitable if your esports model is sharp.",
+  "date": "Sunday September 13, 2026",
+  "generated": "2026-09-13T12:23:10.206903Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | Sunday, September 13, 2026\n\n## Headline\n**Football Favorites Getting Hammered; Fed Rate Hold Quietly Gaining Ground**\n\n---\n\n## Market Intelligence\n\nThe soccer slate is experiencing a coordinated selloff on favored outcomes\u2014Club Brugge (-20.5%), Viborg (-17.5%), and Barcelona (-4%) all bleeding support despite tight spreads. This suggests either sharp money rotating into underdogs ahead of matches or market makers flushing weak longs. Meanwhile, Viking FK's 80% bid remains eerily strong on +4% volume, hinting at institutional confidence in that Scandinavian fixture.\n\nThe real signal is in macro positioning. The Fed rate hold contract (22%, +2%) is the cleanest play in the book\u2014it's quietly accumulating volume ($2.0M) while the 25bps cut (1%, $1.8M) sits nearly uninvestable. Smart money appears to be front-running dovish expectations getting crushed. The Brighton vs. Celta equity ($2.3M-$2.1M combined volume, both 52%) suggests genuine uncertainty; this isn't a one-way print.\n\nWatch for mispricing in the European spreads\u2014when favorites this sharp (-2.5 to -1.5) trade down 4-20% in a single day without clear news catalysts, there's often dislocation. The volume isn't massive enough to suggest institutional rebalancing, pointing instead to retail capitulation or localized sharp moves.\n\n---\n\n## Watch List\n\n1. **Fed Rate Hold (22%, +2.0%)** \u2014 Most interesting macro signal. Narrow window to September FOMC; if this breaks 25%+ it signals genuine recession fears. Track vs. equity futures.\n\n2. **Brighton 52% ($2.3M)** \u2014 Highest volume contract today. If Brighton dips below 48% it's a screaming buy; if it holds above 55%, smart money thinks the match is a toss-up disguised as a slight favorite.\n\n3. **Club Brugge Spread (-20%)** \u2014 Watch for a reversal bounce. Down that sharply on light volume ($158K) with no injury news = potential sucker's bet reversal candidate if odds stabilize near 32-38%.",
   "top_movers": [
     {
-      "question": "Will FC Seoul win on 2026-09-12?",
-      "prob": 99,
-      "change": 60.5,
-      "vol24": "$196K",
-      "slug": "kor-jeo-seo-2026-09-12-seo"
+      "question": "Spread: Club Brugge (-1.5)",
+      "prob": 35,
+      "change": -20.5,
+      "vol24": "$158K",
+      "slug": "bel1-bru-rafc-2026-09-13-spread-home-1pt5"
     },
     {
-      "question": "LoL: Anyone's Legend vs Invictus Gaming - Game 2 Winner",
-      "prob": 99,
-      "change": 51.4,
-      "vol24": "$1.8M",
-      "slug": "lol-al-ig1-2026-09-12-game2"
+      "question": "Will Viborg FF win on 2026-09-13?",
+      "prob": 32,
+      "change": -17.5,
+      "vol24": "$145K",
+      "slug": "den-sif-vib-2026-09-13-vib"
     },
     {
-      "question": "LoL: Anyone's Legend vs Invictus Gaming - Game 1 Winner",
-      "prob": 1,
-      "change": -48.4,
-      "vol24": "$1.4M",
-      "slug": "lol-al-ig1-2026-09-12-game1"
+      "question": "FC Zurich vs. FC Vaduz: O/U 3.5",
+      "prob": 64,
+      "change": 17.0,
+      "vol24": "$160K",
+      "slug": "sui-fcz-vad-2026-09-13-total-3pt5"
     },
     {
-      "question": "Will the price of Bitcoin be above $78,000 on September 12?",
-      "prob": 2,
-      "change": -21.1,
-      "vol24": "$163K",
-      "slug": "bitcoin-above-78k-on-september-12-2026"
+      "question": "Will RC Celta de Vigo win on 2026-09-13?",
+      "prob": 52,
+      "change": -4.0,
+      "vol24": "$2.1M",
+      "slug": "lal-cel-mala-2026-09-13-cel"
     },
     {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "prob": 20,
-      "change": -19.0,
-      "vol24": "$7.2M",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615"
+      "question": "Spread: FC Barcelona (-2.5)",
+      "prob": 44,
+      "change": -4.0,
+      "vol24": "$194K",
+      "slug": "lal-lev-bar-2026-09-13-spread-away-2pt5"
     }
   ],
   "top_vol": [
     {
+      "question": "Will Brighton & Hove Albion FC win on 2026-09-13?",
+      "prob": 52,
+      "change": 0,
+      "vol24": "$2.3M",
+      "slug": "epl-cov-bri-2026-09-13-bri"
+    },
+    {
+      "question": "Will RC Celta de Vigo win on 2026-09-13?",
+      "prob": 52,
+      "change": -4.0,
+      "vol24": "$2.1M",
+      "slug": "lal-cel-mala-2026-09-13-cel"
+    },
+    {
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "prob": 20,
-      "change": -19.0,
-      "vol24": "$7.2M",
+      "prob": 22,
+      "change": 2.0,
+      "vol24": "$2.0M",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615"
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "prob": 78,
-      "change": 18.0,
-      "vol24": "$5.6M",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649"
-    },
-    {
-      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-      "prob": 1,
-      "change": -0.2,
-      "vol24": "$3.5M",
-      "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586"
     }
   ]
 }
