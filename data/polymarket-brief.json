@@ -1,65 +1,65 @@
 {
-  "date": "Sunday September 13, 2026",
-  "generated": "2026-09-13T12:23:10.206903Z",
-  "brief": "# ZIMR POLYMARKET BRIEFING | Sunday, September 13, 2026\n\n## Headline\n**Football Favorites Getting Hammered; Fed Rate Hold Quietly Gaining Ground**\n\n---\n\n## Market Intelligence\n\nThe soccer slate is experiencing a coordinated selloff on favored outcomes\u2014Club Brugge (-20.5%), Viborg (-17.5%), and Barcelona (-4%) all bleeding support despite tight spreads. This suggests either sharp money rotating into underdogs ahead of matches or market makers flushing weak longs. Meanwhile, Viking FK's 80% bid remains eerily strong on +4% volume, hinting at institutional confidence in that Scandinavian fixture.\n\nThe real signal is in macro positioning. The Fed rate hold contract (22%, +2%) is the cleanest play in the book\u2014it's quietly accumulating volume ($2.0M) while the 25bps cut (1%, $1.8M) sits nearly uninvestable. Smart money appears to be front-running dovish expectations getting crushed. The Brighton vs. Celta equity ($2.3M-$2.1M combined volume, both 52%) suggests genuine uncertainty; this isn't a one-way print.\n\nWatch for mispricing in the European spreads\u2014when favorites this sharp (-2.5 to -1.5) trade down 4-20% in a single day without clear news catalysts, there's often dislocation. The volume isn't massive enough to suggest institutional rebalancing, pointing instead to retail capitulation or localized sharp moves.\n\n---\n\n## Watch List\n\n1. **Fed Rate Hold (22%, +2.0%)** \u2014 Most interesting macro signal. Narrow window to September FOMC; if this breaks 25%+ it signals genuine recession fears. Track vs. equity futures.\n\n2. **Brighton 52% ($2.3M)** \u2014 Highest volume contract today. If Brighton dips below 48% it's a screaming buy; if it holds above 55%, smart money thinks the match is a toss-up disguised as a slight favorite.\n\n3. **Club Brugge Spread (-20%)** \u2014 Watch for a reversal bounce. Down that sharply on light volume ($158K) with no injury news = potential sucker's bet reversal candidate if odds stabilize near 32-38%.",
+  "date": "Monday September 14, 2026",
+  "generated": "2026-09-14T13:26:03.255327Z",
+  "brief": "# Fed Hike Locked In; Bitcoin Shrugs Off Rate Fears\n\n**The Market is Pricing Certainty Into Pain**\n\nThe Fed drama is over. Markets have coalesced around an 82% probability of a 25bp rate hike at the September meeting, with $2.0M in volume cementing consensus. What's telling: the \"no change\" scenario has cratered to just 18%, while the 50bp nuke scenario trades at basement levels (1%, $943K). This isn't indecision\u2014it's conviction. Smart money has already priced in the hike and moved on.\n\nBitcoin's surge to 98% probability of holding above $76K (+29.3% today) signals traders see the Fed hawkishness as *priced in*. The macro narrative has flipped from \"rates are a headwind\" to \"we knew this was coming.\" Crude oil's 88% shot at $105 in September ($2.7M+ volume hub) suggests risk-on sentiment and supply concerns are overriding rate-hike damage. Translation: equity and commodity volatility traders are positioning for growth beats, not recession.\n\nThe Reddit-tier action elsewhere (LoL esports swings, Elon tweet counts) contrasts sharply with the institutional clarity on Fed policy. That bifurcation matters: when retail chases niche markets while macro players align on the big call, conviction often holds.\n\n---\n\n## WATCH LIST\n\n1. **Fed Rate Hike Probability (82%)** \u2013 Watch for any intraday drift toward 80% or 85%. A drop below 80% signals new recession fears; a hold near 82% confirms base case. Crucial for crypto correlation trades.\n\n2. **Bitcoin $76K Floor** \u2013 At 98%, this is a crowded long. Watch for a single wick below $76K to see if conviction breaks or if buyers step in hard. Key technical level for leveraged position unwinds.\n\n3. **WTI $105 September High (88%)** \u2013 Tightest risk/reward of the three. Only $17 of upside priced in. If geopolitical tension (Iran-Oman deal at 1% suggests Strait stress) escalates, this rips to 95%+ fast.",
   "top_movers": [
     {
-      "question": "Spread: Club Brugge (-1.5)",
-      "prob": 35,
-      "change": -20.5,
-      "vol24": "$158K",
-      "slug": "bel1-bru-rafc-2026-09-13-spread-home-1pt5"
+      "question": "Will the Sweden Democrats (SD) win the second most seats in the 2026 Swedish parliamentary election?",
+      "prob": 1,
+      "change": -77.5,
+      "vol24": "$155K",
+      "slug": "will-the-sweden-democrats-sd-win-the-second-most-seats-in-the-2026-swedish-parliamentary-election"
     },
     {
-      "question": "Will Viborg FF win on 2026-09-13?",
-      "prob": 32,
-      "change": -17.5,
-      "vol24": "$145K",
-      "slug": "den-sif-vib-2026-09-13-vib"
+      "question": "LoL: Dplus KIA Challengers vs KT Rolster Challengers - Game 4 Winner",
+      "prob": 99,
+      "change": 58.0,
+      "vol24": "$511K",
+      "slug": "lol-dkc-ktc-2026-09-14-game4"
     },
     {
-      "question": "FC Zurich vs. FC Vaduz: O/U 3.5",
-      "prob": 64,
-      "change": 17.0,
-      "vol24": "$160K",
-      "slug": "sui-fcz-vad-2026-09-13-total-3pt5"
+      "question": "LoL: Dplus KIA Challengers vs KT Rolster Challengers - Game 3 Winner",
+      "prob": 1,
+      "change": -54.4,
+      "vol24": "$449K",
+      "slug": "lol-dkc-ktc-2026-09-14-game3"
     },
     {
-      "question": "Will RC Celta de Vigo win on 2026-09-13?",
-      "prob": 52,
-      "change": -4.0,
-      "vol24": "$2.1M",
-      "slug": "lal-cel-mala-2026-09-13-cel"
+      "question": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO5) - LCK Challengers League Playoffs",
+      "prob": 1,
+      "change": -50.9,
+      "vol24": "$990K",
+      "slug": "lol-dkc-ktc-2026-09-14"
     },
     {
-      "question": "Spread: FC Barcelona (-2.5)",
-      "prob": 44,
-      "change": -4.0,
-      "vol24": "$194K",
-      "slug": "lal-lev-bar-2026-09-13-spread-away-2pt5"
+      "question": "Iran-Oman Hormuz Agreement by September 14?",
+      "prob": 1,
+      "change": -37.1,
+      "vol24": "$122K",
+      "slug": "iran-oman-hormuz-agreement-by-september-14"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Brighton & Hove Albion FC win on 2026-09-13?",
-      "prob": 52,
-      "change": 0,
-      "vol24": "$2.3M",
-      "slug": "epl-cov-bri-2026-09-13-bri"
-    },
-    {
-      "question": "Will RC Celta de Vigo win on 2026-09-13?",
-      "prob": 52,
-      "change": -4.0,
-      "vol24": "$2.1M",
-      "slug": "lal-cel-mala-2026-09-13-cel"
-    },
-    {
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "prob": 22,
-      "change": 2.0,
-      "vol24": "$2.0M",
+      "prob": 18,
+      "change": -3.0,
+      "vol24": "$2.7M",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615"
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "prob": 82,
+      "change": 4.0,
+      "vol24": "$2.0M",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649"
+    },
+    {
+      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+      "prob": 1,
+      "change": -0.1,
+      "vol24": "$1.9M",
+      "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586"
     }
   ]
 }
