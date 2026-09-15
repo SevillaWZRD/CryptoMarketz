@@ -1,65 +1,65 @@
 {
-  "date": "Monday September 14, 2026",
-  "generated": "2026-09-14T13:26:03.255327Z",
-  "brief": "# Fed Hike Locked In; Bitcoin Shrugs Off Rate Fears\n\n**The Market is Pricing Certainty Into Pain**\n\nThe Fed drama is over. Markets have coalesced around an 82% probability of a 25bp rate hike at the September meeting, with $2.0M in volume cementing consensus. What's telling: the \"no change\" scenario has cratered to just 18%, while the 50bp nuke scenario trades at basement levels (1%, $943K). This isn't indecision\u2014it's conviction. Smart money has already priced in the hike and moved on.\n\nBitcoin's surge to 98% probability of holding above $76K (+29.3% today) signals traders see the Fed hawkishness as *priced in*. The macro narrative has flipped from \"rates are a headwind\" to \"we knew this was coming.\" Crude oil's 88% shot at $105 in September ($2.7M+ volume hub) suggests risk-on sentiment and supply concerns are overriding rate-hike damage. Translation: equity and commodity volatility traders are positioning for growth beats, not recession.\n\nThe Reddit-tier action elsewhere (LoL esports swings, Elon tweet counts) contrasts sharply with the institutional clarity on Fed policy. That bifurcation matters: when retail chases niche markets while macro players align on the big call, conviction often holds.\n\n---\n\n## WATCH LIST\n\n1. **Fed Rate Hike Probability (82%)** \u2013 Watch for any intraday drift toward 80% or 85%. A drop below 80% signals new recession fears; a hold near 82% confirms base case. Crucial for crypto correlation trades.\n\n2. **Bitcoin $76K Floor** \u2013 At 98%, this is a crowded long. Watch for a single wick below $76K to see if conviction breaks or if buyers step in hard. Key technical level for leveraged position unwinds.\n\n3. **WTI $105 September High (88%)** \u2013 Tightest risk/reward of the three. Only $17 of upside priced in. If geopolitical tension (Iran-Oman deal at 1% suggests Strait stress) escalates, this rips to 95%+ fast.",
+  "date": "Tuesday September 15, 2026",
+  "generated": "2026-09-15T12:17:35.080257Z",
+  "brief": "# ZIMR DAILY BRIEF | Tuesday, September 15, 2026\n\n## Headline\n**Fed Hawkishness Locked In: Markets Pricing 88% Certainty of 25bp Hike, Bitcoin Struggles at Key Support**\n\n---\n\n## Market Intelligence\n\nThe inflation narrative just shifted decisively. A massive $6.0M volume flood into \"no change\" rates (now 10%) combined with +$3.5M buying pressure on the 25bp hike (88%) signals institutional conviction: the Fed is hiking this month. The 50bp hike contract ($4.0M vol) remains a trash tier 1% bet\u2014soft landing consensus is *locked*. Smart money isn't hedging a surprise; they're positioning for the announced decision.\n\nCrypto is pricing this perfectly but with nervous undercurrents. Bitcoin's sharp -6.3% drop on the $76K threshold (now 83%, down from 89%) combined with the $80K contract collapsing to 2% suggests traders are uncomfortable holding above $76K into FOMC resolution. This isn't capitulation\u2014it's healthy profit-taking ahead of a known catalyst. Expect $72-74K as the daily support floor until Wednesday's decision clears.\n\n**The mispricing play:** The Clarity Act (H.R.3633 at 20%, -11% today) is getting hammered despite zero legislative movement. This smells like coordinated rotation out of regulatory uncertainty bets into rate certainty. If you believe crypto regulation momentum survives a hawkish Fed, this 20% is a buy; if rates lock in at 25bp tomorrow, watch this repricing.\n\n---\n\n## Watch List\n\n1. **Fed rate decision live probability (Sept 17-18)** \u2014 The 88% 25bp contract will move to 95%+ within 24hrs of any hawkish Fed speak. Swing traders: wait for the +2-3% confirmation pop, then fade into FOMC.\n\n2. **Bitcoin $76K support** \u2014 If BTC closes below $75K tomorrow, expect rapid delevering to $72K. The -6.3% move suggests capitulation isn't complete; watch for capitulation-driven buys Wed AM.\n\n3. **Alav\u00e9s 56% prop** \u2014 $497K volume on a single soccer match is odd-sized. Likely sharp action. Line value unclear without odds context, but this level of conviction deserves investigation pre-match.",
   "top_movers": [
     {
-      "question": "Will the Sweden Democrats (SD) win the second most seats in the 2026 Swedish parliamentary election?",
-      "prob": 1,
-      "change": -77.5,
-      "vol24": "$155K",
-      "slug": "will-the-sweden-democrats-sd-win-the-second-most-seats-in-the-2026-swedish-parliamentary-election"
+      "question": "Clarity Act (H.R.3633) signed into law in 2026?",
+      "prob": 20,
+      "change": -11.0,
+      "vol24": "$1.2M",
+      "slug": "clarity-act-signed-into-law-in-2026"
     },
     {
-      "question": "LoL: Dplus KIA Challengers vs KT Rolster Challengers - Game 4 Winner",
-      "prob": 99,
-      "change": 58.0,
-      "vol24": "$511K",
-      "slug": "lol-dkc-ktc-2026-09-14-game4"
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "prob": 10,
+      "change": -9.0,
+      "vol24": "$6.0M",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615"
     },
     {
-      "question": "LoL: Dplus KIA Challengers vs KT Rolster Challengers - Game 3 Winner",
-      "prob": 1,
-      "change": -54.4,
-      "vol24": "$449K",
-      "slug": "lol-dkc-ktc-2026-09-14-game3"
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "prob": 88,
+      "change": 8.0,
+      "vol24": "$3.5M",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649"
     },
     {
-      "question": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO5) - LCK Challengers League Playoffs",
-      "prob": 1,
-      "change": -50.9,
-      "vol24": "$990K",
-      "slug": "lol-dkc-ktc-2026-09-14"
+      "question": "Will Elon Musk post 200-219 tweets from September 8 to September 15, 2026?",
+      "prob": 10,
+      "change": -7.3,
+      "vol24": "$128K",
+      "slug": "elon-musk-of-tweets-september-8-september-15-2026-200-219"
     },
     {
-      "question": "Iran-Oman Hormuz Agreement by September 14?",
-      "prob": 1,
-      "change": -37.1,
-      "vol24": "$122K",
-      "slug": "iran-oman-hormuz-agreement-by-september-14"
+      "question": "Friedrich Merz out as Chancellor of Germany before 2027?",
+      "prob": 24,
+      "change": 7.0,
+      "vol24": "$127K",
+      "slug": "friedrich-merz-out-as-chancellor-of-germany-before-2027"
     }
   ],
   "top_vol": [
     {
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "prob": 18,
-      "change": -3.0,
-      "vol24": "$2.7M",
+      "prob": 10,
+      "change": -9.0,
+      "vol24": "$6.0M",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615"
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "prob": 82,
-      "change": 4.0,
-      "vol24": "$2.0M",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649"
     },
     {
       "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
       "prob": 1,
-      "change": -0.1,
-      "vol24": "$1.9M",
+      "change": 0,
+      "vol24": "$5.5M",
       "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586"
+    },
+    {
+      "question": "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?",
+      "prob": 1,
+      "change": 0.4,
+      "vol24": "$4.0M",
+      "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664"
     }
   ]
 }
