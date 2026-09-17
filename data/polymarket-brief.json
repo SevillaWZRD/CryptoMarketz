@@ -1,65 +1,65 @@
 {
-  "date": "Wednesday September 16, 2026",
-  "generated": "2026-09-16T12:16:11.810258Z",
-  "brief": "# MARKETS PRICING ANOTHER 25BP HIKE\u2014BUT RECESSION FEARS CREEPING IN\n\n**The Setup**\n\nFed futures are screaming 88% probability on a 25bp hike at the September meeting, with $4.5M in volume cementing this as the consensus trade. But here's the tell: recession odds just jumped 600bps to 14% on modest volume ($193K), suggesting late-day repositioning ahead of Friday's CPI print. The market is pricing peak hawkishness while simultaneously hedging tail risk\u2014classic risk-off positioning.\n\n**What Smart Money Is Doing**\n\nThe real action is in the *negatives*. Kashiwa Reysol cratered 44% overnight ($143K vol\u2014thin), and Clarity Act dropped 14.4% despite $3.4M volume, signaling genuine conviction that crypto regulation stalls into 2027. Meanwhile, geopolitical hedges are holding: Israel-Iran ceasefire steady at 88% (only -3%), while US-Iran ceasefire is pinned at 99%. This is a market *not* expecting escalation despite headlines.\n\nThe misprice: Newsom's 2028 odds at 16% feel anaemic given Biden uncertainty\u2014but light volume ($338K) suggests retail positioning, not institutional conviction yet.\n\n**Watch List**\n\n1. **Fed Rate Decision Markets** \u2014 $20M+ combined volume. If CPI Friday misses hard, watch 25bp collapse in real-time. First signal of a policy pivot.\n\n2. **US Recession by End 2026** \u2014 Up 6% in a single day. Volume light, but this is your canary. A break above 20% = rotation out of rate-hike trades.\n\n3. **Clarity Act H.R.3633** \u2014 5% odds, down hard. If this gaps back up post-CPI, it signals late-cycle legislative optimism. Worth 1-2% scalp.",
+  "date": "Thursday September 17, 2026",
+  "generated": "2026-09-17T12:15:59.125766Z",
+  "brief": "# **ZIMR POLYMARKET BRIEFING | September 17, 2026**\n\n## HEADLINE\n**League of Legends Sweep Priced In: Top Esports Dominance Drives $5.2M Regional Finals Betting Blitz**\n\n---\n\n## MARKET INTELLIGENCE\n\n**The Consensus is Locked:** Top Esports has the market in a stranglehold. Games 2 and 3 are both trading at 99%, with $2.1M and $1.4M respectively already committed to a clean sweep narrative. The BO5 series itself sits at 70%, suggesting smart money sees less than a 30% path to Invictus Gaming's comeback. This isn't subtle positioning\u2014it's conviction capital moving in real-time.\n\n**What's Telling:** Game 1 (trading at 1%) is the inverse mirror. If Top truly dominates G2 and G3 as heavily priced, Game 1's collapse becomes the narrative anchor. The $1.7M volume on G1 suggests contrarians are either liquidating positions early or attempting to catch a \"desperate comeback\" angle that the market has already rejected.\n\n**The Mispricing Signal:** Watch the Fed rate cut odds decay ($1.1M volume at 52% for October hold). While esports euphoria dominates Polymarket today, macro traders are quietly positioning for dovish surprise. Bitcoin's 92% \"up\" probability on the 17th feels inflated given the macro correlation\u2014could be retail FOMO masking institutional hedges elsewhere.\n\n---\n\n## WATCH LIST\n\n1. **LoL BO5 (Top vs Invictus) - 70% | $1.6M Vol**  \n   *Why:* Series probability will collapse fast if Invictus takes Game 2. Current Game 2 pricing at 99% may overshoot on the first sign of competition. Arbitrage opportunity on series tightening.\n\n2. **MOUZ vs NRG (BO3) - 44% | $595K Vol**  \n   *Why:* Massive 41% daily drawdown suggests panic selling. Map handicap at 1% (down 60%) is deeply illiquid\u2014first map result could reprrice the entire series 10-15 points.\n\n3. **Fed October Hold - 52% | $1.1M Vol**  \n   *Why:* Crypto market is ignoring macro signals. If economic data softens mid-day, expect sharp reversion in Fed odds and potential Bitcoin volatility bleed into esports sentiment.\n\n---\n\n*ZIMR Capital | Markets move fast. Position accordingly.*",
   "top_movers": [
     {
-      "question": "Will Kashiwa Reysol win on 2026-09-16?",
+      "question": "Map Handicap: MOUZ (-1.5) vs NRG (+1.5)",
       "prob": 1,
-      "change": -44.0,
-      "vol24": "$143K",
-      "slug": "acle-jeo-rey-2026-09-16-rey"
+      "change": -60.0,
+      "vol24": "$328K",
+      "slug": "cs2-mouz-nrg-2026-09-17-map-handicap-away-1pt5"
     },
     {
-      "question": "Clarity Act (H.R.3633) signed into law in 2026?",
-      "prob": 5,
-      "change": -14.4,
-      "vol24": "$3.4M",
-      "slug": "clarity-act-signed-into-law-in-2026"
+      "question": "LoL: Top Esports vs Invictus Gaming - Game 2 Winner",
+      "prob": 99,
+      "change": 53.9,
+      "vol24": "$2.1M",
+      "slug": "lol-tes-ig1-2026-09-17-game2"
     },
     {
-      "question": "Sao Paulo Open: Eva Lys vs Gabriela Ce",
-      "prob": 74,
-      "change": -14.2,
-      "vol24": "$243K",
-      "slug": "wta-lys-ce-2026-09-14"
+      "question": "LoL: Top Esports vs Invictus Gaming - Game 3 Winner",
+      "prob": 99,
+      "change": 53.9,
+      "vol24": "$1.4M",
+      "slug": "lol-tes-ig1-2026-09-17-game3"
     },
     {
-      "question": "Sao Paulo Open: Xiaodi You vs Alina Charaeva",
-      "prob": 38,
-      "change": 9.0,
-      "vol24": "$375K",
-      "slug": "wta-you-charaev-2026-09-14"
+      "question": "LoL: Top Esports vs Invictus Gaming - Game 1 Winner",
+      "prob": 1,
+      "change": -46.5,
+      "vol24": "$1.7M",
+      "slug": "lol-tes-ig1-2026-09-17-game1"
     },
     {
-      "question": "US recession by end of 2026?",
-      "prob": 14,
-      "change": 6.0,
-      "vol24": "$193K",
-      "slug": "us-recession-by-end-of-2026"
+      "question": "Counter-Strike: B8 vs GamerLegion (BO1) - Logitech G Play Connect Group A",
+      "prob": 99,
+      "change": 45.5,
+      "vol24": "$294K",
+      "slug": "cs2-b8-gl1-2026-09-17"
     }
   ],
   "top_vol": [
     {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "prob": 12,
-      "change": 1.0,
-      "vol24": "$6.1M",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615"
+      "question": "LoL: Top Esports vs Invictus Gaming - Game 2 Winner",
+      "prob": 99,
+      "change": 53.9,
+      "vol24": "$2.1M",
+      "slug": "lol-tes-ig1-2026-09-17-game2"
     },
     {
-      "question": "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?",
+      "question": "LoL: Top Esports vs Invictus Gaming - Game 1 Winner",
       "prob": 1,
-      "change": -0.3,
-      "vol24": "$5.3M",
-      "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664"
+      "change": -46.5,
+      "vol24": "$1.7M",
+      "slug": "lol-tes-ig1-2026-09-17-game1"
     },
     {
-      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-      "prob": 1,
-      "change": -0.1,
-      "vol24": "$4.7M",
-      "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586"
+      "question": "LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs",
+      "prob": 70,
+      "change": 26.0,
+      "vol24": "$1.6M",
+      "slug": "lol-tes-ig1-2026-09-17"
     }
   ]
 }
