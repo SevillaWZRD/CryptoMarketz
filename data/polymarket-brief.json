@@ -1,65 +1,65 @@
 {
-  "date": "Thursday September 17, 2026",
-  "generated": "2026-09-17T12:15:59.125766Z",
-  "brief": "# **ZIMR POLYMARKET BRIEFING | September 17, 2026**\n\n## HEADLINE\n**League of Legends Sweep Priced In: Top Esports Dominance Drives $5.2M Regional Finals Betting Blitz**\n\n---\n\n## MARKET INTELLIGENCE\n\n**The Consensus is Locked:** Top Esports has the market in a stranglehold. Games 2 and 3 are both trading at 99%, with $2.1M and $1.4M respectively already committed to a clean sweep narrative. The BO5 series itself sits at 70%, suggesting smart money sees less than a 30% path to Invictus Gaming's comeback. This isn't subtle positioning\u2014it's conviction capital moving in real-time.\n\n**What's Telling:** Game 1 (trading at 1%) is the inverse mirror. If Top truly dominates G2 and G3 as heavily priced, Game 1's collapse becomes the narrative anchor. The $1.7M volume on G1 suggests contrarians are either liquidating positions early or attempting to catch a \"desperate comeback\" angle that the market has already rejected.\n\n**The Mispricing Signal:** Watch the Fed rate cut odds decay ($1.1M volume at 52% for October hold). While esports euphoria dominates Polymarket today, macro traders are quietly positioning for dovish surprise. Bitcoin's 92% \"up\" probability on the 17th feels inflated given the macro correlation\u2014could be retail FOMO masking institutional hedges elsewhere.\n\n---\n\n## WATCH LIST\n\n1. **LoL BO5 (Top vs Invictus) - 70% | $1.6M Vol**  \n   *Why:* Series probability will collapse fast if Invictus takes Game 2. Current Game 2 pricing at 99% may overshoot on the first sign of competition. Arbitrage opportunity on series tightening.\n\n2. **MOUZ vs NRG (BO3) - 44% | $595K Vol**  \n   *Why:* Massive 41% daily drawdown suggests panic selling. Map handicap at 1% (down 60%) is deeply illiquid\u2014first map result could reprrice the entire series 10-15 points.\n\n3. **Fed October Hold - 52% | $1.1M Vol**  \n   *Why:* Crypto market is ignoring macro signals. If economic data softens mid-day, expect sharp reversion in Fed odds and potential Bitcoin volatility bleed into esports sentiment.\n\n---\n\n*ZIMR Capital | Markets move fast. Position accordingly.*",
+  "date": "Friday September 18, 2026",
+  "generated": "2026-09-18T11:55:51.226678Z",
+  "brief": "# ZIMR CAPITAL DAILY BRIEFING | Friday, September 18, 2026\n\n## HEADLINE\n**Team WE's Game 1 Victory Locks in LPL Narrative\u2014But BO5 Odds Say It's Not Over**\n\n---\n\n## MARKET INTELLIGENCE\n\n**The Signal:** $3.1M in volume flooded the WE vs JD Gaming matchup overnight, with Game 1 Winner hitting 99% after a decisive first game. Smart money immediately rotated into the full series\u2014now priced at just 18%\u2014suggesting they're **buying the dip on a 5-game format where comebacks are structural**. This is classic Polymarket mispricing: retail punts on narrative momentum while sharp capital positions for reversion. WE's Game 1 dominance is real, but JD Gaming has historically owned the macro adjustments between games.\n\n**What It Means:** The 81-point spread between \"WE wins Game 1\" (99%) and \"WE wins Series\" (18%) is wider than it should be given WE's current form. Either the BO5 market is pricing in a -44.5% collapse on Games 2/3 (which is already reflected in those markets at 1%), or there's genuine edge for contrarians. Volume concentration in individual games suggests retail fear-of-missing-out rather than fundamental reassessment.\n\n**Off-Market Radar:** German politics showing real movement\u2014SPD climbing to 51% (+25.5%) against AfD's 48% (-26.0%) in Mecklenburg-Vorpommern. $396K in 24h volume and clear directional conviction. Worth monitoring for broader EU political sentiment shifts.\n\n---\n\n## WATCH LIST\n\n1. **LoL: Team WE vs JD Gaming (BO5)** \u2014 $939K vol, 18% odds. **Why:** Largest arbitrage surface on the card. If WE takes Game 2, BO5 odds should spike to 35%+. Real-time edge opportunity as sentiment reprices game-by-game.\n\n2. **CS: MOUZ vs Natus Vincere (BO3)** \u2014 $906K vol, 50% exact. **Why:** Dead-even market with heavy volume\u2014tells you sharp money can't find edge. Good barometer for whether esports volatility is genuinely compressed or if there's a hidden sharp take.\n\n3. **SPD Mecklenburg-Vorpommern** \u2014 51%, momentum at +25.5%. **Why:** Smallest market but sharpest move. Track if this is genuine polling shift or algos front-running weekend news.\n\n---\n\n*ZIMR Capital \u2022 Markets close faster than narratives change*",
   "top_movers": [
     {
-      "question": "Map Handicap: MOUZ (-1.5) vs NRG (+1.5)",
+      "question": "LoL: Team WE vs JD Gaming - Game 1 Winner",
+      "prob": 99,
+      "change": 54.9,
+      "vol24": "$1.3M",
+      "slug": "lol-we-jdg-2026-09-18-game1"
+    },
+    {
+      "question": "Counter-Strike: Black Phoenix vs Lavked (BO3) - CCT Europe Series #9 Group Stage",
+      "prob": 96,
+      "change": 51.3,
+      "vol24": "$151K",
+      "slug": "cs2-blackp-lavked-2026-09-18"
+    },
+    {
+      "question": "LoL: Team WE vs JD Gaming - Game 3 Winner",
       "prob": 1,
-      "change": -60.0,
-      "vol24": "$328K",
-      "slug": "cs2-mouz-nrg-2026-09-17-map-handicap-away-1pt5"
+      "change": -44.5,
+      "vol24": "$1.3M",
+      "slug": "lol-we-jdg-2026-09-18-game3"
     },
     {
-      "question": "LoL: Top Esports vs Invictus Gaming - Game 2 Winner",
-      "prob": 99,
-      "change": 53.9,
-      "vol24": "$2.1M",
-      "slug": "lol-tes-ig1-2026-09-17-game2"
-    },
-    {
-      "question": "LoL: Top Esports vs Invictus Gaming - Game 3 Winner",
-      "prob": 99,
-      "change": 53.9,
-      "vol24": "$1.4M",
-      "slug": "lol-tes-ig1-2026-09-17-game3"
-    },
-    {
-      "question": "LoL: Top Esports vs Invictus Gaming - Game 1 Winner",
+      "question": "LoL: Team WE vs JD Gaming - Game 2 Winner",
       "prob": 1,
-      "change": -46.5,
-      "vol24": "$1.7M",
-      "slug": "lol-tes-ig1-2026-09-17-game1"
+      "change": -44.5,
+      "vol24": "$899K",
+      "slug": "lol-we-jdg-2026-09-18-game2"
     },
     {
-      "question": "Counter-Strike: B8 vs GamerLegion (BO1) - Logitech G Play Connect Group A",
-      "prob": 99,
-      "change": 45.5,
-      "vol24": "$294K",
-      "slug": "cs2-b8-gl1-2026-09-17"
+      "question": "Guangzhou: Mitsuki Wei Kang Leong vs Petr Bar Biryukov",
+      "prob": 98,
+      "change": 41.1,
+      "vol24": "$162K",
+      "slug": "atp-leong-biryuko-2026-09-18"
     }
   ],
   "top_vol": [
     {
-      "question": "LoL: Top Esports vs Invictus Gaming - Game 2 Winner",
+      "question": "LoL: Team WE vs JD Gaming - Game 1 Winner",
       "prob": 99,
-      "change": 53.9,
-      "vol24": "$2.1M",
-      "slug": "lol-tes-ig1-2026-09-17-game2"
+      "change": 54.9,
+      "vol24": "$1.3M",
+      "slug": "lol-we-jdg-2026-09-18-game1"
     },
     {
-      "question": "LoL: Top Esports vs Invictus Gaming - Game 1 Winner",
+      "question": "LoL: Team WE vs JD Gaming - Game 3 Winner",
       "prob": 1,
-      "change": -46.5,
-      "vol24": "$1.7M",
-      "slug": "lol-tes-ig1-2026-09-17-game1"
+      "change": -44.5,
+      "vol24": "$1.3M",
+      "slug": "lol-we-jdg-2026-09-18-game3"
     },
     {
-      "question": "LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs",
-      "prob": 70,
-      "change": 26.0,
-      "vol24": "$1.6M",
-      "slug": "lol-tes-ig1-2026-09-17"
+      "question": "LoL: Team WE vs JD Gaming (BO5) - LPL Regional Finals Playoffs",
+      "prob": 18,
+      "change": -24.0,
+      "vol24": "$939K",
+      "slug": "lol-we-jdg-2026-09-18"
     }
   ]
 }
