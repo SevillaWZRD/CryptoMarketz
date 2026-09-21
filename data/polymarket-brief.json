@@ -1,65 +1,65 @@
 {
-  "date": "Sunday September 20, 2026",
-  "generated": "2026-09-20T11:53:14.417221Z",
-  "brief": "# ZIMR MARKET BRIEF | Sunday, September 20, 2026\n\n## Headline\n**Russian Election Consensus Hardens as LoL Academy Scene Goes Volatile; City Favored in Premier League Weekend**\n\n---\n\n## Market Signal\n\nUnited Russia's dominance in parliamentary election betting has solidified further\u2014now at 82% (+5.0% today, $1.7M volume)\u2014suggesting conviction among sophisticated bettors that opposition gains won't materialize. This isn't noise; it's the highest-volume market on the platform and moving decisively in one direction. The New People counter-bet has collapsed to 16%, indicating no real two-way flow.\n\nIn esports, the Movistar KOI F\u00e9nix explosion (99%, +31.4%) against CTBC Flying Oyster Academy screams information asymmetry\u2014either sharp money has hard intel on roster/form or this is a classic trap. Watch whether it holds or gets arb'd back. The DN SOOPers/T1 Academy flip to 1% looks like capitulation selling rather than legitimate analysis; T1's academy pedigree may be overpriced at that level.\n\nPremier League action shows Man City marked as heavy favorites (72%, -3.0% on the day) despite recent volatility, while Real Madrid sits at a curious 46%\u2014suggesting the market is unsure about that fixture or there's line-shopping pressure. The -1.5 spread at 48% indicates balanced expectation for a City win by exactly that margin, but the sharp decline suggests smart money isn't aggressively backing it anymore.\n\n---\n\n## Watch List\n\n1. **United Russia ER election (82%)** \u2014 The conviction here is extreme. Look for any Russian political news or polling data that contradicts the market's 82% confidence. If opposition infrastructure stories break, you'll see fast repricing.\n\n2. **Movistar KOI F\u00e9nix (99%)** \u2014 This is too clean. Either a ringer or a crowded trade. Watch early game flow; if CTBC takes first blood, expect sharp reversal.\n\n3. **Man City -1.5 spread (48%)** \u2014 Volume is healthy but declining. Monitor team news and injury reports 2-4 hours before kickoff; this could be a mispriced line if City's roster situation changes.",
+  "date": "Monday September 21, 2026",
+  "generated": "2026-09-21T13:25:36.516646Z",
+  "brief": "# BITCOIN BREAKS $82K: MARKET PRICES IN SUSTAINED RALLY, BUT $86K REMAINS LOTTERY TICKET\n\n## The Signal\n\nBitcoin confidence just hit escape velocity. The $82K threshold sits at 99% conviction (+87.5% vol), with $84K trailing at a robust 87%\u2014but here's the tell: $86K languishes at just 20% despite +19.8% today's action. This is textbook risk ladder behavior. Smart money is heavily long the $80-84K band but visibly taking profits into resistance. Volume concentration in the $82-84K range ($750K+) suggests institutional accumulation around technical support, not euphoric retail buying at the top.\n\nThe Russians are moving too. United Russia's 340-354 seat range hit 94% (up 50% today), signaling high-confidence resolution on Duma elections. This is narrative-driving geopolitical risk pricing, not market noise\u2014watch if this inverts as polling data updates.\n\n**The Mispricing:** Kyoka Okamura at 1% against Fernandez has the stench of value. Compare that to Astralis-Sangal at 99% with identical volume\u2014esports markets are bleeding liquidity into predictable favorites while tennis sits unpriced.\n\n## Watch List\n\n**1. Bitcoin $86K (20% | $205K vol)** \u2014 The real resistance test. Today's surge stops here or breaks it decisively. Watch the $1M+ wall that typically forms $500 above daily closes. If it cracks, $88K is naked.\n\n**2. Dota 2: Conventus vs 1win (11% | $1.2M vol)** \u2014 Your highest-conviction market by volume, yet pricing an 89% underdog. Dig into draft proximity and recent scrim data; $1.2M moves don't happen on hunches.\n\n**3. Russia Elections (94% + 98% combo)** \u2014 Regional sweep thesis hitting 98%. Correlated bets are stacking. Any polling divergence or regional upset tilts the entire complex. Monitor dissidents' campaign acceleration.",
   "top_movers": [
     {
-      "question": "LoL: \u2060Movistar KOI F\u00e9nix vs CTBC Flying Oyster Academy (BO1) - World Star Challengers Invitational Group B",
+      "question": "Will the price of Bitcoin be above $82,000 on September 21?",
       "prob": 99,
-      "change": 31.4,
-      "vol24": "$350K",
-      "slug": "lol-koia-ctbca-2026-09-20"
+      "change": 87.5,
+      "vol24": "$207K",
+      "slug": "bitcoin-above-82k-on-september-21-2026"
     },
     {
-      "question": "LoL: DN SOOPers Challengers vs T1 Academy (BO1) - World Star Challengers Invitational Group A",
+      "question": "Will the price of Bitcoin be above $84,000 on September 21?",
+      "prob": 87,
+      "change": 85.3,
+      "vol24": "$273K",
+      "slug": "bitcoin-above-84k-on-september-21-2026"
+    },
+    {
+      "question": "Will United Russia win between 340 and 354 seats in the next Russian State Duma election?",
+      "prob": 94,
+      "change": 50.1,
+      "vol24": "$160K",
+      "slug": "will-united-russia-win-between-340-and-354-seats-in-the-next-russian-state-duma-election"
+    },
+    {
+      "question": "LoL: ZSK vs Saigon Warriors (BO1) - World Star Challengers Invitational Group D",
       "prob": 1,
-      "change": -30.9,
-      "vol24": "$452K",
-      "slug": "lol-dnsc-t1a-2026-09-20"
+      "change": -50.0,
+      "vol24": "$374K",
+      "slug": "lol-zsk-sgw-2026-09-21"
     },
     {
-      "question": "LoL: Fuego vs EDward Gaming Youth Team (BO1) - World Star Challengers Invitational Group A",
-      "prob": 1,
-      "change": -15.4,
-      "vol24": "$424K",
-      "slug": "lol-fue-edgy-2026-09-20"
-    },
-    {
-      "question": "Will SSC Napoli win on 2026-09-20?",
-      "prob": 28,
-      "change": -14.0,
-      "vol24": "$395K",
-      "slug": "sea-fio-nap-2026-09-20-nap"
-    },
-    {
-      "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-      "prob": 82,
-      "change": 5.0,
-      "vol24": "$1.7M",
-      "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election"
+      "question": "Exact Margin: Giants by 25+",
+      "prob": 8,
+      "change": -38.8,
+      "vol24": "$126K",
+      "slug": "nfl-nyg-la-2026-09-22-exact-margin-long-25-plus"
     }
   ],
   "top_vol": [
     {
-      "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-      "prob": 82,
-      "change": 5.0,
-      "vol24": "$1.7M",
-      "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election"
+      "question": "Dota 2: Conventus Stellarum vs 1win (BO3) - PGL Wallachia Group Stage",
+      "prob": 11,
+      "change": 0,
+      "vol24": "$1.2M",
+      "slug": "dota2-cs-1win-2026-09-21"
     },
     {
-      "question": "Will Hakeem Jeffries win the 2028 Democratic presidential nomination?",
+      "question": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
       "prob": 1,
-      "change": 0.1,
-      "vol24": "$1.3M",
-      "slug": "will-hakeem-jeffries-win-the-2028-democratic-presidential-nomination"
+      "change": 0,
+      "vol24": "$460K",
+      "slug": "will-shakhtar-donetsk-win-the-2026-27-uefa-champions-league-championship-20260701202025578"
     },
     {
-      "question": "Vikings vs. Bears",
-      "prob": 34,
-      "change": 1.0,
-      "vol24": "$904K",
-      "slug": "nfl-min-chi-2026-09-20"
+      "question": "Counter-Strike: Astralis vs Sangal (BO3) - Stake Pulse Beat II Group A",
+      "prob": 99,
+      "change": 20.0,
+      "vol24": "$377K",
+      "slug": "cs2-ast10-sng2-2026-09-21"
     }
   ]
 }
