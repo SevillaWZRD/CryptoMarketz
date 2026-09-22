@@ -1,65 +1,65 @@
 {
-  "date": "Monday September 21, 2026",
-  "generated": "2026-09-21T13:25:36.516646Z",
-  "brief": "# BITCOIN BREAKS $82K: MARKET PRICES IN SUSTAINED RALLY, BUT $86K REMAINS LOTTERY TICKET\n\n## The Signal\n\nBitcoin confidence just hit escape velocity. The $82K threshold sits at 99% conviction (+87.5% vol), with $84K trailing at a robust 87%\u2014but here's the tell: $86K languishes at just 20% despite +19.8% today's action. This is textbook risk ladder behavior. Smart money is heavily long the $80-84K band but visibly taking profits into resistance. Volume concentration in the $82-84K range ($750K+) suggests institutional accumulation around technical support, not euphoric retail buying at the top.\n\nThe Russians are moving too. United Russia's 340-354 seat range hit 94% (up 50% today), signaling high-confidence resolution on Duma elections. This is narrative-driving geopolitical risk pricing, not market noise\u2014watch if this inverts as polling data updates.\n\n**The Mispricing:** Kyoka Okamura at 1% against Fernandez has the stench of value. Compare that to Astralis-Sangal at 99% with identical volume\u2014esports markets are bleeding liquidity into predictable favorites while tennis sits unpriced.\n\n## Watch List\n\n**1. Bitcoin $86K (20% | $205K vol)** \u2014 The real resistance test. Today's surge stops here or breaks it decisively. Watch the $1M+ wall that typically forms $500 above daily closes. If it cracks, $88K is naked.\n\n**2. Dota 2: Conventus vs 1win (11% | $1.2M vol)** \u2014 Your highest-conviction market by volume, yet pricing an 89% underdog. Dig into draft proximity and recent scrim data; $1.2M moves don't happen on hunches.\n\n**3. Russia Elections (94% + 98% combo)** \u2014 Regional sweep thesis hitting 98%. Correlated bets are stacking. Any polling divergence or regional upset tilts the entire complex. Monitor dissidents' campaign acceleration.",
+  "date": "Tuesday September 22, 2026",
+  "generated": "2026-09-22T12:10:13.967125Z",
+  "brief": "# ZIMR CAPITAL \u2014 POLYMARKET DAILY BRIEF\n**Tuesday, September 22, 2026**\n\n---\n\n## HEADLINE\n**Bitcoin Certainty Peaks as $84K Barrier Holds; Tennis Volatility Signals Thin Liquidity in Niche Sports**\n\n---\n\n## MARKET INTELLIGENCE\n\n**The Crypto Narrative is Locked In.** Three Bitcoin markets are now pricing with 98-99% confidence\u2014$82K, $84K, and the September $87.5K target all compressed into a tight range. The +29% surge on the $84K binary (now at 98%) suggests this level has become the consensus floor for spot trading today. Smart money isn't fighting it; $178K in volume on a single price level indicates the market has *settled* rather than discovered. Watch for late-session divergence if spot price action breaks structure.\n\n**Tennis Markets Are a Liquidity Trap.** The Micic vs Riera contract (+75.9%, now 99%) and Korea Open (98%) are exhibiting classic low-liquidity behavior: extreme confidence premiums with modest volume ($189K, $311K respectively). These aren't reflective of true information\u2014they're reflective of 2-3 large limit orders creating the illusion of certainty. The -43% dump on Kubka vs Cengiz (26% now) in the same sport shows how fragile these prices are. **Avoid building positions here unless you're front-running a known event.**\n\n**Crypto Volatility Markets Decoupling from Spot.** The Ethereum dip-to-$2,250 bet (28%, -6% today) is trading *cheaper* despite $308K volume, suggesting long-dated vol expectations are actually *falling* into year-end. This is a tell: macro money is de-risking despite today's Bitcoin strength.\n\n---\n\n## WATCH LIST\n\n1. **Bitcoin $87.5K September (74%)** \u2014 Volume inflecting upward ($218K, +10% today). If this breaks 80%, it signals institutional conviction on a September push. Otherwise, it's a fade candidate at current pricing.\n\n2. **Youngkin 2028 (1%, $682K vol)** \u2014 Highest volume on the board. Illiquid at the extremes. If Trump enters/exits race news drops today, expect violent repricing. Monitor as a sentiment barometer for political betting appetite.\n\n3. **Iran Invasion Pre-2027 (14%, $539K)** \u2014 Geopolitical tail risk with real volume. Watch for any Middle East escalation headlines; mispricing is plausible if tail event probabilities shift.\n\n---\n\n*ZIMR Capital | Confidence: Medium | Next update: 15:00 UTC*",
   "top_movers": [
     {
-      "question": "Will the price of Bitcoin be above $82,000 on September 21?",
+      "question": "Ankara: Elena Micic vs Julia Riera",
       "prob": 99,
-      "change": 87.5,
-      "vol24": "$207K",
-      "slug": "bitcoin-above-82k-on-september-21-2026"
+      "change": 75.9,
+      "vol24": "$189K",
+      "slug": "wta-micic-riera-2026-09-22"
     },
     {
-      "question": "Will the price of Bitcoin be above $84,000 on September 21?",
-      "prob": 87,
-      "change": 85.3,
-      "vol24": "$273K",
-      "slug": "bitcoin-above-84k-on-september-21-2026"
-    },
-    {
-      "question": "Will United Russia win between 340 and 354 seats in the next Russian State Duma election?",
-      "prob": 94,
-      "change": 50.1,
-      "vol24": "$160K",
-      "slug": "will-united-russia-win-between-340-and-354-seats-in-the-next-russian-state-duma-election"
-    },
-    {
-      "question": "LoL: ZSK vs Saigon Warriors (BO1) - World Star Challengers Invitational Group D",
+      "question": "Counter-Strike: Virtus.pro vs BBL (BO3) - Stake Pulse Beat II Group B",
       "prob": 1,
-      "change": -50.0,
-      "vol24": "$374K",
-      "slug": "lol-zsk-sgw-2026-09-21"
+      "change": -53.4,
+      "vol24": "$173K",
+      "slug": "cs2-vp-bbl1-2026-09-22"
     },
     {
-      "question": "Exact Margin: Giants by 25+",
-      "prob": 8,
-      "change": -38.8,
-      "vol24": "$126K",
-      "slug": "nfl-nyg-la-2026-09-22-exact-margin-long-25-plus"
+      "question": "Korea Open: Alina Charaeva vs Sofia Kenin",
+      "prob": 98,
+      "change": 49.0,
+      "vol24": "$311K",
+      "slug": "wta-charaev-kenin-2026-09-20"
+    },
+    {
+      "question": "Ankara: Martyna Kubka vs Berfu Cengiz",
+      "prob": 26,
+      "change": -43.0,
+      "vol24": "$202K",
+      "slug": "wta-kubka-cengiz-2026-09-22"
+    },
+    {
+      "question": "Will the price of Bitcoin be above $84,000 on September 22?",
+      "prob": 98,
+      "change": 29.1,
+      "vol24": "$178K",
+      "slug": "bitcoin-above-84k-on-september-22-2026"
     }
   ],
   "top_vol": [
     {
-      "question": "Dota 2: Conventus Stellarum vs 1win (BO3) - PGL Wallachia Group Stage",
-      "prob": 11,
-      "change": 0,
-      "vol24": "$1.2M",
-      "slug": "dota2-cs-1win-2026-09-21"
-    },
-    {
-      "question": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "question": "Will Glenn Youngkin win the 2028 US Presidential Election?",
       "prob": 1,
       "change": 0,
-      "vol24": "$460K",
-      "slug": "will-shakhtar-donetsk-win-the-2026-27-uefa-champions-league-championship-20260701202025578"
+      "vol24": "$682K",
+      "slug": "will-glenn-youngkin-win-the-2028-us-presidential-election"
     },
     {
-      "question": "Counter-Strike: Astralis vs Sangal (BO3) - Stake Pulse Beat II Group A",
-      "prob": 99,
-      "change": 20.0,
-      "vol24": "$377K",
-      "slug": "cs2-ast10-sng2-2026-09-21"
+      "question": "Dota 2: Natus Vincere vs 1win - Game 2 Winner",
+      "prob": 82,
+      "change": 0,
+      "vol24": "$666K",
+      "slug": "dota2-navi-1win-2026-09-22-game2"
+    },
+    {
+      "question": "Will the U.S. invade Iran before 2027?",
+      "prob": 14,
+      "change": -2.0,
+      "vol24": "$539K",
+      "slug": "will-the-us-invade-iran-before-2027"
     }
   ]
 }
