@@ -1,65 +1,65 @@
 {
-  "date": "Tuesday September 22, 2026",
-  "generated": "2026-09-22T12:10:13.967125Z",
-  "brief": "# ZIMR CAPITAL \u2014 POLYMARKET DAILY BRIEF\n**Tuesday, September 22, 2026**\n\n---\n\n## HEADLINE\n**Bitcoin Certainty Peaks as $84K Barrier Holds; Tennis Volatility Signals Thin Liquidity in Niche Sports**\n\n---\n\n## MARKET INTELLIGENCE\n\n**The Crypto Narrative is Locked In.** Three Bitcoin markets are now pricing with 98-99% confidence\u2014$82K, $84K, and the September $87.5K target all compressed into a tight range. The +29% surge on the $84K binary (now at 98%) suggests this level has become the consensus floor for spot trading today. Smart money isn't fighting it; $178K in volume on a single price level indicates the market has *settled* rather than discovered. Watch for late-session divergence if spot price action breaks structure.\n\n**Tennis Markets Are a Liquidity Trap.** The Micic vs Riera contract (+75.9%, now 99%) and Korea Open (98%) are exhibiting classic low-liquidity behavior: extreme confidence premiums with modest volume ($189K, $311K respectively). These aren't reflective of true information\u2014they're reflective of 2-3 large limit orders creating the illusion of certainty. The -43% dump on Kubka vs Cengiz (26% now) in the same sport shows how fragile these prices are. **Avoid building positions here unless you're front-running a known event.**\n\n**Crypto Volatility Markets Decoupling from Spot.** The Ethereum dip-to-$2,250 bet (28%, -6% today) is trading *cheaper* despite $308K volume, suggesting long-dated vol expectations are actually *falling* into year-end. This is a tell: macro money is de-risking despite today's Bitcoin strength.\n\n---\n\n## WATCH LIST\n\n1. **Bitcoin $87.5K September (74%)** \u2014 Volume inflecting upward ($218K, +10% today). If this breaks 80%, it signals institutional conviction on a September push. Otherwise, it's a fade candidate at current pricing.\n\n2. **Youngkin 2028 (1%, $682K vol)** \u2014 Highest volume on the board. Illiquid at the extremes. If Trump enters/exits race news drops today, expect violent repricing. Monitor as a sentiment barometer for political betting appetite.\n\n3. **Iran Invasion Pre-2027 (14%, $539K)** \u2014 Geopolitical tail risk with real volume. Watch for any Middle East escalation headlines; mispricing is plausible if tail event probabilities shift.\n\n---\n\n*ZIMR Capital | Confidence: Medium | Next update: 15:00 UTC*",
+  "date": "Wednesday September 23, 2026",
+  "generated": "2026-09-23T12:22:06.672543Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | Wednesday, September 23, 2026\n\n## Headline\n**Esports Volatility Spike Masks Quiet Political Repricing; Alien Disclosure Market Hits $567K Volume**\n\n---\n\n## Market Signals\n\nThe esports complex is experiencing sharp directional moves that suggest either genuine form shifts or algorithmic chasing. QUAZAR-Misa (CS:GO) crashed 69.5% overnight on $336K volume\u2014a red flag for either a team roster announcement or leaked scrim data hitting the books hard. Meanwhile, fnatic-Phantom at 33% probability and 100 Thieves heavy favorites (+14.8%) suggest the market is bifurcating on EUvsNA meta reads. Don't chase these; wait for post-match flow.\n\nMore interesting: political markets are repricing asymmetrically. Trump AI rename sits at 26% (+17.5%) despite zero headline catalysts\u2014smart money may be front-running a TechCrunch announcement or internal campaign signal. The Iranian blockade market (-9% to 34%) is acting like shorts are taking profits ahead of State Department commentary, suggesting real positioning underneath. These feel like informed flows, not retail noise.\n\nThe $871K Dota 2 volume and $567K alien disclosure bet reveal where speculative capital is congregating. Alien disclosure at 1% is properly priced as a lottery ticket, but watch for sudden repricing if any credible government official speaks on UAP this week. That's the tail-risk trigger. Skip the low-volume tennis arbitrage; focus on where conviction is showing.\n\n---\n\n## Watch List\n\n1. **Trump AI Rename (26%, +17.5%) | Why:** Smallest liquidity pool ($119K) with largest % move suggests informed traders entering. If this breaks 30% intraday, structural shorts are capitulating. Catalyst-dependent play.\n\n2. **Alien Disclosure (1%, $567K volume) | Why:** Asymmetric liquidity suggests this is being used as a levered bet vehicle. Watch for sudden repricing on any Pentagon/government statement\u2014tail risk with convexity.\n\n3. **QUAZAR vs Misa (1%) | Why:** 69% crash this extreme demands post-match explanation. If the market stabilizes above 5% before series starts, it's a contrarian long. If it stays <2%, there's structural damage (roster/ban).\n\n---\n\n**ZIMR Capital** | *Market Clarity*",
   "top_movers": [
     {
-      "question": "Ankara: Elena Micic vs Julia Riera",
-      "prob": 99,
-      "change": 75.9,
-      "vol24": "$189K",
-      "slug": "wta-micic-riera-2026-09-22"
-    },
-    {
-      "question": "Counter-Strike: Virtus.pro vs BBL (BO3) - Stake Pulse Beat II Group B",
+      "question": "Counter-Strike: QUAZAR vs Misa Esports (BO3) - European Pro League Series 9 Playoffs",
       "prob": 1,
-      "change": -53.4,
-      "vol24": "$173K",
-      "slug": "cs2-vp-bbl1-2026-09-22"
+      "change": -69.5,
+      "vol24": "$336K",
+      "slug": "cs2-qua1-mis-2026-09-23"
     },
     {
-      "question": "Korea Open: Alina Charaeva vs Sofia Kenin",
-      "prob": 98,
-      "change": 49.0,
-      "vol24": "$311K",
-      "slug": "wta-charaev-kenin-2026-09-20"
+      "question": "St. Tropez: Murphy Cassone vs Clement Tabur",
+      "prob": 99,
+      "change": 50.4,
+      "vol24": "$552K",
+      "slug": "atp-cassone-tabur-2026-09-22"
     },
     {
-      "question": "Ankara: Martyna Kubka vs Berfu Cengiz",
-      "prob": 26,
-      "change": -43.0,
-      "vol24": "$202K",
-      "slug": "wta-kubka-cengiz-2026-09-22"
+      "question": "Counter-Strike: fnatic vs Phantom (BO3) - Stake Pulse Beat II Group C",
+      "prob": 33,
+      "change": -28.5,
+      "vol24": "$195K",
+      "slug": "cs2-fnc-pha-2026-09-23"
     },
     {
-      "question": "Will the price of Bitcoin be above $84,000 on September 22?",
-      "prob": 98,
-      "change": 29.1,
-      "vol24": "$178K",
-      "slug": "bitcoin-above-84k-on-september-22-2026"
+      "question": "Hangzhou Open: Valentin Royer vs Adam Walton",
+      "prob": 78,
+      "change": 28.0,
+      "vol24": "$120K",
+      "slug": "atp-royer-walton-2026-09-22"
+    },
+    {
+      "question": "LoL: Solary vs ZSK (BO1) - World Star Challengers Invitational Group D",
+      "prob": 99,
+      "change": 25.4,
+      "vol24": "$360K",
+      "slug": "lol-sly-zsk-2026-09-23"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Glenn Youngkin win the 2028 US Presidential Election?",
+      "question": "Dota 2: Team Nemesis vs Conventus Stellarum - Game 2 Winner",
+      "prob": 99,
+      "change": 0,
+      "vol24": "$871K",
+      "slug": "dota2-nem-cs-2026-09-23-game2"
+    },
+    {
+      "question": "Will the US confirm that aliens exist by September 30?",
       "prob": 1,
-      "change": 0,
-      "vol24": "$682K",
-      "slug": "will-glenn-youngkin-win-the-2028-us-presidential-election"
+      "change": -0.3,
+      "vol24": "$567K",
+      "slug": "will-the-us-confirm-that-aliens-exist-by-september-30-396"
     },
     {
-      "question": "Dota 2: Natus Vincere vs 1win - Game 2 Winner",
-      "prob": 82,
-      "change": 0,
-      "vol24": "$666K",
-      "slug": "dota2-navi-1win-2026-09-22-game2"
-    },
-    {
-      "question": "Will the U.S. invade Iran before 2027?",
-      "prob": 14,
-      "change": -2.0,
-      "vol24": "$539K",
-      "slug": "will-the-us-invade-iran-before-2027"
+      "question": "St. Tropez: Murphy Cassone vs Clement Tabur",
+      "prob": 99,
+      "change": 50.4,
+      "vol24": "$552K",
+      "slug": "atp-cassone-tabur-2026-09-22"
     }
   ]
 }
