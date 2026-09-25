@@ -1,65 +1,65 @@
 {
-  "date": "Thursday September 24, 2026",
-  "generated": "2026-09-24T12:21:46.589392Z",
-  "brief": "# POLYMARKET DAILY BRIEF | Thursday, Sept 24, 2026\n\n## Headline\n**Sports Consensus Crushing Skeptics | Bitcoin Bulls Getting Liquidated Ahead of Fed Decision**\n\n---\n\n## Market Intelligence\n\nThe day belongs to sports certainty. Maple Leafs-Senators and Japan-Uruguay are pricing at 99%, with +57-59% moves indicating late money crushing the underdog side. Volume ($223K-$347K per market) suggests retail conviction, not sophisticated positioning. These aren't hedge trades\u2014they're bets on outcomes that feel inevitable in real-time.\n\nMeanwhile, Bitcoin's getting hammered. The $86K \"above\" bet collapsed to 1% (-36.9%), while September rally targets ($87.5K, $90K) are tanking. Smart money appears to be *de-risking ahead of October's Fed decision*\u2014the real vol driver here. Notice the Fed rate markets ($519K-$483K volume): 68% is pricing a 25bps hike. That's the actual market information content. Bitcoin weakness isn't about technicals; it's macro positioning for rate decisions.\n\n**The mismatch to watch**: Esports volume ($1.1M on Na'Vi-LGD) dwarfs the macro signals. Recreational players are betting fighting games while institutional capital is reshuffling for monetary policy. If the Fed holds rates steady, expect a violent Bitcoin reversion and casual sports bettors to get trapped.\n\n---\n\n## Watch List\n\n1. **Will Bitcoin reach $90,000 in September? (13% | $139K vol)** \u2014 Terminal capitulation signal. If this ticks above 20% today, expect short covering into month-end.\n\n2. **Fed October Interest Rate Markets ($1M combined)** \u2014 The actual anchor. Watch for any news that shifts the 68% hike probability; Bitcoin will follow within 30 minutes.\n\n3. **Kharg Island Iranian Control (1% | $473K vol)** \u2014 Geopolitical tail risk repricing. $473K volume on a 1% outcome suggests informed shorting or hedging something bigger.",
+  "date": "Friday September 25, 2026",
+  "generated": "2026-09-25T12:22:24.764877Z",
+  "brief": "# ZIMR Capital Market Intelligence | Friday, September 25, 2026\n\n## HEADLINE\n**Bitcoin Conviction Surges to 95% Above $82K While Sports Markets Crater\u2014Smart Money Rotating Into Hard Assets**\n\n---\n\n## THE SIGNAL\n\nThe narrative is crystalline: macro certainty is driving money into Bitcoin while discretionary bets are collapsing. Bitcoin at 95% (up 14.3% today on $191K volume) reflects genuine conviction\u2014this isn't noise. Meanwhile, Brazil's win probability sits at 1% on $523K volume (down 72.5%), and Australia trades at 1% (down 9.4%)\u2014these aren't mispricing signals, they're capitulation on dead outcomes.\n\nThe real tell is in esports. Valorant (Karmine Corp +11% to 92%) and Counter-Strike (EXODIA/Yawara essentially 50/50) show disciplined pricing, but the outsized moves in tennis\u2014Andreeva/Fernandez at 30% (\u221247%) and Volynets/Birrell at 34% (\u221239%)\u2014suggest uncertainty cascading through low-liquidity markets. That's either smart money exiting illiquid positions or retail panic flooding in at bad prices.\n\nElon's tweet count is crumbling across all buckets (180-199 at 4%, 220-239 at 6%), indicating he's quieter than the market expected. On $409K combined volume, this reflects real tracking interest but likely represents retail frustration rather than alpha.\n\n---\n\n## WATCH LIST\n\n**1. Bitcoin $82K (95% | Track through close)**\nHighest conviction call on the board. If this drops below 93% today, it signals macro weakness\u2014watch for liquidation cascades in correlated assets.\n\n**2. Korea Open: Volynets/Birrell (34% | $615K, highest volume)**\nDisproportionate volume + sharp decline suggests one-sided action. Monitor if money is fleeing or loading. Liquidity magnet into close.\n\n**3. Valorant: Karmine Corp (92% | +11%)**\nCounter-intuitive strength in esports while everything else bleeds. Watch if this holds or reverses\u2014could indicate where smart money is rotating *to* instead of *from*.",
   "top_movers": [
     {
-      "question": "Maple Leafs vs. Senators",
-      "prob": 99,
-      "change": 59.7,
-      "vol24": "$223K",
-      "slug": "nhl-tor-ott-2026-09-23"
-    },
-    {
-      "question": "LoL: \u2060Movistar KOI F\u00e9nix vs Bilibili Gaming Junior (BO1) - World Star Challengers Invitational Group B",
+      "question": "Will Brazil win on 2026-09-25?",
       "prob": 1,
-      "change": -59.0,
-      "vol24": "$265K",
-      "slug": "lol-koia-blgj-2026-09-24"
+      "change": -72.5,
+      "vol24": "$523K",
+      "slug": "fif-aus-bra-2026-09-25-bra"
     },
     {
-      "question": "Japan vs. Uruguay: O/U 2.5",
-      "prob": 99,
-      "change": 57.0,
+      "question": "Singapore Open: Mirra Andreeva vs Leylah Fernandez",
+      "prob": 30,
+      "change": -47.0,
+      "vol24": "$490K",
+      "slug": "wta-andreev-fernand-2026-09-24"
+    },
+    {
+      "question": "Korea Open: Katie Volynets vs Kimberly Birrell",
+      "prob": 34,
+      "change": -39.0,
+      "vol24": "$615K",
+      "slug": "wta-volynet-birrell-2026-09-24"
+    },
+    {
+      "question": "LoL: ZSK vs Galions (BO1) - World Star Challengers Invitational Group D",
+      "prob": 1,
+      "change": -31.9,
+      "vol24": "$187K",
+      "slug": "lol-zsk-gal-2026-09-25"
+    },
+    {
+      "question": "Will Elon Musk post 220-239 tweets from September 18 to September 25, 2026?",
+      "prob": 6,
+      "change": -18.0,
       "vol24": "$138K",
-      "slug": "fif-jpn-ury-2026-09-24-total-2pt5"
-    },
-    {
-      "question": "Will Japan win on 2026-09-24?",
-      "prob": 99,
-      "change": 48.4,
-      "vol24": "$347K",
-      "slug": "fif-jpn-ury-2026-09-24-jpn"
-    },
-    {
-      "question": "Will the price of Bitcoin be above $86,000 on September 24?",
-      "prob": 1,
-      "change": -36.9,
-      "vol24": "$117K",
-      "slug": "bitcoin-above-86k-on-september-24-2026"
+      "slug": "elon-musk-of-tweets-september-18-september-25-2026-220-239"
     }
   ],
   "top_vol": [
     {
-      "question": "Dota 2: Natus Vincere vs LGD Gaming (BO3) - PGL Wallachia Playoffs",
-      "prob": 60,
-      "change": 0,
-      "vol24": "$1.1M",
-      "slug": "dota2-navi-lgd-2026-09-24"
-    },
-    {
-      "question": "Valorant: TYLOO vs G2 Esports (BO3) - VCT Champions Group C",
+      "question": "Korea Open: Katie Volynets vs Kimberly Birrell",
       "prob": 34,
-      "change": 2.0,
-      "vol24": "$556K",
-      "slug": "val-tyloo-g21-2026-09-24"
+      "change": -39.0,
+      "vol24": "$615K",
+      "slug": "wta-volynet-birrell-2026-09-24"
     },
     {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "prob": 32,
-      "change": -14.0,
-      "vol24": "$519K",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031"
+      "question": "Will Mitch Landrieu win the 2028 Democratic presidential nomination?",
+      "prob": 1,
+      "change": 0.1,
+      "vol24": "$567K",
+      "slug": "will-mitch-landrieu-win-the-2028-democratic-presidential-nomination"
+    },
+    {
+      "question": "Will Brazil win on 2026-09-25?",
+      "prob": 1,
+      "change": -72.5,
+      "vol24": "$523K",
+      "slug": "fif-aus-bra-2026-09-25-bra"
     }
   ]
 }
