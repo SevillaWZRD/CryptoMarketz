@@ -1,65 +1,65 @@
 {
-  "date": "Friday September 25, 2026",
-  "generated": "2026-09-25T12:22:24.764877Z",
-  "brief": "# ZIMR Capital Market Intelligence | Friday, September 25, 2026\n\n## HEADLINE\n**Bitcoin Conviction Surges to 95% Above $82K While Sports Markets Crater\u2014Smart Money Rotating Into Hard Assets**\n\n---\n\n## THE SIGNAL\n\nThe narrative is crystalline: macro certainty is driving money into Bitcoin while discretionary bets are collapsing. Bitcoin at 95% (up 14.3% today on $191K volume) reflects genuine conviction\u2014this isn't noise. Meanwhile, Brazil's win probability sits at 1% on $523K volume (down 72.5%), and Australia trades at 1% (down 9.4%)\u2014these aren't mispricing signals, they're capitulation on dead outcomes.\n\nThe real tell is in esports. Valorant (Karmine Corp +11% to 92%) and Counter-Strike (EXODIA/Yawara essentially 50/50) show disciplined pricing, but the outsized moves in tennis\u2014Andreeva/Fernandez at 30% (\u221247%) and Volynets/Birrell at 34% (\u221239%)\u2014suggest uncertainty cascading through low-liquidity markets. That's either smart money exiting illiquid positions or retail panic flooding in at bad prices.\n\nElon's tweet count is crumbling across all buckets (180-199 at 4%, 220-239 at 6%), indicating he's quieter than the market expected. On $409K combined volume, this reflects real tracking interest but likely represents retail frustration rather than alpha.\n\n---\n\n## WATCH LIST\n\n**1. Bitcoin $82K (95% | Track through close)**\nHighest conviction call on the board. If this drops below 93% today, it signals macro weakness\u2014watch for liquidation cascades in correlated assets.\n\n**2. Korea Open: Volynets/Birrell (34% | $615K, highest volume)**\nDisproportionate volume + sharp decline suggests one-sided action. Monitor if money is fleeing or loading. Liquidity magnet into close.\n\n**3. Valorant: Karmine Corp (92% | +11%)**\nCounter-intuitive strength in esports while everything else bleeds. Watch if this holds or reverses\u2014could indicate where smart money is rotating *to* instead of *from*.",
+  "date": "Saturday September 26, 2026",
+  "generated": "2026-09-26T11:53:03.816722Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | Saturday, September 26, 2026\n\n## \"Iran Blockade Unraveling: Market Reprices Risk Window as October Deadline Looms\"\n\nThe market is pivoting hard on Iran geopolitics. The Sep 30 blockade-end contract collapsed to **1%** (now $1.2M volume leader) while Oct 31 holds at **26%**\u2014a stark signal that smart money has shifted from \"imminent resolution\" to \"expect delays into Q4.\" The **U.S. invasion probability ticked up +3% to 16%** despite headline calm, suggesting traders see escalation risk if negotiations drag. This isn't panic\u2014it's pricing in a messy, extended standoff rather than a clean near-term deal.\n\nMeanwhile, esports and sports markets are experiencing classic volatile drawdowns. Valorant's **-36% crash** and Antonelli's F1 odds collapsing suggest either sharp contrarian betting or liquidation cascades in thin-volume markets. Watch for reversal accumulation. On the macro side, **Fed rate-hold probability at 64%** is pricing in softer-than-expected inflation data ahead of October\u2014reasonable positioning given recent CPI trends. Man City's **-15% slide** to 22% EPL odds is noise; City remains favorites.\n\n**The real signal:** Iran blockade markets are repricing from crisis-resolution to protracted tensions. Patient traders should be accumulating Oct 31 exposure; Sep 30 is dead money.\n\n---\n\n## WATCH LIST\n\n1. **Strait of Hormuz Sep 30 (1% | $1.2M vol)** \u2013 This is a capitulation floor. Any positive news sends this sharply higher; any Iran escalation keeps it pinned. Exquisite risk/reward for contrarians with 4 days to expiry.\n\n2. **U.S. Iran Invasion Before 2027 (16% | $758K vol)** \u2013 Creeping upward despite quiet headlines. If Oct 31 blockade resolution fails, expect this to spike to 20%+. Leading indicator for geopolitical repricing.\n\n3. **Fed Rate Hike Oct Meeting (64% | $216K vol)** \u2013 Thin volume but tight pricing. Any CPI surprise this week triggers sharp moves; monitor employment data closely.\n\n---\n\n*ZIMR Capital | Real-time market edge for informed traders*",
   "top_movers": [
     {
-      "question": "Will Brazil win on 2026-09-25?",
-      "prob": 1,
-      "change": -72.5,
-      "vol24": "$523K",
-      "slug": "fif-aus-bra-2026-09-25-bra"
+      "question": "Valorant: Global Esports vs Team Vitality (BO3) - VCT Champions Group B",
+      "prob": 10,
+      "change": -36.0,
+      "vol24": "$513K",
+      "slug": "val-ge1-vit-2026-09-26"
     },
     {
-      "question": "Singapore Open: Mirra Andreeva vs Leylah Fernandez",
-      "prob": 30,
-      "change": -47.0,
-      "vol24": "$490K",
-      "slug": "wta-andreev-fernand-2026-09-24"
+      "question": "Will Kimi Antonelli win the 2026 F1 Azerbaijan Grand Prix?",
+      "prob": 4,
+      "change": -36.0,
+      "vol24": "$171K",
+      "slug": "f1-azerbaijan-grand-prix-winner-antonelli-2026-09-26"
     },
     {
-      "question": "Korea Open: Katie Volynets vs Kimberly Birrell",
-      "prob": 34,
-      "change": -39.0,
-      "vol24": "$615K",
-      "slug": "wta-volynet-birrell-2026-09-24"
+      "question": "Will Manchester City win the 2026-27 English Premier League (EPL) Championship?",
+      "prob": 22,
+      "change": -15.0,
+      "vol24": "$476K",
+      "slug": "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761"
     },
     {
-      "question": "LoL: ZSK vs Galions (BO1) - World Star Challengers Invitational Group D",
-      "prob": 1,
-      "change": -31.9,
-      "vol24": "$187K",
-      "slug": "lol-zsk-gal-2026-09-25"
+      "question": "US announces end of Iranian blockade by October 31, 2026?",
+      "prob": 26,
+      "change": -7.0,
+      "vol24": "$155K",
+      "slug": "us-announces-end-of-iranian-blockade-by-october-31-2026-20260727171711632-895-372-622-413-171-454-592-696"
     },
     {
-      "question": "Will Elon Musk post 220-239 tweets from September 18 to September 25, 2026?",
-      "prob": 6,
-      "change": -18.0,
-      "vol24": "$138K",
-      "slug": "elon-musk-of-tweets-september-18-september-25-2026-220-239"
+      "question": "US announces end of Iranian blockade by September 30, 2026?",
+      "prob": 4,
+      "change": -6.2,
+      "vol24": "$298K",
+      "slug": "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831"
     }
   ],
   "top_vol": [
     {
-      "question": "Korea Open: Katie Volynets vs Kimberly Birrell",
-      "prob": 34,
-      "change": -39.0,
-      "vol24": "$615K",
-      "slug": "wta-volynet-birrell-2026-09-24"
+      "question": "Strait of Hormuz traffic returns to normal by September 30?",
+      "prob": 1,
+      "change": 0,
+      "vol24": "$1.2M",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440"
     },
     {
-      "question": "Will Mitch Landrieu win the 2028 Democratic presidential nomination?",
+      "question": "Dota 2: Aurora vs Natus Vincere - Game 2 Winner",
       "prob": 1,
-      "change": 0.1,
-      "vol24": "$567K",
-      "slug": "will-mitch-landrieu-win-the-2028-democratic-presidential-nomination"
+      "change": 0,
+      "vol24": "$990K",
+      "slug": "dota2-aur1-navi-2026-09-26-game2"
     },
     {
-      "question": "Will Brazil win on 2026-09-25?",
-      "prob": 1,
-      "change": -72.5,
-      "vol24": "$523K",
-      "slug": "fif-aus-bra-2026-09-25-bra"
+      "question": "Will the U.S. invade Iran before 2027?",
+      "prob": 16,
+      "change": 3.0,
+      "vol24": "$758K",
+      "slug": "will-the-us-invade-iran-before-2027"
     }
   ]
 }
