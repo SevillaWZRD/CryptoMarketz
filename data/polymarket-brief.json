@@ -1,65 +1,65 @@
 {
-  "date": "Saturday September 26, 2026",
-  "generated": "2026-09-26T11:53:03.816722Z",
-  "brief": "# ZIMR POLYMARKET BRIEFING | Saturday, September 26, 2026\n\n## \"Iran Blockade Unraveling: Market Reprices Risk Window as October Deadline Looms\"\n\nThe market is pivoting hard on Iran geopolitics. The Sep 30 blockade-end contract collapsed to **1%** (now $1.2M volume leader) while Oct 31 holds at **26%**\u2014a stark signal that smart money has shifted from \"imminent resolution\" to \"expect delays into Q4.\" The **U.S. invasion probability ticked up +3% to 16%** despite headline calm, suggesting traders see escalation risk if negotiations drag. This isn't panic\u2014it's pricing in a messy, extended standoff rather than a clean near-term deal.\n\nMeanwhile, esports and sports markets are experiencing classic volatile drawdowns. Valorant's **-36% crash** and Antonelli's F1 odds collapsing suggest either sharp contrarian betting or liquidation cascades in thin-volume markets. Watch for reversal accumulation. On the macro side, **Fed rate-hold probability at 64%** is pricing in softer-than-expected inflation data ahead of October\u2014reasonable positioning given recent CPI trends. Man City's **-15% slide** to 22% EPL odds is noise; City remains favorites.\n\n**The real signal:** Iran blockade markets are repricing from crisis-resolution to protracted tensions. Patient traders should be accumulating Oct 31 exposure; Sep 30 is dead money.\n\n---\n\n## WATCH LIST\n\n1. **Strait of Hormuz Sep 30 (1% | $1.2M vol)** \u2013 This is a capitulation floor. Any positive news sends this sharply higher; any Iran escalation keeps it pinned. Exquisite risk/reward for contrarians with 4 days to expiry.\n\n2. **U.S. Iran Invasion Before 2027 (16% | $758K vol)** \u2013 Creeping upward despite quiet headlines. If Oct 31 blockade resolution fails, expect this to spike to 20%+. Leading indicator for geopolitical repricing.\n\n3. **Fed Rate Hike Oct Meeting (64% | $216K vol)** \u2013 Thin volume but tight pricing. Any CPI surprise this week triggers sharp moves; monitor employment data closely.\n\n---\n\n*ZIMR Capital | Real-time market edge for informed traders*",
+  "date": "Sunday September 27, 2026",
+  "generated": "2026-09-27T12:32:47.024342Z",
+  "brief": "# ZIMR DAILY BRIEF | September 27, 2026\n\n## Headline\n**Korean LoL Series Tilts Hard on Game Outcomes; NFL Week 3 Showing Consensus Collapse**\n\n---\n\n## Market Analysis\n\nThe DK Challengers vs DN SOOPers BO5 is revealing classic series volatility: Game 3 got obliterated (-67%) while Games 2 and 4 exploded upward (+33%, +38%), suggesting sharp money is reverse-engineering outcomes from earlier matches rather than predicting forward. The series line sits at 57% (DK favored), which represents a -20% daily move\u2014smart traders are likely arbitraging individual game odds against the BO5 total, indicating the market discovered pricing inefficiencies mid-series.\n\nOn the NFL side, consensus is evaporating. Bills, Chiefs, and Lions spreads all reside in the 46-52% band with $1.1M+ volume each\u2014dead even. This isn't uncertainty; it's a liquidity trap. The sharp action appears to be in totals (Panthers/Browns O/U 42.5 at 48%) rather than directional plays, suggesting sophisticated books see value in game script variance over team quality this week.\n\nMacro bleed-through: The Iran ceasefire market (90% pricing, +2% today) is holding firm despite geopolitical noise, while the Norway soccer bet (42%, +4%) shows minor retail fomo. Neither signals conviction.\n\n---\n\n## Watch List\n\n1. **DK Challengers BO5 Series Line (57%)** \u2013 Monitor if it breaks 55% or 60%. Sharp reversals on remaining games could signal inside information or algorithmic rehedging. High variance play.\n\n2. **Bills -7.5 vs. Spreads Cluster** \u2013 All three heavy-volume spreads compressed to 46-52%. If one breaks to 40% or 55%, follow the flow into the others. Relative value is the trade, not absolutes.\n\n3. **JD Gaming vs FUT (10%, -18% today)** \u2013 Severely underwater. If it rallies 5%+ on any news, check FUT injury/roster updates\u2014this is a capitulation candidate.",
   "top_movers": [
     {
-      "question": "Valorant: Global Esports vs Team Vitality (BO3) - VCT Champions Group B",
+      "question": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers - Game 3 Winner",
+      "prob": 1,
+      "change": -67.0,
+      "vol24": "$275K",
+      "slug": "lol-dkc-dnsc-2026-09-27-game3"
+    },
+    {
+      "question": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers - Game 4 Winner",
+      "prob": 99,
+      "change": 38.0,
+      "vol24": "$279K",
+      "slug": "lol-dkc-dnsc-2026-09-27-game4"
+    },
+    {
+      "question": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers - Game 2 Winner",
+      "prob": 99,
+      "change": 33.0,
+      "vol24": "$317K",
+      "slug": "lol-dkc-dnsc-2026-09-27-game2"
+    },
+    {
+      "question": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO5) - World Star Challengers Invitational Playoffs",
+      "prob": 57,
+      "change": -20.0,
+      "vol24": "$164K",
+      "slug": "lol-dkc-dnsc-2026-09-27"
+    },
+    {
+      "question": "Valorant: JD Gaming vs FUT Esports (BO3) - VCT Champions Group A",
       "prob": 10,
-      "change": -36.0,
-      "vol24": "$513K",
-      "slug": "val-ge1-vit-2026-09-26"
-    },
-    {
-      "question": "Will Kimi Antonelli win the 2026 F1 Azerbaijan Grand Prix?",
-      "prob": 4,
-      "change": -36.0,
-      "vol24": "$171K",
-      "slug": "f1-azerbaijan-grand-prix-winner-antonelli-2026-09-26"
-    },
-    {
-      "question": "Will Manchester City win the 2026-27 English Premier League (EPL) Championship?",
-      "prob": 22,
-      "change": -15.0,
-      "vol24": "$476K",
-      "slug": "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761"
-    },
-    {
-      "question": "US announces end of Iranian blockade by October 31, 2026?",
-      "prob": 26,
-      "change": -7.0,
-      "vol24": "$155K",
-      "slug": "us-announces-end-of-iranian-blockade-by-october-31-2026-20260727171711632-895-372-622-413-171-454-592-696"
-    },
-    {
-      "question": "US announces end of Iranian blockade by September 30, 2026?",
-      "prob": 4,
-      "change": -6.2,
-      "vol24": "$298K",
-      "slug": "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831"
+      "change": -18.0,
+      "vol24": "$179K",
+      "slug": "val-jdg-fut1-2026-09-27"
     }
   ],
   "top_vol": [
     {
-      "question": "Strait of Hormuz traffic returns to normal by September 30?",
-      "prob": 1,
-      "change": 0,
-      "vol24": "$1.2M",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440"
+      "question": "Spread: Bills (-7.5)",
+      "prob": 48,
+      "change": -1.0,
+      "vol24": "$1.1M",
+      "slug": "nfl-lac-buf-2026-09-27-spread-home-7pt5"
     },
     {
-      "question": "Dota 2: Aurora vs Natus Vincere - Game 2 Winner",
-      "prob": 1,
-      "change": 0,
-      "vol24": "$990K",
-      "slug": "dota2-aur1-navi-2026-09-26-game2"
+      "question": "Spread: Chiefs (-10.5)",
+      "prob": 46,
+      "change": -2.0,
+      "vol24": "$1.1M",
+      "slug": "nfl-kc-mia-2026-09-27-spread-away-10pt5"
     },
     {
-      "question": "Will the U.S. invade Iran before 2027?",
-      "prob": 16,
-      "change": 3.0,
-      "vol24": "$758K",
-      "slug": "will-the-us-invade-iran-before-2027"
+      "question": "Spread: Lions (-6.5)",
+      "prob": 52,
+      "change": 1.0,
+      "vol24": "$1.1M",
+      "slug": "nfl-nyj-det-2026-09-27-spread-home-6pt5"
     }
   ]
 }
