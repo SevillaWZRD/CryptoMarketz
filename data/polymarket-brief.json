@@ -1,65 +1,65 @@
 {
-  "date": "Monday September 28, 2026",
-  "generated": "2026-09-28T14:37:48.475806Z",
-  "brief": "# BITCOIN CAPITULATION NARRATIVE CRUMBLES AS MUSK TWEET BETS SPIKE\n\nThe market's been flip-flopping on BTC downside all weekend, but today's action screams capitulation trade unwinding. The $82,500 September dip contract jumped 34% to 72%\u2014classic retail panic-buying\u2014while the \"above $86K on Sept 28\" contract crashed to 1% on $171K volume. Smart money is clearly calling the bottom here. BTC's showing support, and the market's repricing away the hard-landing scenario that dominated Friday.\n\nMeanwhile, the Elon tweet volatility is running hot. The 65-89 tweets bucket surged +32% to 54% on $127K volume while the 40-64 bucket got hammered -23.5%. This suggests positioning around a specific event\u2014likely tomorrow's AI announcement or earnings-adjacent commentary. The tight ranges and high turnover indicate professional traders are using tweet-count as a proxy for Musk risk sentiment (possibly tied to Tesla earnings or X engagement metrics).\n\nThe Fed rate hike contract (78%, +9%) is the real signal most traders are sleeping on. That move suggests institutional conviction that Powell's pivoting less dovish than consensus expected. Pair that with the ceasefire holding at 97% (sticky at high probability) and you've got a risk-on setup\u2014equities bid, rate cuts priced out, BTC supported.\n\n**WATCH LIST:**\n- **Bitcoin $82.5K dip (72%)**: Watch for capitulation reversal. If this drops below 60% intraday, the bottom narrative holds. Above 85%, panic is real.\n- **Elon 65-89 tweets (54%)**: Monitor for any announcements or X activity spikes. Position sizing suggests this is a directional play on his activity level.\n- **Fed 25bps hike (78%)**: Track any Fed speak today. This contract is pricing confidence\u2014a dovish comment could crater it fast.",
+  "date": "Tuesday September 29, 2026",
+  "generated": "2026-09-29T13:28:43.263537Z",
+  "brief": "# ZIMR POLYMARKET DAILY | September 29, 2026\n\n## \"Confidence Plays Dominating\u2014But One Dota 2 Underdog Has Real Value\"\n\nThe market is screaming certainty today. Three markets sitting at 99% probability (Karmine Corp favored, Brazil winning, Bitcoin above $82K, Medvedev over Rublev) have collectively pulled nearly $2.2M in volume, suggesting institutional conviction on these outcomes. The +54.9% surge in Karmine Corp Map 1 suggests sharp money loaded in *late*, likely on recent scrim data or roster intel\u2014this isn't retail FOMO.\n\nBut here's the mispricing: **1win vs Na'Vi Game 1 at 1%** is absurd. Na'Vi is priced out despite $994K traded volume (highest on the board), and that liquidity came from smart Dota players who know Group B dynamics. The -45% move suggests panic selling from overextended longs who got caught on the wrong side. Early series games in Dota are notoriously volatile and map-dependent; 1% assumes Na'Vi has zero path to a game win in best-of-three format\u2014mathematically loose.\n\nWatch the Bitcoin/$82K market closely\u2014it's at 99% with only $167K volume, suggesting thin liquidity at extremes. Any micro volatility intraday could trigger cascading liquidations in leveraged positions. The Trump \"AI rename\" market at 47% and rising (+13%) is catching real political desk attention; if this hits 60%+ today, derivatives traders will front-run the binary.\n\n---\n\n## \ud83d\udcca WATCH LIST\n\n**1. 1win vs Na'Vi Game 1 Winner (1% | $994K vol)**  \n\u2192 *Contrarian spot.* This is mispriced. Stack micro-bets if odds creep to 3-5%.\n\n**2. Karmine Corp vs NRG Map 1 (99% | +54.9%)*  \n\u2192 *Liquidity trap risk.* At 99%, any upset collapses this to 20% instantly. Exit heavy longs before match start.\n\n**3. Trump AI Rename (47% | rising)*  \n\u2192 *Political momentum play.* Watch for news catalysts through market close; hitting 55%+ could signal insider positioning.",
   "top_movers": [
     {
-      "question": "Porto 2: Max Basing vs Mili Poljicak",
-      "prob": 1,
-      "change": -61.0,
-      "vol24": "$249K",
-      "slug": "atp-basing-poljica-2026-09-28"
-    },
-    {
-      "question": "M15 Telavi: Andrea Fiorentini vs Artur Kukasian",
+      "question": "Valorant: Karmine Corp vs NRG - Map 1 Winner",
       "prob": 99,
-      "change": 50.0,
-      "vol24": "$219K",
-      "slug": "itf-fioren1-kukasi1-2026-09-28"
+      "change": 54.9,
+      "vol24": "$199K",
+      "slug": "val-kc3-nrg-2026-09-29-game1"
     },
     {
-      "question": "Will Bitcoin dip to $82,500 in September?",
-      "prob": 72,
-      "change": 34.0,
-      "vol24": "$146K",
-      "slug": "will-bitcoin-dip-to-82pt5k-in-september-2026"
+      "question": "Dota 2: 1win vs Natus Vincere - Game 1 Winner",
+      "prob": 1,
+      "change": -45.0,
+      "vol24": "$994K",
+      "slug": "dota2-1win-navi-2026-09-29-game1"
     },
     {
-      "question": "Will Elon Musk post 65-89 tweets from September 26 to September 28, 2026?",
-      "prob": 54,
-      "change": 32.0,
-      "vol24": "$127K",
-      "slug": "elon-musk-of-tweets-september-26-september-28-2026-65-89"
+      "question": "LoL: KaBuM! Ilha das Lendas vs Golden Lions - Game 3 Winner",
+      "prob": 55,
+      "change": -35.9,
+      "vol24": "$239K",
+      "slug": "lol-kbm-gl-2026-09-28-game3"
     },
     {
-      "question": "Will Elon Musk post 40-64 tweets from September 26 to September 28, 2026?",
-      "prob": 46,
-      "change": -23.5,
-      "vol24": "$129K",
-      "slug": "elon-musk-of-tweets-september-26-september-28-2026-40-64"
+      "question": "Will Brazil win on 2026-09-29?",
+      "prob": 99,
+      "change": 26.5,
+      "vol24": "$500K",
+      "slug": "fif-aus-bra-2026-09-29-bra"
+    },
+    {
+      "question": "Valorant: Karmine Corp vs NRG (BO3) - VCT Champions Group D",
+      "prob": 68,
+      "change": 24.0,
+      "vol24": "$508K",
+      "slug": "val-kc3-nrg-2026-09-29"
     }
   ],
   "top_vol": [
     {
-      "question": "Eagles vs. Bears",
-      "prob": 64,
-      "change": 2.0,
-      "vol24": "$1.1M",
-      "slug": "nfl-phi-chi-2026-09-29"
-    },
-    {
-      "question": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "question": "Dota 2: 1win vs Natus Vincere - Game 1 Winner",
       "prob": 1,
-      "change": 0,
-      "vol24": "$427K",
-      "slug": "will-shakhtar-donetsk-win-the-2026-27-uefa-champions-league-championship-20260701202025578"
+      "change": -45.0,
+      "vol24": "$994K",
+      "slug": "dota2-1win-navi-2026-09-29-game1"
     },
     {
-      "question": "US x Iran ceasefire continues through September 30?",
-      "prob": 97,
-      "change": 4.1,
-      "vol24": "$408K",
-      "slug": "us-x-iran-ceasefire-continues-through-september-30-20260917"
+      "question": "Hangzhou Open: Daniil Medvedev vs Andrey Rublev",
+      "prob": 99,
+      "change": 0,
+      "vol24": "$967K",
+      "slug": "atp-medvede-rublev-2026-09-29"
+    },
+    {
+      "question": "Strait of Hormuz traffic returns to normal by September 30?",
+      "prob": 1,
+      "change": -0.3,
+      "vol24": "$566K",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440"
     }
   ]
 }
