@@ -1,65 +1,65 @@
 {
-  "date": "Tuesday September 29, 2026",
-  "generated": "2026-09-29T13:28:43.263537Z",
-  "brief": "# ZIMR POLYMARKET DAILY | September 29, 2026\n\n## \"Confidence Plays Dominating\u2014But One Dota 2 Underdog Has Real Value\"\n\nThe market is screaming certainty today. Three markets sitting at 99% probability (Karmine Corp favored, Brazil winning, Bitcoin above $82K, Medvedev over Rublev) have collectively pulled nearly $2.2M in volume, suggesting institutional conviction on these outcomes. The +54.9% surge in Karmine Corp Map 1 suggests sharp money loaded in *late*, likely on recent scrim data or roster intel\u2014this isn't retail FOMO.\n\nBut here's the mispricing: **1win vs Na'Vi Game 1 at 1%** is absurd. Na'Vi is priced out despite $994K traded volume (highest on the board), and that liquidity came from smart Dota players who know Group B dynamics. The -45% move suggests panic selling from overextended longs who got caught on the wrong side. Early series games in Dota are notoriously volatile and map-dependent; 1% assumes Na'Vi has zero path to a game win in best-of-three format\u2014mathematically loose.\n\nWatch the Bitcoin/$82K market closely\u2014it's at 99% with only $167K volume, suggesting thin liquidity at extremes. Any micro volatility intraday could trigger cascading liquidations in leveraged positions. The Trump \"AI rename\" market at 47% and rising (+13%) is catching real political desk attention; if this hits 60%+ today, derivatives traders will front-run the binary.\n\n---\n\n## \ud83d\udcca WATCH LIST\n\n**1. 1win vs Na'Vi Game 1 Winner (1% | $994K vol)**  \n\u2192 *Contrarian spot.* This is mispriced. Stack micro-bets if odds creep to 3-5%.\n\n**2. Karmine Corp vs NRG Map 1 (99% | +54.9%)*  \n\u2192 *Liquidity trap risk.* At 99%, any upset collapses this to 20% instantly. Exit heavy longs before match start.\n\n**3. Trump AI Rename (47% | rising)*  \n\u2192 *Political momentum play.* Watch for news catalysts through market close; hitting 55%+ could signal insider positioning.",
+  "date": "Wednesday September 30, 2026",
+  "generated": "2026-09-30T13:05:53.391574Z",
+  "brief": "# ZIMR Daily Brief | Sept 30, 2026\n\n## **Fed Holds; Market Prices in No-Hike Scenario with Conviction**\n\nThe macro picture crystallized overnight: conviction betting on a September hold has pushed the no-change Fed scenario to **66%** (+35% today, $967K volume), while the 25bps increase bet collapsed to 34% (-35% today). This isn't noise\u2014$1.8M combined volume on these two markets signals serious institutional positioning ahead of October's decision. The market is frontrunning dovish forward guidance.\n\n**What smart money is doing:** The Fed hold is now *priced in*. Traders aren't hedging anymore; they're committing. Meanwhile, the esports complex is a one-way train\u2014T1 Academy has mopped Galions so decisively that Game 3 Winner sits at 1% (down 57%), while Game 4 is pinned at 99%. This is capitulation pricing, not prediction. Only liquidation or prop-driven arbs are moving these anymore.\n\n**The mispricing:** China Open's Djokovic vs. Borges shows **1% for Nuno** on $1.3M volume\u2014the highest-volume market today. Djokovic is 99%. That's not a mispricing; that's a meme line. Real money wouldn't touch it. The $1.3M volume likely reflects casual retail stacking the favorite, not sharp action. Watch for late sharp bets if Nuno takes a set.\n\n---\n\n## **WATCH LIST**\n\n1. **Fed No-Change | 66%** \u2014 Monitor speeches/data through Friday. Any hawkish surprise from regional Fed presidents collapses this to 50%. Highest signal-to-noise macro event.\n\n2. **Djokovic vs. Borges | 1% Borges** \u2014 $1.3M volume makes this liquid enough to scalp. If line moves past 5%, smart money is hedging. Sharp action = early warning.\n\n3. **Dota 2: BetBoom vs. OG | 56%** \u2014 $916K volume, no directional pressure. True 50/50. Good proxy for when institutional books are balanced.",
   "top_movers": [
     {
-      "question": "Valorant: Karmine Corp vs NRG - Map 1 Winner",
-      "prob": 99,
-      "change": 54.9,
-      "vol24": "$199K",
-      "slug": "val-kc3-nrg-2026-09-29-game1"
-    },
-    {
-      "question": "Dota 2: 1win vs Natus Vincere - Game 1 Winner",
+      "question": "LoL: T1 Academy vs Galions - Game 3 Winner",
       "prob": 1,
-      "change": -45.0,
-      "vol24": "$994K",
-      "slug": "dota2-1win-navi-2026-09-29-game1"
+      "change": -57.0,
+      "vol24": "$450K",
+      "slug": "lol-t1a-gal-2026-09-30-game3"
     },
     {
-      "question": "LoL: KaBuM! Ilha das Lendas vs Golden Lions - Game 3 Winner",
-      "prob": 55,
-      "change": -35.9,
-      "vol24": "$239K",
-      "slug": "lol-kbm-gl-2026-09-28-game3"
+      "question": "West Indies Tour of India ODIs: India vs West Indies",
+      "prob": 38,
+      "change": -50.0,
+      "vol24": "$238K",
+      "slug": "crint-ind-wst-2026-09-30"
     },
     {
-      "question": "Will Brazil win on 2026-09-29?",
+      "question": "LoL: T1 Academy vs Galions - Game 4 Winner",
       "prob": 99,
-      "change": 26.5,
-      "vol24": "$500K",
-      "slug": "fif-aus-bra-2026-09-29-bra"
+      "change": 45.0,
+      "vol24": "$413K",
+      "slug": "lol-t1a-gal-2026-09-30-game4"
     },
     {
-      "question": "Valorant: Karmine Corp vs NRG (BO3) - VCT Champions Group D",
-      "prob": 68,
-      "change": 24.0,
-      "vol24": "$508K",
-      "slug": "val-kc3-nrg-2026-09-29"
+      "question": "LoL: T1 Academy vs Galions - Game 2 Winner",
+      "prob": 99,
+      "change": 42.4,
+      "vol24": "$517K",
+      "slug": "lol-t1a-gal-2026-09-30-game2"
+    },
+    {
+      "question": "LoL: T1 Academy vs Galions (BO5) - World Star Challengers Invitational Playoffs",
+      "prob": 99,
+      "change": 39.5,
+      "vol24": "$775K",
+      "slug": "lol-t1a-gal-2026-09-30"
     }
   ],
   "top_vol": [
     {
-      "question": "Dota 2: 1win vs Natus Vincere - Game 1 Winner",
+      "question": "China Open: Nuno Borges vs Novak Djokovic",
       "prob": 1,
-      "change": -45.0,
-      "vol24": "$994K",
-      "slug": "dota2-1win-navi-2026-09-29-game1"
+      "change": -31.4,
+      "vol24": "$1.3M",
+      "slug": "atp-borges-djokovi-2026-09-29"
     },
     {
-      "question": "Hangzhou Open: Daniil Medvedev vs Andrey Rublev",
-      "prob": 99,
-      "change": 0,
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "prob": 66,
+      "change": 35.0,
       "vol24": "$967K",
-      "slug": "atp-medvede-rublev-2026-09-29"
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031"
     },
     {
-      "question": "Strait of Hormuz traffic returns to normal by September 30?",
-      "prob": 1,
-      "change": -0.3,
-      "vol24": "$566K",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440"
+      "question": "Dota 2: BetBoom Team vs OG (BO3) - BLAST Slam Group C",
+      "prob": 56,
+      "change": -18.0,
+      "vol24": "$916K",
+      "slug": "dota2-bb4-og-2026-09-30"
     }
   ]
 }
