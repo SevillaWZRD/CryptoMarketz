@@ -1,65 +1,65 @@
 {
-  "date": "Wednesday September 30, 2026",
-  "generated": "2026-09-30T13:05:53.391574Z",
-  "brief": "# ZIMR Daily Brief | Sept 30, 2026\n\n## **Fed Holds; Market Prices in No-Hike Scenario with Conviction**\n\nThe macro picture crystallized overnight: conviction betting on a September hold has pushed the no-change Fed scenario to **66%** (+35% today, $967K volume), while the 25bps increase bet collapsed to 34% (-35% today). This isn't noise\u2014$1.8M combined volume on these two markets signals serious institutional positioning ahead of October's decision. The market is frontrunning dovish forward guidance.\n\n**What smart money is doing:** The Fed hold is now *priced in*. Traders aren't hedging anymore; they're committing. Meanwhile, the esports complex is a one-way train\u2014T1 Academy has mopped Galions so decisively that Game 3 Winner sits at 1% (down 57%), while Game 4 is pinned at 99%. This is capitulation pricing, not prediction. Only liquidation or prop-driven arbs are moving these anymore.\n\n**The mispricing:** China Open's Djokovic vs. Borges shows **1% for Nuno** on $1.3M volume\u2014the highest-volume market today. Djokovic is 99%. That's not a mispricing; that's a meme line. Real money wouldn't touch it. The $1.3M volume likely reflects casual retail stacking the favorite, not sharp action. Watch for late sharp bets if Nuno takes a set.\n\n---\n\n## **WATCH LIST**\n\n1. **Fed No-Change | 66%** \u2014 Monitor speeches/data through Friday. Any hawkish surprise from regional Fed presidents collapses this to 50%. Highest signal-to-noise macro event.\n\n2. **Djokovic vs. Borges | 1% Borges** \u2014 $1.3M volume makes this liquid enough to scalp. If line moves past 5%, smart money is hedging. Sharp action = early warning.\n\n3. **Dota 2: BetBoom vs. OG | 56%** \u2014 $916K volume, no directional pressure. True 50/50. Good proxy for when institutional books are balanced.",
+  "date": "Thursday October 01, 2026",
+  "generated": "2026-10-01T13:59:20.240410Z",
+  "brief": "# POLYMARKET DAILY BRIEF | October 1, 2026\n\n## Market Says: AI Race Heating Up, Sports Money Rotating to Safer Bets\n\nThe market delivered a sharp +61% rip on Google's October AI dominance question this morning\u2014the clearest signal yet that institutional money sees real daylight between GPT and Gemini heading into month-end. Volume spiked to $175K, suggesting this isn't retail noise. Meanwhile, the tennis action (Gao/Udvardy at 99%) is drawing heavy closing volume; sophisticated bettors are locking in lopsided favorites before weekend variance kicks in.\n\n**What smart money is doing:** The esports complex is getting hammered across Counter-Strike ($354K in BIG/fnatic down 46%). This looks like a coordinated deleveraging of gaming exposure\u2014possibly hedge funds trimming volatility ahead of tomorrow's macro data. Watch for rotation into **higher-conviction macro plays** (Iran blockade at 22% is criminally underpriced given state department signals; Bitcoin's 1% on the $86K question is a floor, not a level).\n\n**Mispricings:** XLG Gaming at 8% in the Valorant VCT matchup is soft. $506K volume on what should be a 15-20% proposition suggests weak hands capitulating. The handicap market (80%, $509K) is the real money\u2014map dynamics favor the +1.5 dog more than odds reflect.\n\n---\n\n## WATCH LIST\n\n**1. Google AI Model (72%, $175K vol) \u2014 SET ALERT AT 80%**\nMomentum is real here. If this breaks 75% by EOD, expect institutional follow-through into Friday.\n\n**2. Iran Blockade Announcement (22%, $147K vol) \u2014 ACCUMULATION ZONE**\nSeverely mispriced against State Dept rhetoric. Asymmetric risk/reward.\n\n**3. Steelers/Browns (57%, $517K vol) \u2014 STEAM INDICATOR**\nHighest traditional sports volume; track line movement. Sharp action typically 2-3 hours pre-kickoff.",
   "top_movers": [
     {
-      "question": "LoL: T1 Academy vs Galions - Game 3 Winner",
+      "question": "China Open: Xinyu Gao vs Panna Udvardy",
+      "prob": 99,
+      "change": 61.5,
+      "vol24": "$145K",
+      "slug": "wta-gao-udvardy-2026-09-29"
+    },
+    {
+      "question": "Will Google have the best AI model at the end of October 2026?",
+      "prob": 72,
+      "change": 61.4,
+      "vol24": "$175K",
+      "slug": "will-google-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841120"
+    },
+    {
+      "question": "Counter-Strike: Revenge vs Passion Academy (BO3) - United21 Group B",
       "prob": 1,
-      "change": -57.0,
-      "vol24": "$450K",
-      "slug": "lol-t1a-gal-2026-09-30-game3"
+      "change": -53.9,
+      "vol24": "$155K",
+      "slug": "cs2-rev-psna-2026-10-01"
     },
     {
-      "question": "West Indies Tour of India ODIs: India vs West Indies",
-      "prob": 38,
-      "change": -50.0,
-      "vol24": "$238K",
-      "slug": "crint-ind-wst-2026-09-30"
+      "question": "Counter-Strike: BIG vs fnatic (BO3) - Stake Ranked Episode 4 Playoffs",
+      "prob": 18,
+      "change": -46.0,
+      "vol24": "$354K",
+      "slug": "cs2-big5-fnc-2026-10-01"
     },
     {
-      "question": "LoL: T1 Academy vs Galions - Game 4 Winner",
-      "prob": 99,
-      "change": 45.0,
-      "vol24": "$413K",
-      "slug": "lol-t1a-gal-2026-09-30-game4"
-    },
-    {
-      "question": "LoL: T1 Academy vs Galions - Game 2 Winner",
-      "prob": 99,
-      "change": 42.4,
-      "vol24": "$517K",
-      "slug": "lol-t1a-gal-2026-09-30-game2"
-    },
-    {
-      "question": "LoL: T1 Academy vs Galions (BO5) - World Star Challengers Invitational Playoffs",
-      "prob": 99,
-      "change": 39.5,
-      "vol24": "$775K",
-      "slug": "lol-t1a-gal-2026-09-30"
+      "question": "Map Handicap: NS (-1.5) vs XLG Gaming (+1.5)",
+      "prob": 80,
+      "change": 20.0,
+      "vol24": "$509K",
+      "slug": "val-xlg-ns1-2026-10-01-map-handicap-home-1pt5"
     }
   ],
   "top_vol": [
     {
-      "question": "China Open: Nuno Borges vs Novak Djokovic",
-      "prob": 1,
-      "change": -31.4,
-      "vol24": "$1.3M",
-      "slug": "atp-borges-djokovi-2026-09-29"
+      "question": "Dota 2: Team Yandex vs BetBoom Team - Game 1 Winner",
+      "prob": 99,
+      "change": 0,
+      "vol24": "$607K",
+      "slug": "dota2-ty-bb4-2026-10-01-game1"
     },
     {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "prob": 66,
-      "change": 35.0,
-      "vol24": "$967K",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031"
+      "question": "Steelers vs. Browns",
+      "prob": 57,
+      "change": 0,
+      "vol24": "$517K",
+      "slug": "nfl-pit-cle-2026-10-02"
     },
     {
-      "question": "Dota 2: BetBoom Team vs OG (BO3) - BLAST Slam Group C",
-      "prob": 56,
-      "change": -18.0,
-      "vol24": "$916K",
-      "slug": "dota2-bb4-og-2026-09-30"
+      "question": "Map Handicap: NS (-1.5) vs XLG Gaming (+1.5)",
+      "prob": 80,
+      "change": 20.0,
+      "vol24": "$509K",
+      "slug": "val-xlg-ns1-2026-10-01-map-handicap-home-1pt5"
     }
   ]
 }
