@@ -1,65 +1,65 @@
 {
-  "date": "Thursday October 01, 2026",
-  "generated": "2026-10-01T13:59:20.240410Z",
-  "brief": "# POLYMARKET DAILY BRIEF | October 1, 2026\n\n## Market Says: AI Race Heating Up, Sports Money Rotating to Safer Bets\n\nThe market delivered a sharp +61% rip on Google's October AI dominance question this morning\u2014the clearest signal yet that institutional money sees real daylight between GPT and Gemini heading into month-end. Volume spiked to $175K, suggesting this isn't retail noise. Meanwhile, the tennis action (Gao/Udvardy at 99%) is drawing heavy closing volume; sophisticated bettors are locking in lopsided favorites before weekend variance kicks in.\n\n**What smart money is doing:** The esports complex is getting hammered across Counter-Strike ($354K in BIG/fnatic down 46%). This looks like a coordinated deleveraging of gaming exposure\u2014possibly hedge funds trimming volatility ahead of tomorrow's macro data. Watch for rotation into **higher-conviction macro plays** (Iran blockade at 22% is criminally underpriced given state department signals; Bitcoin's 1% on the $86K question is a floor, not a level).\n\n**Mispricings:** XLG Gaming at 8% in the Valorant VCT matchup is soft. $506K volume on what should be a 15-20% proposition suggests weak hands capitulating. The handicap market (80%, $509K) is the real money\u2014map dynamics favor the +1.5 dog more than odds reflect.\n\n---\n\n## WATCH LIST\n\n**1. Google AI Model (72%, $175K vol) \u2014 SET ALERT AT 80%**\nMomentum is real here. If this breaks 75% by EOD, expect institutional follow-through into Friday.\n\n**2. Iran Blockade Announcement (22%, $147K vol) \u2014 ACCUMULATION ZONE**\nSeverely mispriced against State Dept rhetoric. Asymmetric risk/reward.\n\n**3. Steelers/Browns (57%, $517K vol) \u2014 STEAM INDICATOR**\nHighest traditional sports volume; track line movement. Sharp action typically 2-3 hours pre-kickoff.",
+  "date": "Friday October 02, 2026",
+  "generated": "2026-10-02T13:16:50.594275Z",
+  "brief": "# ZIMR POLYMARKET DAILY | FRIDAY, OCTOBER 2, 2026\n\n## Headline\n**Bitcoin Certainty at 99% as Smart Money Locks in $84K Call; T1 Esports Dominance Reshaping Gaming Odds**\n\n---\n\n## Market Signal\n\nThe Bitcoin complex is screaming conviction today. The $84K threshold hit 99% probability with $164K in fresh volume, while the directional \"Up or Down\" contract sits at 97%\u2014a near-identical signal across different formulations suggests this isn't noise. This is consensus pricing in real-time. Traders have already positioned; the market is simply confirming what happened.\n\nBut here's where it gets interesting: **Elon tweet volume** spiked to 96% (+87.9%) on the 220-239 range with $161K traded. This isn't market efficiency\u2014this is speculation creep into the absurd. Polymarket is betting on Musk's posting habits with conviction typically reserved for macro events. It signals retail confidence is *extremely* high across all correlated assets.\n\nThe real tell? **Fed rate hold** is only at 84% despite being the most liquid macro contract ($1.1M volume). That's *weak* for a near-certain outcome just hours before the announcement. Smart money is either hedging tail risk or seeing genuine uncertainty the headline probability doesn't reflect. Watch for whether this reprices below 80% before close\u2014if it does, expect a hawkish surprise.\n\n---\n\n## Watch List\n\n**1. LoL: Solary vs T1 Academy (BO5) \u2013 $1.5M Volume | Currently 1%**  \nT1 dominance is *priced in ruthlessly*. If Solary takes even one game convincingly, this reprices 50+ points in minutes. Massive leverage play for contrarians.\n\n**2. Will there be no change in Fed rates after October 2026 meeting \u2013 84% | $1.1M Volume**  \nRepricing lower = hawkish shock incoming. This is your macro canary. Monitor into announcement.\n\n**3. Bitcoin $84K \u2013 99% | Track the *derivatives* correlation**  \nIf spot breaks $85K today, expect these markets to resist repricing above 99%\u2014sign of manipulation or forced liquidations below.",
   "top_movers": [
     {
-      "question": "China Open: Xinyu Gao vs Panna Udvardy",
+      "question": "Will Elon Musk post 220-239 tweets from September 25 to October 2, 2026?",
+      "prob": 96,
+      "change": 87.9,
+      "vol24": "$161K",
+      "slug": "elon-musk-of-tweets-september-25-october-2-2026-220-239"
+    },
+    {
+      "question": "Will the price of Bitcoin be above $84,000 on October 2?",
       "prob": 99,
-      "change": 61.5,
-      "vol24": "$145K",
-      "slug": "wta-gao-udvardy-2026-09-29"
+      "change": 61.8,
+      "vol24": "$164K",
+      "slug": "bitcoin-above-84k-on-october-2-2026"
     },
     {
-      "question": "Will Google have the best AI model at the end of October 2026?",
-      "prob": 72,
-      "change": 61.4,
-      "vol24": "$175K",
-      "slug": "will-google-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841120"
-    },
-    {
-      "question": "Counter-Strike: Revenge vs Passion Academy (BO3) - United21 Group B",
+      "question": "Map Handicap: T1 (-1.5) vs JD Gaming (+1.5)",
       "prob": 1,
-      "change": -53.9,
-      "vol24": "$155K",
-      "slug": "cs2-rev-psna-2026-10-01"
+      "change": -60.5,
+      "vol24": "$273K",
+      "slug": "val-t1-jdg-2026-10-02-map-handicap-away-1pt5"
     },
     {
-      "question": "Counter-Strike: BIG vs fnatic (BO3) - Stake Ranked Episode 4 Playoffs",
-      "prob": 18,
-      "change": -46.0,
-      "vol24": "$354K",
-      "slug": "cs2-big5-fnc-2026-10-01"
+      "question": "LoL: Solary vs T1 Academy - Game 3 Winner",
+      "prob": 99,
+      "change": 57.5,
+      "vol24": "$281K",
+      "slug": "lol-sly-t1a-2026-10-02-game3"
     },
     {
-      "question": "Map Handicap: NS (-1.5) vs XLG Gaming (+1.5)",
-      "prob": 80,
-      "change": 20.0,
-      "vol24": "$509K",
-      "slug": "val-xlg-ns1-2026-10-01-map-handicap-home-1pt5"
+      "question": "Bitcoin Up or Down on October 2?",
+      "prob": 97,
+      "change": 46.8,
+      "vol24": "$220K",
+      "slug": "bitcoin-up-or-down-on-october-2-2026"
     }
   ],
   "top_vol": [
     {
-      "question": "Dota 2: Team Yandex vs BetBoom Team - Game 1 Winner",
-      "prob": 99,
-      "change": 0,
-      "vol24": "$607K",
-      "slug": "dota2-ty-bb4-2026-10-01-game1"
+      "question": "LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs",
+      "prob": 1,
+      "change": -36.4,
+      "vol24": "$1.5M",
+      "slug": "lol-sly-t1a-2026-10-02"
     },
     {
-      "question": "Steelers vs. Browns",
-      "prob": 57,
-      "change": 0,
-      "vol24": "$517K",
-      "slug": "nfl-pit-cle-2026-10-02"
-    },
-    {
-      "question": "Map Handicap: NS (-1.5) vs XLG Gaming (+1.5)",
-      "prob": 80,
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "prob": 84,
       "change": 20.0,
-      "vol24": "$509K",
-      "slug": "val-xlg-ns1-2026-10-01-map-handicap-home-1pt5"
+      "vol24": "$1.1M",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031"
+    },
+    {
+      "question": "Valorant: T1 vs JD Gaming (BO3) - VCT Champions Group A",
+      "prob": 80,
+      "change": -3.0,
+      "vol24": "$996K",
+      "slug": "val-t1-jdg-2026-10-02"
     }
   ]
 }
