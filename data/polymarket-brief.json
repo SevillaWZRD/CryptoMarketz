@@ -1,65 +1,65 @@
 {
-  "date": "Friday October 02, 2026",
-  "generated": "2026-10-02T13:16:50.594275Z",
-  "brief": "# ZIMR POLYMARKET DAILY | FRIDAY, OCTOBER 2, 2026\n\n## Headline\n**Bitcoin Certainty at 99% as Smart Money Locks in $84K Call; T1 Esports Dominance Reshaping Gaming Odds**\n\n---\n\n## Market Signal\n\nThe Bitcoin complex is screaming conviction today. The $84K threshold hit 99% probability with $164K in fresh volume, while the directional \"Up or Down\" contract sits at 97%\u2014a near-identical signal across different formulations suggests this isn't noise. This is consensus pricing in real-time. Traders have already positioned; the market is simply confirming what happened.\n\nBut here's where it gets interesting: **Elon tweet volume** spiked to 96% (+87.9%) on the 220-239 range with $161K traded. This isn't market efficiency\u2014this is speculation creep into the absurd. Polymarket is betting on Musk's posting habits with conviction typically reserved for macro events. It signals retail confidence is *extremely* high across all correlated assets.\n\nThe real tell? **Fed rate hold** is only at 84% despite being the most liquid macro contract ($1.1M volume). That's *weak* for a near-certain outcome just hours before the announcement. Smart money is either hedging tail risk or seeing genuine uncertainty the headline probability doesn't reflect. Watch for whether this reprices below 80% before close\u2014if it does, expect a hawkish surprise.\n\n---\n\n## Watch List\n\n**1. LoL: Solary vs T1 Academy (BO5) \u2013 $1.5M Volume | Currently 1%**  \nT1 dominance is *priced in ruthlessly*. If Solary takes even one game convincingly, this reprices 50+ points in minutes. Massive leverage play for contrarians.\n\n**2. Will there be no change in Fed rates after October 2026 meeting \u2013 84% | $1.1M Volume**  \nRepricing lower = hawkish shock incoming. This is your macro canary. Monitor into announcement.\n\n**3. Bitcoin $84K \u2013 99% | Track the *derivatives* correlation**  \nIf spot breaks $85K today, expect these markets to resist repricing above 99%\u2014sign of manipulation or forced liquidations below.",
+  "date": "Saturday October 03, 2026",
+  "generated": "2026-10-03T12:06:48.423469Z",
+  "brief": "# ZIMR CAPITAL MARKET INTELLIGENCE | October 3, 2026\n\n## Headline\n**Esports Heavy, Politics Light: $2M Counter-Strike Bleed Signals Sharp Repricing While Fed Pause Consensus Hardens**\n\n---\n\n## SIGNAL ANALYSIS\n\nThe market's telling a two-tier story today. Esports is eating volatility\u2014that $2M CS:GO Legacy/PARIVISION collapse (now 1%) screams capitulation betting or late sharp action on the underdog. LoL's Demacia Cup showing wild swings (Vitality/BNK +30%, GAM/WE -16% on similar odds) suggests either recreational flow or genuine map-knowledge edges getting arbitraged out. The China Open tennis moves (+69.5% on Xinran Sun at 99%) are pure volatility chasing\u2014already-priced favorites getting bid higher on tournament momentum.\n\nSmart money's nowhere near esports today. The real action: **Indiana data center moratorium contracts compressed hard** (-22.5%, -16% respectively), indicating institutional liquidation or a news catalyst we're not seeing yet. Separately, the Fed rate-hold market ($879K volume, 82%) is pricing October 2026 as a done deal\u2014this is the consensus trade. That's dangerous when consensus gets this crowded.\n\n**Mispricing flag:** Burkina Faso spread (-46.8%) pricing them at -5.5 vs Argentina while sitting at just 1% O/U probability. Argentina match volatility usually bleeds into peripherals. If Burkina Faso scores 6+, that spread unwinds hard. The sharp-looking contrarian flow here is worth watching.\n\n---\n\n## WATCH LIST\n\n1. **Counter-Strike Legacy vs PARIVISION (BO3)** | $2M volume, 1% | Why: This volume + extreme odds = either wrong market or information advantage. Track if line bounces back or breaks lower. Tells us if consensus shifts.\n\n2. **Indiana Data Center Moratorium (by 12/31/27)** | $1.9M volume, 12% | Why: The -16% flush looks like institutional de-risking, not retail panic. Check for regulatory/lobbying news. Could signal legislative read shifts.\n\n3. **Will Anthropic announce bankruptcy by 12/31/27** | $858K volume, 10% | Why: Volume spike on existential AI company risk. Liquidity event suggests genuine uncertainty or hedging from someone with inside reads. Track alongside Anthropic funding announcements.",
   "top_movers": [
     {
-      "question": "Will Elon Musk post 220-239 tweets from September 25 to October 2, 2026?",
-      "prob": 96,
-      "change": 87.9,
-      "vol24": "$161K",
-      "slug": "elon-musk-of-tweets-september-25-october-2-2026-220-239"
-    },
-    {
-      "question": "Will the price of Bitcoin be above $84,000 on October 2?",
+      "question": "China Open: Xinran Sun vs Cristina Bucsa",
       "prob": 99,
-      "change": 61.8,
-      "vol24": "$164K",
-      "slug": "bitcoin-above-84k-on-october-2-2026"
+      "change": 69.5,
+      "vol24": "$544K",
+      "slug": "wta-su-bucsa-2026-10-02"
     },
     {
-      "question": "Map Handicap: T1 (-1.5) vs JD Gaming (+1.5)",
+      "question": "Argentina vs. Burkina Faso: Burkina Faso O/U 5.5",
       "prob": 1,
-      "change": -60.5,
-      "vol24": "$273K",
-      "slug": "val-t1-jdg-2026-10-02-map-handicap-away-1pt5"
+      "change": -48.6,
+      "vol24": "$235K",
+      "slug": "fif-arg-bur-2026-10-03-team-total-away-5pt5"
     },
     {
-      "question": "LoL: Solary vs T1 Academy - Game 3 Winner",
-      "prob": 99,
-      "change": 57.5,
-      "vol24": "$281K",
-      "slug": "lol-sly-t1a-2026-10-02-game3"
+      "question": "Spread: Burkina Faso (-5.5)",
+      "prob": 1,
+      "change": -46.8,
+      "vol24": "$403K",
+      "slug": "fif-arg-bur-2026-10-03-spread-away-5pt5"
     },
     {
-      "question": "Bitcoin Up or Down on October 2?",
-      "prob": 97,
-      "change": 46.8,
-      "vol24": "$220K",
-      "slug": "bitcoin-up-or-down-on-october-2-2026"
+      "question": "Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage",
+      "prob": 1,
+      "change": -44.5,
+      "vol24": "$2.0M",
+      "slug": "cs2-lgc-prv-2026-10-03"
+    },
+    {
+      "question": "LoL: Team Vitality vs BNK FEARX (BO1) - Demacia Cup Global Invitational Group Stage",
+      "prob": 1,
+      "change": -30.4,
+      "vol24": "$879K",
+      "slug": "lol-vit-fox1-2026-10-03"
     }
   ],
   "top_vol": [
     {
-      "question": "LoL: Solary vs T1 Academy (BO5) - World Star Challengers Invitational Playoffs",
+      "question": "Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage",
       "prob": 1,
-      "change": -36.4,
-      "vol24": "$1.5M",
-      "slug": "lol-sly-t1a-2026-10-02"
+      "change": -44.5,
+      "vol24": "$2.0M",
+      "slug": "cs2-lgc-prv-2026-10-03"
+    },
+    {
+      "question": "Will Indiana enact a data center moratorium by December 31, 2027?",
+      "prob": 12,
+      "change": -16.0,
+      "vol24": "$1.9M",
+      "slug": "will-indiana-enact-a-data-center-moratorium-by-december-31-2027"
     },
     {
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "prob": 84,
-      "change": 20.0,
-      "vol24": "$1.1M",
+      "prob": 82,
+      "change": 8.0,
+      "vol24": "$879K",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031"
-    },
-    {
-      "question": "Valorant: T1 vs JD Gaming (BO3) - VCT Champions Group A",
-      "prob": 80,
-      "change": -3.0,
-      "vol24": "$996K",
-      "slug": "val-t1-jdg-2026-10-02"
     }
   ]
 }
