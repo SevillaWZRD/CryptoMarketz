@@ -1,65 +1,65 @@
 {
-  "date": "Saturday October 03, 2026",
-  "generated": "2026-10-03T12:06:48.423469Z",
-  "brief": "# ZIMR CAPITAL MARKET INTELLIGENCE | October 3, 2026\n\n## Headline\n**Esports Heavy, Politics Light: $2M Counter-Strike Bleed Signals Sharp Repricing While Fed Pause Consensus Hardens**\n\n---\n\n## SIGNAL ANALYSIS\n\nThe market's telling a two-tier story today. Esports is eating volatility\u2014that $2M CS:GO Legacy/PARIVISION collapse (now 1%) screams capitulation betting or late sharp action on the underdog. LoL's Demacia Cup showing wild swings (Vitality/BNK +30%, GAM/WE -16% on similar odds) suggests either recreational flow or genuine map-knowledge edges getting arbitraged out. The China Open tennis moves (+69.5% on Xinran Sun at 99%) are pure volatility chasing\u2014already-priced favorites getting bid higher on tournament momentum.\n\nSmart money's nowhere near esports today. The real action: **Indiana data center moratorium contracts compressed hard** (-22.5%, -16% respectively), indicating institutional liquidation or a news catalyst we're not seeing yet. Separately, the Fed rate-hold market ($879K volume, 82%) is pricing October 2026 as a done deal\u2014this is the consensus trade. That's dangerous when consensus gets this crowded.\n\n**Mispricing flag:** Burkina Faso spread (-46.8%) pricing them at -5.5 vs Argentina while sitting at just 1% O/U probability. Argentina match volatility usually bleeds into peripherals. If Burkina Faso scores 6+, that spread unwinds hard. The sharp-looking contrarian flow here is worth watching.\n\n---\n\n## WATCH LIST\n\n1. **Counter-Strike Legacy vs PARIVISION (BO3)** | $2M volume, 1% | Why: This volume + extreme odds = either wrong market or information advantage. Track if line bounces back or breaks lower. Tells us if consensus shifts.\n\n2. **Indiana Data Center Moratorium (by 12/31/27)** | $1.9M volume, 12% | Why: The -16% flush looks like institutional de-risking, not retail panic. Check for regulatory/lobbying news. Could signal legislative read shifts.\n\n3. **Will Anthropic announce bankruptcy by 12/31/27** | $858K volume, 10% | Why: Volume spike on existential AI company risk. Liquidity event suggests genuine uncertainty or hedging from someone with inside reads. Track alongside Anthropic funding announcements.",
+  "date": "Sunday October 04, 2026",
+  "generated": "2026-10-04T12:54:12.337194Z",
+  "brief": "# ZIMR Daily Polymarket Brief | Sunday, October 4, 2026\n\n## Headline\n**Brazil's Right Flank Solidifying as Bolsonaro Heir Gains Ground; F1 Bahrain Treated as Formality**\n\n---\n\n## The Signal\n\nThe Brazilian electoral complex is reshuffling in real time. Fl\u00e1vio Bolsonaro's second-place odds jumped to 63% (+10.5%) on $280K volume, while Lula simultaneously weakened on both the outright win (-5.0%) and runner-up markets (-10.9%). This isn't noise\u2014it's directional conviction. Smart money is pricing a right-wing consolidation narrative: Bolsonaro family machinery is backing Fl\u00e1vio as the anti-Lula hedge, effectively bifurcating the runoff landscape. Watch the correlation: Lula's weakness and Fl\u00e1vio's strength moving in tandem suggests unified thesis, not isolated bets.\n\nContrast this with the F1 Bahrain market at 99% for Verstappen. That's not confidence; that's capitulation. $206K in volume on a 99% price is retail cleanup before the race\u2014smart money exited weeks ago. Expect minimal movement pre-race; the real alpha is in post-race accident probability markets if they exist.\n\nEsports volume is heavy ($1.2M on LoL WE vs HANJIN), but the Valorant FUT/T1 match at 40% (FUT favored?) on $946K suggests uncertainty in a marquee matchup. This is where 5-10% swings can happen post-series start.\n\n---\n\n## Watch List\n\n**1. Fl\u00e1vio Bolsonaro 2nd Place (63%) \u2014 Core Position**  \nMonitor the next 6 hours for poll aggregator updates. If major polling releases show rightward momentum, this could spike to 70%+. Exit point clarity needed if it touches 68%.\n\n**2. Lula Outright Win (36%) \u2014 Contrarian Fade Candidate**  \nThe disconnect between his weakness in first-round scenarios and his outright win odds suggests mispricing. If second-round dynamics shift toward him, this is a value unwind. Watch for labor union endorsement news.\n\n**3. FUT Esports vs T1 (40%) \u2014 Live Event Alpha**  \nVCT matches move on draft advantage and early map control. If FUT takes Map 1, expect sharp +8-12% movement as casual money follows. This is a real-money pinball until series conclusion.",
   "top_movers": [
     {
-      "question": "China Open: Xinran Sun vs Cristina Bucsa",
+      "question": "Will Max Verstappen win the 2026 F1 Bahrain Grand Prix?",
       "prob": 99,
-      "change": 69.5,
-      "vol24": "$544K",
-      "slug": "wta-su-bucsa-2026-10-02"
+      "change": 41.3,
+      "vol24": "$206K",
+      "slug": "f1-bahrain-grand-prix-winner-verstappen-2026-10-04"
     },
     {
-      "question": "Argentina vs. Burkina Faso: Burkina Faso O/U 5.5",
-      "prob": 1,
-      "change": -48.6,
-      "vol24": "$235K",
-      "slug": "fif-arg-bur-2026-10-03-team-total-away-5pt5"
+      "question": "China Open: Sara Bejlek vs Naomi Osaka",
+      "prob": 3,
+      "change": -24.1,
+      "vol24": "$217K",
+      "slug": "wta-bejlek-osaka-2026-10-03"
     },
     {
-      "question": "Spread: Burkina Faso (-5.5)",
-      "prob": 1,
-      "change": -46.8,
-      "vol24": "$403K",
-      "slug": "fif-arg-bur-2026-10-03-spread-away-5pt5"
+      "question": "Will Luiz In\u00e1cio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?",
+      "prob": 37,
+      "change": 10.9,
+      "vol24": "$261K",
+      "slug": "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
     },
     {
-      "question": "Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage",
-      "prob": 1,
-      "change": -44.5,
-      "vol24": "$2.0M",
-      "slug": "cs2-lgc-prv-2026-10-03"
+      "question": "Will Fl\u00e1vio Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?",
+      "prob": 63,
+      "change": -10.5,
+      "vol24": "$280K",
+      "slug": "will-flvio-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
     },
     {
-      "question": "LoL: Team Vitality vs BNK FEARX (BO1) - Demacia Cup Global Invitational Group Stage",
-      "prob": 1,
-      "change": -30.4,
-      "vol24": "$879K",
-      "slug": "lol-vit-fox1-2026-10-03"
+      "question": "Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A",
+      "prob": 40,
+      "change": -8.0,
+      "vol24": "$946K",
+      "slug": "val-fut1-t1-2026-10-04"
     }
   ],
   "top_vol": [
     {
-      "question": "Counter-Strike: Legacy vs PARIVISION (BO3) - ESL Pro League Group Stage",
-      "prob": 1,
-      "change": -44.5,
-      "vol24": "$2.0M",
-      "slug": "cs2-lgc-prv-2026-10-03"
+      "question": "LoL: Team WE vs HANJIN BRION - Game 1 Winner",
+      "prob": 99,
+      "change": 0,
+      "vol24": "$1.2M",
+      "slug": "lol-we-bro2-2026-10-04-game1"
     },
     {
-      "question": "Will Indiana enact a data center moratorium by December 31, 2027?",
-      "prob": 12,
-      "change": -16.0,
-      "vol24": "$1.9M",
-      "slug": "will-indiana-enact-a-data-center-moratorium-by-december-31-2027"
+      "question": "Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A",
+      "prob": 40,
+      "change": -8.0,
+      "vol24": "$946K",
+      "slug": "val-fut1-t1-2026-10-04"
     },
     {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "prob": 82,
-      "change": 8.0,
-      "vol24": "$879K",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031"
+      "question": "China Open: Alexander Zverev vs Novak Djokovic",
+      "prob": 78,
+      "change": 0,
+      "vol24": "$866K",
+      "slug": "atp-zverev-djokovi-2026-10-04"
     }
   ]
 }
