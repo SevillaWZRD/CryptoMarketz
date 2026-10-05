@@ -1,65 +1,65 @@
 {
-  "date": "Sunday October 04, 2026",
-  "generated": "2026-10-04T12:54:12.337194Z",
-  "brief": "# ZIMR Daily Polymarket Brief | Sunday, October 4, 2026\n\n## Headline\n**Brazil's Right Flank Solidifying as Bolsonaro Heir Gains Ground; F1 Bahrain Treated as Formality**\n\n---\n\n## The Signal\n\nThe Brazilian electoral complex is reshuffling in real time. Fl\u00e1vio Bolsonaro's second-place odds jumped to 63% (+10.5%) on $280K volume, while Lula simultaneously weakened on both the outright win (-5.0%) and runner-up markets (-10.9%). This isn't noise\u2014it's directional conviction. Smart money is pricing a right-wing consolidation narrative: Bolsonaro family machinery is backing Fl\u00e1vio as the anti-Lula hedge, effectively bifurcating the runoff landscape. Watch the correlation: Lula's weakness and Fl\u00e1vio's strength moving in tandem suggests unified thesis, not isolated bets.\n\nContrast this with the F1 Bahrain market at 99% for Verstappen. That's not confidence; that's capitulation. $206K in volume on a 99% price is retail cleanup before the race\u2014smart money exited weeks ago. Expect minimal movement pre-race; the real alpha is in post-race accident probability markets if they exist.\n\nEsports volume is heavy ($1.2M on LoL WE vs HANJIN), but the Valorant FUT/T1 match at 40% (FUT favored?) on $946K suggests uncertainty in a marquee matchup. This is where 5-10% swings can happen post-series start.\n\n---\n\n## Watch List\n\n**1. Fl\u00e1vio Bolsonaro 2nd Place (63%) \u2014 Core Position**  \nMonitor the next 6 hours for poll aggregator updates. If major polling releases show rightward momentum, this could spike to 70%+. Exit point clarity needed if it touches 68%.\n\n**2. Lula Outright Win (36%) \u2014 Contrarian Fade Candidate**  \nThe disconnect between his weakness in first-round scenarios and his outright win odds suggests mispricing. If second-round dynamics shift toward him, this is a value unwind. Watch for labor union endorsement news.\n\n**3. FUT Esports vs T1 (40%) \u2014 Live Event Alpha**  \nVCT matches move on draft advantage and early map control. If FUT takes Map 1, expect sharp +8-12% movement as casual money follows. This is a real-money pinball until series conclusion.",
+  "date": "Monday October 05, 2026",
+  "generated": "2026-10-05T15:21:12.583881Z",
+  "brief": "# POLYMARKET DAILY BRIEF | Monday, October 5, 2026\n\n## \"Brazil Volatility Explodes as Lula Collapsed 23% in 24 Hours\u2014Smart Money Rotating Hard\"\n\nThe Brazilian presidential election is consuming Polymarket's oxygen. Lula's odds cratered from 37% to just 14% in a single session\u2014the kind of violent repricing that screams either genuine news or coordinated positioning. Fl\u00e1vio Bolsonaro surged to 85% on $2.2M volume, suggesting serious money has *already* priced in a right-wing victory. This isn't retail noise: these are two-sided $4.5M+ markets with institutional flows. Either there's a polling bomb we haven't seen yet, or the market is front-running something the headline writers missed.\n\nOn crypto, Bitcoin's sitting comfortably above $84K (99% at $84K, 1% at $88K) with today's action confirming support levels. The $88K miss is properly priced at 1%\u2014tight range bound for now. Fed expectations remain anchored at 80% probability for no rate change at October's meeting, a slight dip from yesterday but still consensus-y. That's your macro ballast.\n\nThe real tell: where's the rotation going? $4.5M fleeing Lula into Bolsonaro in 24 hours isn't sentiment\u2014that's capital repositioning. Watch for follow-through or mean reversion tomorrow.\n\n---\n\n## WATCH LIST\n\n**1. Fl\u00e1vio Bolsonaro 2026 | Currently 85%** \u2014 Too high or just right? If genuine polling broke yesterday, this holds. If it's momentum-driven, expect profit-taking. Need to see Brazilian-source confirmation.\n\n**2. Will Ethereum dip to $2,250 by Dec 31? | Currently 24%** \u2014 Underpriced if Bitcoin consolidates here. ETH-BTC correlation matters. Low volume ($268K) = easy to move if macro turns.\n\n**3. Fed No Rate Change Oct 2026 | Currently 80%** \u2014 Your baseline macro check. Any surprise economic data today rewires this. Watch Fed speak calendar.",
   "top_movers": [
     {
-      "question": "Will Max Verstappen win the 2026 F1 Bahrain Grand Prix?",
+      "question": "Will Iran target Iraq by September 30, 2026?",
       "prob": 99,
-      "change": 41.3,
-      "vol24": "$206K",
-      "slug": "f1-bahrain-grand-prix-winner-verstappen-2026-10-04"
+      "change": 37.5,
+      "vol24": "$157K",
+      "slug": "will-iran-target-iraq-by-september-30-2026-20260907"
     },
     {
-      "question": "China Open: Sara Bejlek vs Naomi Osaka",
-      "prob": 3,
-      "change": -24.1,
-      "vol24": "$217K",
-      "slug": "wta-bejlek-osaka-2026-10-03"
+      "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+      "prob": 14,
+      "change": -23.0,
+      "vol24": "$2.3M",
+      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election"
     },
     {
-      "question": "Will Luiz In\u00e1cio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?",
-      "prob": 37,
-      "change": 10.9,
-      "vol24": "$261K",
-      "slug": "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
+      "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+      "prob": 85,
+      "change": 22.2,
+      "vol24": "$2.2M",
+      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election"
     },
     {
-      "question": "Will Fl\u00e1vio Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?",
-      "prob": 63,
-      "change": -10.5,
-      "vol24": "$280K",
-      "slug": "will-flvio-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
+      "question": "Will Ethereum dip to $2,250 by December 31, 2026?",
+      "prob": 24,
+      "change": -14.0,
+      "vol24": "$268K",
+      "slug": "will-ethereum-dip-to-2250-by-december-31-2026"
     },
     {
-      "question": "Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A",
-      "prob": 40,
-      "change": -8.0,
-      "vol24": "$946K",
-      "slug": "val-fut1-t1-2026-10-04"
+      "question": "Will the price of Bitcoin be above $84,000 on October 5?",
+      "prob": 99,
+      "change": 13.1,
+      "vol24": "$188K",
+      "slug": "bitcoin-above-84k-on-october-5-2026"
     }
   ],
   "top_vol": [
     {
-      "question": "LoL: Team WE vs HANJIN BRION - Game 1 Winner",
-      "prob": 99,
-      "change": 0,
-      "vol24": "$1.2M",
-      "slug": "lol-we-bro2-2026-10-04-game1"
+      "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+      "prob": 14,
+      "change": -23.0,
+      "vol24": "$2.3M",
+      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election"
     },
     {
-      "question": "Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A",
-      "prob": 40,
-      "change": -8.0,
-      "vol24": "$946K",
-      "slug": "val-fut1-t1-2026-10-04"
+      "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+      "prob": 85,
+      "change": 22.2,
+      "vol24": "$2.2M",
+      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election"
     },
     {
-      "question": "China Open: Alexander Zverev vs Novak Djokovic",
-      "prob": 78,
+      "question": "Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage",
+      "prob": 28,
       "change": 0,
-      "vol24": "$866K",
-      "slug": "atp-zverev-djokovi-2026-10-04"
+      "vol24": "$1.4M",
+      "slug": "cs2-m80-tyloo-2026-10-05"
     }
   ]
 }
