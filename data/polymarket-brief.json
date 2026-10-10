@@ -1,65 +1,65 @@
 {
-  "date": "Friday October 09, 2026",
-  "generated": "2026-10-09T13:55:23.516011Z",
-  "brief": "# POLYMARKET DAILY BRIEF | Friday, October 9, 2026\n\n## \"Esports Dominance Signal: 99% Conviction on Vitality Sweep as Macro Bets Crater\"\n\nThe market is sending a clear message today: *certainty in esports, skepticism everywhere else*. Vitality's demolition of PARIVISION across multiple Counter-Strike markets (BO3 at 99%, Map 2 at 99%) has attracted $896K in volume, signaling professional teams are treating this playoff matchup as a near-coronation. This isn't retail hype\u2014the tight bid-ask spreads and sustained 90%+ pricing suggest serious esports betting syndicates are locked in. Meanwhile, macro bets are getting hammered: Bitcoin above $84K has crashed to just 5% (down 10% today), and the Fed rate cut thesis is dead on arrival at 1%. The market's risk-off positioning is *screaming*.\n\nSmart money is rotating hard into sports and entertainment arbitrage while abandoning macro. The Musk tweet volume market (85% on 320-339 range) jumped 67.8% today\u2014this feels like positioning ahead of weekend activity, not conviction. More interesting: Lula's Brazilian election odds at 14% with $2.1M in volume suggest institutional traders see low probability but massive upside. The real tell? High-volume, low-odds markets (Fed cuts, Bitcoin above $84K, Lula) indicate hedging flows, not directional bets.\n\n**Potential mispricings**: Thunder vs. Hawks at 32% is worth watching\u2014NBA public money usually overweights favorites, and this pricing suggests smart money is fading market consensus on an underdog spot.\n\n---\n\n## WATCH LIST\n\n**1. Bitcoin Above $84K (5% | -$235K vol) \u2014 MACRO CAPITULATION SIGNAL**  \nDown 10% today. If this dips below 3%, it's max pain territory and signals serious deleveraging. Track BTC spot price action; any reversal above $85.5K would be violent repricing.\n\n**2. Lula Wins 2026 Election (14% | $2.1M vol) \u2014 HEDGE ACCUMULATION?**  \nThe volume-to-odds ratio is asymmetric. $2.1M on a 14% outcome is institutional hedging, not betting. Watch for any News flow on Brazilian political developments; this could be positioning for a shock result.\n\n**3. Thunder vs. Hawks (32% | -$207K vol) \u2014 PUBLIC/SHARP DIVERGENCE**  \nDown 20% today but still at fair value for underdogs. Track betting splits; if sharp money is on Thunder, this could be a value trap or the best spot on the card.",
+  "date": "Saturday October 10, 2026",
+  "generated": "2026-10-10T13:07:21.302878Z",
+  "brief": "# ZIMR DAILY BRIEFING | Saturday, October 10, 2026\n\n## HEADLINE\n**Arsenal Demolition Priced In; Esports Sharp Money Hunting Value in G2 Upset**\n\n---\n\n## MARKET INTELLIGENCE\n\n**The Arsenal Consensus is Screaming.** Leeds United sits at 1% to win\u2014basically deleted from the map. Arsenal's 86% win probability combined with 99% O/U 2.5 goals suggests the market has already written the match report. Volume is heavy ($593K on Arsenal ML alone), but movement came early; today's +16% gain indicates late money still piling in. This is *consensus* trading, not edge trading. Smart money rarely crowds into 86% shots this late unless there's sharp confirmation\u2014check team news for injuries.\n\n**Esports Showing Cracks in Pricing.** G2 vs Vitality (VCT Champions) sits at 34% for G2 despite $732K volume. This is the day's highest-conviction mis-signal: a playoff BO3 at a 2:1 favorite/underdog split suggests the market is *uncertain*, yet it moved -18.5% today. That inverse relationship (volume up, odds down) signals sharp Vitality money leaking in. Dota 2's Team Yandex/Spirit markets ($1.4M+ combined) show 99% confidence, but that's different\u2014established favorites in established formats. Valorant is newer money and potentially exploitable.\n\n**The Real Volume Story is Politics.** Lula's 2026 Brazilian election sits at 12% with $929K\u2014a massive liquidity pool for a single outcome. That's not about match uncertainty; that's structural. It's the highest-volume single market on the board and pulling capital away from sports. Traders rotating out of weekend sports into macro bets.\n\n---\n\n## WATCH LIST\n\n1. **G2 vs Vitality (Valorant)** \u2014 34% | $732K | *Why:* Inverse volume/price movement is a tell. Sharp money doesn't move odds that dramatically unless there's model-beating intel. If Vitality is 2:1 underdog but sharps are loading up, track whether this reprices toward 45%+ by match time. Classic value hunt.\n\n2. **Arsenal vs Leeds O/U 2.5 Goals** \u2014 99% | $177K | *Why:* 99% is a settlement price, not a live market. If this *doesn't* go over 2.5, it's the day's narrative shock. Monitor team sheets for rotation; if Arsenal rests players, this flips fast.\n\n3. **Lula 2026 Brazilian Election** \u2014 12% | $929K | *Why:* Highest volume non-sports market. Structural play, not noise. This is where macro traders are actually active today. Track if this breaks above 15% (challenger narrative gaining) or holds (incumbent cement floors the market).\n\n---\n\n**ZIMR Capital** | *Real money moves, sharp signal hunting* \n\n*Next briefing: Sunday 0600 UTC*",
   "top_movers": [
     {
-      "question": "Will Elon Musk post 320-339 tweets from October 2 to October 9, 2026?",
-      "prob": 85,
-      "change": 67.8,
-      "vol24": "$218K",
-      "slug": "elon-musk-of-tweets-october-2-october-9-2026-320-339"
-    },
-    {
-      "question": "Map Handicap: VIT (-1.5) vs PARIVISION (+1.5)",
+      "question": "Arsenal FC vs. Leeds United FC: O/U 2.5",
       "prob": 99,
-      "change": 44.5,
-      "vol24": "$469K",
-      "slug": "cs2-vit-prv-2026-10-09-map-handicap-away-1pt5"
+      "change": 48.4,
+      "vol24": "$177K",
+      "slug": "epl-ars-lee-2026-10-10-total-2pt5"
     },
     {
-      "question": "Will Shenzhen Xinpengcheng FC win on 2026-10-09?",
+      "question": "Will Amed Sportif win on 2026-10-10?",
       "prob": 1,
-      "change": -33.5,
-      "vol24": "$145K",
-      "slug": "chi-xin-hen-2026-10-09-xin"
+      "change": -43.5,
+      "vol24": "$350K",
+      "slug": "tur-gen-ame-2026-10-10-ame"
     },
     {
-      "question": "Shanghai Rolex Masters: Alexander Bublik vs Tomas Machac",
-      "prob": 90,
-      "change": 28.0,
-      "vol24": "$226K",
-      "slug": "atp-bublik-machac-2026-10-09"
-    },
-    {
-      "question": "Counter-Strike: Vitality vs PARIVISION - Map 2 Winner",
+      "question": "Shanghai Rolex Masters: Tommy Paul vs Adolfo Vallejo",
       "prob": 99,
-      "change": 21.4,
-      "vol24": "$387K",
-      "slug": "cs2-vit-prv-2026-10-09-game2"
+      "change": 33.5,
+      "vol24": "$186K",
+      "slug": "atp-paul-vallejo-2026-10-09"
+    },
+    {
+      "question": "1. FC Magdeburg vs. Hannover 96: O/U 2.5",
+      "prob": 99,
+      "change": 29.9,
+      "vol24": "$145K",
+      "slug": "bl2-fcm-h96-2026-10-10-total-2pt5"
+    },
+    {
+      "question": "Arsenal FC vs. Leeds United FC: O/U 1.5",
+      "prob": 99,
+      "change": 24.4,
+      "vol24": "$154K",
+      "slug": "epl-ars-lee-2026-10-10-total-1pt5"
     }
   ],
   "top_vol": [
     {
+      "question": "Dota 2: Team Yandex vs Team Spirit - Game 2 Winner",
+      "prob": 99,
+      "change": 0,
+      "vol24": "$1.4M",
+      "slug": "dota2-ty-ts8-2026-10-10-game2"
+    },
+    {
       "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-      "prob": 14,
+      "prob": 12,
       "change": -2.0,
-      "vol24": "$2.1M",
+      "vol24": "$929K",
       "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election"
     },
     {
-      "question": "Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs",
-      "prob": 42,
-      "change": 1.0,
-      "vol24": "$1.5M",
-      "slug": "cs2-furia-mouz-2026-10-09"
-    },
-    {
-      "question": "Dota 2: Team Spirit vs Aurora (BO3) - BLAST Slam Playoffs",
+      "question": "Dota 2: Team Yandex vs Team Spirit (BO3) - BLAST Slam Playoffs",
       "prob": 99,
       "change": 0,
-      "vol24": "$1.5M",
-      "slug": "dota2-ts8-aur1-2026-10-09"
+      "vol24": "$786K",
+      "slug": "dota2-ty-ts8-2026-10-10"
     }
   ]
 }
