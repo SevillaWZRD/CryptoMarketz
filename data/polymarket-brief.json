@@ -1,65 +1,65 @@
 {
-  "date": "Saturday October 10, 2026",
-  "generated": "2026-10-10T13:07:21.302878Z",
-  "brief": "# ZIMR DAILY BRIEFING | Saturday, October 10, 2026\n\n## HEADLINE\n**Arsenal Demolition Priced In; Esports Sharp Money Hunting Value in G2 Upset**\n\n---\n\n## MARKET INTELLIGENCE\n\n**The Arsenal Consensus is Screaming.** Leeds United sits at 1% to win\u2014basically deleted from the map. Arsenal's 86% win probability combined with 99% O/U 2.5 goals suggests the market has already written the match report. Volume is heavy ($593K on Arsenal ML alone), but movement came early; today's +16% gain indicates late money still piling in. This is *consensus* trading, not edge trading. Smart money rarely crowds into 86% shots this late unless there's sharp confirmation\u2014check team news for injuries.\n\n**Esports Showing Cracks in Pricing.** G2 vs Vitality (VCT Champions) sits at 34% for G2 despite $732K volume. This is the day's highest-conviction mis-signal: a playoff BO3 at a 2:1 favorite/underdog split suggests the market is *uncertain*, yet it moved -18.5% today. That inverse relationship (volume up, odds down) signals sharp Vitality money leaking in. Dota 2's Team Yandex/Spirit markets ($1.4M+ combined) show 99% confidence, but that's different\u2014established favorites in established formats. Valorant is newer money and potentially exploitable.\n\n**The Real Volume Story is Politics.** Lula's 2026 Brazilian election sits at 12% with $929K\u2014a massive liquidity pool for a single outcome. That's not about match uncertainty; that's structural. It's the highest-volume single market on the board and pulling capital away from sports. Traders rotating out of weekend sports into macro bets.\n\n---\n\n## WATCH LIST\n\n1. **G2 vs Vitality (Valorant)** \u2014 34% | $732K | *Why:* Inverse volume/price movement is a tell. Sharp money doesn't move odds that dramatically unless there's model-beating intel. If Vitality is 2:1 underdog but sharps are loading up, track whether this reprices toward 45%+ by match time. Classic value hunt.\n\n2. **Arsenal vs Leeds O/U 2.5 Goals** \u2014 99% | $177K | *Why:* 99% is a settlement price, not a live market. If this *doesn't* go over 2.5, it's the day's narrative shock. Monitor team sheets for rotation; if Arsenal rests players, this flips fast.\n\n3. **Lula 2026 Brazilian Election** \u2014 12% | $929K | *Why:* Highest volume non-sports market. Structural play, not noise. This is where macro traders are actually active today. Track if this breaks above 15% (challenger narrative gaining) or holds (incumbent cement floors the market).\n\n---\n\n**ZIMR Capital** | *Real money moves, sharp signal hunting* \n\n*Next briefing: Sunday 0600 UTC*",
+  "date": "Sunday October 11, 2026",
+  "generated": "2026-10-11T13:36:10.712931Z",
+  "brief": "# ZIMR Daily Brief | Sunday, October 11, 2026\n\n## Market Says: Sports Betting Dominating, Hamilton Collapse, City Stays Murky\n\nThe market is running hot on football and esports while showing severe conviction shifts in niche motorsport. Hamilton's Singapore odds crashed 23% overnight to just 1%\u2014a brutal repricing that suggests either late-breaking team news or sharp money abandoning a consensus fade. Meanwhile, Bologna's +16% pump to 66% looks like smart money positioning before a high-conviction kickoff, and Man City holding firm at 46% despite being favored tells us the market is genuinely uncertain about their form heading into today's clash.\n\n**What smart money is signaling:** The $2.1M volume flood into Dota 2 (Spirit vs Parivision at 99%) screams coordinated positioning\u2014likely institutional esports syndicates locking in heavy favorites before the bracket closes. Compare this to the Man City market's tepid $590K volume despite being a Sunday Premier League fixture: retail is scattered, pros are selective. The Everton explosion to $1.4M volume at 44% suggests informed backing ahead of kickoff, possibly underleveraged by the broader market.\n\n**Mispricing watch:** Crystal Palace-Nottingham O/U 2.5 goals at 60% (+10% move) feels artificially inflated on light volume ($159K). Confirm team sheets before the whistle\u2014if either side is missing key attackers, this drifts under 55% quickly. Hamilton at 1% might actually be overpriced *downward* if Ferrari/McLaren grid position data isn't priced in yet.\n\n---\n\n## Watch List\n\n1. **Will Manchester City FC win on 2026-10-11? (46%, $590K)** \u2014 The anchor market for Sunday PL sentiment. If City breaks 50%, expect money rotating into Nice (+3%) and K\u00f6ln (+2%). If it collapses below 43%, defensive positioning could spill into Eagles-Jaguars hedges.\n\n2. **Crystal Palace vs Nottingham O/U 2.5 (60%, $159K)** \u2014 Low volume + big move = sharp trap or sharp signal. Check team news 90 minutes pre-match. If either team confirms injuries to star attackers, this is a 52-55% fair value play.\n\n3. **Dota 2: Spirit vs PARIVISION (99%, $2.1M)** \u2014 Maximum conviction play. If Spirit drops below 97%, it signals late-breaking roster/connectivity issues. Monitor esports discords for smashed-in whispers 15 mins before series start.\n\n---\n\n*ZIMR Capital | Markets close decisively after 18:00 UTC. Position accordingly.*",
   "top_movers": [
     {
-      "question": "Arsenal FC vs. Leeds United FC: O/U 2.5",
-      "prob": 99,
-      "change": 48.4,
-      "vol24": "$177K",
-      "slug": "epl-ars-lee-2026-10-10-total-2pt5"
-    },
-    {
-      "question": "Will Amed Sportif win on 2026-10-10?",
+      "question": "Will Lewis Hamilton win the 2026 F1 Singapore Grand Prix?",
       "prob": 1,
-      "change": -43.5,
-      "vol24": "$350K",
-      "slug": "tur-gen-ame-2026-10-10-ame"
+      "change": -23.2,
+      "vol24": "$302K",
+      "slug": "f1-singapore-grand-prix-winner-hamilton-2026-10-11"
     },
     {
-      "question": "Shanghai Rolex Masters: Tommy Paul vs Adolfo Vallejo",
-      "prob": 99,
-      "change": 33.5,
-      "vol24": "$186K",
-      "slug": "atp-paul-vallejo-2026-10-09"
+      "question": "Will Bologna FC 1909 win on 2026-10-11?",
+      "prob": 66,
+      "change": 16.0,
+      "vol24": "$344K",
+      "slug": "sea-lec-bol-2026-10-11-bol"
     },
     {
-      "question": "1. FC Magdeburg vs. Hannover 96: O/U 2.5",
-      "prob": 99,
-      "change": 29.9,
-      "vol24": "$145K",
-      "slug": "bl2-fcm-h96-2026-10-10-total-2pt5"
+      "question": "Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Frances Tiafoe",
+      "prob": 38,
+      "change": -12.5,
+      "vol24": "$181K",
+      "slug": "atp-fokina-tiafoe-2026-10-11"
     },
     {
-      "question": "Arsenal FC vs. Leeds United FC: O/U 1.5",
-      "prob": 99,
-      "change": 24.4,
-      "vol24": "$154K",
-      "slug": "epl-ars-lee-2026-10-10-total-1pt5"
+      "question": "Crystal Palace FC vs. Nottingham Forest FC: O/U 2.5",
+      "prob": 60,
+      "change": 10.0,
+      "vol24": "$159K",
+      "slug": "epl-cry-not-2026-10-11-total-2pt5"
+    },
+    {
+      "question": "Will Manchester City FC win on 2026-10-11?",
+      "prob": 46,
+      "change": 3.0,
+      "vol24": "$590K",
+      "slug": "epl-liv-mac-2026-10-11-mac"
     }
   ],
   "top_vol": [
     {
-      "question": "Dota 2: Team Yandex vs Team Spirit - Game 2 Winner",
+      "question": "Dota 2: Team Spirit vs PARIVISION (BO3) - BLAST Slam Playoffs",
       "prob": 99,
       "change": 0,
+      "vol24": "$2.1M",
+      "slug": "dota2-ts8-pari-2026-10-11"
+    },
+    {
+      "question": "Will Everton FC win on 2026-10-11?",
+      "prob": 44,
+      "change": -1.0,
       "vol24": "$1.4M",
-      "slug": "dota2-ty-ts8-2026-10-10-game2"
+      "slug": "epl-hul-eve-2026-10-11-eve"
     },
     {
-      "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-      "prob": 12,
-      "change": -2.0,
-      "vol24": "$929K",
-      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election"
-    },
-    {
-      "question": "Dota 2: Team Yandex vs Team Spirit (BO3) - BLAST Slam Playoffs",
-      "prob": 99,
+      "question": "Spread: Jaguars (-7.5)",
+      "prob": 50,
       "change": 0,
-      "vol24": "$786K",
-      "slug": "dota2-ty-ts8-2026-10-10"
+      "vol24": "$1.2M",
+      "slug": "nfl-phi-jax-2026-10-11-spread-home-7pt5"
     }
   ]
 }
