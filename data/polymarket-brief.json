@@ -1,65 +1,65 @@
 {
-  "date": "Sunday October 11, 2026",
-  "generated": "2026-10-11T13:36:10.712931Z",
-  "brief": "# ZIMR Daily Brief | Sunday, October 11, 2026\n\n## Market Says: Sports Betting Dominating, Hamilton Collapse, City Stays Murky\n\nThe market is running hot on football and esports while showing severe conviction shifts in niche motorsport. Hamilton's Singapore odds crashed 23% overnight to just 1%\u2014a brutal repricing that suggests either late-breaking team news or sharp money abandoning a consensus fade. Meanwhile, Bologna's +16% pump to 66% looks like smart money positioning before a high-conviction kickoff, and Man City holding firm at 46% despite being favored tells us the market is genuinely uncertain about their form heading into today's clash.\n\n**What smart money is signaling:** The $2.1M volume flood into Dota 2 (Spirit vs Parivision at 99%) screams coordinated positioning\u2014likely institutional esports syndicates locking in heavy favorites before the bracket closes. Compare this to the Man City market's tepid $590K volume despite being a Sunday Premier League fixture: retail is scattered, pros are selective. The Everton explosion to $1.4M volume at 44% suggests informed backing ahead of kickoff, possibly underleveraged by the broader market.\n\n**Mispricing watch:** Crystal Palace-Nottingham O/U 2.5 goals at 60% (+10% move) feels artificially inflated on light volume ($159K). Confirm team sheets before the whistle\u2014if either side is missing key attackers, this drifts under 55% quickly. Hamilton at 1% might actually be overpriced *downward* if Ferrari/McLaren grid position data isn't priced in yet.\n\n---\n\n## Watch List\n\n1. **Will Manchester City FC win on 2026-10-11? (46%, $590K)** \u2014 The anchor market for Sunday PL sentiment. If City breaks 50%, expect money rotating into Nice (+3%) and K\u00f6ln (+2%). If it collapses below 43%, defensive positioning could spill into Eagles-Jaguars hedges.\n\n2. **Crystal Palace vs Nottingham O/U 2.5 (60%, $159K)** \u2014 Low volume + big move = sharp trap or sharp signal. Check team news 90 minutes pre-match. If either team confirms injuries to star attackers, this is a 52-55% fair value play.\n\n3. **Dota 2: Spirit vs PARIVISION (99%, $2.1M)** \u2014 Maximum conviction play. If Spirit drops below 97%, it signals late-breaking roster/connectivity issues. Monitor esports discords for smashed-in whispers 15 mins before series start.\n\n---\n\n*ZIMR Capital | Markets close decisively after 18:00 UTC. Position accordingly.*",
+  "date": "Monday October 12, 2026",
+  "generated": "2026-10-12T16:12:54.124091Z",
+  "brief": "# ZIMR CAPITAL MARKETS BRIEF | Monday, October 12, 2026\n\n## Headline\n**LoL Playoffs Dominate Flow as Crypto Traders Hedge into Geopolitical Safety**\n\n---\n\n## Market Intelligence\n\nThe Polymarket narrative split is stark: entertainment specs are running hot while macro hedges are quietly repricing. The BNK FEARX vs JD Gaming BO5 ($3.2M volume, 99% odds) is drawing massive esports attention\u2014retail is fully positioned for a sweep\u2014but the real money signal lies in the ceasefire markets. Both the October 12 and October 15 US-Yemen continuation trades are sitting at 94-99% with modest volume upticks, suggesting institutional players are locking in peace premiums rather than pricing in escalation risk. This is *not* panic hedging; it's confidence calibration.\n\nThe Bitcoin pricing tells you something important: smart money just capitulated on the $86K thesis (now 1%, down 7% today). The $82K floor, meanwhile, strengthened to 99% (+6.5%), indicating the market has accepted a near-term consolidation zone rather than a breakout move. This isn't bearish\u2014it's boring and healthy. Traders holding leveraged longs should note the liquidation level clarity.\n\nThe Sean Cuenin boxing market at 50% with -13% move signals information arrival\u2014someone knows something about this Catania bout, or steam dissipated after an initial move. Low volume ($325K) means conviction is split, not that smart money has taken a side.\n\n---\n\n## Watch List\n\n1. **LoL: Game 4 Winner (1%, -52.9% today, $1.0M vol)** \u2014 Contrarian indicator. If Game 4 doesn't happen (series ends 3-0), this market collapses to zero. Current price suggests sub-5% implied probability of reaching Game 4. *Why:* Market pricing precision test; technical indicator for esports trader confidence.\n\n2. **Rams (-3.5) Spread (48%, $1.1M vol)** \u2014 Only sports market in top volume. Sitting dead even, which means smart money is genuinely split or fading retail. *Why:* Your macro hedge is leaking into NFL; track this for broader risk appetite signals.\n\n3. **US-Yemen Ceasefire through October 15 (94%, $196K vol)** \u2014 The small volume at 94% is the tell. If this drops below 90%, institutional money is suddenly buying tail risk. *Why:* Geopolitical repricing often hits here first before it hits traditional markets.\n\n---\n\n*ZIMR Capital | Markets close 11:59 PM UTC*",
   "top_movers": [
     {
-      "question": "Will Lewis Hamilton win the 2026 F1 Singapore Grand Prix?",
+      "question": "LoL: BNK FEARX vs JD Gaming - Game 4 Winner",
       "prob": 1,
-      "change": -23.2,
-      "vol24": "$302K",
-      "slug": "f1-singapore-grand-prix-winner-hamilton-2026-10-11"
+      "change": -52.9,
+      "vol24": "$1.0M",
+      "slug": "lol-fox1-jdg-2026-10-12-game4"
     },
     {
-      "question": "Will Bologna FC 1909 win on 2026-10-11?",
-      "prob": 66,
-      "change": 16.0,
-      "vol24": "$344K",
-      "slug": "sea-lec-bol-2026-10-11-bol"
+      "question": "Game Handicap: BFX (-1.5) vs JD Gaming (+1.5)",
+      "prob": 1,
+      "change": -48.4,
+      "vol24": "$442K",
+      "slug": "lol-fox1-jdg-2026-10-12-game-handicap-away-1pt5"
     },
     {
-      "question": "Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Frances Tiafoe",
-      "prob": 38,
-      "change": -12.5,
-      "vol24": "$181K",
-      "slug": "atp-fokina-tiafoe-2026-10-11"
+      "question": "LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs",
+      "prob": 99,
+      "change": 32.5,
+      "vol24": "$3.2M",
+      "slug": "lol-fox1-jdg-2026-10-12"
     },
     {
-      "question": "Crystal Palace FC vs. Nottingham Forest FC: O/U 2.5",
-      "prob": 60,
-      "change": 10.0,
-      "vol24": "$159K",
-      "slug": "epl-cry-not-2026-10-11-total-2pt5"
+      "question": "Pakhtakor vs. Al Qadsiah: O/U 1.5",
+      "prob": 99,
+      "change": 21.4,
+      "vol24": "$154K",
+      "slug": "acle-pak-qad-2026-10-12-total-1pt5"
     },
     {
-      "question": "Will Manchester City FC win on 2026-10-11?",
-      "prob": 46,
-      "change": 3.0,
-      "vol24": "$590K",
-      "slug": "epl-liv-mac-2026-10-11-mac"
+      "question": "Catania: Sean Cuenin vs Izan Almazan Valiente",
+      "prob": 50,
+      "change": -13.0,
+      "vol24": "$325K",
+      "slug": "atp-cuenin-valient-2026-10-12"
     }
   ],
   "top_vol": [
     {
-      "question": "Dota 2: Team Spirit vs PARIVISION (BO3) - BLAST Slam Playoffs",
+      "question": "LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs",
       "prob": 99,
-      "change": 0,
-      "vol24": "$2.1M",
-      "slug": "dota2-ts8-pari-2026-10-11"
+      "change": 32.5,
+      "vol24": "$3.2M",
+      "slug": "lol-fox1-jdg-2026-10-12"
     },
     {
-      "question": "Will Everton FC win on 2026-10-11?",
-      "prob": 44,
-      "change": -1.0,
-      "vol24": "$1.4M",
-      "slug": "epl-hul-eve-2026-10-11-eve"
+      "question": "Spread: Rams (-3.5)",
+      "prob": 48,
+      "change": 0,
+      "vol24": "$1.1M",
+      "slug": "nfl-buf-la-2026-10-13-spread-home-3pt5"
     },
     {
-      "question": "Spread: Jaguars (-7.5)",
-      "prob": 50,
-      "change": 0,
-      "vol24": "$1.2M",
-      "slug": "nfl-phi-jax-2026-10-11-spread-home-7pt5"
+      "question": "LoL: BNK FEARX vs JD Gaming - Game 4 Winner",
+      "prob": 1,
+      "change": -52.9,
+      "vol24": "$1.0M",
+      "slug": "lol-fox1-jdg-2026-10-12-game4"
     }
   ]
 }
