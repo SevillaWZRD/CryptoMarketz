@@ -1,65 +1,65 @@
 {
-  "date": "Wednesday October 14, 2026",
-  "generated": "2026-10-14T12:30:33.514132Z",
-  "brief": "# **LoL Playoffs Are Eating Everything: BNK FEARX Dominance Creates Lopsided Betting Spreads**\n\n## THE SIGNAL\n\nThe Demacia Cup Global Invitational Playoffs between BNK FEARX and KT Rolster has become Polymarket's gravitational center today\u2014$1.7M in series volume alone, with individual game winners pulling $1-1.9M each. But here's what matters: the market has priced BNK as near-certain winners across nearly every matchup (99% on series, Game 1, 3, and 4), while Game 2 sits inverted at 1% for KT. This isn't balanced betting\u2014it's capitulation.\n\n**Smart money signal:** The asymmetric pricing on Game 2 (1% KT) versus Game 4 (99% BNK) suggests informed traders aren't evenly distributed across the bracket. Either they've identified a specific KT vulnerability in Game 2, or\u2014more likely\u2014retail is chasing momentum after BNK's early dominance, leaving Game 2 artificially depressed. The +50.9% move on Game 4 today while Game 2 collapsed -42.4% is a classic \"fear of the comeback\" vs \"expect the sweep\" divergence.\n\n**The mispricing:** If this series goes beyond 3 games, Game 2's 1% pricing looks like free money. Conversely, the series winner at 99% leaves no margin for the classic esports upset. Watch whether sharp money starts peeling off the series bet and into individual game props\u2014that's usually when the public gets caught chasing.\n\n## WATCH LIST\n\n1. **LoL Game 2 Winner (KT Rolster)** \u2013 Currently 1%. If you're seeing chat/Discord discussion about KT's draft prowess or comfort picks, this is where that thesis prints. Monitor for mid-series momentum shifts.\n\n2. **Fed Interest Rates (October meeting)** \u2013 $1.3M volume, 82% on no change. Macro traders are taking this seriously; watch if CPI data between now and decision day breaks this consensus.\n\n3. **Astralis vs Sashi Esport (CS:GO)** \u2013 Barely moved (+15.4%) despite $175K volume. Clean signal: low conviction market. Good hedge position if you're overexposed to LoL correlation.",
+  "date": "Thursday October 15, 2026",
+  "generated": "2026-10-15T12:12:29.971739Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | Thursday, October 15, 2026\n\n## Headline\n**Esports Sharp Action Overwhelms Macro Bets as Team WE Dominance Priced to Certainty**\n\n---\n\n## Market Intelligence\n\nThe narrative today is crystal clear: **smart money has already decided Team WE sweeps HANJIN BRION**. Both Game 1 and Game 2 winner markets sit at 99% with $1.2M each in volume, posting identical +53.4% moves. This isn't normal price discovery\u2014it's post-event certainty. Either WE's dominance is so overwhelming that the series outcome is a foregone conclusion, or there's been a material information leak (roster changes, map bans, scrim results). The real tell: Game 3 Winner is priced at 1%, meaning the market isn't hedging for a comeback scenario *at all*.\n\nCounter-Strike's MIBR vs BC.Game action is a direct contradiction signal. Map 1 Winner crashed to 1% (-51.9%), yet the BO3 spread sits at only 16% for MIBR. This suggests either: (a) MIBR recovered hard after Map 1 to near-even odds on Map 2, or (b) Map 1 is being discounted as non-indicative. The -26.5% move on Map 2 hints the latter\u2014early liquidation after Map 1 shock, now stabilizing.\n\n**The macro miss**: Fed rate hold at 72% lost -10% despite being the highest volume market ($2.2M). This suggests weak hands selling conviction into strength, not fresh directional conviction. Bitcoin's 1% probability on $86K is technically today's print\u2014likely an artifact of timing rather than genuine pricing.\n\n---\n\n## Watch List\n\n1. **LoL: Team WE vs HANJIN BRION (BO5) Moneyline - 55% | $1.4M vol**  \n   Why: If Games 1-2 are already confirmed WE, this becomes a Game 3 moneyline proxy. The 1% Game 3 odds imply 5-game sweep pricing ($1M+ still on table). Watch for public capitulation buying that pops this to 65%+.\n\n2. **Counter-Strike: MIBR vs BC.Game (BO3) - 16% | $439K vol**  \n   Why: Acute mispricing signal. If MIBR won Map 1 (prob 1%), they're likely 40-50% favorites in BO3, not 16%. Either Map 1 data is false or the market hasn't repriced. Sharp correction likely.\n\n3. **Will Fed hold rates steady - 72% | $2.2M vol**  \n   Why: Highest conviction, highest volume, but bleeding conviction (-10%). If this decision is announced *today* (check timing), watch for either a final capitulation dump to 65% (public panic) or a relief rally to 85%+ (resolved).\n\n---\n\n*ZIMR | Betting Against Consensus Since 2024*",
   "top_movers": [
     {
-      "question": "Spread: Vissel Kobe (-1.5)",
+      "question": "LoL: Team WE vs HANJIN BRION - Game 1 Winner",
       "prob": 99,
-      "change": 68.5,
-      "vol24": "$171K",
-      "slug": "acle-vik-jeo-2026-10-14-spread-home-1pt5"
+      "change": 53.4,
+      "vol24": "$1.2M",
+      "slug": "lol-we-bro2-2026-10-15-game1"
     },
     {
-      "question": "Roanne: Matisse Bobichon vs Billy Harris",
+      "question": "LoL: Team WE vs HANJIN BRION - Game 2 Winner",
       "prob": 99,
-      "change": 67.5,
-      "vol24": "$264K",
-      "slug": "atp-bobicho-harris-2026-10-12"
+      "change": 53.4,
+      "vol24": "$1.2M",
+      "slug": "lol-we-bro2-2026-10-15-game2"
     },
     {
-      "question": "LoL: BNK FEARX vs KT Rolster (BO5) - Demacia Cup Global Invitational Playoffs",
+      "question": "Dota 2: Team Lynx vs Dawn Bulls - Game 1 Winner",
       "prob": 99,
-      "change": 65.5,
-      "vol24": "$1.7M",
-      "slug": "lol-fox1-kt-2026-10-14"
+      "change": 53.4,
+      "vol24": "$181K",
+      "slug": "dota2-lynx-dawnbu-2026-10-15-game1"
     },
     {
-      "question": "LoL: BNK FEARX vs KT Rolster - Game 1 Winner",
-      "prob": 99,
-      "change": 58.5,
-      "vol24": "$1.1M",
-      "slug": "lol-fox1-kt-2026-10-14-game1"
+      "question": "Counter-Strike: MIBR vs BC.Game Esports - Map 1 Winner",
+      "prob": 1,
+      "change": -51.9,
+      "vol24": "$143K",
+      "slug": "cs2-mibr-bcg-2026-10-15-game1"
     },
     {
-      "question": "LoL: BNK FEARX vs KT Rolster - Game 3 Winner",
-      "prob": 99,
-      "change": 57.5,
-      "vol24": "$1.5M",
-      "slug": "lol-fox1-kt-2026-10-14-game3"
+      "question": "LoL: Team WE vs HANJIN BRION - Game 3 Winner",
+      "prob": 1,
+      "change": -46.5,
+      "vol24": "$1.3M",
+      "slug": "lol-we-bro2-2026-10-15-game3"
     }
   ],
   "top_vol": [
     {
-      "question": "LoL: BNK FEARX vs KT Rolster - Game 4 Winner",
-      "prob": 99,
-      "change": 50.9,
-      "vol24": "$1.9M",
-      "slug": "lol-fox1-kt-2026-10-14-game4"
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "prob": 72,
+      "change": -10.0,
+      "vol24": "$2.2M",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031"
     },
     {
-      "question": "LoL: BNK FEARX vs KT Rolster (BO5) - Demacia Cup Global Invitational Playoffs",
-      "prob": 99,
-      "change": 65.5,
-      "vol24": "$1.7M",
-      "slug": "lol-fox1-kt-2026-10-14"
+      "question": "Will Indiana enact a data center moratorium by December 31, 2027?",
+      "prob": 12,
+      "change": -5.0,
+      "vol24": "$2.1M",
+      "slug": "will-indiana-enact-a-data-center-moratorium-by-december-31-2027"
     },
     {
-      "question": "LoL: BNK FEARX vs KT Rolster - Game 3 Winner",
-      "prob": 99,
-      "change": 57.5,
-      "vol24": "$1.5M",
-      "slug": "lol-fox1-kt-2026-10-14-game3"
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "prob": 28,
+      "change": 10.0,
+      "vol24": "$1.6M",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032"
     }
   ]
 }
