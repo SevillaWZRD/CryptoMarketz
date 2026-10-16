@@ -1,65 +1,65 @@
 {
-  "date": "Thursday October 15, 2026",
-  "generated": "2026-10-15T12:12:29.971739Z",
-  "brief": "# ZIMR POLYMARKET BRIEFING | Thursday, October 15, 2026\n\n## Headline\n**Esports Sharp Action Overwhelms Macro Bets as Team WE Dominance Priced to Certainty**\n\n---\n\n## Market Intelligence\n\nThe narrative today is crystal clear: **smart money has already decided Team WE sweeps HANJIN BRION**. Both Game 1 and Game 2 winner markets sit at 99% with $1.2M each in volume, posting identical +53.4% moves. This isn't normal price discovery\u2014it's post-event certainty. Either WE's dominance is so overwhelming that the series outcome is a foregone conclusion, or there's been a material information leak (roster changes, map bans, scrim results). The real tell: Game 3 Winner is priced at 1%, meaning the market isn't hedging for a comeback scenario *at all*.\n\nCounter-Strike's MIBR vs BC.Game action is a direct contradiction signal. Map 1 Winner crashed to 1% (-51.9%), yet the BO3 spread sits at only 16% for MIBR. This suggests either: (a) MIBR recovered hard after Map 1 to near-even odds on Map 2, or (b) Map 1 is being discounted as non-indicative. The -26.5% move on Map 2 hints the latter\u2014early liquidation after Map 1 shock, now stabilizing.\n\n**The macro miss**: Fed rate hold at 72% lost -10% despite being the highest volume market ($2.2M). This suggests weak hands selling conviction into strength, not fresh directional conviction. Bitcoin's 1% probability on $86K is technically today's print\u2014likely an artifact of timing rather than genuine pricing.\n\n---\n\n## Watch List\n\n1. **LoL: Team WE vs HANJIN BRION (BO5) Moneyline - 55% | $1.4M vol**  \n   Why: If Games 1-2 are already confirmed WE, this becomes a Game 3 moneyline proxy. The 1% Game 3 odds imply 5-game sweep pricing ($1M+ still on table). Watch for public capitulation buying that pops this to 65%+.\n\n2. **Counter-Strike: MIBR vs BC.Game (BO3) - 16% | $439K vol**  \n   Why: Acute mispricing signal. If MIBR won Map 1 (prob 1%), they're likely 40-50% favorites in BO3, not 16%. Either Map 1 data is false or the market hasn't repriced. Sharp correction likely.\n\n3. **Will Fed hold rates steady - 72% | $2.2M vol**  \n   Why: Highest conviction, highest volume, but bleeding conviction (-10%). If this decision is announced *today* (check timing), watch for either a final capitulation dump to 65% (public panic) or a relief rally to 85%+ (resolved).\n\n---\n\n*ZIMR | Betting Against Consensus Since 2024*",
+  "date": "Friday October 16, 2026",
+  "generated": "2026-10-16T11:58:01.620913Z",
+  "brief": "# ZIMR CAPITAL MARKET INTELLIGENCE | Friday, October 16, 2026\n\n## Headline\n**\"Fed Holds Steady Consensus Hardens; Tesla Roadster Hype Detaches From Physics\"**\n\n---\n\n## The Signal\n\nThe market has decisively priced in a Fed hold. The no-change scenario sits at 86% (+14% today) on $785K volume, while rate cut odds have collapsed\u2014the 50+ bps cut market is trading at just 1%, down sharply. This isn't chatter; it's conviction. Smart money has rotated hard into stability trades ahead of what's clearly become an expected announcement.\n\nWhat's bizarre: the Tesla Roadster sub-1-second 0-60 market just exploded to 97% (+77.5%) on only $260K volume. This is thin, euphoric positioning on a physics-defiant claim. For context, the current record is 0.27 seconds in laboratory conditions. This looks like retail euphoria divorced from engineering reality\u2014watch for a violent correction if the actual spec drops.\n\nThe Brazilian election is the real liquidity sink at $1.3M volume on Lula at 22%. That's a tight race being heavily traded despite Fl\u00e1vio Bolsonaro holding 78% elsewhere. Cross-market arb opportunity if you're tracking Brazilian political risk across venues.\n\n---\n\n## Watch List\n\n1. **Fed Hold (86%, $785K)** \u2014 This is essentially locked. Any surprise easing chatter could reprrice crypto and equities fast. Monitor for any leaked decision signals.\n\n2. **Tesla Roadster 0-60 (97%)** \u2014 Peak hype territory. Waiting for the official spec release; expect 20-30% haircut on announcement if it misses sub-1-second claims.\n\n3. **Valorant: 100T vs G2 (44%, $376K)** \u2014 Largest esports volume today with sharp recent moves. High volatility; position sizing matters if you're in this space.",
   "top_movers": [
     {
-      "question": "LoL: Team WE vs HANJIN BRION - Game 1 Winner",
+      "question": "Will the Tesla Roadster's 0-60 time be less than 1 second?",
+      "prob": 97,
+      "change": 77.5,
+      "vol24": "$260K",
+      "slug": "will-the-tesla-roadsters-0-60-time-be-less-than-1-second"
+    },
+    {
+      "question": "Dota 2: Team Tidebound vs Resp Gaming (BO3) - BLAST Slam China Closed Qualifier Playoffs",
+      "prob": 50,
+      "change": -40.0,
+      "vol24": "$123K",
+      "slug": "dota2-tt2-rg6-2026-10-15"
+    },
+    {
+      "question": "Will the price of Bitcoin be above $80,000 on October 16?",
       "prob": 99,
-      "change": 53.4,
-      "vol24": "$1.2M",
-      "slug": "lol-we-bro2-2026-10-15-game1"
+      "change": 27.5,
+      "vol24": "$198K",
+      "slug": "bitcoin-above-80k-on-october-16-2026"
     },
     {
-      "question": "LoL: Team WE vs HANJIN BRION - Game 2 Winner",
-      "prob": 99,
-      "change": 53.4,
-      "vol24": "$1.2M",
-      "slug": "lol-we-bro2-2026-10-15-game2"
+      "question": "Valorant: 100 Thieves vs G2 Esports (BO3) - VCT Champions Playoffs",
+      "prob": 44,
+      "change": -21.0,
+      "vol24": "$376K",
+      "slug": "val-100t1-g21-2026-10-16"
     },
     {
-      "question": "Dota 2: Team Lynx vs Dawn Bulls - Game 1 Winner",
-      "prob": 99,
-      "change": 53.4,
-      "vol24": "$181K",
-      "slug": "dota2-lynx-dawnbu-2026-10-15-game1"
-    },
-    {
-      "question": "Counter-Strike: MIBR vs BC.Game Esports - Map 1 Winner",
-      "prob": 1,
-      "change": -51.9,
-      "vol24": "$143K",
-      "slug": "cs2-mibr-bcg-2026-10-15-game1"
-    },
-    {
-      "question": "LoL: Team WE vs HANJIN BRION - Game 3 Winner",
-      "prob": 1,
-      "change": -46.5,
-      "vol24": "$1.3M",
-      "slug": "lol-we-bro2-2026-10-15-game3"
+      "question": "Will Bitcoin dip to $77,500 in October?",
+      "prob": 32,
+      "change": -20.0,
+      "vol24": "$245K",
+      "slug": "will-bitcoin-dip-to-77pt5k-in-october-2026"
     }
   ],
   "top_vol": [
     {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "prob": 72,
-      "change": -10.0,
-      "vol24": "$2.2M",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031"
+      "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+      "prob": 22,
+      "change": 1.0,
+      "vol24": "$1.3M",
+      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election"
     },
     {
-      "question": "Will Indiana enact a data center moratorium by December 31, 2027?",
-      "prob": 12,
-      "change": -5.0,
-      "vol24": "$2.1M",
-      "slug": "will-indiana-enact-a-data-center-moratorium-by-december-31-2027"
+      "question": "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?",
+      "prob": 1,
+      "change": 0,
+      "vol24": "$1.1M",
+      "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029"
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "prob": 28,
-      "change": 10.0,
-      "vol24": "$1.6M",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032"
+      "question": "Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul",
+      "prob": 86,
+      "change": 19.0,
+      "vol24": "$1.0M",
+      "slug": "atp-medvede-paul-2026-10-15"
     }
   ]
 }
