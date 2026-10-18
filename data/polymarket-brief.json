@@ -1,65 +1,65 @@
 {
-  "date": "Saturday October 17, 2026",
-  "generated": "2026-10-17T11:13:27.758076Z",
-  "brief": "# ZIMR CAPITAL POLYMARKET BRIEF | Saturday, October 17, 2026\n\n## Headline\n**Esports Dominance Over Tennis: Asian LoL Markets Pricing in Certainty While Rolex Masters Sees Sharp Capitulation**\n\n---\n\n## Market Signals\n\nThe narrative today is stark: BNK FEARX is being priced as unbeatable in the Demacia Cup Global Invitational, with Games 1 and 2 winner markets sitting at 99% despite $789K-$825K daily volume each. This isn't passive stacking\u2014it's aggressive conviction. Meanwhile, the BO5 series itself at 92% suggests modest tail-risk pricing for a 5-game series, creating a subtle arbitrage: if you believe Game 3+ are closer contests, the series market offers value.\n\nThe Rolex Masters Zverev-Davidovich Fokina line collapsed 75.4% in 24 hours and now sits at 1% (Zverev)\u2014a classic capitulation sell. $1.1M volume on a dead match signals forced liquidation or late news (injury? withdrawal?). Without context, this is toxic liquidity. Smart money likely exited before the cliff.\n\nThe Tesla Roadster 0-60 market at 99% with $5.4M volume is your canary in the coal mine. That's not a prediction\u2014that's market participants locking in what they believe is inevitable physics. When a single market captures $5.4M in volume, it's pulling liquidity from everything else.\n\n---\n\n## Watch List\n\n1. **Shanghai Rolex Masters (Zverev 1%)**  \n   Why: Find the catalyst. A 75% daily crash needs investigation before taking a contrarian fade. If it's match-fixing chatter or a legitimate withdrawal, 1% might be justified. If it's panic, there's a 3-7% swing waiting.\n\n2. **BNK FEARX Game 3 Winner (50%)**  \n   Why: Only market in the series pricing uncertainty. If Games 1-2 were as dominant as 99% suggests, Game 3 should be lower. Either the narrative shifts post-Game 2, or this is mispriced. Monitor pre-game odds movement.\n\n3. **Chelsea FC Win (40%)**  \n   Why: $512K volume on a single-day match suggests sharp action. Track team news and pregame lineup confirmations; this line might be fishing for late withdrawal bets.",
+  "date": "Sunday October 18, 2026",
+  "generated": "2026-10-18T11:49:05.917699Z",
+  "brief": "# ZIMR CAPITAL MARKET BRIEF | Sunday, October 18, 2026\n\n## Headline\n**Soccer Sentiment Shifts: Money Flowing to Favorites While Underdogs Get Crushed**\n\n---\n\n## Market Intelligence\n\nThe Sunday soccer slate is telling a clean story: smart money is consolidating around heavy favorites. **US Lecce's 86% bid (+65% today, $221K) and Shanghai Shenhua's 82% (+39.5%, $249K) are the sharpest movers**, suggesting coordinated backing of sides expected to dominate. The real signal is on the flip side\u2014**Udinese collapsed from even money to 3% (-48.4%, $442K)**, indicating confident market positioning against an underdog. This isn't panic selling; this is disciplined reallocation.\n\nThe **O/U 2.5 at 78% (+30%)** on the Udinese-Lecce match reinforces the narrative: the market isn't just picking Lecce to win, it's pricing a high-scoring affair. That's a compound bet worth tracking. Meanwhile, **Brighton's $3.6M volume at 68%** suggests institutional cash rotating into the highest-liquidity match, consistent with weekend risk-on positioning in major leagues.\n\nOne potential mispricing: **Paris FC at 46% (+4%)** with only $187K volume looks thin relative to conviction elsewhere. Either there's legitimate indecision here, or this is a contrarian opportunity if you believe the market is over-indexing on favorites today.\n\n---\n\n## Watch List\n\n1. **Udinese Calcio vs. US Lecce O/U 2.5 (78%)** \u2014 If Lecce's win probability is truly 86%, a 78% over suggests the market still sees this as competitive on goals. Monitor live betting shifts; if Lecce goes up early, unders could face capitulation.\n\n2. **Brighton & Hove Albion (68%, $3.6M)** \u2014 Highest conviction + highest volume = potential closing line. Watch if liquidity continues into match time; if it stops, that's a signal the smart money is already positioned.\n\n3. **Fl\u00e1vio Bolsonaro 2026 Brazilian Election (81%, +4.1%)** \u2014 $1.7M combined volume (Fl\u00e1vio + Lula). This isn't a Sunday blip; this is real directional conviction. The 81% bid is now 3:1 odds. Monitor for news events that could trigger reversal.",
   "top_movers": [
     {
-      "question": "Shanghai Rolex Masters: Alexander Zverev vs Alejandro Davidovich Fokina",
-      "prob": 1,
-      "change": -75.4,
-      "vol24": "$1.1M",
-      "slug": "atp-zverev-fokina-2026-10-16"
+      "question": "Will US Lecce win on 2026-10-18?",
+      "prob": 86,
+      "change": 65.0,
+      "vol24": "$221K",
+      "slug": "sea-udi-lec-2026-10-18-lec"
     },
     {
-      "question": "LoL: BNK FEARX vs Team WE - Game 1 Winner",
-      "prob": 99,
-      "change": 41.4,
-      "vol24": "$789K",
-      "slug": "lol-fox1-we-2026-10-17-game1"
+      "question": "Will Udinese Calcio win on 2026-10-18?",
+      "prob": 3,
+      "change": -48.4,
+      "vol24": "$442K",
+      "slug": "sea-udi-lec-2026-10-18-udi"
     },
     {
-      "question": "LoL: BNK FEARX vs Team WE - Game 2 Winner",
-      "prob": 99,
-      "change": 40.5,
-      "vol24": "$825K",
-      "slug": "lol-fox1-we-2026-10-17-game2"
+      "question": "Will Go Ahead Eagles win on 2026-10-18?",
+      "prob": 9,
+      "change": -40.5,
+      "vol24": "$144K",
+      "slug": "ere-zwo-goa-2026-10-18-goa"
     },
     {
-      "question": "LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs",
-      "prob": 92,
-      "change": 24.0,
-      "vol24": "$1.1M",
-      "slug": "lol-fox1-we-2026-10-17"
+      "question": "Will Shanghai Shenhua FC win on 2026-10-18?",
+      "prob": 82,
+      "change": 39.5,
+      "vol24": "$249K",
+      "slug": "chi-wsz-sgr-2026-10-18-sgr"
     },
     {
-      "question": "Wuhan Tennis Open: Sonay Kartal vs Jelena Ostapenko",
-      "prob": 72,
-      "change": 17.0,
-      "vol24": "$345K",
-      "slug": "wta-kartal-ostapen-2026-10-16"
+      "question": "Udinese Calcio vs. US Lecce: O/U 2.5",
+      "prob": 78,
+      "change": 30.0,
+      "vol24": "$354K",
+      "slug": "sea-udi-lec-2026-10-18-total-2pt5"
     }
   ],
   "top_vol": [
     {
-      "question": "Will the Tesla Roadster's 0-60 time be less than 1 second?",
-      "prob": 99,
-      "change": 2.6,
-      "vol24": "$5.4M",
-      "slug": "will-the-tesla-roadsters-0-60-time-be-less-than-1-second"
+      "question": "Will Brighton & Hove Albion FC win on 2026-10-18?",
+      "prob": 68,
+      "change": 3.0,
+      "vol24": "$3.6M",
+      "slug": "epl-bri-cry-2026-10-18-bri"
     },
     {
-      "question": "Valorant: Team Vitality vs 100 Thieves (BO5) - VCT Champions Playoffs",
-      "prob": 96,
-      "change": 0,
-      "vol24": "$1.2M",
-      "slug": "val-vit-100t1-2026-10-17"
+      "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+      "prob": 81,
+      "change": 4.1,
+      "vol24": "$955K",
+      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election"
     },
     {
-      "question": "Shanghai Rolex Masters: Alexander Zverev vs Alejandro Davidovich Fokina",
-      "prob": 1,
-      "change": -75.4,
-      "vol24": "$1.1M",
-      "slug": "atp-zverev-fokina-2026-10-16"
+      "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+      "prob": 20,
+      "change": -4.0,
+      "vol24": "$783K",
+      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election"
     }
   ]
 }
