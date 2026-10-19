@@ -1,65 +1,65 @@
 {
-  "date": "Sunday October 18, 2026",
-  "generated": "2026-10-18T11:49:05.917699Z",
-  "brief": "# ZIMR CAPITAL MARKET BRIEF | Sunday, October 18, 2026\n\n## Headline\n**Soccer Sentiment Shifts: Money Flowing to Favorites While Underdogs Get Crushed**\n\n---\n\n## Market Intelligence\n\nThe Sunday soccer slate is telling a clean story: smart money is consolidating around heavy favorites. **US Lecce's 86% bid (+65% today, $221K) and Shanghai Shenhua's 82% (+39.5%, $249K) are the sharpest movers**, suggesting coordinated backing of sides expected to dominate. The real signal is on the flip side\u2014**Udinese collapsed from even money to 3% (-48.4%, $442K)**, indicating confident market positioning against an underdog. This isn't panic selling; this is disciplined reallocation.\n\nThe **O/U 2.5 at 78% (+30%)** on the Udinese-Lecce match reinforces the narrative: the market isn't just picking Lecce to win, it's pricing a high-scoring affair. That's a compound bet worth tracking. Meanwhile, **Brighton's $3.6M volume at 68%** suggests institutional cash rotating into the highest-liquidity match, consistent with weekend risk-on positioning in major leagues.\n\nOne potential mispricing: **Paris FC at 46% (+4%)** with only $187K volume looks thin relative to conviction elsewhere. Either there's legitimate indecision here, or this is a contrarian opportunity if you believe the market is over-indexing on favorites today.\n\n---\n\n## Watch List\n\n1. **Udinese Calcio vs. US Lecce O/U 2.5 (78%)** \u2014 If Lecce's win probability is truly 86%, a 78% over suggests the market still sees this as competitive on goals. Monitor live betting shifts; if Lecce goes up early, unders could face capitulation.\n\n2. **Brighton & Hove Albion (68%, $3.6M)** \u2014 Highest conviction + highest volume = potential closing line. Watch if liquidity continues into match time; if it stops, that's a signal the smart money is already positioned.\n\n3. **Fl\u00e1vio Bolsonaro 2026 Brazilian Election (81%, +4.1%)** \u2014 $1.7M combined volume (Fl\u00e1vio + Lula). This isn't a Sunday blip; this is real directional conviction. The 81% bid is now 3:1 odds. Monitor for news events that could trigger reversal.",
+  "date": "Monday October 19, 2026",
+  "generated": "2026-10-19T14:06:25.981527Z",
+  "brief": "# POLYMARKET DAILY BRIEF | Monday, October 19, 2026\n\n## HEADLINE\n**Bitcoin Breaks Through: Market Pricing 99% Odds of $80K Print Today as Risk-Off Sentiment Fades**\n\n---\n\n## THE SIGNAL\n\nThe overnight move is unmistakable\u2014Bitcoin probability markets are screaming conviction. The $80K threshold hit 99% overnight, while the broader \"BTC Up or Down\" contract surged 36% to 87%, suggesting smart money frontran a morning breakout. This isn't noise; $371K in combined volume overnight on these two markets alone signals institutional accumulation ahead of what traders expect to be a positive close.\n\nThe Fed sitting pat (86% probability for no change) is the macro permission structure here. With rate expectations frozen through October, carry trades are re-engaging and risk appetite is returning. The $1.3M in volume on the 50bps cut option (sitting at 1%) is the real tell\u2014nobody's pricing recession anymore.\n\n**The misprint to watch:** Lyon Open (Faria vs Balshaw) cratered 23% today at 36%. That's panic-selling territory for a -3.5 favorite with $373K volume. Could be sharp money rotating capital elsewhere, or tennis model catching an edge everyone else missed. Monitor for mid-day reversal.\n\n---\n\n## WATCH LIST\n\n1. **Bitcoin $80K threshold (99%)** \u2014 Watch for a potential pullback if it actually closes above. 99% is maximum conviction; profit-taking could be violent. First support is $78.5K.\n\n2. **Fed No Change (86%)** \u2014 Highest volume cluster ($3.4M across rate markets). Any hawkish Powell comment this week reverses the entire risk-on setup.\n\n3. **Fl\u00e1vio Bolsonaro Brazilian election (77%)** \u2014 Up $451K volume on Lula, down 3.9% on Bolsonaro. Tracking real-time polling as October data drops. This market moves on concrete events, not sentiment.",
   "top_movers": [
     {
-      "question": "Will US Lecce win on 2026-10-18?",
-      "prob": 86,
-      "change": 65.0,
-      "vol24": "$221K",
-      "slug": "sea-udi-lec-2026-10-18-lec"
+      "question": "Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5",
+      "prob": 1,
+      "change": -47.4,
+      "vol24": "$289K",
+      "slug": "mlb-tb-cle-2026-10-17-total-6pt5"
     },
     {
-      "question": "Will Udinese Calcio win on 2026-10-18?",
-      "prob": 3,
-      "change": -48.4,
-      "vol24": "$442K",
-      "slug": "sea-udi-lec-2026-10-18-udi"
+      "question": "Bitcoin Up or Down on October 19?",
+      "prob": 87,
+      "change": 36.2,
+      "vol24": "$154K",
+      "slug": "bitcoin-up-or-down-on-october-19-2026"
     },
     {
-      "question": "Will Go Ahead Eagles win on 2026-10-18?",
-      "prob": 9,
-      "change": -40.5,
-      "vol24": "$144K",
-      "slug": "ere-zwo-goa-2026-10-18-goa"
+      "question": "Japan Women's Open: Katie Boulter vs Himeno Sakatsume",
+      "prob": 94,
+      "change": 29.0,
+      "vol24": "$367K",
+      "slug": "wta-boulter-sakatsu-2026-10-18"
     },
     {
-      "question": "Will Shanghai Shenhua FC win on 2026-10-18?",
-      "prob": 82,
-      "change": 39.5,
-      "vol24": "$249K",
-      "slug": "chi-wsz-sgr-2026-10-18-sgr"
+      "question": "Lyon Open: Jaime Faria vs Felix Balshaw",
+      "prob": 36,
+      "change": -23.0,
+      "vol24": "$373K",
+      "slug": "atp-faria-balshaw-2026-10-19"
     },
     {
-      "question": "Udinese Calcio vs. US Lecce: O/U 2.5",
-      "prob": 78,
-      "change": 30.0,
-      "vol24": "$354K",
-      "slug": "sea-udi-lec-2026-10-18-total-2pt5"
+      "question": "Will the price of Bitcoin be above $80,000 on October 19?",
+      "prob": 99,
+      "change": 16.1,
+      "vol24": "$217K",
+      "slug": "bitcoin-above-80k-on-october-19-2026"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Brighton & Hove Albion FC win on 2026-10-18?",
-      "prob": 68,
-      "change": 3.0,
-      "vol24": "$3.6M",
-      "slug": "epl-bri-cry-2026-10-18-bri"
+      "question": "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?",
+      "prob": 1,
+      "change": -0.1,
+      "vol24": "$1.3M",
+      "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029"
     },
     {
-      "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-      "prob": 81,
-      "change": 4.1,
-      "vol24": "$955K",
-      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election"
+      "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
+      "prob": 1,
+      "change": 0,
+      "vol24": "$860K",
+      "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030"
     },
     {
-      "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-      "prob": 20,
-      "change": -4.0,
-      "vol24": "$783K",
-      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election"
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "prob": 14,
+      "change": 1.0,
+      "vol24": "$814K",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032"
     }
   ]
 }
