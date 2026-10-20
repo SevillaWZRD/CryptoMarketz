@@ -1,65 +1,65 @@
 {
-  "date": "Monday October 19, 2026",
-  "generated": "2026-10-19T14:06:25.981527Z",
-  "brief": "# POLYMARKET DAILY BRIEF | Monday, October 19, 2026\n\n## HEADLINE\n**Bitcoin Breaks Through: Market Pricing 99% Odds of $80K Print Today as Risk-Off Sentiment Fades**\n\n---\n\n## THE SIGNAL\n\nThe overnight move is unmistakable\u2014Bitcoin probability markets are screaming conviction. The $80K threshold hit 99% overnight, while the broader \"BTC Up or Down\" contract surged 36% to 87%, suggesting smart money frontran a morning breakout. This isn't noise; $371K in combined volume overnight on these two markets alone signals institutional accumulation ahead of what traders expect to be a positive close.\n\nThe Fed sitting pat (86% probability for no change) is the macro permission structure here. With rate expectations frozen through October, carry trades are re-engaging and risk appetite is returning. The $1.3M in volume on the 50bps cut option (sitting at 1%) is the real tell\u2014nobody's pricing recession anymore.\n\n**The misprint to watch:** Lyon Open (Faria vs Balshaw) cratered 23% today at 36%. That's panic-selling territory for a -3.5 favorite with $373K volume. Could be sharp money rotating capital elsewhere, or tennis model catching an edge everyone else missed. Monitor for mid-day reversal.\n\n---\n\n## WATCH LIST\n\n1. **Bitcoin $80K threshold (99%)** \u2014 Watch for a potential pullback if it actually closes above. 99% is maximum conviction; profit-taking could be violent. First support is $78.5K.\n\n2. **Fed No Change (86%)** \u2014 Highest volume cluster ($3.4M across rate markets). Any hawkish Powell comment this week reverses the entire risk-on setup.\n\n3. **Fl\u00e1vio Bolsonaro Brazilian election (77%)** \u2014 Up $451K volume on Lula, down 3.9% on Bolsonaro. Tracking real-time polling as October data drops. This market moves on concrete events, not sentiment.",
+  "date": "Tuesday October 20, 2026",
+  "generated": "2026-10-20T12:20:56.179334Z",
+  "brief": "# ZIMR Daily Briefing | October 20, 2026\n\n## Headline\n**Ceasefire Holds But Frays: Market Pricing Iran Deal Through Midterms Despite Geopolitical Creep**\n\n---\n\n## The Signal\n\nThe US-Iran ceasefire is holding\u2014but barely. Both 10-day and midterm continuation markets sit at 78%, suggesting traders are pricing in high confidence through election cycle. Yet volume tells a different story: $646K flowing into the Oct 31 extension while NATO-Russia clash odds tick up 4.0% to just 12%. Smart money isn't sleeping; they're hedging.\n\nThe Fed rate decision market is screaming divergence. A 25bp *cut* trades at just 1% ($779K volume\u2014massive!) while a 25bp *hike* sits at 14% ($642K). This isn't a close call\u2014the market is essentially pricing in hawkish hold or tightening. If you see the cut odds spike, that's your signal Powell blinked. Watch for pre-FOMC volatility.\n\nOn softer signals: Griekspoor's tennis match exploded +24.4% to 99%\u2014likely late-breaking news (injury to opponent?). That's not a trading opportunity, that's a warning to verify before chasing. Barcelona -40% volume is massive but odds are already compressed; no edge there.\n\n---\n\n## Watch List Today\n\n1. **US x Iran ceasefire through October 22** (93% | $830K) \u2014 The shortest-dated continuation. If this slips below 90%, you're seeing real market panic about imminent escalation. Your leading indicator.\n\n2. **Fed Rate Decision (25bp cut)** (1% | $779K) \u2014 Dead money at these odds IF Powell holds. But $779K volume means smart money knows something. Monitor pre-market Fed speak for any dovish crack.\n\n3. **NATO x Russia military clash by Oct 31** (12% | +4.0%) \u2014 Directional move despite low odds suggests tail-risk accumulation. Watch if this breaks 15%\u2014signals hot geopolitical deterioration.",
   "top_movers": [
     {
-      "question": "Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5",
-      "prob": 1,
-      "change": -47.4,
-      "vol24": "$289K",
-      "slug": "mlb-tb-cle-2026-10-17-total-6pt5"
-    },
-    {
-      "question": "Bitcoin Up or Down on October 19?",
-      "prob": 87,
-      "change": 36.2,
-      "vol24": "$154K",
-      "slug": "bitcoin-up-or-down-on-october-19-2026"
-    },
-    {
-      "question": "Japan Women's Open: Katie Boulter vs Himeno Sakatsume",
-      "prob": 94,
-      "change": 29.0,
-      "vol24": "$367K",
-      "slug": "wta-boulter-sakatsu-2026-10-18"
-    },
-    {
-      "question": "Lyon Open: Jaime Faria vs Felix Balshaw",
-      "prob": 36,
-      "change": -23.0,
-      "vol24": "$373K",
-      "slug": "atp-faria-balshaw-2026-10-19"
-    },
-    {
-      "question": "Will the price of Bitcoin be above $80,000 on October 19?",
+      "question": "European Open: Tallon Griekspoor vs Max Schoenhaus",
       "prob": 99,
-      "change": 16.1,
-      "vol24": "$217K",
-      "slug": "bitcoin-above-80k-on-october-19-2026"
+      "change": 24.4,
+      "vol24": "$273K",
+      "slug": "atp-grieksp-schoenh-2026-10-19"
+    },
+    {
+      "question": "Ningbo Open: Hanyu Guo vs Ekaterina Alexandrova",
+      "prob": 8,
+      "change": -14.0,
+      "vol24": "$115K",
+      "slug": "wta-guo-alexand-2026-10-18"
+    },
+    {
+      "question": "Ningbo Open: Katarzyna Kawa vs Daria Snigur",
+      "prob": 18,
+      "change": -8.0,
+      "vol24": "$248K",
+      "slug": "wta-kawa-snigur-2026-10-20"
+    },
+    {
+      "question": "Will Harry Kane win the 2026 Ballon d'Or?",
+      "prob": 72,
+      "change": 5.4,
+      "vol24": "$147K",
+      "slug": "will-harry-kane-win-the-2026-ballon-dor"
+    },
+    {
+      "question": "Will Lamine Yamal win the 2026 Ballon d'Or?",
+      "prob": 20,
+      "change": -5.3,
+      "vol24": "$174K",
+      "slug": "will-lamine-yamal-win-the-2026-ballon-dor"
     }
   ],
   "top_vol": [
     {
-      "question": "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?",
-      "prob": 1,
-      "change": -0.1,
-      "vol24": "$1.3M",
-      "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029"
+      "question": "Will FC Barcelona win on 2026-10-20?",
+      "prob": 40,
+      "change": -1.0,
+      "vol24": "$881K",
+      "slug": "ucl-psg-fcb-2026-10-20-fcb"
+    },
+    {
+      "question": "US x Iran ceasefire continues through October 22?",
+      "prob": 93,
+      "change": -3.2,
+      "vol24": "$830K",
+      "slug": "us-x-iran-ceasefire-continues-through-october-22"
     },
     {
       "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
       "prob": 1,
       "change": 0,
-      "vol24": "$860K",
+      "vol24": "$779K",
       "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030"
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "prob": 14,
-      "change": 1.0,
-      "vol24": "$814K",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032"
     }
   ]
 }
