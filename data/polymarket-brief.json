@@ -1,65 +1,65 @@
 {
-  "date": "Tuesday October 20, 2026",
-  "generated": "2026-10-20T12:20:56.179334Z",
-  "brief": "# ZIMR Daily Briefing | October 20, 2026\n\n## Headline\n**Ceasefire Holds But Frays: Market Pricing Iran Deal Through Midterms Despite Geopolitical Creep**\n\n---\n\n## The Signal\n\nThe US-Iran ceasefire is holding\u2014but barely. Both 10-day and midterm continuation markets sit at 78%, suggesting traders are pricing in high confidence through election cycle. Yet volume tells a different story: $646K flowing into the Oct 31 extension while NATO-Russia clash odds tick up 4.0% to just 12%. Smart money isn't sleeping; they're hedging.\n\nThe Fed rate decision market is screaming divergence. A 25bp *cut* trades at just 1% ($779K volume\u2014massive!) while a 25bp *hike* sits at 14% ($642K). This isn't a close call\u2014the market is essentially pricing in hawkish hold or tightening. If you see the cut odds spike, that's your signal Powell blinked. Watch for pre-FOMC volatility.\n\nOn softer signals: Griekspoor's tennis match exploded +24.4% to 99%\u2014likely late-breaking news (injury to opponent?). That's not a trading opportunity, that's a warning to verify before chasing. Barcelona -40% volume is massive but odds are already compressed; no edge there.\n\n---\n\n## Watch List Today\n\n1. **US x Iran ceasefire through October 22** (93% | $830K) \u2014 The shortest-dated continuation. If this slips below 90%, you're seeing real market panic about imminent escalation. Your leading indicator.\n\n2. **Fed Rate Decision (25bp cut)** (1% | $779K) \u2014 Dead money at these odds IF Powell holds. But $779K volume means smart money knows something. Monitor pre-market Fed speak for any dovish crack.\n\n3. **NATO x Russia military clash by Oct 31** (12% | +4.0%) \u2014 Directional move despite low odds suggests tail-risk accumulation. Watch if this breaks 15%\u2014signals hot geopolitical deterioration.",
+  "date": "Wednesday October 21, 2026",
+  "generated": "2026-10-21T12:29:58.880039Z",
+  "brief": "# POLYMARKET DAILY BRIEF | Wednesday, October 21, 2026\n\n## \"Tennis Volatility Meets Political Conviction: Markets Pricing Bolsonaro Sweep, Bayern Stall\"\n\n**THE SIGNAL**\n\nSport markets are eating geopolitical lunch today. The Almaty tennis matchup (Mannarino-Rublev) has become a 99% certainty with $500K flowing in\u2014classic late-money confidence. Meanwhile, the real action is in Brazilian politics where smart money is all-in on a Bolsonaro family sweep. Fl\u00e1vio hitting 80% (+3.6%) while Lula sits at 20% suggests markets are already pricing either a decisive rightward shift or a structural polling miss no one's talking about yet. The $640K volume on Fl\u00e1vio vs. $645K on Lula shows this is *the* contested market.\n\n**WHAT'S MOVING**\n\nBayern Munich's 44% line is getting hammered ($928K volume, highest on platform) despite only -4% daily movement\u2014suggests uncertainty, not conviction. The US-Iran ceasefire holding through Oct 22 sits quietly at 97%, barely moving (+3.8%), which screams: market thinks risk is priced out. Watch for geopolitical delta. On Senate outcomes, the 8% shot on Full Republican control and 28% on split (R Senate, D House) show bettors expect divided government\u2014but that $806K volume on the R-R scenario indicates someone's building a position on the outlier.\n\n**THE MISPRICING WATCH**\n\nSorana Cirstea collapsing to 28% (-37.5% today) in Ningbo feels like panic selling on a single loss or line move. Worth monitoring if this is information or emotion. The Internazionale-Shakhtar under 4.5 goals at 30% is suspiciously low for a UEFA match\u2014either sharp money sees defensive chess or there's value if you think it stays tight.\n\n---\n\n## WATCH LIST\n\n1. **Fl\u00e1vio Bolsonaro 2026 Brazil Election | 80%** \u2014 Highest conviction political market today. If this moves below 75%, it signals serious new intel. $640K volume = real money. Track vs. Lula spread for regime-change expectations.\n\n2. **Bayern Munich Win (Oct 21) | 44%** \u2014 Highest volume, lowest conviction. Massive uncertainty despite being game day. Sharp moves here suggest late line information traders are catching before kickoff.\n\n3. **US-Iran Ceasefire Through Oct 22 | 97%** \u2014 Risk asymmetry play. Only 24hrs to expiration. If this dips below 94%, it's an early warning signal markets are repricing geopolitical risk.",
   "top_movers": [
     {
-      "question": "European Open: Tallon Griekspoor vs Max Schoenhaus",
+      "question": "Almaty Open: Adrian Mannarino vs Andrey Rublev",
       "prob": 99,
-      "change": 24.4,
-      "vol24": "$273K",
-      "slug": "atp-grieksp-schoenh-2026-10-19"
+      "change": 75.4,
+      "vol24": "$500K",
+      "slug": "atp-mannari-rublev-2026-10-21"
     },
     {
-      "question": "Ningbo Open: Hanyu Guo vs Ekaterina Alexandrova",
-      "prob": 8,
-      "change": -14.0,
-      "vol24": "$115K",
-      "slug": "wta-guo-alexand-2026-10-18"
+      "question": "European Open: Dino Prizmic vs Damir Dzumhur",
+      "prob": 1,
+      "change": -70.5,
+      "vol24": "$341K",
+      "slug": "atp-prizmic-dzumhur-2026-10-19"
     },
     {
-      "question": "Ningbo Open: Katarzyna Kawa vs Daria Snigur",
-      "prob": 18,
-      "change": -8.0,
-      "vol24": "$248K",
-      "slug": "wta-kawa-snigur-2026-10-20"
+      "question": "Ningbo Open: Sorana Cirstea vs Sara Bejlek",
+      "prob": 28,
+      "change": -37.5,
+      "vol24": "$241K",
+      "slug": "wta-cirstea-bejlek-2026-10-20"
     },
     {
-      "question": "Will Harry Kane win the 2026 Ballon d'Or?",
-      "prob": 72,
-      "change": 5.4,
-      "vol24": "$147K",
-      "slug": "will-harry-kane-win-the-2026-ballon-dor"
+      "question": "Florence: Yanaki Milev vs Lorenzo Giustino",
+      "prob": 70,
+      "change": 31.0,
+      "vol24": "$155K",
+      "slug": "atp-milev-giustin-2026-10-20"
     },
     {
-      "question": "Will Lamine Yamal win the 2026 Ballon d'Or?",
-      "prob": 20,
-      "change": -5.3,
-      "vol24": "$174K",
-      "slug": "will-lamine-yamal-win-the-2026-ballon-dor"
+      "question": "FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 4.5",
+      "prob": 30,
+      "change": -6.0,
+      "vol24": "$154K",
+      "slug": "ucl-int-shd-2026-10-21-total-4pt5"
     }
   ],
   "top_vol": [
     {
-      "question": "Will FC Barcelona win on 2026-10-20?",
-      "prob": 40,
-      "change": -1.0,
-      "vol24": "$881K",
-      "slug": "ucl-psg-fcb-2026-10-20-fcb"
+      "question": "Will FC Bayern M\u00fcnchen win on 2026-10-21?",
+      "prob": 44,
+      "change": -4.0,
+      "vol24": "$928K",
+      "slug": "ucl-bay-ars-2026-10-21-bay"
     },
     {
-      "question": "US x Iran ceasefire continues through October 22?",
-      "prob": 93,
-      "change": -3.2,
-      "vol24": "$830K",
-      "slug": "us-x-iran-ceasefire-continues-through-october-22"
-    },
-    {
-      "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
-      "prob": 1,
+      "question": "2026 Balance of Power: R Senate, R House",
+      "prob": 8,
       "change": 0,
-      "vol24": "$779K",
-      "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030"
+      "vol24": "$806K",
+      "slug": "2026-balance-of-power-r-senate-r-house-537"
+    },
+    {
+      "question": "2026 Balance of Power: R Senate, D House",
+      "prob": 28,
+      "change": 0,
+      "vol24": "$661K",
+      "slug": "2026-balance-of-power-r-senate-d-house-444"
     }
   ]
 }
