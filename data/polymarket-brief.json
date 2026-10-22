@@ -1,65 +1,65 @@
 {
-  "date": "Wednesday October 21, 2026",
-  "generated": "2026-10-21T12:29:58.880039Z",
-  "brief": "# POLYMARKET DAILY BRIEF | Wednesday, October 21, 2026\n\n## \"Tennis Volatility Meets Political Conviction: Markets Pricing Bolsonaro Sweep, Bayern Stall\"\n\n**THE SIGNAL**\n\nSport markets are eating geopolitical lunch today. The Almaty tennis matchup (Mannarino-Rublev) has become a 99% certainty with $500K flowing in\u2014classic late-money confidence. Meanwhile, the real action is in Brazilian politics where smart money is all-in on a Bolsonaro family sweep. Fl\u00e1vio hitting 80% (+3.6%) while Lula sits at 20% suggests markets are already pricing either a decisive rightward shift or a structural polling miss no one's talking about yet. The $640K volume on Fl\u00e1vio vs. $645K on Lula shows this is *the* contested market.\n\n**WHAT'S MOVING**\n\nBayern Munich's 44% line is getting hammered ($928K volume, highest on platform) despite only -4% daily movement\u2014suggests uncertainty, not conviction. The US-Iran ceasefire holding through Oct 22 sits quietly at 97%, barely moving (+3.8%), which screams: market thinks risk is priced out. Watch for geopolitical delta. On Senate outcomes, the 8% shot on Full Republican control and 28% on split (R Senate, D House) show bettors expect divided government\u2014but that $806K volume on the R-R scenario indicates someone's building a position on the outlier.\n\n**THE MISPRICING WATCH**\n\nSorana Cirstea collapsing to 28% (-37.5% today) in Ningbo feels like panic selling on a single loss or line move. Worth monitoring if this is information or emotion. The Internazionale-Shakhtar under 4.5 goals at 30% is suspiciously low for a UEFA match\u2014either sharp money sees defensive chess or there's value if you think it stays tight.\n\n---\n\n## WATCH LIST\n\n1. **Fl\u00e1vio Bolsonaro 2026 Brazil Election | 80%** \u2014 Highest conviction political market today. If this moves below 75%, it signals serious new intel. $640K volume = real money. Track vs. Lula spread for regime-change expectations.\n\n2. **Bayern Munich Win (Oct 21) | 44%** \u2014 Highest volume, lowest conviction. Massive uncertainty despite being game day. Sharp moves here suggest late line information traders are catching before kickoff.\n\n3. **US-Iran Ceasefire Through Oct 22 | 97%** \u2014 Risk asymmetry play. Only 24hrs to expiration. If this dips below 94%, it's an early warning signal markets are repricing geopolitical risk.",
+  "date": "Thursday October 22, 2026",
+  "generated": "2026-10-22T12:34:27.998176Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | Thursday, October 22, 2026\n\n## HEADLINE\n**Ceasefire Skepticism Spreads as October 22 Deadline Looms\u2014Markets Pricing Imminent Escalation Risk**\n\n---\n\n## ANALYSIS\n\nThe ceasefire complex is showing cracks. The US-Iran October 22 deadline\u2014literally *today*\u2014is trading at 92% hold probability on $1M volume, down 4.4% overnight. That's the market's polite way of saying \"we think something breaks here.\" The 31-day extension (72%) and 24-day windows (86%) are both softening, suggesting traders see a cliff event at midnight rather than orderly rollovers. This isn't panic yet, but it's pricing in material escalation risk.\n\nWhat's interesting: Israel-Iran ceasefire (80%) is holding better than US-Iran (92%), implying smart money sees direct US involvement as the weak link. Netanyahu's odds ticked up 3% to 30%, a tell that regional instability could accelerate Israeli coalition dynamics. Geopolitical uncertainty is live and expensive\u2014this is real tail risk, not academic.\n\nThe broader election complex is dead quiet. R Senate/R House (8%) is radioactive; D House/R Senate (24%) saw modest selling. Tim Scott at 1% on $886K volume suggests the 2028 betting pool is still illiquid and skewed. These aren't your alpha movers today.\n\n---\n\n## WATCH LIST\n\n1. **US x Iran ceasefire through October 22** (92%)  \n   *Why:* Expires in hours. Any official statement or incident triggers repricing. Monitor Tehran/DC comms channels.\n\n2. **Israel x Iran ceasefire through October 31** (80%)  \n   *Why:* Holding better than US line but still soft. If October 22 US window breaks, this likely follows within 48-72h.\n\n3. **Will Benjamin Netanyahu be next PM of Israel?** (30%)  \n   *Why:* Asymmetric risk. Regional escalation could accelerate his return; profitable at current odds if geopolitical deteriorates.\n\n---\n\n*Volume is real, sentiment is shifting. Watch the wires at market close.*",
   "top_movers": [
     {
-      "question": "Almaty Open: Adrian Mannarino vs Andrey Rublev",
+      "question": "Guangzhou 2: Jie Cui vs Yibing Wu",
       "prob": 99,
-      "change": 75.4,
-      "vol24": "$500K",
-      "slug": "atp-mannari-rublev-2026-10-21"
+      "change": 81.5,
+      "vol24": "$213K",
+      "slug": "atp-cui-wu-2026-10-21"
     },
     {
-      "question": "European Open: Dino Prizmic vs Damir Dzumhur",
+      "question": "India Tour of New Zealand T20s: New Zealand vs India",
       "prob": 1,
-      "change": -70.5,
-      "vol24": "$341K",
-      "slug": "atp-prizmic-dzumhur-2026-10-19"
+      "change": -38.5,
+      "vol24": "$384K",
+      "slug": "crint-nzl-ind-2026-10-22"
     },
     {
-      "question": "Ningbo Open: Sorana Cirstea vs Sara Bejlek",
-      "prob": 28,
-      "change": -37.5,
-      "vol24": "$241K",
-      "slug": "wta-cirstea-bejlek-2026-10-20"
+      "question": "Almaty Open: Tomas Machac vs Karen Khachanov",
+      "prob": 1,
+      "change": -31.4,
+      "vol24": "$659K",
+      "slug": "atp-machac-khachan-2026-10-22"
     },
     {
-      "question": "Florence: Yanaki Milev vs Lorenzo Giustino",
-      "prob": 70,
-      "change": 31.0,
-      "vol24": "$155K",
-      "slug": "atp-milev-giustin-2026-10-20"
+      "question": "Cali: Santiago Rodriguez Taverna vs Gonzalo Bueno",
+      "prob": 56,
+      "change": 21.5,
+      "vol24": "$384K",
+      "slug": "atp-taverna-bueno-2026-10-21"
     },
     {
-      "question": "FC Internazionale Milano vs. FK Shakhtar Donetsk: O/U 4.5",
-      "prob": 30,
-      "change": -6.0,
-      "vol24": "$154K",
-      "slug": "ucl-int-shd-2026-10-21-total-4pt5"
+      "question": "US x Iran ceasefire continues through October 31?",
+      "prob": 72,
+      "change": -9.0,
+      "vol24": "$481K",
+      "slug": "us-x-iran-ceasefire-continues-through-october-31-20260917"
     }
   ],
   "top_vol": [
     {
-      "question": "Will FC Bayern M\u00fcnchen win on 2026-10-21?",
-      "prob": 44,
-      "change": -4.0,
-      "vol24": "$928K",
-      "slug": "ucl-bay-ars-2026-10-21-bay"
-    },
-    {
       "question": "2026 Balance of Power: R Senate, R House",
       "prob": 8,
-      "change": 0,
-      "vol24": "$806K",
+      "change": -1.0,
+      "vol24": "$1.2M",
       "slug": "2026-balance-of-power-r-senate-r-house-537"
     },
     {
-      "question": "2026 Balance of Power: R Senate, D House",
-      "prob": 28,
-      "change": 0,
-      "vol24": "$661K",
-      "slug": "2026-balance-of-power-r-senate-d-house-444"
+      "question": "US x Iran ceasefire continues through October 22?",
+      "prob": 92,
+      "change": -4.4,
+      "vol24": "$1.0M",
+      "slug": "us-x-iran-ceasefire-continues-through-october-22"
+    },
+    {
+      "question": "Will Tim Scott win the 2028 Republican presidential nomination?",
+      "prob": 1,
+      "change": 0.1,
+      "vol24": "$886K",
+      "slug": "will-tim-scott-win-the-2028-republican-presidential-nomination"
     }
   ]
 }
