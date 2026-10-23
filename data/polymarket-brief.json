@@ -1,65 +1,65 @@
 {
-  "date": "Thursday October 22, 2026",
-  "generated": "2026-10-22T12:34:27.998176Z",
-  "brief": "# ZIMR POLYMARKET BRIEFING | Thursday, October 22, 2026\n\n## HEADLINE\n**Ceasefire Skepticism Spreads as October 22 Deadline Looms\u2014Markets Pricing Imminent Escalation Risk**\n\n---\n\n## ANALYSIS\n\nThe ceasefire complex is showing cracks. The US-Iran October 22 deadline\u2014literally *today*\u2014is trading at 92% hold probability on $1M volume, down 4.4% overnight. That's the market's polite way of saying \"we think something breaks here.\" The 31-day extension (72%) and 24-day windows (86%) are both softening, suggesting traders see a cliff event at midnight rather than orderly rollovers. This isn't panic yet, but it's pricing in material escalation risk.\n\nWhat's interesting: Israel-Iran ceasefire (80%) is holding better than US-Iran (92%), implying smart money sees direct US involvement as the weak link. Netanyahu's odds ticked up 3% to 30%, a tell that regional instability could accelerate Israeli coalition dynamics. Geopolitical uncertainty is live and expensive\u2014this is real tail risk, not academic.\n\nThe broader election complex is dead quiet. R Senate/R House (8%) is radioactive; D House/R Senate (24%) saw modest selling. Tim Scott at 1% on $886K volume suggests the 2028 betting pool is still illiquid and skewed. These aren't your alpha movers today.\n\n---\n\n## WATCH LIST\n\n1. **US x Iran ceasefire through October 22** (92%)  \n   *Why:* Expires in hours. Any official statement or incident triggers repricing. Monitor Tehran/DC comms channels.\n\n2. **Israel x Iran ceasefire through October 31** (80%)  \n   *Why:* Holding better than US line but still soft. If October 22 US window breaks, this likely follows within 48-72h.\n\n3. **Will Benjamin Netanyahu be next PM of Israel?** (30%)  \n   *Why:* Asymmetric risk. Regional escalation could accelerate his return; profitable at current odds if geopolitical deteriorates.\n\n---\n\n*Volume is real, sentiment is shifting. Watch the wires at market close.*",
+  "date": "Friday October 23, 2026",
+  "generated": "2026-10-23T12:13:33.406775Z",
+  "brief": "# ZIMR CAPITAL \u2014 POLYMARKET BRIEF | Friday, October 23, 2026\n\n## Headline\n**ETH Capitulation Complete: $2,300-$2,400 Band Now Priced at 99% as Macro Headwinds Persist**\n\n---\n\n## Market Intelligence\n\nThe Ethereum price band collapse is the story. Yesterday's violent repricing\u2014the $2,400+ and $2,400-$2,500 ranges both cratering 62%\u2014signals capitulation into a $2,300-$2,400 range now trading at 99%. This isn't natural probability discovery; this is panic liquidation into a narrow band. Volume concentration ($776K on the >$2,400 bet alone) suggests sophisticated players who went long too early are cutting losses hard. **Smart money observation**: when a market reprices that violently in 24 hours, the new price is often an overshoot. Watch whether spot ETH actually holds $2,300 support or if this 99% is trapping late sellers.\n\nGeopolitical risk markets are pricing *stability*, not escalation. Russia-Ukraine diplomatic meetings now 98% (+61% today), US-Iran ceasefire holding through Oct 24 at 94%, yet NATO-Russia military clash sits at only 17%. This disconnect is suspicious\u2014markets are pricing a dovish resolution window that could evaporate on single headlines. The +8% moves on ceasefire continuity feel like consensus crowding into a false sense of security.\n\nOn domestic US politics, Democrats taking both chambers in 2026 holds 68% with $982K volume (Polymarket's largest concentration play). This is the smart money's real conviction bet. Compare that to the Fed holding rates steady at 94%\u2014both trades are saying \"no surprises, status quo holds.\" Nithya Raman's LA mayoral race remains volatile at 52%, suggesting genuine uncertainty where money hasn't yet found consensus.\n\n---\n\n## Watch List\n\n1. **Ethereum $2,300-$2,400 Band (99%)** \u2014 Overshoot indicator. If spot ETH dips below $2,300, this market reprices violently lower. If it holds $2,310-$2,350, the 99% becomes a trap for short-sellers. First real signal comes on any intraday bounce attempt.\n\n2. **NATO-Russia Military Clash by Oct 31 (17%)** \u2014 Dramatically underpriced relative to Russia-Ukraine diplomatic odds (98%). If negotiations actually stall this weekend, this pops to 35%+ fast. Track Kremlin commentary closely; asymmetric risk.\n\n3. **2026 Balance of Power: D Senate, D House (68%)** \u2014 Polymarket's conviction trade. This is where real volume lives. Watch for any polling shifts; if this dips below 65%, expect flush-out to 50s before finding support.\n\n---\n\n*ZIMR Capital | Markets don't lie, they just misprice. Trade accordingly.*",
   "top_movers": [
     {
-      "question": "Guangzhou 2: Jie Cui vs Yibing Wu",
+      "question": "Will the price of Ethereum be above $2,400 on October 22?",
+      "prob": 1,
+      "change": -62.0,
+      "vol24": "$776K",
+      "slug": "ethereum-above-2400-on-october-22-2026"
+    },
+    {
+      "question": "Will the price of Ethereum be between $2,400 and $2,500 on October 22?",
+      "prob": 1,
+      "change": -62.0,
+      "vol24": "$258K",
+      "slug": "will-the-price-of-ethereum-be-between-2400-2500-on-october-22-2026"
+    },
+    {
+      "question": "Will the price of Ethereum be between $2,300 and $2,400 on October 22?",
       "prob": 99,
-      "change": 81.5,
-      "vol24": "$213K",
-      "slug": "atp-cui-wu-2026-10-21"
+      "change": 61.8,
+      "vol24": "$218K",
+      "slug": "will-the-price-of-ethereum-be-between-2300-2400-on-october-22-2026"
     },
     {
-      "question": "India Tour of New Zealand T20s: New Zealand vs India",
-      "prob": 1,
-      "change": -38.5,
-      "vol24": "$384K",
-      "slug": "crint-nzl-ind-2026-10-22"
+      "question": "Will Russia and Ukraine hold any diplomatic meeting by October 31, 2026?",
+      "prob": 98,
+      "change": 61.0,
+      "vol24": "$524K",
+      "slug": "will-russia-and-ukraine-hold-any-diplomatic-meeting-by-october-31-2026"
     },
     {
-      "question": "Almaty Open: Tomas Machac vs Karen Khachanov",
-      "prob": 1,
-      "change": -31.4,
-      "vol24": "$659K",
-      "slug": "atp-machac-khachan-2026-10-22"
-    },
-    {
-      "question": "Cali: Santiago Rodriguez Taverna vs Gonzalo Bueno",
-      "prob": 56,
-      "change": 21.5,
-      "vol24": "$384K",
-      "slug": "atp-taverna-bueno-2026-10-21"
-    },
-    {
-      "question": "US x Iran ceasefire continues through October 31?",
-      "prob": 72,
-      "change": -9.0,
-      "vol24": "$481K",
-      "slug": "us-x-iran-ceasefire-continues-through-october-31-20260917"
+      "question": "Dota 2: Team Liquid vs GamerLegion - Game 1 Winner",
+      "prob": 10,
+      "change": -52.5,
+      "vol24": "$663K",
+      "slug": "dota2-liquid-gl-2026-10-23-game1"
     }
   ],
   "top_vol": [
     {
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "prob": 94,
+      "change": 4.0,
+      "vol24": "$1.3M",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031"
+    },
+    {
       "question": "2026 Balance of Power: R Senate, R House",
       "prob": 8,
-      "change": -1.0,
+      "change": 0,
       "vol24": "$1.2M",
       "slug": "2026-balance-of-power-r-senate-r-house-537"
     },
     {
-      "question": "US x Iran ceasefire continues through October 22?",
-      "prob": 92,
-      "change": -4.4,
-      "vol24": "$1.0M",
-      "slug": "us-x-iran-ceasefire-continues-through-october-22"
-    },
-    {
-      "question": "Will Tim Scott win the 2028 Republican presidential nomination?",
+      "question": "Ningbo Open: Iva Jovic vs Diana Shnaider",
       "prob": 1,
-      "change": 0.1,
-      "vol24": "$886K",
-      "slug": "will-tim-scott-win-the-2028-republican-presidential-nomination"
+      "change": 0,
+      "vol24": "$985K",
+      "slug": "wta-jovic-shnaide-2026-10-23"
     }
   ]
 }
