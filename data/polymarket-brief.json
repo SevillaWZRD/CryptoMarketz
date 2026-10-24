@@ -1,65 +1,65 @@
 {
-  "date": "Friday October 23, 2026",
-  "generated": "2026-10-23T12:13:33.406775Z",
-  "brief": "# ZIMR CAPITAL \u2014 POLYMARKET BRIEF | Friday, October 23, 2026\n\n## Headline\n**ETH Capitulation Complete: $2,300-$2,400 Band Now Priced at 99% as Macro Headwinds Persist**\n\n---\n\n## Market Intelligence\n\nThe Ethereum price band collapse is the story. Yesterday's violent repricing\u2014the $2,400+ and $2,400-$2,500 ranges both cratering 62%\u2014signals capitulation into a $2,300-$2,400 range now trading at 99%. This isn't natural probability discovery; this is panic liquidation into a narrow band. Volume concentration ($776K on the >$2,400 bet alone) suggests sophisticated players who went long too early are cutting losses hard. **Smart money observation**: when a market reprices that violently in 24 hours, the new price is often an overshoot. Watch whether spot ETH actually holds $2,300 support or if this 99% is trapping late sellers.\n\nGeopolitical risk markets are pricing *stability*, not escalation. Russia-Ukraine diplomatic meetings now 98% (+61% today), US-Iran ceasefire holding through Oct 24 at 94%, yet NATO-Russia military clash sits at only 17%. This disconnect is suspicious\u2014markets are pricing a dovish resolution window that could evaporate on single headlines. The +8% moves on ceasefire continuity feel like consensus crowding into a false sense of security.\n\nOn domestic US politics, Democrats taking both chambers in 2026 holds 68% with $982K volume (Polymarket's largest concentration play). This is the smart money's real conviction bet. Compare that to the Fed holding rates steady at 94%\u2014both trades are saying \"no surprises, status quo holds.\" Nithya Raman's LA mayoral race remains volatile at 52%, suggesting genuine uncertainty where money hasn't yet found consensus.\n\n---\n\n## Watch List\n\n1. **Ethereum $2,300-$2,400 Band (99%)** \u2014 Overshoot indicator. If spot ETH dips below $2,300, this market reprices violently lower. If it holds $2,310-$2,350, the 99% becomes a trap for short-sellers. First real signal comes on any intraday bounce attempt.\n\n2. **NATO-Russia Military Clash by Oct 31 (17%)** \u2014 Dramatically underpriced relative to Russia-Ukraine diplomatic odds (98%). If negotiations actually stall this weekend, this pops to 35%+ fast. Track Kremlin commentary closely; asymmetric risk.\n\n3. **2026 Balance of Power: D Senate, D House (68%)** \u2014 Polymarket's conviction trade. This is where real volume lives. Watch for any polling shifts; if this dips below 65%, expect flush-out to 50s before finding support.\n\n---\n\n*ZIMR Capital | Markets don't lie, they just misprice. Trade accordingly.*",
+  "date": "Saturday October 24, 2026",
+  "generated": "2026-10-24T11:40:55.158868Z",
+  "brief": "# ZIMR CAPITAL MARKET BRIEFING | SATURDAY, OCTOBER 24, 2026\n\n## Headline\n**Election certainty locks in; geopolitical risk reprices lower as traders rotate into sports & Fed holds steady**\n\n---\n\n## Market Signals\n\nThe political calendar is crystallizing. Senate Democrats at 1% (vs. Republican House dominance) reflects post-campaign clarity\u2014this isn't a bet anymore, it's a position. The $3M volume confirms institutional conviction. Meanwhile, the Fed's October hold is *priced to perfection* at 94%, suggesting rate markets have fully absorbed the no-move consensus. Smart money has moved on.\n\nSports betting is where volatility lives today. The Manchester City-Aston Villa O/U 3.5 goals market spiked 27% to 68%, a clear signal that sharp action is pushing totals up\u2014either injury reports favoring goals or model recalibration. Watch the City moneyline (38%) as the canary: down 22% intraday despite being co-favorites. This is either sharp closing at +odds or genuine uncertainty about lineup/form entering Saturday's fixture.\n\nGeopolitical risk is *compressing*. NATO-Russia clash odds fell 16.5% to 18% (Oct 31) and 2% for Dec 31\u2014a confidence signal from macro traders or genuine de-escalation pricing. Given $1.3M volume on the Oct 31 NATO market, this deserves scrutiny: is this capitulation or informed downgrade?\n\n---\n\n## Watch List\n\n1. **Manchester City vs. Aston Villa moneyline (38%)** \u2014 The +27% O/U move combined with -22% City ML suggests sharp positioning. Track team news in next 2 hours; if City holds above 40%, public confidence is real. Below 35% = sharp closing bets.\n\n2. **NATO x Russia clash by Dec 31 (2%)** \u2014 Lowest odds on the board with serious volume. If this reprices above 5% on any geopolitical headline, it signals fast mean-reversion. Monitor for institutional reversal.\n\n3. **Fed rate hold (94%)** \u2014 The inverse of this (rate cut/hike at 6%) is the real signal. Any breach above 10% combined with macro data would indicate rate surprise pricing entering next week.\n\n---\n\n**ZIMR CAPITAL** | *Real-time conviction tracking*",
   "top_movers": [
     {
-      "question": "Will the price of Ethereum be above $2,400 on October 22?",
+      "question": "Counter-Strike: MOUZ vs Liquid - Map 2 Winner",
       "prob": 1,
-      "change": -62.0,
-      "vol24": "$776K",
-      "slug": "ethereum-above-2400-on-october-22-2026"
+      "change": -78.5,
+      "vol24": "$317K",
+      "slug": "cs2-mouz-tl1-2026-10-24-game2"
     },
     {
-      "question": "Will the price of Ethereum be between $2,400 and $2,500 on October 22?",
-      "prob": 1,
-      "change": -62.0,
-      "vol24": "$258K",
-      "slug": "will-the-price-of-ethereum-be-between-2400-2500-on-october-22-2026"
+      "question": "FK Liepaja vs. FK Tukums 2000/TSS: O/U 0.5",
+      "prob": 33,
+      "change": -63.0,
+      "vol24": "$531K",
+      "slug": "lva1-lie-tuk-2026-10-24-total-0pt5"
     },
     {
-      "question": "Will the price of Ethereum be between $2,300 and $2,400 on October 22?",
+      "question": "India Tour of New Zealand T20s: New Zealand vs India",
+      "prob": 1,
+      "change": -42.4,
+      "vol24": "$680K",
+      "slug": "crint-nzl-ind-2026-10-24"
+    },
+    {
+      "question": "Counter-Strike: Spirit vs BetBoom Team - Map 1 Winner",
       "prob": 99,
-      "change": 61.8,
-      "vol24": "$218K",
-      "slug": "will-the-price-of-ethereum-be-between-2300-2400-on-october-22-2026"
+      "change": 30.4,
+      "vol24": "$206K",
+      "slug": "cs2-ts7-bb3-2026-10-24-game1"
     },
     {
-      "question": "Will Russia and Ukraine hold any diplomatic meeting by October 31, 2026?",
-      "prob": 98,
-      "change": 61.0,
-      "vol24": "$524K",
-      "slug": "will-russia-and-ukraine-hold-any-diplomatic-meeting-by-october-31-2026"
-    },
-    {
-      "question": "Dota 2: Team Liquid vs GamerLegion - Game 1 Winner",
-      "prob": 10,
-      "change": -52.5,
-      "vol24": "$663K",
-      "slug": "dota2-liquid-gl-2026-10-23-game1"
+      "question": "Almaty Open: Nikoloz Basilashvili vs Stefanos Tsitsipas",
+      "prob": 60,
+      "change": 29.0,
+      "vol24": "$215K",
+      "slug": "atp-basilas-tsitsip-2026-10-24"
     }
   ],
   "top_vol": [
     {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "prob": 94,
-      "change": 4.0,
-      "vol24": "$1.3M",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031"
-    },
-    {
-      "question": "2026 Balance of Power: R Senate, R House",
-      "prob": 8,
-      "change": 0,
-      "vol24": "$1.2M",
-      "slug": "2026-balance-of-power-r-senate-r-house-537"
-    },
-    {
-      "question": "Ningbo Open: Iva Jovic vs Diana Shnaider",
+      "question": "2026 Balance of Power: D Senate, R House",
       "prob": 1,
       "change": 0,
-      "vol24": "$985K",
-      "slug": "wta-jovic-shnaide-2026-10-23"
+      "vol24": "$3.0M",
+      "slug": "2026-balance-of-power-d-senate-r-house-692"
+    },
+    {
+      "question": "Will Manchester City FC win on 2026-10-24?",
+      "prob": 38,
+      "change": -22.0,
+      "vol24": "$2.4M",
+      "slug": "epl-ast-mac-2026-10-24-mac"
+    },
+    {
+      "question": "NATO x Russia military clash by October 31, 2026?",
+      "prob": 2,
+      "change": -12.3,
+      "vol24": "$1.3M",
+      "slug": "nato-x-russia-military-clash-by-october-31-2026"
     }
   ]
 }
