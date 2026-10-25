@@ -1,65 +1,65 @@
 {
-  "date": "Saturday October 24, 2026",
-  "generated": "2026-10-24T11:40:55.158868Z",
-  "brief": "# ZIMR CAPITAL MARKET BRIEFING | SATURDAY, OCTOBER 24, 2026\n\n## Headline\n**Election certainty locks in; geopolitical risk reprices lower as traders rotate into sports & Fed holds steady**\n\n---\n\n## Market Signals\n\nThe political calendar is crystallizing. Senate Democrats at 1% (vs. Republican House dominance) reflects post-campaign clarity\u2014this isn't a bet anymore, it's a position. The $3M volume confirms institutional conviction. Meanwhile, the Fed's October hold is *priced to perfection* at 94%, suggesting rate markets have fully absorbed the no-move consensus. Smart money has moved on.\n\nSports betting is where volatility lives today. The Manchester City-Aston Villa O/U 3.5 goals market spiked 27% to 68%, a clear signal that sharp action is pushing totals up\u2014either injury reports favoring goals or model recalibration. Watch the City moneyline (38%) as the canary: down 22% intraday despite being co-favorites. This is either sharp closing at +odds or genuine uncertainty about lineup/form entering Saturday's fixture.\n\nGeopolitical risk is *compressing*. NATO-Russia clash odds fell 16.5% to 18% (Oct 31) and 2% for Dec 31\u2014a confidence signal from macro traders or genuine de-escalation pricing. Given $1.3M volume on the Oct 31 NATO market, this deserves scrutiny: is this capitulation or informed downgrade?\n\n---\n\n## Watch List\n\n1. **Manchester City vs. Aston Villa moneyline (38%)** \u2014 The +27% O/U move combined with -22% City ML suggests sharp positioning. Track team news in next 2 hours; if City holds above 40%, public confidence is real. Below 35% = sharp closing bets.\n\n2. **NATO x Russia clash by Dec 31 (2%)** \u2014 Lowest odds on the board with serious volume. If this reprices above 5% on any geopolitical headline, it signals fast mean-reversion. Monitor for institutional reversal.\n\n3. **Fed rate hold (94%)** \u2014 The inverse of this (rate cut/hike at 6%) is the real signal. Any breach above 10% combined with macro data would indicate rate surprise pricing entering next week.\n\n---\n\n**ZIMR CAPITAL** | *Real-time conviction tracking*",
+  "date": "Sunday October 25, 2026",
+  "generated": "2026-10-25T12:09:39.702061Z",
+  "brief": "# ZIMR DAILY BRIEF | Sunday, October 25, 2026\n\n## Serbian Political Earthquake: Market Pricing Historic Shift Away from Vu\u010di\u0107\n\n---\n\n## THE SIGNAL\n\nPolymarket is repricing Serbia's political future in real time. The United Serbia establishment took a brutal -24.5% hit today while Student List surged +26.0%, now leading at 54% to win the most parliamentary seats. This isn't noise\u2014$913K dumped on Vu\u010di\u0107's party in 24 hours signals serious conviction that the polling trajectory has shifted. The -28.3% crater on Vu\u010di\u0107 becoming PM suggests markets are pricing in a coalition scenario where he's sidelined entirely.\n\n**What smart money sees:** The volume concentration ($1.67M across these three Serbian markets) indicates institutional players repositioning ahead of what could be a stunning electoral upset. Student List momentum is real; the market is no longer treating this as a protest vote. Late movers betting against Vu\u010di\u0107's continuity are winning badly today\u2014this is either prescient positioning or early-stage panic capitulation from longs.\n\n**The mispricing angle:** Watch the Vu\u010di\u0107 PM odds (43%) relative to United Serbia's parliamentary showing (47%). If Student List wins seats but can't form government without Vu\u010di\u0107, that 28% discount on the PM question evaporates fast. There's arbitrage for those who understand Serbian coalition math.\n\n---\n\n## WATCH LIST\n\n1. **Will Aleksandar Vu\u010di\u0107 win the 2026 Serbian parliamentary election?** \u2014 The binary counterpoint. If this stays flat while Student List keeps climbing, you've confirmed a genuine realignment. Track for continued capitulation or stabilization.\n\n2. **Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?** (79%, $1.8M volume) \u2014 Opposite signal: Brazilian markets are *consolidating* conviction, not panicking. The Lula/Bolsonaro split (22%/79%) shows no chop. Compare this stability to Serbian chaos for insight into genuine vs. narrative-driven moves.\n\n3. **FC Barcelona vs. Real Madrid tonight** ($985K + $1.2M combined) \u2014 Pure liquidity play. Both drawing institutional volume with tight spreads. Good barometer for whether sports books stay efficient or if weekend recreational money moves lines.",
   "top_movers": [
     {
-      "question": "Counter-Strike: MOUZ vs Liquid - Map 2 Winner",
-      "prob": 1,
-      "change": -78.5,
-      "vol24": "$317K",
-      "slug": "cs2-mouz-tl1-2026-10-24-game2"
+      "question": "FC Internazionale Milano vs. ACF Fiorentina: O/U 3.5",
+      "prob": 18,
+      "change": -29.0,
+      "vol24": "$352K",
+      "slug": "sea-int-fio-2026-10-25-total-3pt5"
     },
     {
-      "question": "FK Liepaja vs. FK Tukums 2000/TSS: O/U 0.5",
-      "prob": 33,
-      "change": -63.0,
-      "vol24": "$531K",
-      "slug": "lva1-lie-tuk-2026-10-24-total-0pt5"
+      "question": "Will Aleksandar Vu\u010di\u0107 be the next Prime Minister of Serbia?",
+      "prob": 43,
+      "change": -28.3,
+      "vol24": "$237K",
+      "slug": "will-aleksandar-vucic-be-the-next-prime-minister-of-serbia-20260629223938643"
     },
     {
-      "question": "India Tour of New Zealand T20s: New Zealand vs India",
-      "prob": 1,
-      "change": -42.4,
-      "vol24": "$680K",
-      "slug": "crint-nzl-ind-2026-10-24"
+      "question": "Dota 2: Team Liquid vs OG (BO3) - PARI Universe Group A",
+      "prob": 28,
+      "change": -26.0,
+      "vol24": "$1.1M",
+      "slug": "dota2-liquid-og-2026-10-25"
     },
     {
-      "question": "Counter-Strike: Spirit vs BetBoom Team - Map 1 Winner",
-      "prob": 99,
-      "change": 30.4,
-      "vol24": "$206K",
-      "slug": "cs2-ts7-bb3-2026-10-24-game1"
+      "question": "Will Student List \u2013 Students Win win the most seats in the 2026 Serbian parliamentary election?",
+      "prob": 54,
+      "change": 26.0,
+      "vol24": "$559K",
+      "slug": "will-student-list-students-win-win-the-most-seats-in-the-2026-serbian-parliamentary-election"
     },
     {
-      "question": "Almaty Open: Nikoloz Basilashvili vs Stefanos Tsitsipas",
-      "prob": 60,
-      "change": 29.0,
-      "vol24": "$215K",
-      "slug": "atp-basilas-tsitsip-2026-10-24"
+      "question": "Will Aleksandar Vu\u010di\u0107 \u2013 United Serbia win the most seats in the 2026 Serbian parliamentary election?",
+      "prob": 47,
+      "change": -24.5,
+      "vol24": "$913K",
+      "slug": "will-aleksandar-vucic-united-serbia-win-the-most-seats-in-the-2026-serbian-parliamentary-election"
     }
   ],
   "top_vol": [
     {
-      "question": "2026 Balance of Power: D Senate, R House",
-      "prob": 1,
-      "change": 0,
-      "vol24": "$3.0M",
-      "slug": "2026-balance-of-power-d-senate-r-house-692"
+      "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+      "prob": 79,
+      "change": -1.5,
+      "vol24": "$1.8M",
+      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election"
     },
     {
-      "question": "Will Manchester City FC win on 2026-10-24?",
-      "prob": 38,
-      "change": -22.0,
-      "vol24": "$2.4M",
-      "slug": "epl-ast-mac-2026-10-24-mac"
-    },
-    {
-      "question": "NATO x Russia military clash by October 31, 2026?",
-      "prob": 2,
-      "change": -12.3,
+      "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+      "prob": 22,
+      "change": 2.0,
       "vol24": "$1.3M",
-      "slug": "nato-x-russia-military-clash-by-october-31-2026"
+      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election"
+    },
+    {
+      "question": "Will Real Madrid CF win on 2026-10-25?",
+      "prob": 24,
+      "change": -1.0,
+      "vol24": "$1.2M",
+      "slug": "lal-bar-rea-2026-10-25-rea"
     }
   ]
 }
