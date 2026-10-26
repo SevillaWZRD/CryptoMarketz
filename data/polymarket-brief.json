@@ -1,65 +1,65 @@
 {
-  "date": "Sunday October 25, 2026",
-  "generated": "2026-10-25T12:09:39.702061Z",
-  "brief": "# ZIMR DAILY BRIEF | Sunday, October 25, 2026\n\n## Serbian Political Earthquake: Market Pricing Historic Shift Away from Vu\u010di\u0107\n\n---\n\n## THE SIGNAL\n\nPolymarket is repricing Serbia's political future in real time. The United Serbia establishment took a brutal -24.5% hit today while Student List surged +26.0%, now leading at 54% to win the most parliamentary seats. This isn't noise\u2014$913K dumped on Vu\u010di\u0107's party in 24 hours signals serious conviction that the polling trajectory has shifted. The -28.3% crater on Vu\u010di\u0107 becoming PM suggests markets are pricing in a coalition scenario where he's sidelined entirely.\n\n**What smart money sees:** The volume concentration ($1.67M across these three Serbian markets) indicates institutional players repositioning ahead of what could be a stunning electoral upset. Student List momentum is real; the market is no longer treating this as a protest vote. Late movers betting against Vu\u010di\u0107's continuity are winning badly today\u2014this is either prescient positioning or early-stage panic capitulation from longs.\n\n**The mispricing angle:** Watch the Vu\u010di\u0107 PM odds (43%) relative to United Serbia's parliamentary showing (47%). If Student List wins seats but can't form government without Vu\u010di\u0107, that 28% discount on the PM question evaporates fast. There's arbitrage for those who understand Serbian coalition math.\n\n---\n\n## WATCH LIST\n\n1. **Will Aleksandar Vu\u010di\u0107 win the 2026 Serbian parliamentary election?** \u2014 The binary counterpoint. If this stays flat while Student List keeps climbing, you've confirmed a genuine realignment. Track for continued capitulation or stabilization.\n\n2. **Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?** (79%, $1.8M volume) \u2014 Opposite signal: Brazilian markets are *consolidating* conviction, not panicking. The Lula/Bolsonaro split (22%/79%) shows no chop. Compare this stability to Serbian chaos for insight into genuine vs. narrative-driven moves.\n\n3. **FC Barcelona vs. Real Madrid tonight** ($985K + $1.2M combined) \u2014 Pure liquidity play. Both drawing institutional volume with tight spreads. Good barometer for whether sports books stay efficient or if weekend recreational money moves lines.",
+  "date": "Monday October 26, 2026",
+  "generated": "2026-10-26T13:39:17.845963Z",
+  "brief": "# POLYMARKET DAILY | OCTOBER 26, 2026\n\n## **Ceasefire Stability Priced In; Vu\u010di\u0107 Collapse Signals Serbia Shift**\n\nThe market is calling an extended US-Iran cooling-off period with near-certainty (94% through Oct 28, 86% through Oct 31), but today's biggest tell came from Serbia: Vu\u010di\u0107's PM odds crashed 39.6% in a single day, suggesting hard intel on political realignment. Meanwhile, football futures remain fractured\u2014Mbapp\u00e9 gaining on Kane despite longshot odds, signaling smart money repositioning for late-tournament form.\n\n**What's Moving:** The Iran ceasefire climb (+7.5%) looks like risk-off consolidation ahead of week-end headlines, not new information. More interesting is the Ballon d'Or churn\u2014Mbapp\u00e9 +8.3%, Kane -4.9%\u2014indicating traders are timing performance windows, not just accumulating. Fed rate hold at 94% is essentially a certainty trade; $2.3M volume is consensus-building, not conviction.\n\n**Smart Money Signal:** The Vu\u010di\u0107 crater is the day's cleanest directional move. A 39.6% single-day dump on political markets usually means someone with access just changed the narrative. Watch for Serbian press confirmation. The Mbapp\u00e9 uptick on lighter volume ($1.5M) versus Kane's decline ($1.0M) suggests retail rotation into \"comeback narrative\" rather than form-based repricing\u2014potential fade opportunity if performance data doesn't follow.\n\n---\n\n## WATCH LIST\n\n1. **Vu\u010di\u0107 PM successor market** | Track adjacent Serbia political markets for confirmation. This crater either leaks major news or represents panic selling\u2014either way, asymmetry likely still present.\n\n2. **Mbapp\u00e9 vs. Kane Ballon d'Or spread** | If Mbapp\u00e9 continues climbing on speculative volume, it's a sentiment peak. Watch for late-season injury or performance reversal to fade at +35% or higher.\n\n3. **Republican House control (8%)** | Buried in volume but wildly low. If 2026 midterm data shifts, this is 10x+ territory. Monitor polling aggregate weekly.",
   "top_movers": [
     {
-      "question": "FC Internazionale Milano vs. ACF Fiorentina: O/U 3.5",
-      "prob": 18,
-      "change": -29.0,
-      "vol24": "$352K",
-      "slug": "sea-int-fio-2026-10-25-total-3pt5"
-    },
-    {
       "question": "Will Aleksandar Vu\u010di\u0107 be the next Prime Minister of Serbia?",
-      "prob": 43,
-      "change": -28.3,
-      "vol24": "$237K",
+      "prob": 2,
+      "change": -39.6,
+      "vol24": "$561K",
       "slug": "will-aleksandar-vucic-be-the-next-prime-minister-of-serbia-20260629223938643"
     },
     {
-      "question": "Dota 2: Team Liquid vs OG (BO3) - PARI Universe Group A",
-      "prob": 28,
-      "change": -26.0,
-      "vol24": "$1.1M",
-      "slug": "dota2-liquid-og-2026-10-25"
+      "question": "Dota 2: Team Yandex vs Team Liquid - Game 1 Winner",
+      "prob": 70,
+      "change": 20.5,
+      "vol24": "$403K",
+      "slug": "dota2-ty-liquid-2026-10-26-game1"
     },
     {
-      "question": "Will Student List \u2013 Students Win win the most seats in the 2026 Serbian parliamentary election?",
-      "prob": 54,
-      "change": 26.0,
-      "vol24": "$559K",
-      "slug": "will-student-list-students-win-win-the-most-seats-in-the-2026-serbian-parliamentary-election"
+      "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?",
+      "prob": 26,
+      "change": 8.3,
+      "vol24": "$1.5M",
+      "slug": "will-kylian-mbapp-win-the-2026-ballon-dor"
     },
     {
-      "question": "Will Aleksandar Vu\u010di\u0107 \u2013 United Serbia win the most seats in the 2026 Serbian parliamentary election?",
-      "prob": 47,
-      "change": -24.5,
-      "vol24": "$913K",
-      "slug": "will-aleksandar-vucic-united-serbia-win-the-most-seats-in-the-2026-serbian-parliamentary-election"
+      "question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
+      "prob": 36,
+      "change": -7.5,
+      "vol24": "$259K",
+      "slug": "will-jd-vance-win-the-2028-republican-presidential-nomination"
+    },
+    {
+      "question": "US x Iran ceasefire continues through October 28?",
+      "prob": 94,
+      "change": 7.5,
+      "vol24": "$227K",
+      "slug": "us-x-iran-ceasefire-continues-through-october-28"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-      "prob": 79,
-      "change": -1.5,
-      "vol24": "$1.8M",
-      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election"
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "prob": 94,
+      "change": -0.2,
+      "vol24": "$2.3M",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031"
     },
     {
-      "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-      "prob": 22,
-      "change": 2.0,
-      "vol24": "$1.3M",
-      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election"
+      "question": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?",
+      "prob": 26,
+      "change": 8.3,
+      "vol24": "$1.5M",
+      "slug": "will-kylian-mbapp-win-the-2026-ballon-dor"
     },
     {
-      "question": "Will Real Madrid CF win on 2026-10-25?",
-      "prob": 24,
-      "change": -1.0,
+      "question": "Will Ousmane Demb\u00e9l\u00e9 win the 2026 Ballon d'Or?",
+      "prob": 1,
+      "change": 0.1,
       "vol24": "$1.2M",
-      "slug": "lal-bar-rea-2026-10-25-rea"
+      "slug": "will-ousmane-dembl-win-the-2026-ballon-dor"
     }
   ]
 }
