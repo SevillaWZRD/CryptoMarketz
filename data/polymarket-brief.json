@@ -1,65 +1,65 @@
 {
-  "date": "Tuesday October 27, 2026",
-  "generated": "2026-10-27T12:48:52.432546Z",
-  "brief": "# **FED HOLDS STEADY, BUT ISRAEL CHAOS RESHUFFLES POLITICAL ODDS**\n\n## The Signal\n\nMarkets are pricing certainty on Fed inaction\u201494% confidence on a hold with $3.7M backing that conviction. Translation: rate-cut fears have evaporated. But the real money today is flowing into Israeli politics, where Eizenkot is suddenly looking viable (64%, +6.6%) while Netanyahu support craters (24% on 2.9M volume). Someone knows something about coalition math.\n\n## What's Moving\n\nThe baseball melt is surgical: Rays collapsing (-13.4%) while Brewers consolidate at 97%. This isn't noise\u2014October baseball pricing is typically locked in by now. The Rays move suggests sharp money sees their path closing; the Brewers plateau suggests fair value. Tennis volumes are modest ($217K\u2013$547K) but directional: favorites are extending leads into tournaments, classic risk-off positioning.\n\nThe geopolitical wildcard: US-Iran ceasefire holding at 94% (+8.0%, $247K) while France emergency-state odds tank to 8% (-7.5%, massive $889K volume). That volume reversal on France is a sell signal\u2014someone with real size just de-risked EuroJitters. Pair that with Israeli political flux, and you've got a market slowly pricing *stability* rather than crisis.\n\n## Watch List\n\n1. **Netanyahu vs Eizenkot (Israeli PM)** \u2014 $2.9M Netanyahu volume vs sudden Eizenkot momentum is the canary. If Eizenkot breaks 70% today, coalition dynamics just shifted hard. Track for broader Middle East volatility spillover.\n\n2. **Fed Rate Decision** \u2014 Already locked (94%), but watch the 25bps *increase* option. Currently 6% on $2.1M. If that ticks above 8%, it signals late repositioning and potential October inflation surprise.\n\n3. **Alliance vs FaZe (CS)** \u2014 Only 1% price on massive $367K volume is a potential value trap or setup for a blowout. Esports lines can slip; if this moves below 0.5% before match start, sharp money is loading the favorite hard.",
+  "date": "Wednesday October 28, 2026",
+  "generated": "2026-10-28T13:37:49.907436Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | Wednesday, October 28, 2026\n\n## HEADLINE\n**Netanyahu's Coalition Path Clears: Markets Price Likud Landslide as Israeli Election Narrative Flips Hard**\n\n---\n\n## THE SIGNAL\n\nThe Israeli election market just experienced a violent repricing. Likud surged to 99% for \"most seats\" (+77.7%) and 97% for the 25-29 seat range (+83.9%), while opposition candidate Yashar collapsed to 1% (-77.7%). This isn't noise\u2014$5.3M flowed into the Likud plurality bet in 24 hours.\n\nNetanyahu himself rallied from 22% to 47% on PM odds (+25.5%, $11.4M total volume), suggesting smart money sees a clear path to coalition formation. The critical tell: the \"Any Coalition Wins a Majority\" market cratered to 1%, meaning the market no longer believes fragmentation will prevent government formation. Someone knows something about seat distribution or coalition math.\n\n**The Mispricing:** Gadi Eizenkot (potential PM alternative) is still priced at 33% despite being mathematically squeezed out. If Likud takes 25-29 seats as the market now believes, Eizenkot's odds should compress further\u2014this is a fade candidate. The 33% is lazy capital that hasn't repriced coalition dynamics.\n\n---\n\n## WATCH LIST\n\n1. **Netanyahu as PM (47%)** \u2014 $11.4M in volume suggests institutional money. Watch for this to breach 50-55% if coalition talks accelerate. Could hit 65%+ if Likud seat range tightens further.\n\n2. **\"Any Coalition Wins Majority\" (1%)** \u2014 Extreme misprice or prescient? If new polling drops showing broader coalition viability, this could 5-10x. Dangerous short on current levels.\n\n3. **Likud 25-29 seats (97%)** \u2014 Fully priced. Real volatility lives in the 20-24 seat market (currently 2%). Any credible polling suggesting underperformance = opportunity.\n\n---\n\n*ZIMR Capital | Markets move on information asymmetry. Today's movers reveal structural conviction, not sentiment.*",
   "top_movers": [
     {
-      "question": "Guangzhou Open: Xinran Sun vs Mananchaya Sawangkaew",
-      "prob": 85,
-      "change": 39.5,
-      "vol24": "$217K",
-      "slug": "wta-su-sawangk-2026-10-26"
-    },
-    {
-      "question": "Counter-Strike: Alliance vs FaZe (BO3) - Tesla Cup Group A",
-      "prob": 1,
-      "change": -34.0,
-      "vol24": "$367K",
-      "slug": "cs2-all-faze-2026-10-27"
-    },
-    {
-      "question": "Swiss Indoors Basel: Hubert Hurkacz vs Zizou Bergs",
-      "prob": 92,
-      "change": 33.0,
-      "vol24": "$547K",
-      "slug": "atp-hurkacz-bergs-2026-10-27"
-    },
-    {
-      "question": "Counter-Strike: magic vs BIG (BO3) - Stake Ranked Episode 5 Playoffs",
-      "prob": 64,
-      "change": 18.5,
-      "vol24": "$239K",
-      "slug": "cs2-mgc-big5-2026-10-27"
-    },
-    {
-      "question": "Will the Milwaukee Brewers win the 2026 World Series?",
+      "question": "Will Likud win 25-29 seats in the 2026 Israeli legislative election?",
       "prob": 97,
-      "change": 13.6,
-      "vol24": "$224K",
-      "slug": "will-the-milwaukee-brewers-win-the-2026-world-series"
+      "change": 83.9,
+      "vol24": "$1.1M",
+      "slug": "will-likud-win-25-29-seats-in-the-2026-israeli-legislative-election"
+    },
+    {
+      "question": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+      "prob": 99,
+      "change": 77.7,
+      "vol24": "$5.3M",
+      "slug": "will-likud-win-the-most-seats-in-the-2026-israeli-legislative-election"
+    },
+    {
+      "question": "Will Yashar win the most seats in the 2026 Israeli legislative election?",
+      "prob": 1,
+      "change": -77.7,
+      "vol24": "$2.6M",
+      "slug": "will-yashar-win-the-most-seats-in-the-2026-israeli-legislative-election"
+    },
+    {
+      "question": "Will Likud win 20-24 seats in the 2026 Israeli legislative election?",
+      "prob": 2,
+      "change": -44.0,
+      "vol24": "$481K",
+      "slug": "will-likud-win-20-24-seats-in-the-2026-israeli-legislative-election"
+    },
+    {
+      "question": "Will Likud win fewer than 20 seats in the 2026 Israeli legislative election?",
+      "prob": 1,
+      "change": -34.1,
+      "vol24": "$370K",
+      "slug": "will-likud-win-fewer-than-20-seats-in-the-2026-israeli-legislative-election"
     }
   ],
   "top_vol": [
     {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "prob": 94,
-      "change": -0.5,
-      "vol24": "$3.7M",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031"
-    },
-    {
       "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
-      "prob": 24,
-      "change": -2.0,
-      "vol24": "$2.9M",
+      "prob": 47,
+      "change": 25.5,
+      "vol24": "$11.4M",
       "slug": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel"
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "prob": 6,
-      "change": 0,
-      "vol24": "$2.1M",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032"
+      "question": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+      "prob": 99,
+      "change": 77.7,
+      "vol24": "$5.3M",
+      "slug": "will-likud-win-the-most-seats-in-the-2026-israeli-legislative-election"
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "prob": 95,
+      "change": 0.8,
+      "vol24": "$4.2M",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031"
     }
   ]
 }
