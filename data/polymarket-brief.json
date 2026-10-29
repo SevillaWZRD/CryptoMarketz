@@ -1,65 +1,65 @@
 {
-  "date": "Wednesday October 28, 2026",
-  "generated": "2026-10-28T13:37:49.907436Z",
-  "brief": "# ZIMR POLYMARKET BRIEFING | Wednesday, October 28, 2026\n\n## HEADLINE\n**Netanyahu's Coalition Path Clears: Markets Price Likud Landslide as Israeli Election Narrative Flips Hard**\n\n---\n\n## THE SIGNAL\n\nThe Israeli election market just experienced a violent repricing. Likud surged to 99% for \"most seats\" (+77.7%) and 97% for the 25-29 seat range (+83.9%), while opposition candidate Yashar collapsed to 1% (-77.7%). This isn't noise\u2014$5.3M flowed into the Likud plurality bet in 24 hours.\n\nNetanyahu himself rallied from 22% to 47% on PM odds (+25.5%, $11.4M total volume), suggesting smart money sees a clear path to coalition formation. The critical tell: the \"Any Coalition Wins a Majority\" market cratered to 1%, meaning the market no longer believes fragmentation will prevent government formation. Someone knows something about seat distribution or coalition math.\n\n**The Mispricing:** Gadi Eizenkot (potential PM alternative) is still priced at 33% despite being mathematically squeezed out. If Likud takes 25-29 seats as the market now believes, Eizenkot's odds should compress further\u2014this is a fade candidate. The 33% is lazy capital that hasn't repriced coalition dynamics.\n\n---\n\n## WATCH LIST\n\n1. **Netanyahu as PM (47%)** \u2014 $11.4M in volume suggests institutional money. Watch for this to breach 50-55% if coalition talks accelerate. Could hit 65%+ if Likud seat range tightens further.\n\n2. **\"Any Coalition Wins Majority\" (1%)** \u2014 Extreme misprice or prescient? If new polling drops showing broader coalition viability, this could 5-10x. Dangerous short on current levels.\n\n3. **Likud 25-29 seats (97%)** \u2014 Fully priced. Real volatility lives in the 20-24 seat market (currently 2%). Any credible polling suggesting underperformance = opportunity.\n\n---\n\n*ZIMR Capital | Markets move on information asymmetry. Today's movers reveal structural conviction, not sentiment.*",
+  "date": "Thursday October 29, 2026",
+  "generated": "2026-10-29T13:47:21.379376Z",
+  "brief": "# ZIMR CAPITAL MARKET INTELLIGENCE\n**Thursday, October 29, 2026**\n\n---\n\n## HEADLINE\n**Democracy Holds, Middle East Tensions Cool: Markets Price in Democratic House Victory While Iran Ceasefire Gains Traction**\n\n---\n\n## THE SIGNAL\n\nThe market is calling the 2026 midterms. Democrats are priced at 94% to keep the House, with $1.5M in volume confirming this is where smart money is concentrated. Republicans sit at just 6%\u2014a stunning 88-point spread that suggests conviction, not speculation. Meanwhile, the Iran ceasefire story is *quietly* gaining momentum: the US-Iran ceasefire through Nov 8 jumped 9 points to 82%, while blockade-end odds climbed 8 points to 28%. This isn't noise\u2014it's repositioning.\n\n**What smart money is doing:** The $2.2M flowing into Netanyahu's PM odds (now 46%) against Eizenkot's collapse (-18.5% to 24%) reveals Israeli political markets are pricing in fragmentation and uncertainty. Likud wins 99% of seats, but who leads post-election remains messy. On geopolitics, the Iran trades suggest traders are hedging against escalation\u2014the ceasefire holding is now *expected*, not priced as upside.\n\n**The mispricing:** Trump's \"Two Percent\" rally prop at 99% with $164K volume is obviously thin liquidity on a novelty bet, but the real tell is the 94% Democratic House lock. That's *too* confident for 10 days out in a volatile cycle. Mid-term corrections could be violent if late polling shifts.\n\n---\n\n## WATCH LIST\n\n1. **Will Benjamin Netanyahu be the next Prime Minister of Israel? (46%)**  \n   $2.2M volume is the highest on the board. Watch for Israeli coalition talks post-election this weekend\u2014any breakthrough for alternative PMs should move this sharply.\n\n2. **US x Iran ceasefire continues through November 8? (82%)**  \n   Up 9 points on $309K volume. Any Middle East escalation headlines flip this fast. It's pricing in stability; one Israeli strike on Iranian assets vaporizes the trade.\n\n3. **Democratic Party control of House after 2026 Midterms (94%)**  \n   The consensus trade. Watch for late polling swings or betting market capitulation\u2014a sharp drop below 90% signals smart money taking profits or hedging.",
   "top_movers": [
     {
-      "question": "Will Likud win 25-29 seats in the 2026 Israeli legislative election?",
-      "prob": 97,
-      "change": 83.9,
-      "vol24": "$1.1M",
-      "slug": "will-likud-win-25-29-seats-in-the-2026-israeli-legislative-election"
-    },
-    {
-      "question": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+      "question": "Swiss Indoors Basel: Valentin Vacherot vs Rafael Jodar",
       "prob": 99,
-      "change": 77.7,
-      "vol24": "$5.3M",
-      "slug": "will-likud-win-the-most-seats-in-the-2026-israeli-legislative-election"
+      "change": 72.5,
+      "vol24": "$852K",
+      "slug": "atp-vachero-jodar-2026-10-29"
     },
     {
-      "question": "Will Yashar win the most seats in the 2026 Israeli legislative election?",
-      "prob": 1,
-      "change": -77.7,
-      "vol24": "$2.6M",
-      "slug": "will-yashar-win-the-most-seats-in-the-2026-israeli-legislative-election"
+      "question": "Guangzhou Open: Lilli Tagger vs Magda Linette",
+      "prob": 99,
+      "change": 30.4,
+      "vol24": "$168K",
+      "slug": "wta-tagger-linette-2026-10-28"
     },
     {
-      "question": "Will Likud win 20-24 seats in the 2026 Israeli legislative election?",
-      "prob": 2,
-      "change": -44.0,
-      "vol24": "$481K",
-      "slug": "will-likud-win-20-24-seats-in-the-2026-israeli-legislative-election"
+      "question": "England and Sri Lanka Tour of Pakistan ODIs: Sri Lanka vs England",
+      "prob": 11,
+      "change": -18.5,
+      "vol24": "$223K",
+      "slug": "crint-lka-gbr-2026-10-29"
     },
     {
-      "question": "Will Likud win fewer than 20 seats in the 2026 Israeli legislative election?",
-      "prob": 1,
-      "change": -34.1,
-      "vol24": "$370K",
-      "slug": "will-likud-win-fewer-than-20-seats-in-the-2026-israeli-legislative-election"
+      "question": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
+      "prob": 24,
+      "change": -9.1,
+      "vol24": "$413K",
+      "slug": "will-gadi-eizenkot-be-the-next-prime-minister-of-israel"
+    },
+    {
+      "question": "US x Iran ceasefire continues through November 8?",
+      "prob": 82,
+      "change": 9.0,
+      "vol24": "$309K",
+      "slug": "us-x-iran-ceasefire-continues-through-november-8"
     }
   ],
   "top_vol": [
     {
       "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
-      "prob": 47,
-      "change": 25.5,
-      "vol24": "$11.4M",
+      "prob": 46,
+      "change": -2.0,
+      "vol24": "$2.2M",
       "slug": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel"
     },
     {
-      "question": "Will Likud win the most seats in the 2026 Israeli legislative election?",
-      "prob": 99,
-      "change": 77.7,
-      "vol24": "$5.3M",
-      "slug": "will-likud-win-the-most-seats-in-the-2026-israeli-legislative-election"
+      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "prob": 94,
+      "change": 2.0,
+      "vol24": "$1.5M",
+      "slug": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections"
     },
     {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "prob": 95,
-      "change": 0.8,
-      "vol24": "$4.2M",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031"
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "prob": 6,
+      "change": -2.0,
+      "vol24": "$1.2M",
+      "slug": "will-the-republican-party-control-the-house-after-the-2026-midterm-elections"
     }
   ]
 }
