@@ -1,65 +1,65 @@
 {
-  "date": "Thursday October 29, 2026",
-  "generated": "2026-10-29T13:47:21.379376Z",
-  "brief": "# ZIMR CAPITAL MARKET INTELLIGENCE\n**Thursday, October 29, 2026**\n\n---\n\n## HEADLINE\n**Democracy Holds, Middle East Tensions Cool: Markets Price in Democratic House Victory While Iran Ceasefire Gains Traction**\n\n---\n\n## THE SIGNAL\n\nThe market is calling the 2026 midterms. Democrats are priced at 94% to keep the House, with $1.5M in volume confirming this is where smart money is concentrated. Republicans sit at just 6%\u2014a stunning 88-point spread that suggests conviction, not speculation. Meanwhile, the Iran ceasefire story is *quietly* gaining momentum: the US-Iran ceasefire through Nov 8 jumped 9 points to 82%, while blockade-end odds climbed 8 points to 28%. This isn't noise\u2014it's repositioning.\n\n**What smart money is doing:** The $2.2M flowing into Netanyahu's PM odds (now 46%) against Eizenkot's collapse (-18.5% to 24%) reveals Israeli political markets are pricing in fragmentation and uncertainty. Likud wins 99% of seats, but who leads post-election remains messy. On geopolitics, the Iran trades suggest traders are hedging against escalation\u2014the ceasefire holding is now *expected*, not priced as upside.\n\n**The mispricing:** Trump's \"Two Percent\" rally prop at 99% with $164K volume is obviously thin liquidity on a novelty bet, but the real tell is the 94% Democratic House lock. That's *too* confident for 10 days out in a volatile cycle. Mid-term corrections could be violent if late polling shifts.\n\n---\n\n## WATCH LIST\n\n1. **Will Benjamin Netanyahu be the next Prime Minister of Israel? (46%)**  \n   $2.2M volume is the highest on the board. Watch for Israeli coalition talks post-election this weekend\u2014any breakthrough for alternative PMs should move this sharply.\n\n2. **US x Iran ceasefire continues through November 8? (82%)**  \n   Up 9 points on $309K volume. Any Middle East escalation headlines flip this fast. It's pricing in stability; one Israeli strike on Iranian assets vaporizes the trade.\n\n3. **Democratic Party control of House after 2026 Midterms (94%)**  \n   The consensus trade. Watch for late polling swings or betting market capitulation\u2014a sharp drop below 90% signals smart money taking profits or hedging.",
+  "date": "Friday October 30, 2026",
+  "generated": "2026-10-30T13:40:49.453471Z",
+  "brief": "# FRIDAY BRIEFING: Democrats Lock in Midterm Dominance as Bitcoin Volatility Whipsaws Shorts\n\n**THE SIGNAL**\n\nSmart money is painting a decisively blue picture for 2026. House control sits at a stunning 94% Democratic probability\u2014essentially priced as fait accompli\u2014while Senate control remains genuinely competitive at 28% Republican. This split tells you something: markets see a Democratic House as structural, but the Senate as genuinely close. The $2.6M volume on House control suggests this is settled conviction, not guesswork.\n\nMeanwhile, Bitcoin's showing classic Friday capitulation behavior. The $80K call is dead (1% odds, down 58% today), but the $75K dip prop surged 25% to 28%\u2014a tell that leveraged longs are getting defensive before the weekend gap risk. PSG's slight pullback (-6% to 74%) despite being heavy favorites suggests typical Friday arbitrage as weekend action approaches.\n\n**THE PLAY**\n\nThe real mispricing lives in the Senate race dynamics: Michigan Democrats hit 78% (+5.0%) while national Republican Senate control decays at only -4%. If Michigan is THIS certain to go blue, Republican Senate odds should trade tighter. Either Michigan's a leading indicator for a broader Democratic wave, or it's overpriced relative to the national picture. Watch which way this resolves\u2014it'll tell you if the market's pricing a blue tsunami or just Michigan regionalism.\n\n---\n\n## WATCH LIST\n\n**1. Will the Republican Party control the Senate after 2026 Midterms? (28%, Vol: $1.4M)**  \nThe canary in the coal mine. If this ticks below 25%, you're seeing institutional conviction shift toward total Democratic control. Currently feels like it's holding on residual GOP optimism.\n\n**2. Bitcoin Dip to $75K in October? (28%, +25.4%)**  \nThe real volume magnet here. This is the volatility play\u2014whether we see panic-selling into month-end or if spot support holds. Watch hourly movements; any move above 35% signals genuine liquidation anxiety.\n\n**3. Counter-Strike: Nemiga vs Vitality (36%, Vol: $969K)**  \nHighest crypto-crowd volume outside politics. Vitality the slight favorites despite handicap. Could indicate Eastern European betting syndicates taking positions\u2014useful proxy for esports liquidity conditions.",
   "top_movers": [
     {
-      "question": "Swiss Indoors Basel: Valentin Vacherot vs Rafael Jodar",
-      "prob": 99,
-      "change": 72.5,
-      "vol24": "$852K",
-      "slug": "atp-vachero-jodar-2026-10-29"
+      "question": "Will the price of Bitcoin be above $80,000 on October 30?",
+      "prob": 1,
+      "change": -58.2,
+      "vol24": "$224K",
+      "slug": "bitcoin-above-80k-on-october-30-2026"
     },
     {
-      "question": "Guangzhou Open: Lilli Tagger vs Magda Linette",
-      "prob": 99,
-      "change": 30.4,
-      "vol24": "$168K",
-      "slug": "wta-tagger-linette-2026-10-28"
+      "question": "Map Handicap: VIT (-1.5) vs Nemiga (+1.5)",
+      "prob": 1,
+      "change": -50.0,
+      "vol24": "$214K",
+      "slug": "cs2-nemi1-vit-2026-10-30-map-handicap-home-1pt5"
     },
     {
-      "question": "England and Sri Lanka Tour of Pakistan ODIs: Sri Lanka vs England",
-      "prob": 11,
-      "change": -18.5,
-      "vol24": "$223K",
-      "slug": "crint-lka-gbr-2026-10-29"
+      "question": "Will Bitcoin dip to $75,000 in October?",
+      "prob": 28,
+      "change": 25.4,
+      "vol24": "$300K",
+      "slug": "will-bitcoin-dip-to-75k-in-october-2026"
     },
     {
-      "question": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
-      "prob": 24,
-      "change": -9.1,
-      "vol24": "$413K",
-      "slug": "will-gadi-eizenkot-be-the-next-prime-minister-of-israel"
+      "question": "Will Bitcoin reach $82,500 in October?",
+      "prob": 2,
+      "change": -20.6,
+      "vol24": "$237K",
+      "slug": "will-bitcoin-reach-82pt5k-in-october-2026-from-october-22"
     },
     {
-      "question": "US x Iran ceasefire continues through November 8?",
-      "prob": 82,
+      "question": "Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs",
+      "prob": 36,
       "change": 9.0,
-      "vol24": "$309K",
-      "slug": "us-x-iran-ceasefire-continues-through-november-8"
+      "vol24": "$969K",
+      "slug": "cs2-nemi1-vit-2026-10-30"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
-      "prob": 46,
-      "change": -2.0,
-      "vol24": "$2.2M",
-      "slug": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel"
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "prob": 6,
+      "change": 0,
+      "vol24": "$2.6M",
+      "slug": "will-the-republican-party-control-the-house-after-the-2026-midterm-elections"
     },
     {
       "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
       "prob": 94,
-      "change": 2.0,
-      "vol24": "$1.5M",
+      "change": 0,
+      "vol24": "$1.7M",
       "slug": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections"
     },
     {
-      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
-      "prob": 6,
-      "change": -2.0,
-      "vol24": "$1.2M",
-      "slug": "will-the-republican-party-control-the-house-after-the-2026-midterm-elections"
+      "question": "Dota 2: Team Spirit vs PARIVISION (BO3) - PARI Universe Playoffs",
+      "prob": 99,
+      "change": 0,
+      "vol24": "$1.4M",
+      "slug": "dota2-ts8-pari-2026-10-30"
     }
   ]
 }
