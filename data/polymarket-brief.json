@@ -1,65 +1,65 @@
 {
-  "date": "Friday October 30, 2026",
-  "generated": "2026-10-30T13:40:49.453471Z",
-  "brief": "# FRIDAY BRIEFING: Democrats Lock in Midterm Dominance as Bitcoin Volatility Whipsaws Shorts\n\n**THE SIGNAL**\n\nSmart money is painting a decisively blue picture for 2026. House control sits at a stunning 94% Democratic probability\u2014essentially priced as fait accompli\u2014while Senate control remains genuinely competitive at 28% Republican. This split tells you something: markets see a Democratic House as structural, but the Senate as genuinely close. The $2.6M volume on House control suggests this is settled conviction, not guesswork.\n\nMeanwhile, Bitcoin's showing classic Friday capitulation behavior. The $80K call is dead (1% odds, down 58% today), but the $75K dip prop surged 25% to 28%\u2014a tell that leveraged longs are getting defensive before the weekend gap risk. PSG's slight pullback (-6% to 74%) despite being heavy favorites suggests typical Friday arbitrage as weekend action approaches.\n\n**THE PLAY**\n\nThe real mispricing lives in the Senate race dynamics: Michigan Democrats hit 78% (+5.0%) while national Republican Senate control decays at only -4%. If Michigan is THIS certain to go blue, Republican Senate odds should trade tighter. Either Michigan's a leading indicator for a broader Democratic wave, or it's overpriced relative to the national picture. Watch which way this resolves\u2014it'll tell you if the market's pricing a blue tsunami or just Michigan regionalism.\n\n---\n\n## WATCH LIST\n\n**1. Will the Republican Party control the Senate after 2026 Midterms? (28%, Vol: $1.4M)**  \nThe canary in the coal mine. If this ticks below 25%, you're seeing institutional conviction shift toward total Democratic control. Currently feels like it's holding on residual GOP optimism.\n\n**2. Bitcoin Dip to $75K in October? (28%, +25.4%)**  \nThe real volume magnet here. This is the volatility play\u2014whether we see panic-selling into month-end or if spot support holds. Watch hourly movements; any move above 35% signals genuine liquidation anxiety.\n\n**3. Counter-Strike: Nemiga vs Vitality (36%, Vol: $969K)**  \nHighest crypto-crowd volume outside politics. Vitality the slight favorites despite handicap. Could indicate Eastern European betting syndicates taking positions\u2014useful proxy for esports liquidity conditions.",
+  "date": "Saturday October 31, 2026",
+  "generated": "2026-10-31T13:09:06.616420Z",
+  "brief": "# ZIMR POLYMARKET INTELLIGENCE | Saturday, October 31, 2026\n\n## Headline\n**Democrats Heavy Favorites in Final Midterm Sprint\u2014But Nebraska Senate Tells a Cautionary Tale**\n\n---\n\n## The Signal\n\nThe market is pricing a blue wave with conviction. The \"D Senate, D House\" scenario sits at 70% ($1.3M volume), while the Republican House control bet has cratered to just 6%\u2014a 94-point spread that suggests institutional money has already moved on from a GOP chamber flip. Yet something's off in the details.\n\n**The tell:** Nebraska's Senate race is the market's loudest warning flag. Republicans surged +12.5% to 80% today on what's likely late polling momentum in a deeply red state\u2014a *control test* for GOP machinery heading into Tuesday. Simultaneously, traders are repricing complex regional outcomes (Iowa + Kansas, minus five states) with meaningful volume, suggesting smart money is hedging a scenario where the narrative breaks: Republicans hold the line in Midwest strongholds while bleeding suburban/Western seats. The contradiction matters.\n\n**What's happening:** The Bitcoin dip prediction (1%, down 21.8%) and Musk tweet count (12%, down 11%) are noise\u2014weekend volatility in thin markets. Real money is in political hedges. The Iran ceasefire holding through Nov 8 at 72% (down 6%) signals traders aren't pricing major escalation risk heading into election week, freeing capital for domestic political arbitrage.\n\n---\n\n## WATCH LIST\n\n1. **2026 Balance of Power: D Senate, D House (70%, $1.3M)** \u2014 This is the consensus market. Watch for any intraday movement below 68%; would signal professional traders taking profits or repricing Democratic enthusiasm as overextended.\n\n2. **Republicans win Nebraska Senate (80%, +12.5%)** \u2014 The momentum canary. If this holds above 78% into Tuesday, it validates late GOP turnout models. A drop below 75% = market re-evaluating the entire Republican firewall thesis.\n\n3. **Will Chelsea FC win on 2026-10-31 (38%, -14.0%, $1.1M)** \u2014 Not political, but largest volume decline in movers. Reversion opportunity or genuine weakness? Track for sentiment spillover into politics (betting behavior often correlates across categories).\n\n---\n\n**Bottom line:** Market is Democrat-heavy but nervous about regional specifics. Nebraska is the canary. Watch for divergence between broad outcomes (D control) and narrow races (Midwest holds).",
   "top_movers": [
     {
-      "question": "Will the price of Bitcoin be above $80,000 on October 30?",
-      "prob": 1,
-      "change": -58.2,
-      "vol24": "$224K",
-      "slug": "bitcoin-above-80k-on-october-30-2026"
-    },
-    {
-      "question": "Map Handicap: VIT (-1.5) vs Nemiga (+1.5)",
-      "prob": 1,
-      "change": -50.0,
-      "vol24": "$214K",
-      "slug": "cs2-nemi1-vit-2026-10-30-map-handicap-home-1pt5"
-    },
-    {
       "question": "Will Bitcoin dip to $75,000 in October?",
-      "prob": 28,
-      "change": 25.4,
-      "vol24": "$300K",
+      "prob": 1,
+      "change": -21.8,
+      "vol24": "$254K",
       "slug": "will-bitcoin-dip-to-75k-in-october-2026"
     },
     {
-      "question": "Will Bitcoin reach $82,500 in October?",
-      "prob": 2,
-      "change": -20.6,
-      "vol24": "$237K",
-      "slug": "will-bitcoin-reach-82pt5k-in-october-2026-from-october-22"
+      "question": "Will Chelsea FC win on 2026-10-31?",
+      "prob": 38,
+      "change": -14.0,
+      "vol24": "$1.1M",
+      "slug": "epl-che-mun-2026-10-31-che"
     },
     {
-      "question": "Counter-Strike: Nemiga vs Vitality (BO3) - PGL Masters Bucharest Playoffs",
-      "prob": 36,
-      "change": 9.0,
-      "vol24": "$969K",
-      "slug": "cs2-nemi1-vit-2026-10-30"
+      "question": "Will the Republicans win the Nebraska Senate race in 2026?",
+      "prob": 80,
+      "change": 12.5,
+      "vol24": "$436K",
+      "slug": "will-the-republicans-win-the-nebraska-senate-race-in-2026"
+    },
+    {
+      "question": "Will an independent win the Nebraska Senate race in 2026?",
+      "prob": 20,
+      "change": -11.5,
+      "vol24": "$285K",
+      "slug": "will-an-independent-win-the-nebraska-senate-race-in-2026"
+    },
+    {
+      "question": "Will Elon Musk post 115-139 tweets from October 29 to October 31, 2026?",
+      "prob": 12,
+      "change": -11.0,
+      "vol24": "$173K",
+      "slug": "elon-musk-of-tweets-october-29-october-31-2026-115-139"
     }
   ],
   "top_vol": [
     {
+      "question": "Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs",
+      "prob": 16,
+      "change": 0,
+      "vol24": "$2.0M",
+      "slug": "cs2-nemi1-furia-2026-10-31"
+    },
+    {
       "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
       "prob": 6,
-      "change": 0,
-      "vol24": "$2.6M",
+      "change": -1.0,
+      "vol24": "$1.3M",
       "slug": "will-the-republican-party-control-the-house-after-the-2026-midterm-elections"
     },
     {
-      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "prob": 94,
+      "question": "2026 Balance of Power: D Senate, D House",
+      "prob": 70,
       "change": 0,
-      "vol24": "$1.7M",
-      "slug": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections"
-    },
-    {
-      "question": "Dota 2: Team Spirit vs PARIVISION (BO3) - PARI Universe Playoffs",
-      "prob": 99,
-      "change": 0,
-      "vol24": "$1.4M",
-      "slug": "dota2-ts8-pari-2026-10-30"
+      "vol24": "$1.3M",
+      "slug": "2026-balance-of-power-d-senate-d-house-949"
     }
   ]
 }
