@@ -1,65 +1,65 @@
 {
-  "date": "Sunday November 01, 2026",
-  "generated": "2026-11-01T13:52:57.784398Z",
-  "brief": "# ZIMR Daily Polymarket Brief | Sunday, November 1, 2026\n\n## Headline\n**Bulgaria's Presidential Race Crystallizes as Democrats Lock in House Control; Netanyahu's Path Narrows Amid Regional Uncertainty**\n\n---\n\n## Market Intelligence\n\nThe Bulgarian presidential election is now a two-horse race with clear market conviction. Iotova's 80% odds (+13% today) versus Gyurov's 20% (-12.5%) reflects late-stage consolidation\u2014smart money appears to have made its position and is holding. The $328K volume spike on Iotova suggests institutional confidence rather than speculative hedging, which typically manifests in larger volatility swings.\n\nDomestically, Democrats are cementing House control at 94% ($1.4M volume), but the Senate picture remains fractured. Republicans at 58% for Iowa (+3%) shows tactical accumulation on undervalued red seats, while the sweeping 7-seat loss scenario (24% odds, $1.9M\u2014highest volume) is pricing in a historically brutal midterm environment. The disconnect between these scenarios suggests the market is still digesting what a true Democratic wave looks like in 2026.\n\nNetanyahu's 36% odds (-6%) on Israeli PM is the real tell. The decline despite ongoing uncertainty suggests markets are pricing regime change as more likely than continuation\u2014watch for regional conflict updates or coalition breakdown signals. The Iranian blockade market (4%, -4.8%) remains a frozen asset; no serious money is betting on de-escalation by November 2.\n\n---\n\n## Watch List\n\n1. **Will Benjamin Netanyahu be the next Prime Minister of Israel? (36%)** \u2014 Down 6% on a Sunday; thin weekend trading often precedes Monday volatility. Any Middle East headlines could trigger 5-10pt swings.\n\n2. **Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? (24%, $1.9M)** \u2014 Highest volume on a conditional outcome. Track individual Senate race movements; if any of these seats flip R unexpectedly, this unwinds fast.\n\n3. **Will the Democratic Party control the House after the 2026 Midterm elections? (94%)** \u2014 Priced for near-certainty. At 94%, any major polling miss or GOP momentum narrative could create 200-300bp arbitrage. Size your counter-positioning accordingly.",
+  "date": "Monday November 02, 2026",
+  "generated": "2026-11-02T16:38:43.106233Z",
+  "brief": "# ZIMR POLYMARKET BRIEFING | Monday, November 2, 2026\n\n## \"Democrats Lock In Senate Dominance\u2014Texas Becomes The Swing State Nobody Expected\"\n\nThe market is decisively repricing a Democratic Senate wave. The flagship Texas Senate race flipped hard overnight: Dems now at 76% (+5%), Republicans cratering to 24% (-6%). This isn't noise\u2014$1.1M in volume hit this single contract. Simultaneously, the broader multi-seat contract \"Republicans lose Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas\" surged to 32% (+6%), absorbing $1.4M in aggressive positioning. What was supposed to be a defensive hold for Republicans is now looking like a rout.\n\nSmart money is clearly front-running a Texas narrative shift. The Dem governor race is also softening (62%, down -6.3%), suggesting a broader Texas headwind for GOP. Michigan and Alaska follow the same pattern\u2014heavy volume flowing into Democratic victory contracts. The $1.8M pouring into \"Dems control House\" at 94% looks like money feeling vindicated; the real heat is now in the Senate. Notice the asymmetry: $2.7M combined volume in Dem Senate wins vs. Republicans desperately defending 28% on Senate control.\n\n**Potential mispricing**: Bitcoin's 76% for $80K in November just fell 3% on modest $350K volume. With 4 weeks of volatility left and crypto's tendency to overextend into year-end, this looks artificially depressed. Meanwhile, Netanyahu at 32% (-3%) is getting flushed on sentiment, but geopolitical markets move fast\u2014worth watching for dislocation.\n\n---\n\n## WATCH LIST\n\n1. **Will Republicans win the Texas Senate race in 2026?** (24%)  \n   *Why:* The bellwether. If this breaks below 20%, expect cascading liquidations in GOP Senate exposure. Texas has become the canary. Liquidity is there\u2014capitalize on volatility.\n\n2. **Will the Republican Party control the Senate after the 2026 Midterm elections?** (28%)  \n   *Why:* The meta-contract. $1.7M volume but trending lower. If it breaks 25%, structural Republican Senate control becomes a 2/10 shot\u2014watch for institutional capitulation.\n\n3. **Bitcoin reach $80,000 in November?** (76%, -3%)  \n   *Why:* Asymmetric opportunity. Thin volume, but 28 days of runway and historical late-year BTC momentum. Contrarian entry if you believe in macro tailwinds.\n\n---\n\n**Market Conviction Score: MODERATE-TO-HIGH. Texas Senate repricing is real. Fade the weakness in BTC.**",
   "top_movers": [
     {
-      "question": "Will 1win launch a token by October 31, 2026?",
-      "prob": 99,
-      "change": 77.8,
-      "vol24": "$1.8M",
-      "slug": "will-1win-launch-a-token-by-october-31-2026"
+      "question": "Will the Republicans win the Texas governor race in 2026?",
+      "prob": 62,
+      "change": -6.3,
+      "vol24": "$403K",
+      "slug": "will-the-republicans-win-the-texas-governor-race-in-2026"
     },
     {
-      "question": "Will PEC Zwolle win on 2026-11-01?",
-      "prob": 99,
-      "change": 57.5,
-      "vol24": "$309K",
-      "slug": "ere-zwo-ado-2026-11-01-zwo"
+      "question": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?",
+      "prob": 32,
+      "change": 6.0,
+      "vol24": "$1.4M",
+      "slug": "2026-senate-map-r-none"
     },
     {
-      "question": "Will Iliana Iotova win the next Bulgarian presidential election?",
-      "prob": 80,
-      "change": 13.0,
-      "vol24": "$328K",
-      "slug": "will-iliana-iotova-win-the-next-bulgarian-presidential-election"
-    },
-    {
-      "question": "Will \u0410ndrey Gyurov win the next Bulgarian presidential election?",
-      "prob": 20,
-      "change": -12.5,
-      "vol24": "$258K",
-      "slug": "will-ndrey-gyurov-win-the-next-bulgarian-presidential-election"
-    },
-    {
-      "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
-      "prob": 36,
+      "question": "Will the Republicans win the Texas Senate race in 2026?",
+      "prob": 24,
       "change": -6.0,
-      "vol24": "$678K",
-      "slug": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel"
+      "vol24": "$1.1M",
+      "slug": "will-the-republicans-win-the-texas-senate-race-in-2026"
+    },
+    {
+      "question": "Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan, Ohio, and Texas?",
+      "prob": 6,
+      "change": -5.0,
+      "vol24": "$507K",
+      "slug": "2026-senate-map-r-ia-ks"
+    },
+    {
+      "question": "Will the Democrats win the Texas Senate race in 2026?",
+      "prob": 76,
+      "change": 5.0,
+      "vol24": "$487K",
+      "slug": "will-the-democrats-win-the-texas-senate-race-in-2026"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?",
-      "prob": 24,
-      "change": 2.0,
-      "vol24": "$1.9M",
-      "slug": "2026-senate-map-r-none"
-    },
-    {
       "question": "Will 1win launch a token by October 31, 2026?",
       "prob": 99,
-      "change": 77.8,
-      "vol24": "$1.8M",
+      "change": 0.1,
+      "vol24": "$2.4M",
       "slug": "will-1win-launch-a-token-by-october-31-2026"
     },
     {
       "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
       "prob": 94,
       "change": 0,
-      "vol24": "$1.4M",
+      "vol24": "$1.8M",
       "slug": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections"
+    },
+    {
+      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+      "prob": 28,
+      "change": -1.0,
+      "vol24": "$1.7M",
+      "slug": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections"
     }
   ]
 }
