@@ -1,65 +1,65 @@
 {
-  "date": "Monday November 02, 2026",
-  "generated": "2026-11-02T16:38:43.106233Z",
-  "brief": "# ZIMR POLYMARKET BRIEFING | Monday, November 2, 2026\n\n## \"Democrats Lock In Senate Dominance\u2014Texas Becomes The Swing State Nobody Expected\"\n\nThe market is decisively repricing a Democratic Senate wave. The flagship Texas Senate race flipped hard overnight: Dems now at 76% (+5%), Republicans cratering to 24% (-6%). This isn't noise\u2014$1.1M in volume hit this single contract. Simultaneously, the broader multi-seat contract \"Republicans lose Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas\" surged to 32% (+6%), absorbing $1.4M in aggressive positioning. What was supposed to be a defensive hold for Republicans is now looking like a rout.\n\nSmart money is clearly front-running a Texas narrative shift. The Dem governor race is also softening (62%, down -6.3%), suggesting a broader Texas headwind for GOP. Michigan and Alaska follow the same pattern\u2014heavy volume flowing into Democratic victory contracts. The $1.8M pouring into \"Dems control House\" at 94% looks like money feeling vindicated; the real heat is now in the Senate. Notice the asymmetry: $2.7M combined volume in Dem Senate wins vs. Republicans desperately defending 28% on Senate control.\n\n**Potential mispricing**: Bitcoin's 76% for $80K in November just fell 3% on modest $350K volume. With 4 weeks of volatility left and crypto's tendency to overextend into year-end, this looks artificially depressed. Meanwhile, Netanyahu at 32% (-3%) is getting flushed on sentiment, but geopolitical markets move fast\u2014worth watching for dislocation.\n\n---\n\n## WATCH LIST\n\n1. **Will Republicans win the Texas Senate race in 2026?** (24%)  \n   *Why:* The bellwether. If this breaks below 20%, expect cascading liquidations in GOP Senate exposure. Texas has become the canary. Liquidity is there\u2014capitalize on volatility.\n\n2. **Will the Republican Party control the Senate after the 2026 Midterm elections?** (28%)  \n   *Why:* The meta-contract. $1.7M volume but trending lower. If it breaks 25%, structural Republican Senate control becomes a 2/10 shot\u2014watch for institutional capitulation.\n\n3. **Bitcoin reach $80,000 in November?** (76%, -3%)  \n   *Why:* Asymmetric opportunity. Thin volume, but 28 days of runway and historical late-year BTC momentum. Contrarian entry if you believe in macro tailwinds.\n\n---\n\n**Market Conviction Score: MODERATE-TO-HIGH. Texas Senate repricing is real. Fade the weakness in BTC.**",
+  "date": "Tuesday November 03, 2026",
+  "generated": "2026-11-03T14:42:35.504391Z",
+  "brief": "# ZIMR DAILY BRIEF | November 3, 2026\n\n## Headline\n**Democrats Lock in Midterm Sweep as Senate Control Flips; Smart Money Dumping Geopolitical Hedges**\n\n---\n\n## The Signal\n\nThe market has decisively repriced the 2026 midterm landscape overnight. D Senate + D House now trades at 76% (+4.0% today, $2.7M volume), while the Republican full control scenario has collapsed to just 4% despite attracting $5.7M in volume\u2014classic contrarian positioning that's losing. The real action: Republican Senate control cratered to 23% (\u22124.5%), suggesting institutional money has abandoned any hedge bet on GOP legislative control.\n\nGeopolitical risk appetite is shifting hard. Both US-Iran ceasefire contracts are bleeding (\u221210.8% each, $1.3M combined volume) despite elevated tensions, indicating either genuine de-escalation signals priced in or traders rotating out of binary conflict hedges ahead of policy clarity. The Democratic House outcome at 94% has become a consensus trade\u2014when THIS much volume piles into a 94% proposition, watch for tactical pullback selling later today.\n\n**Smart money tell:** The anomalous volume in low-probability Republican scenarios ($5.7M on 4% odds) screams capitulation shorts covering. That's not conviction\u2014that's desperation exits. Democrats have structural control locked in; the marginal action now is volatility scalping around individual Senate races.\n\n---\n\n## Watch List\n\n1. **2026 Balance of Power: R Senate, R House (4%, $5.7M vol)** \u2013 Largest volume concentration in lowest-probability outcome. Technical capitulation setup. If this breaks below 3% intraday, expect faster flush lower.\n\n2. **Will Republicans lose Alaska, Iowa, Kansas, Maine, Michigan, Ohio, Texas Senate seats (34%, $2.5M vol)** \u2013 The real Senate market. This is where seat-by-seat betting is concentrated. Monitor for movement toward 40%+ as individual state data flows.\n\n3. **US x Iran ceasefire through Nov 2 (87%, \u221210.8%)** \u2013 Already pricing past the date, but the decay suggests zero conviction. If this holds above 85% into close, rate it a true risk-off sentiment signal; if it tanks to 80%, expect broader geopolitical repricing.\n\n---\n\n*ZIMR Capital | Markets move on edges, not consensus.*",
   "top_movers": [
     {
-      "question": "Will the Republicans win the Texas governor race in 2026?",
-      "prob": 62,
-      "change": -6.3,
-      "vol24": "$403K",
-      "slug": "will-the-republicans-win-the-texas-governor-race-in-2026"
+      "question": "Will Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club end in a draw?",
+      "prob": 96,
+      "change": 88.9,
+      "vol24": "$408K",
+      "slug": "spl-qad-fay-2026-11-05-draw"
     },
     {
-      "question": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?",
-      "prob": 32,
-      "change": 6.0,
-      "vol24": "$1.4M",
-      "slug": "2026-senate-map-r-none"
+      "question": "Prudential Hong Kong Tennis Open: Elena Pridankina vs Paula Badosa",
+      "prob": 99,
+      "change": 75.0,
+      "vol24": "$392K",
+      "slug": "wta-pridank-badosa-2026-11-02"
     },
     {
-      "question": "Will the Republicans win the Texas Senate race in 2026?",
-      "prob": 24,
-      "change": -6.0,
-      "vol24": "$1.1M",
-      "slug": "will-the-republicans-win-the-texas-senate-race-in-2026"
+      "question": "Ethereum Up or Down on November 2?",
+      "prob": 99,
+      "change": 15.4,
+      "vol24": "$639K",
+      "slug": "ethereum-up-or-down-on-november-2-2026"
     },
     {
-      "question": "Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan, Ohio, and Texas?",
-      "prob": 6,
-      "change": -5.0,
-      "vol24": "$507K",
-      "slug": "2026-senate-map-r-ia-ks"
+      "question": "US x Iran ceasefire continues through October 31?",
+      "prob": 88,
+      "change": -10.8,
+      "vol24": "$1.3M",
+      "slug": "us-x-iran-ceasefire-continues-through-october-31-20260917"
     },
     {
-      "question": "Will the Democrats win the Texas Senate race in 2026?",
-      "prob": 76,
-      "change": 5.0,
-      "vol24": "$487K",
-      "slug": "will-the-democrats-win-the-texas-senate-race-in-2026"
+      "question": "US x Iran ceasefire continues through November 2?",
+      "prob": 87,
+      "change": -10.8,
+      "vol24": "$1.3M",
+      "slug": "us-x-iran-ceasefire-continues-through-november-2"
     }
   ],
   "top_vol": [
     {
-      "question": "Will 1win launch a token by October 31, 2026?",
-      "prob": 99,
-      "change": 0.1,
-      "vol24": "$2.4M",
-      "slug": "will-1win-launch-a-token-by-october-31-2026"
+      "question": "2026 Balance of Power: R Senate, R House",
+      "prob": 4,
+      "change": 0,
+      "vol24": "$5.7M",
+      "slug": "2026-balance-of-power-r-senate-r-house-537"
     },
     {
       "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
       "prob": 94,
       "change": 0,
-      "vol24": "$1.8M",
+      "vol24": "$4.0M",
       "slug": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections"
     },
     {
-      "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-      "prob": 28,
-      "change": -1.0,
-      "vol24": "$1.7M",
-      "slug": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections"
+      "question": "2026 Balance of Power: D Senate, D House",
+      "prob": 76,
+      "change": 4.0,
+      "vol24": "$2.7M",
+      "slug": "2026-balance-of-power-d-senate-d-house-949"
     }
   ]
 }
