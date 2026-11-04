@@ -1,65 +1,65 @@
 {
-  "date": "Tuesday November 03, 2026",
-  "generated": "2026-11-03T14:42:35.504391Z",
-  "brief": "# ZIMR DAILY BRIEF | November 3, 2026\n\n## Headline\n**Democrats Lock in Midterm Sweep as Senate Control Flips; Smart Money Dumping Geopolitical Hedges**\n\n---\n\n## The Signal\n\nThe market has decisively repriced the 2026 midterm landscape overnight. D Senate + D House now trades at 76% (+4.0% today, $2.7M volume), while the Republican full control scenario has collapsed to just 4% despite attracting $5.7M in volume\u2014classic contrarian positioning that's losing. The real action: Republican Senate control cratered to 23% (\u22124.5%), suggesting institutional money has abandoned any hedge bet on GOP legislative control.\n\nGeopolitical risk appetite is shifting hard. Both US-Iran ceasefire contracts are bleeding (\u221210.8% each, $1.3M combined volume) despite elevated tensions, indicating either genuine de-escalation signals priced in or traders rotating out of binary conflict hedges ahead of policy clarity. The Democratic House outcome at 94% has become a consensus trade\u2014when THIS much volume piles into a 94% proposition, watch for tactical pullback selling later today.\n\n**Smart money tell:** The anomalous volume in low-probability Republican scenarios ($5.7M on 4% odds) screams capitulation shorts covering. That's not conviction\u2014that's desperation exits. Democrats have structural control locked in; the marginal action now is volatility scalping around individual Senate races.\n\n---\n\n## Watch List\n\n1. **2026 Balance of Power: R Senate, R House (4%, $5.7M vol)** \u2013 Largest volume concentration in lowest-probability outcome. Technical capitulation setup. If this breaks below 3% intraday, expect faster flush lower.\n\n2. **Will Republicans lose Alaska, Iowa, Kansas, Maine, Michigan, Ohio, Texas Senate seats (34%, $2.5M vol)** \u2013 The real Senate market. This is where seat-by-seat betting is concentrated. Monitor for movement toward 40%+ as individual state data flows.\n\n3. **US x Iran ceasefire through Nov 2 (87%, \u221210.8%)** \u2013 Already pricing past the date, but the decay suggests zero conviction. If this holds above 85% into close, rate it a true risk-off sentiment signal; if it tanks to 80%, expect broader geopolitical repricing.\n\n---\n\n*ZIMR Capital | Markets move on edges, not consensus.*",
+  "date": "Wednesday November 04, 2026",
+  "generated": "2026-11-04T14:55:13.748028Z",
+  "brief": "# POLYMARKET DAILY BRIEF | Wednesday, November 4, 2026\n\n## Headline\n**Democrats Lock in Senate Supermajority as Mississippi Swings Hard; LA Mayor Race Becomes Coronation**\n\n---\n\n## Market Signal\n\nThe Senate balance-of-power markets are screaming one thing: Democrats own this cycle. The D Senate/D House combo hit 99% overnight on $4.4M volume\u2014the highest conviction play on the board. This isn't speculation anymore; it's pricing in a fait accompli.\n\nMississippi's 72-point swing toward Democrats (now 84%) is the day's wildest move, signaling either (a) late internal polling flipped the race, or (b) smart money got ahead of a narrative shift. Either way, the market is saying Republicans lose their cushion faster than expected. Pair this with Mary Peltola's surge in Alaska (+18.4% to 90%), and the \"Republicans lose 7 key seats\" market at 89% looks like settled science, not speculation.\n\nThe LA mayoral race has become a coronation play: Raman at 98%, Bass at 2%. This level of certainty suggests either overwhelming polling consensus or the market has priced in an outcome that's no longer competitive. Watch for late-breaking developments that could punish the crowded 98% position.\n\n---\n\n## What Smart Money Is Doing\n\nBig volume movers are **adding to long Democrat bets across the board**\u2014not panic-hedging, but conviction stacking. The $4.4M into D/D balance-of-power suggests institutional players are locking in gains from earlier positions. Someone's also **derisking Republican exposure** in Mississippi and Alaska (net short flows evident in the -73.6% and -18.1% daily moves).\n\nThe $2.8M into R Senate/D House (down to 1%) is capitulation activity\u2014last bears covering shorts before they expire worthless.\n\n---\n\n## Watch List\n\n1. **Mississippi Senate (Dem 84%) \u2013 6-8 hours** | Any public polling or campaign trail reports today could trigger another violent swing. Momentum's with Dems, but 84% pricing leaves room for one data point to crack it. Monitor for late internal releases.\n\n2. **Alaska Senate (Peltola 90%) \u2013 Monitor continuously** | Sullivan's collapse (-18%) is dramatic, but 10% still implies ~1-in-10 odds of a stunning upset. Watch for ground game reports or endorsement news. If Peltola crosses 95%, the market's signaling game over.\n\n3. **Balance of Power: R Senate/D House (1%) \u2013 Liquidity trap** | This is now a \"catching falling knives\" market. $2.8M volume suggests desperation shorts. If this hits 0.5%, expect volatility from forced liquidations. Track as a sentiment barometer for Republican collapse narratives.\n\n---\n\n*Markets reflect conviction, not certainty. Position sizing matters at these extremes.*",
   "top_movers": [
     {
-      "question": "Will Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club end in a draw?",
-      "prob": 96,
-      "change": 88.9,
-      "vol24": "$408K",
-      "slug": "spl-qad-fay-2026-11-05-draw"
+      "question": "Will the Republicans win the Mississippi Senate race in 2026?",
+      "prob": 15,
+      "change": -73.6,
+      "vol24": "$1.8M",
+      "slug": "will-the-republicans-win-the-mississippi-senate-race-in-2026"
     },
     {
-      "question": "Prudential Hong Kong Tennis Open: Elena Pridankina vs Paula Badosa",
-      "prob": 99,
-      "change": 75.0,
-      "vol24": "$392K",
-      "slug": "wta-pridank-badosa-2026-11-02"
-    },
-    {
-      "question": "Ethereum Up or Down on November 2?",
-      "prob": 99,
-      "change": 15.4,
-      "vol24": "$639K",
-      "slug": "ethereum-up-or-down-on-november-2-2026"
-    },
-    {
-      "question": "US x Iran ceasefire continues through October 31?",
-      "prob": 88,
-      "change": -10.8,
+      "question": "Will the Democrats win the Mississippi Senate race in 2026?",
+      "prob": 84,
+      "change": 71.5,
       "vol24": "$1.3M",
-      "slug": "us-x-iran-ceasefire-continues-through-october-31-20260917"
+      "slug": "will-the-democrats-win-the-mississippi-senate-race-in-2026"
     },
     {
-      "question": "US x Iran ceasefire continues through November 2?",
-      "prob": 87,
-      "change": -10.8,
-      "vol24": "$1.3M",
-      "slug": "us-x-iran-ceasefire-continues-through-november-2"
+      "question": "Will Nithya Raman win the 2026 Los Angeles mayoral election?",
+      "prob": 98,
+      "change": 58.5,
+      "vol24": "$637K",
+      "slug": "will-nithya-raman-win-the-2026-los-angeles-mayoral-election-876"
+    },
+    {
+      "question": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
+      "prob": 2,
+      "change": -58.0,
+      "vol24": "$355K",
+      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election"
+    },
+    {
+      "question": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?",
+      "prob": 89,
+      "change": 56.0,
+      "vol24": "$3.5M",
+      "slug": "2026-senate-map-r-none"
     }
   ],
   "top_vol": [
     {
+      "question": "2026 Balance of Power: D Senate, D House",
+      "prob": 99,
+      "change": 23.9,
+      "vol24": "$4.4M",
+      "slug": "2026-balance-of-power-d-senate-d-house-949"
+    },
+    {
       "question": "2026 Balance of Power: R Senate, R House",
-      "prob": 4,
-      "change": 0,
-      "vol24": "$5.7M",
+      "prob": 1,
+      "change": -4.5,
+      "vol24": "$4.1M",
       "slug": "2026-balance-of-power-r-senate-r-house-537"
     },
     {
-      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "prob": 94,
-      "change": 0,
-      "vol24": "$4.0M",
-      "slug": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections"
-    },
-    {
-      "question": "2026 Balance of Power: D Senate, D House",
-      "prob": 76,
-      "change": 4.0,
-      "vol24": "$2.7M",
-      "slug": "2026-balance-of-power-d-senate-d-house-949"
+      "question": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?",
+      "prob": 89,
+      "change": 56.0,
+      "vol24": "$3.5M",
+      "slug": "2026-senate-map-r-none"
     }
   ]
 }
