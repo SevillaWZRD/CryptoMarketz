@@ -1,64 +1,64 @@
 {
-  "date": "Wednesday November 04, 2026",
-  "generated": "2026-11-04T14:55:13.748028Z",
-  "brief": "# POLYMARKET DAILY BRIEF | Wednesday, November 4, 2026\n\n## Headline\n**Democrats Lock in Senate Supermajority as Mississippi Swings Hard; LA Mayor Race Becomes Coronation**\n\n---\n\n## Market Signal\n\nThe Senate balance-of-power markets are screaming one thing: Democrats own this cycle. The D Senate/D House combo hit 99% overnight on $4.4M volume\u2014the highest conviction play on the board. This isn't speculation anymore; it's pricing in a fait accompli.\n\nMississippi's 72-point swing toward Democrats (now 84%) is the day's wildest move, signaling either (a) late internal polling flipped the race, or (b) smart money got ahead of a narrative shift. Either way, the market is saying Republicans lose their cushion faster than expected. Pair this with Mary Peltola's surge in Alaska (+18.4% to 90%), and the \"Republicans lose 7 key seats\" market at 89% looks like settled science, not speculation.\n\nThe LA mayoral race has become a coronation play: Raman at 98%, Bass at 2%. This level of certainty suggests either overwhelming polling consensus or the market has priced in an outcome that's no longer competitive. Watch for late-breaking developments that could punish the crowded 98% position.\n\n---\n\n## What Smart Money Is Doing\n\nBig volume movers are **adding to long Democrat bets across the board**\u2014not panic-hedging, but conviction stacking. The $4.4M into D/D balance-of-power suggests institutional players are locking in gains from earlier positions. Someone's also **derisking Republican exposure** in Mississippi and Alaska (net short flows evident in the -73.6% and -18.1% daily moves).\n\nThe $2.8M into R Senate/D House (down to 1%) is capitulation activity\u2014last bears covering shorts before they expire worthless.\n\n---\n\n## Watch List\n\n1. **Mississippi Senate (Dem 84%) \u2013 6-8 hours** | Any public polling or campaign trail reports today could trigger another violent swing. Momentum's with Dems, but 84% pricing leaves room for one data point to crack it. Monitor for late internal releases.\n\n2. **Alaska Senate (Peltola 90%) \u2013 Monitor continuously** | Sullivan's collapse (-18%) is dramatic, but 10% still implies ~1-in-10 odds of a stunning upset. Watch for ground game reports or endorsement news. If Peltola crosses 95%, the market's signaling game over.\n\n3. **Balance of Power: R Senate/D House (1%) \u2013 Liquidity trap** | This is now a \"catching falling knives\" market. $2.8M volume suggests desperation shorts. If this hits 0.5%, expect volatility from forced liquidations. Track as a sentiment barometer for Republican collapse narratives.\n\n---\n\n*Markets reflect conviction, not certainty. Position sizing matters at these extremes.*",
+  "date": "Thursday November 05, 2026",
+  "generated": "2026-11-05T14:59:41.752476Z",
+  "brief": "# ZIMR CAPITAL MARKET INTELLIGENCE\n## Thursday, November 5, 2026\n\n---\n\n## HEADLINE\n**Democrats Lock in Landslide Senate Sweep; Hegseth's Pentagon Tenure Now a Coin Flip**\n\n---\n\n## THE SIGNAL\n\nThe market is pricing a historic Democratic Senate performance. Mississippi's +13.2% move to 97% DEM win is the day's loudest tell\u2014combined with Peltola's 95% Alaska hold and the 95% probability Republicans lose *seven* key seats, we're looking at a potential 52+ seat Democratic majority. This isn't volatility noise; it's structural repricing of 2026 fundamentals.\n\n**Smart money's move:** High-volume accumulation in Democrat plays ($625K-$769K daily) suggests institutional confidence, not speculation. The Mary Peltola contract ($769K volume) is anchoring Alaska as a settled race\u2014retail's stopped fighting the tape here. Meanwhile, Republican downside bets (Sullivan at 5%, Republicans in Mississippi at 3%) are capitulation-level prices with minimal volume, indicating capitulation rather than contrarian conviction.\n\n**The mispricing alert:** Pete Hegseth's Pentagon survival sits at exactly 51%\u2014essentially market agnosticism after a +6.5% intraday jump on $357K volume. This smells like genuine uncertainty, not equilibrium. Watch for Fed/political pressure narratives to swing this sharply in either direction. The low volume relative to conviction-level markets suggests explosive moves ahead if confirmation news breaks.\n\n---\n\n## WATCH LIST\n\n1. **Pete Hegseth Defense Secretary survival (51%, $357K vol)** \u2014 Lowest conviction price on the board. Single negative headline about confirmation hearings or ethics reviews could crater this to 25%; positive Pentagon testimony could spike to 70%+. High gamma play through Friday.\n\n2. **Gadi Eizenkot Israeli PM odds (55%, -5.3%, $255K vol)** \u2014 Declining despite ceasefire holding at 94%. Suggests market skeptical of Eizenkot coalition math or pricing in political reshuffling. Track Israeli parliamentary developments; this is mispriced if ceasefire extends beyond November 7.\n\n3. **Fed December rate decision (76% for 25bps hike, -5.0%, $287K vol)** \u2014 Losing conviction at exactly the moment inflation data should matter most. December inflation prints (mid-November release) will be the catalyst. Current pricing leaves room for both inflation surprise upside (82%+) and recession fears downside (60%).\n\n---\n\n*ZIMR Capital | Markets close 2026 with Democrats favored to control Senate legislative agenda. Geopolitical stability premiums holding.*",
   "top_movers": [
     {
-      "question": "Will the Republicans win the Mississippi Senate race in 2026?",
-      "prob": 15,
-      "change": -73.6,
-      "vol24": "$1.8M",
-      "slug": "will-the-republicans-win-the-mississippi-senate-race-in-2026"
+      "question": "Prudential Hong Kong Tennis Open: Sorana Cirstea vs Mary Stoiana",
+      "prob": 98,
+      "change": 20.0,
+      "vol24": "$340K",
+      "slug": "wta-cirstea-stoiana-2026-11-05"
     },
     {
       "question": "Will the Democrats win the Mississippi Senate race in 2026?",
-      "prob": 84,
-      "change": 71.5,
-      "vol24": "$1.3M",
+      "prob": 97,
+      "change": 13.2,
+      "vol24": "$625K",
       "slug": "will-the-democrats-win-the-mississippi-senate-race-in-2026"
     },
     {
-      "question": "Will Nithya Raman win the 2026 Los Angeles mayoral election?",
-      "prob": 98,
-      "change": 58.5,
-      "vol24": "$637K",
-      "slug": "will-nithya-raman-win-the-2026-los-angeles-mayoral-election-876"
+      "question": "Will the Republicans win the Mississippi Senate race in 2026?",
+      "prob": 3,
+      "change": -12.5,
+      "vol24": "$475K",
+      "slug": "will-the-republicans-win-the-mississippi-senate-race-in-2026"
     },
     {
-      "question": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
-      "prob": 2,
-      "change": -58.0,
-      "vol24": "$355K",
-      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election"
+      "question": "Pete Hegseth out as Secretary of Defense by December 31?",
+      "prob": 51,
+      "change": 6.5,
+      "vol24": "$357K",
+      "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31"
     },
     {
-      "question": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?",
-      "prob": 89,
-      "change": 56.0,
-      "vol24": "$3.5M",
-      "slug": "2026-senate-map-r-none"
+      "question": "Israel x Iran ceasefire continues through November 7?",
+      "prob": 94,
+      "change": 6.5,
+      "vol24": "$189K",
+      "slug": "israel-x-iran-ceasefire-continues-through-november-7"
     }
   ],
   "top_vol": [
     {
-      "question": "2026 Balance of Power: D Senate, D House",
-      "prob": 99,
-      "change": 23.9,
-      "vol24": "$4.4M",
-      "slug": "2026-balance-of-power-d-senate-d-house-949"
+      "question": "Will Mary Peltola win the Alaska Senate race in 2026?",
+      "prob": 95,
+      "change": 5.1,
+      "vol24": "$769K",
+      "slug": "will-mary-peltola-win-the-alaska-senate-race-in-2026"
     },
     {
-      "question": "2026 Balance of Power: R Senate, R House",
-      "prob": 1,
-      "change": -4.5,
-      "vol24": "$4.1M",
-      "slug": "2026-balance-of-power-r-senate-r-house-537"
+      "question": "US x Iran ceasefire continues through November 2?",
+      "prob": 99,
+      "change": 0,
+      "vol24": "$673K",
+      "slug": "us-x-iran-ceasefire-continues-through-november-2"
     },
     {
       "question": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?",
-      "prob": 89,
-      "change": 56.0,
-      "vol24": "$3.5M",
+      "prob": 95,
+      "change": 5.2,
+      "vol24": "$662K",
       "slug": "2026-senate-map-r-none"
     }
   ]
