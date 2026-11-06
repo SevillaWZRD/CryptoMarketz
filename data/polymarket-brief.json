@@ -1,65 +1,65 @@
 {
-  "date": "Thursday November 05, 2026",
-  "generated": "2026-11-05T14:59:41.752476Z",
-  "brief": "# ZIMR CAPITAL MARKET INTELLIGENCE\n## Thursday, November 5, 2026\n\n---\n\n## HEADLINE\n**Democrats Lock in Landslide Senate Sweep; Hegseth's Pentagon Tenure Now a Coin Flip**\n\n---\n\n## THE SIGNAL\n\nThe market is pricing a historic Democratic Senate performance. Mississippi's +13.2% move to 97% DEM win is the day's loudest tell\u2014combined with Peltola's 95% Alaska hold and the 95% probability Republicans lose *seven* key seats, we're looking at a potential 52+ seat Democratic majority. This isn't volatility noise; it's structural repricing of 2026 fundamentals.\n\n**Smart money's move:** High-volume accumulation in Democrat plays ($625K-$769K daily) suggests institutional confidence, not speculation. The Mary Peltola contract ($769K volume) is anchoring Alaska as a settled race\u2014retail's stopped fighting the tape here. Meanwhile, Republican downside bets (Sullivan at 5%, Republicans in Mississippi at 3%) are capitulation-level prices with minimal volume, indicating capitulation rather than contrarian conviction.\n\n**The mispricing alert:** Pete Hegseth's Pentagon survival sits at exactly 51%\u2014essentially market agnosticism after a +6.5% intraday jump on $357K volume. This smells like genuine uncertainty, not equilibrium. Watch for Fed/political pressure narratives to swing this sharply in either direction. The low volume relative to conviction-level markets suggests explosive moves ahead if confirmation news breaks.\n\n---\n\n## WATCH LIST\n\n1. **Pete Hegseth Defense Secretary survival (51%, $357K vol)** \u2014 Lowest conviction price on the board. Single negative headline about confirmation hearings or ethics reviews could crater this to 25%; positive Pentagon testimony could spike to 70%+. High gamma play through Friday.\n\n2. **Gadi Eizenkot Israeli PM odds (55%, -5.3%, $255K vol)** \u2014 Declining despite ceasefire holding at 94%. Suggests market skeptical of Eizenkot coalition math or pricing in political reshuffling. Track Israeli parliamentary developments; this is mispriced if ceasefire extends beyond November 7.\n\n3. **Fed December rate decision (76% for 25bps hike, -5.0%, $287K vol)** \u2014 Losing conviction at exactly the moment inflation data should matter most. December inflation prints (mid-November release) will be the catalyst. Current pricing leaves room for both inflation surprise upside (82%+) and recession fears downside (60%).\n\n---\n\n*ZIMR Capital | Markets close 2026 with Democrats favored to control Senate legislative agenda. Geopolitical stability premiums holding.*",
+  "date": "Friday November 06, 2026",
+  "generated": "2026-11-06T14:39:59.504508Z",
+  "brief": "# ZIMR Capital Markets Brief | Friday, November 6, 2026\n\n## HEADLINE\n**Markets Price Trump-Paxton Insult as Certainty; Bitcoin Volatility Widens as $80K Level Collapses**\n\n---\n\n## THE SIGNAL\n\nThe Ken Paxton market hit 99% overnight\u2014a stunning +59.2% move on $658K volume. Translation: smart money has priced this as fait accompli. Either new evidence of bad blood dropped, or this is efficient pricing on accumulated friction. Either way, this level is saturated; no alpha remains. The real tell is what happens if it *doesn't* happen by Oct 31\u2014that's your contrarian edge.\n\nBitcoin markets are fragmenting dangerously. The $75K dip-by-November trade is now 90% (up 24.5%), while the same-day $80K \"above\" bet crashed to 1%. This suggests macro uncertainty: traders are hedging for a deeper pullback, not pricing a steady hand. The $5K spread between these two markets represents genuine confusion about where the floor is. Watch for the $77-78K zone as the real pivot point.\n\nThe Pete Hegseth survival markets barely budged despite news cycle churn (-10.5% and -9.5% on the December/year-end exits). This suggests the market is pricing him as *sticky*\u2014the Trump admin doesn't appear to be in purge mode yet. Low conviction on either side; low volume on both ($194K, $239K). Dead money until something breaks.\n\n---\n\n## WATCH LIST\n\n**1. Ken Paxton (99% | $658K vol)**  \nThis is a sell-the-rip candidate if you think Trump's rhetoric toward Paxton stays professional. At 99%, any fresh Trump statement *praising* Paxton could crater this. Asymmetric downside at this level. Low liquidity = slippage.\n\n**2. Bitcoin $75K Dip (90% | $221K vol)**  \nThe conviction here is too high given macro uncertainty. If we see a stabilization above $78K, this should revert toward 70-75%. This is your most likely mean-reversion trade in the book. Volume is light; wait for the pop.\n\n**3. Gadi Eizenkot Next Israeli PM (67% | $306K vol, +11.0%)**  \nNetanyahu's collapse (-9.2% to 21%) is accelerating while Eizenkot strengthens. This is a real regime-change signal coming through Israeli politics. If Eizenkot breaks 70%, expect institutional flow. Monitor coalition math overnight.\n\n---\n\n**ZIMR | Sharp Markets, Sharper Analysis**",
   "top_movers": [
     {
-      "question": "Prudential Hong Kong Tennis Open: Sorana Cirstea vs Mary Stoiana",
-      "prob": 98,
-      "change": 20.0,
-      "vol24": "$340K",
-      "slug": "wta-cirstea-stoiana-2026-11-05"
+      "question": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
+      "prob": 1,
+      "change": -65.5,
+      "vol24": "$3.6M",
+      "slug": "cs2-furia-bb3-2026-11-06"
     },
     {
-      "question": "Will the Democrats win the Mississippi Senate race in 2026?",
-      "prob": 97,
-      "change": 13.2,
-      "vol24": "$625K",
-      "slug": "will-the-democrats-win-the-mississippi-senate-race-in-2026"
+      "question": "Will Donald Trump publicly insult Ken Paxton by October 31, 2026?",
+      "prob": 99,
+      "change": 59.2,
+      "vol24": "$658K",
+      "slug": "will-donald-trump-publicly-insult-ken-paxton-by-october-31-2026"
     },
     {
-      "question": "Will the Republicans win the Mississippi Senate race in 2026?",
-      "prob": 3,
-      "change": -12.5,
-      "vol24": "$475K",
-      "slug": "will-the-republicans-win-the-mississippi-senate-race-in-2026"
+      "question": "Will Bitcoin dip to $75,000 in November?",
+      "prob": 90,
+      "change": 24.5,
+      "vol24": "$221K",
+      "slug": "will-bitcoin-dip-to-75k-in-november-2026"
     },
     {
-      "question": "Pete Hegseth out as Secretary of Defense by December 31?",
-      "prob": 51,
-      "change": 6.5,
-      "vol24": "$357K",
-      "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31"
+      "question": "Will the price of Bitcoin be above $80,000 on November 6?",
+      "prob": 1,
+      "change": -15.8,
+      "vol24": "$146K",
+      "slug": "bitcoin-above-80k-on-november-6-2026"
     },
     {
-      "question": "Israel x Iran ceasefire continues through November 7?",
-      "prob": 94,
-      "change": 6.5,
-      "vol24": "$189K",
-      "slug": "israel-x-iran-ceasefire-continues-through-november-7"
+      "question": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
+      "prob": 67,
+      "change": 11.0,
+      "vol24": "$306K",
+      "slug": "will-gadi-eizenkot-be-the-next-prime-minister-of-israel"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Mary Peltola win the Alaska Senate race in 2026?",
-      "prob": 95,
-      "change": 5.1,
-      "vol24": "$769K",
-      "slug": "will-mary-peltola-win-the-alaska-senate-race-in-2026"
+      "question": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
+      "prob": 1,
+      "change": -65.5,
+      "vol24": "$3.6M",
+      "slug": "cs2-furia-bb3-2026-11-06"
     },
     {
-      "question": "US x Iran ceasefire continues through November 2?",
+      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "prob": 78,
+      "change": 3.0,
+      "vol24": "$1.5M",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636"
+    },
+    {
+      "question": "Will Donald Trump publicly insult Ken Paxton by October 31, 2026?",
       "prob": 99,
-      "change": 0,
-      "vol24": "$673K",
-      "slug": "us-x-iran-ceasefire-continues-through-november-2"
-    },
-    {
-      "question": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?",
-      "prob": 95,
-      "change": 5.2,
-      "vol24": "$662K",
-      "slug": "2026-senate-map-r-none"
+      "change": 59.2,
+      "vol24": "$658K",
+      "slug": "will-donald-trump-publicly-insult-ken-paxton-by-october-31-2026"
     }
   ]
 }
