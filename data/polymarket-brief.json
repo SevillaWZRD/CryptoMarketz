@@ -1,65 +1,65 @@
 {
-  "date": "Friday November 06, 2026",
-  "generated": "2026-11-06T14:39:59.504508Z",
-  "brief": "# ZIMR Capital Markets Brief | Friday, November 6, 2026\n\n## HEADLINE\n**Markets Price Trump-Paxton Insult as Certainty; Bitcoin Volatility Widens as $80K Level Collapses**\n\n---\n\n## THE SIGNAL\n\nThe Ken Paxton market hit 99% overnight\u2014a stunning +59.2% move on $658K volume. Translation: smart money has priced this as fait accompli. Either new evidence of bad blood dropped, or this is efficient pricing on accumulated friction. Either way, this level is saturated; no alpha remains. The real tell is what happens if it *doesn't* happen by Oct 31\u2014that's your contrarian edge.\n\nBitcoin markets are fragmenting dangerously. The $75K dip-by-November trade is now 90% (up 24.5%), while the same-day $80K \"above\" bet crashed to 1%. This suggests macro uncertainty: traders are hedging for a deeper pullback, not pricing a steady hand. The $5K spread between these two markets represents genuine confusion about where the floor is. Watch for the $77-78K zone as the real pivot point.\n\nThe Pete Hegseth survival markets barely budged despite news cycle churn (-10.5% and -9.5% on the December/year-end exits). This suggests the market is pricing him as *sticky*\u2014the Trump admin doesn't appear to be in purge mode yet. Low conviction on either side; low volume on both ($194K, $239K). Dead money until something breaks.\n\n---\n\n## WATCH LIST\n\n**1. Ken Paxton (99% | $658K vol)**  \nThis is a sell-the-rip candidate if you think Trump's rhetoric toward Paxton stays professional. At 99%, any fresh Trump statement *praising* Paxton could crater this. Asymmetric downside at this level. Low liquidity = slippage.\n\n**2. Bitcoin $75K Dip (90% | $221K vol)**  \nThe conviction here is too high given macro uncertainty. If we see a stabilization above $78K, this should revert toward 70-75%. This is your most likely mean-reversion trade in the book. Volume is light; wait for the pop.\n\n**3. Gadi Eizenkot Next Israeli PM (67% | $306K vol, +11.0%)**  \nNetanyahu's collapse (-9.2% to 21%) is accelerating while Eizenkot strengthens. This is a real regime-change signal coming through Israeli politics. If Eizenkot breaks 70%, expect institutional flow. Monitor coalition math overnight.\n\n---\n\n**ZIMR | Sharp Markets, Sharper Analysis**",
+  "date": "Saturday November 07, 2026",
+  "generated": "2026-11-07T13:37:49.063218Z",
+  "brief": "# ZIMR CAPITAL MARKET INTELLIGENCE\n## Saturday, November 7, 2026\n\n---\n\n## HEADLINE\n**New Zealand betting flips 37% in 24 hours as National surges; Musk tweet prediction collapses to penny stock levels**\n\n---\n\n## MARKET SIGNALS\n\nThe NZ election market experienced a violent repricing overnight. National Party went from 62% to 99% (+36.2%), while Labour crashed to 1% (-37.6%). This isn't margin movement\u2014this is information. Either fresh polling dropped Thursday night, or early voting trends are strongly favoring the incumbent Nationals. The $282K National surge and $211K Labour capitulation suggest coordinated smart money. Watch for official results tonight; if National actually wins decisively, expect volume migration to 2028 UK and Australian election markets.\n\nThe Musk tweet market has become a joke\u2014down to 1% at $227K volume. This screams either (a) the wager period already closed and resolved low, or (b) whale capitulation on an unwinnable prediction. Either way, skip it.\n\nReal signal: **Hegseth at 32% for being out by year-end** (-9% today) shows shallow conviction on his firing. Smart money isn't taking that bait yet. Meanwhile, **Andersson for Swedish PM dropped 21.5%** to 42%\u2014unclear catalyst, but suggests coalition math shifted unfavorably. Check Swedish political news from Thursday.\n\n---\n\n## WHAT SMART MONEY IS DOING\n\n- **Rotating INTO regional sports** (Frosinone +6%, Leeds under-sellers aggressive at -31% on O/U 2.5). Liquidity is moving toward weekend match outcomes over macro.\n- **Confidence in ceasefire holds**: Israel-Iran through Nov 15 at 82% (+5%) signals market pricing duration risk as negligible. This is frontrunning. If tensions spike Monday, this collapses fast.\n- **2028 nomination markets staying frozen**: El-Sayed and Rick Scott both at 1% on mega volume ($1M+, $767K). These are parking lots for ideology traders, not price discovery.\n\n---\n\n## WATCH LIST\n\n1. **NZ Election Results (Tonight)**: If National < 90 seats, expect major repricing and volatility spillover into Australian 2025 election markets. Current 99% National is front-run territory.\n\n2. **Leeds vs Tottenham O/U 2.5 (18%, -31% today)**: The sharp downgrade suggests professional money expects a defensive slugfest or surprise low-scoring match. Counter-bet the under at this price if you see late team news suggesting Spurs resting starters.\n\n3. **Hegseth Confirmation Hold (32%)**: Monitor Trump policy announcements or Senate committee signals Sunday/Monday. Below 30%, start sizing exits on \"out by Dec 31\" positions. This feels like it reprices hard on actual confirmation vote timing.\n\n---\n\n**Volume Leader Watch**: $1M Abdul El-Sayed market is dead money. Ignore.",
   "top_movers": [
     {
-      "question": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
+      "question": "Will Elon Musk post 65-89 tweets from November 5 to November 7, 2026?",
       "prob": 1,
-      "change": -65.5,
-      "vol24": "$3.6M",
-      "slug": "cs2-furia-bb3-2026-11-06"
+      "change": -50.3,
+      "vol24": "$227K",
+      "slug": "elon-musk-of-tweets-november-5-november-7-2026-65-89"
     },
     {
-      "question": "Will Donald Trump publicly insult Ken Paxton by October 31, 2026?",
+      "question": "Will Labour Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
+      "prob": 1,
+      "change": -37.6,
+      "vol24": "$211K",
+      "slug": "will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election"
+    },
+    {
+      "question": "Will National Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
       "prob": 99,
-      "change": 59.2,
-      "vol24": "$658K",
-      "slug": "will-donald-trump-publicly-insult-ken-paxton-by-october-31-2026"
+      "change": 36.2,
+      "vol24": "$282K",
+      "slug": "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election"
     },
     {
-      "question": "Will Bitcoin dip to $75,000 in November?",
-      "prob": 90,
-      "change": 24.5,
-      "vol24": "$221K",
-      "slug": "will-bitcoin-dip-to-75k-in-november-2026"
+      "question": "Leeds United FC vs. Tottenham Hotspur FC: O/U 2.5",
+      "prob": 18,
+      "change": -31.0,
+      "vol24": "$320K",
+      "slug": "epl-lee-tot-2026-11-07-total-2pt5"
     },
     {
-      "question": "Will the price of Bitcoin be above $80,000 on November 6?",
-      "prob": 1,
-      "change": -15.8,
-      "vol24": "$146K",
-      "slug": "bitcoin-above-80k-on-november-6-2026"
-    },
-    {
-      "question": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
-      "prob": 67,
-      "change": 11.0,
-      "vol24": "$306K",
-      "slug": "will-gadi-eizenkot-be-the-next-prime-minister-of-israel"
+      "question": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
+      "prob": 42,
+      "change": -21.5,
+      "vol24": "$149K",
+      "slug": "will-magdalena-andersson-be-the-next-prime-minister-of-sweden"
     }
   ],
   "top_vol": [
     {
-      "question": "Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs",
+      "question": "Will Abdul El-Sayed win the 2028 Democratic presidential nomination?",
       "prob": 1,
-      "change": -65.5,
-      "vol24": "$3.6M",
-      "slug": "cs2-furia-bb3-2026-11-06"
+      "change": 0.6,
+      "vol24": "$1.0M",
+      "slug": "will-abdul-el-sayed-win-the-2028-democratic-presidential-nomination"
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-      "prob": 78,
-      "change": 3.0,
-      "vol24": "$1.5M",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636"
+      "question": "Will Rick Scott win the 2028 Republican presidential nomination?",
+      "prob": 1,
+      "change": 0.1,
+      "vol24": "$767K",
+      "slug": "will-rick-scott-win-the-2028-republican-presidential-nomination"
     },
     {
-      "question": "Will Donald Trump publicly insult Ken Paxton by October 31, 2026?",
-      "prob": 99,
-      "change": 59.2,
-      "vol24": "$658K",
-      "slug": "will-donald-trump-publicly-insult-ken-paxton-by-october-31-2026"
+      "question": "LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs",
+      "prob": 20,
+      "change": 0,
+      "vol24": "$710K",
+      "slug": "lol-ig1-gen-2026-11-07"
     }
   ]
 }
