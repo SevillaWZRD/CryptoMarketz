@@ -1,65 +1,65 @@
 {
-  "date": "Saturday November 07, 2026",
-  "generated": "2026-11-07T13:37:49.063218Z",
-  "brief": "# ZIMR CAPITAL MARKET INTELLIGENCE\n## Saturday, November 7, 2026\n\n---\n\n## HEADLINE\n**New Zealand betting flips 37% in 24 hours as National surges; Musk tweet prediction collapses to penny stock levels**\n\n---\n\n## MARKET SIGNALS\n\nThe NZ election market experienced a violent repricing overnight. National Party went from 62% to 99% (+36.2%), while Labour crashed to 1% (-37.6%). This isn't margin movement\u2014this is information. Either fresh polling dropped Thursday night, or early voting trends are strongly favoring the incumbent Nationals. The $282K National surge and $211K Labour capitulation suggest coordinated smart money. Watch for official results tonight; if National actually wins decisively, expect volume migration to 2028 UK and Australian election markets.\n\nThe Musk tweet market has become a joke\u2014down to 1% at $227K volume. This screams either (a) the wager period already closed and resolved low, or (b) whale capitulation on an unwinnable prediction. Either way, skip it.\n\nReal signal: **Hegseth at 32% for being out by year-end** (-9% today) shows shallow conviction on his firing. Smart money isn't taking that bait yet. Meanwhile, **Andersson for Swedish PM dropped 21.5%** to 42%\u2014unclear catalyst, but suggests coalition math shifted unfavorably. Check Swedish political news from Thursday.\n\n---\n\n## WHAT SMART MONEY IS DOING\n\n- **Rotating INTO regional sports** (Frosinone +6%, Leeds under-sellers aggressive at -31% on O/U 2.5). Liquidity is moving toward weekend match outcomes over macro.\n- **Confidence in ceasefire holds**: Israel-Iran through Nov 15 at 82% (+5%) signals market pricing duration risk as negligible. This is frontrunning. If tensions spike Monday, this collapses fast.\n- **2028 nomination markets staying frozen**: El-Sayed and Rick Scott both at 1% on mega volume ($1M+, $767K). These are parking lots for ideology traders, not price discovery.\n\n---\n\n## WATCH LIST\n\n1. **NZ Election Results (Tonight)**: If National < 90 seats, expect major repricing and volatility spillover into Australian 2025 election markets. Current 99% National is front-run territory.\n\n2. **Leeds vs Tottenham O/U 2.5 (18%, -31% today)**: The sharp downgrade suggests professional money expects a defensive slugfest or surprise low-scoring match. Counter-bet the under at this price if you see late team news suggesting Spurs resting starters.\n\n3. **Hegseth Confirmation Hold (32%)**: Monitor Trump policy announcements or Senate committee signals Sunday/Monday. Below 30%, start sizing exits on \"out by Dec 31\" positions. This feels like it reprices hard on actual confirmation vote timing.\n\n---\n\n**Volume Leader Watch**: $1M Abdul El-Sayed market is dead money. Ignore.",
+  "date": "Sunday November 08, 2026",
+  "generated": "2026-11-08T13:56:18.154294Z",
+  "brief": "# ZIMR DAILY POLYMARKET BRIEF | Sunday, November 8, 2026\n\n## Headline\n**Esports Confidence Spike + Geopolitical Stability Bet Signal Risk-On Sentiment; Chelsea Overvalued at 42%**\n\n---\n\n## Market Intelligence\n\n**The Big Move:** HULIGANI's 92% probability in Dota 2 (+48.5%) and Gen.G's +13% surge to 66% in Worlds suggest institutional money rotating into esports betting ahead of major playoff windows. This isn't retail volatility\u2014$248K and $179K volumes on single matches indicate coordinated thesis building. Smart money is pricing in predictable outcomes in a typically chaotic vertical, which means either they have hard intel or this corrects hard.\n\n**Geopolitical Recalibration:** The Israel-Iran ceasefire markets are consolidating higher\u2014Nov 15 at 90%, Dec 31 at 58%. The +10% daily move on the longer-dated contract while Eizenkot (next PM odds) rises 7.9% to 71% tells a coherent story: market expects political continuity *and* de-escalation. This is a coordinated bet, not noise. Watch for asymmetric opportunities if rhetoric shifts.\n\n**Soccer Mispricing Alert:** Chelsea at 42% on $6.6M volume is the day's largest pool but likely overcrowded retail. Brighton sitting at 54% on $1M and Barcelona at exactly 50/50 on $754K suggest sharper markets in secondary fixtures. Chelsea's odds feel inflated by volume alone; consider fading the consensus here if team sheets or weather data shifts late.\n\n---\n\n## Watch List\n\n1. **Pete Hegseth SecDef Confirmation** (28%, +9%) \u2014 Low volume ($141K) but high info density. Political theater markets move on narrative momentum; watch Hill testimony and Senate vote signals for 5-10x moves either direction.\n\n2. **Jeremiah Smith Heisman** (21%, -17% today) \u2014 $202K volume on a sharp decline suggests informed liquidation. If this is smart money exiting a crowded long, it's a tell on CFB betting sentiment more broadly.\n\n3. **Chelsea vs. [Opponent]** (42%) \u2014 Largest liquidity pool. Monitor team news and late odds movement in traditional sportsbooks; Polymarket will lag official lines if there's injury news or lineup surprises within 6 hours of kickoff.\n\n---\n\n**ZIMR Conviction:** The esports cluster and ceasefire consolidation feel authentic; the soccer action feels like casino volume. Fade consensus, follow the $200K+ specialist markets.",
   "top_movers": [
     {
-      "question": "Will Elon Musk post 65-89 tweets from November 5 to November 7, 2026?",
-      "prob": 1,
-      "change": -50.3,
-      "vol24": "$227K",
-      "slug": "elon-musk-of-tweets-november-5-november-7-2026-65-89"
+      "question": "Dota 2: HULIGANI vs Yellow Submarine - Game 1 Winner",
+      "prob": 92,
+      "change": 48.5,
+      "vol24": "$248K",
+      "slug": "dota2-huliga-yes-2026-11-07-game1"
     },
     {
-      "question": "Will Labour Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
-      "prob": 1,
-      "change": -37.6,
-      "vol24": "$211K",
-      "slug": "will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election"
+      "question": "Will Fenerbah\u00e7e SK win on 2026-11-08?",
+      "prob": 90,
+      "change": 34.0,
+      "vol24": "$147K",
+      "slug": "tur-cf-fen-2026-11-08-fen"
     },
     {
-      "question": "Will National Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
-      "prob": 99,
-      "change": 36.2,
-      "vol24": "$282K",
-      "slug": "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election"
+      "question": "Will Jeremiah Smith win the 2026 Heisman Trophy?",
+      "prob": 21,
+      "change": -17.0,
+      "vol24": "$202K",
+      "slug": "will-jeremiah-smith-win-the-2026-heisman-trophy-20260731185756307"
     },
     {
-      "question": "Leeds United FC vs. Tottenham Hotspur FC: O/U 2.5",
-      "prob": 18,
-      "change": -31.0,
-      "vol24": "$320K",
-      "slug": "epl-lee-tot-2026-11-07-total-2pt5"
+      "question": "Will Gen.G win Worlds 2026?",
+      "prob": 66,
+      "change": 13.0,
+      "vol24": "$179K",
+      "slug": "will-genptg-win-worlds-2026"
     },
     {
-      "question": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
-      "prob": 42,
-      "change": -21.5,
-      "vol24": "$149K",
-      "slug": "will-magdalena-andersson-be-the-next-prime-minister-of-sweden"
+      "question": "Israel x Iran ceasefire continues through December 31?",
+      "prob": 58,
+      "change": 10.0,
+      "vol24": "$146K",
+      "slug": "israel-x-iran-ceasefire-continues-through-december-31-415"
     }
   ],
   "top_vol": [
     {
-      "question": "Will Abdul El-Sayed win the 2028 Democratic presidential nomination?",
-      "prob": 1,
-      "change": 0.6,
+      "question": "Will Chelsea FC win on 2026-11-08?",
+      "prob": 42,
+      "change": -8.0,
+      "vol24": "$6.6M",
+      "slug": "epl-sun-che-2026-11-08-che"
+    },
+    {
+      "question": "Will Brighton & Hove Albion FC win on 2026-11-08?",
+      "prob": 54,
+      "change": 1.0,
       "vol24": "$1.0M",
-      "slug": "will-abdul-el-sayed-win-the-2028-democratic-presidential-nomination"
+      "slug": "epl-bri-bre-2026-11-08-bri"
     },
     {
-      "question": "Will Rick Scott win the 2028 Republican presidential nomination?",
-      "prob": 1,
-      "change": 0.1,
-      "vol24": "$767K",
-      "slug": "will-rick-scott-win-the-2028-republican-presidential-nomination"
-    },
-    {
-      "question": "LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs",
-      "prob": 20,
-      "change": 0,
-      "vol24": "$710K",
-      "slug": "lol-ig1-gen-2026-11-07"
+      "question": "Will FC Barcelona win on 2026-11-08?",
+      "prob": 50,
+      "change": -5.0,
+      "vol24": "$754K",
+      "slug": "lal-mad-bar-2026-11-08-bar"
     }
   ]
 }
